@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9999001,
+    "name": "Mgr. Matej Hruška",
+    "short": "M Hruška",
+    "email": ["hruska35"],
+    "tel": "+421 2 9014 9250",
+    "room": "B1-446",
+    "year": ""
+  },
+  {
+    "id": 9999002,
+    "name": "Mgr. Romana Kohilová",
+    "short": "R Kohilová",
+    "email": ["romana.kohilova"],
+    "tel": "+421 2 9014 9265",
+    "room": "B1-455",
+    "year": ""
+  },
+  {
+    "id": 9999003,
+    "name": "Mgr. Filip Moravčík",
+    "short": "F Moravčík",
+    "email": ["moravcik48"],
+    "tel": "+421 2 9014 9396",
+    "room": "G-14",
+    "year": 2020
+  },
+  {
+    "id": 9999004,
+    "name": "Mgr. Veronika Oršulová",
+    "short": "V Oršulová",
+    "email": ["orsulova16"],
+    "tel": "+421 2 9014 9265",
+    "room": "B1-455",
+    "year": ""
+  },
+  {
+    "id": 9999005,
+    "name": "Anton Borisovich Popov",
+    "short": "A B Popov",
+    "email": ["popov3"],
+    "tel": "+421 2 9014 2076",
+    "room": "B1-446",
+    "year": ""
+  },
+  {
+    "id": 9999006,
+    "name": "Mgr. Adam Rusinko",
+    "short": "A Rusinko",
+    "email": ["rusinko1"],
+    "tel": "+421 2 9014 2093",
+    "room": "B1-445",
+    "year": ""
+  },
+  {
+    "id": 9999007,
+    "name": "Mgr. Vladimír Šagát",
+    "short": "V Šagát",
+    "email": ["sagat13"],
+    "tel": "+421 2 9014 2093",
+    "room": "B1-445",
+    "year": ""
+  },
+  {
+    "id": 9999008,
+    "name": "Mgr. Adam Šupčík",
+    "short": "A Šupčík",
+    "email": ["supcik3"],
+    "tel": "+421 2 9014 2125",
+    "room": "B1-455",
+    "year": ""
+  }
+]

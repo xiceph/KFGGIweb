@@ -1,0 +1,202 @@
+[
+  {
+    "id": "20508",
+    "name": "Viera Bartovicová",
+    "short": "V Bartovicová",
+    "position": "technik",
+    "tel": "+421 2 9014 9380",
+    "email": ["viera.bartovicova"],
+    "room": "CH1-B1-1"
+  },
+  {
+    "id": "14553",
+    "name": "Mgr. Alexandra Benová, PhD.",
+    "short": "A Benová",
+    "position": "odborný asistent",
+    "tel": "+421 2 9014 2097",
+    "email": ["alexandra.benova"],
+    "room": "G-21",
+    "pubid": 340850
+  },
+  {
+    "id": "14212",
+    "name": "Mgr. Michal Druga, PhD.",
+    "short": "M Druga",
+    "position": "odborný asistent",
+    "tel": "+421 2 9014 9259",
+    "room": "B1-457",
+    "email": ["michal.druga"],
+    "pubid": 863572
+  },
+  {
+    "id": "14141",
+    "name": "doc. RNDr. Vladimír Falťan, PhD.",
+    "short": "V Falťan",
+    "position": "docent",
+    "tel": "+421 2 9014 9431",
+    "room": "B1-458",
+    "email": ["vladimir.faltan"],
+    "pubid": 442675
+  },
+  {
+    "id": "14893",
+    "name": "Mgr. Richard Feciskanin, Ph.D.",
+    "short": "R Feciskanin",
+    "position": "vedecký zamestnanec",
+    "tel": "+421 2 9014 9393",
+    "room": "G-20",
+    "email": ["richard.feciskanin"],
+    "pubid": 572577
+  },
+  {
+    "id": "14894",
+    "name": "Mgr. Richard Feciskanin, Ph.D.",
+    "short": "R Feciskanin",
+    "position": "odborný technický zamestnanec",
+    "tel": "+421 2 9014 9393",
+    "room": "G-20",
+    "email": ["richard.feciskanin"],
+    "pubid": 572577
+  },
+  {
+    "id": "15126",
+    "name": "RNDr. Marián Jenčo, PhD.",
+    "short": "M Jenčo",
+    "position": "odborný asistent",
+    "tel": "+421 2 9014 9266",
+    "room": "B1-454",
+    "email": ["marian.jenco"],
+    "pubid": 608015
+  },
+  {
+    "id": "15102",
+    "name": "Mgr. Miroslav Kožuch, PhD.",
+    "short": "M Kožuch",
+    "position": "odborný asistent",
+    "tel": "+421 2 9014 9283",
+    "room": "G-18",
+    "email": ["miroslav.kozuch"],
+    "pubid": 340828
+  },
+  {
+    "id": "15103",
+    "name": "Mgr. Miroslav Kožuch, PhD.",
+    "short": "M Kožuch",
+    "position": "odborný technický zamestnanec",
+    "tel": "+421 2 9014 9283",
+    "room": "G-18",
+    "email": ["miroslav.kozuch"],
+    "pubid": 340828
+  },
+  {
+    "id": "14380",
+    "name": "RNDr. Zora Machová",
+    "short": "Z Machová",
+    "position": "lektor",
+    "tel": "+421 2 9014 9261",
+    "room": "B1-449",
+    "email": ["zora.machova"],
+    "pubid": 334615
+  },
+  {
+    "id": "14290",
+    "name": "RNDr. Igor Matečný, PhD.",
+    "short": "I Matečný",
+    "position": "odborný asistent",
+    "tel": "+421 2 9014 9264",
+    "room": "B1-453",
+    "email": ["igor.matecny"],
+    "pubid": 316926
+  },
+  {
+    "id": "14223",
+    "name": "doc. RNDr. Eva Mičietová, CSc.",
+    "short": "E Mičietová",
+    "position": "docent",
+    "tel": "+421 2 9014 9286",
+    "email": ["eva.micietova"],
+    "room": "G-437",
+    "pubid": 342726
+  },
+  {
+    "id": "15107",
+    "name": "prof. RNDr. Jozef Minár, CSc.",
+    "short": "J Minár",
+    "position": "profesor",
+    "tel": "+421 2 9014 9518",
+    "room": "B1-450",
+    "email": ["jozef.minar"],
+    "pubid": 315378
+  },
+  {
+    "id": "14604",
+    "name": "Mgr. Vladimír Pelech, PhD.",
+    "short": "V Pelech",
+    "position": "odborný asistent",
+    "tel": "+421 2 9014 9396",
+    "room": "G-23",
+    "email": ["pelech2"],
+    "pubid": 1074302
+  },
+  {
+    "id": "15099",
+    "name": "doc. Ing. Peter Pišút, PhD.",
+    "short": "P Pišút",
+    "position": "docent",
+    "tel": "+421 2 9014 9263",
+    "room": "B1-452",
+    "email": ["peter.pisut"],
+    "pubid": 608013
+  },
+  {
+    "id": "14254",
+    "name": "Mgr. Juraj Procházka, PhD.",
+    "short": "J Procházka",
+    "position": "odborný asistent",
+    "tel": "+421 2 9014 9262",
+    "room": "B1-447",
+    "email": ["juraj.prochazka"],
+    "pubid": 833746
+  },
+  {
+    "id": "14983",
+    "name": "RNDr. Ivan Ružek, PhD.",
+    "short": "I Ružek",
+    "position": "odborný asistent",
+    "tel": "+421 2 9014 9620",
+    "room": "B1-448",
+    "email": ["ivan.ruzek"],
+    "pubid": 322133
+  },
+  {
+    "id": "14687",
+    "name": "doc. RNDr. Milan Trizna, PhD.",
+    "short": "M Trizna",
+    "position": "docent",
+    "tel": "+421 2 9014 9568",
+    "room": "B1-456",
+    "email": ["milan.trizna"],
+    "pubid": 317669
+  },
+  {
+    "id": "14732",
+    "name": "Ing. Juraj Vališ, PhD.",
+    "short": "J Vališ",
+    "position": "vedecký zamestnanec",
+    "tel": "+421 2 9014 9742",
+    "room": "G-101",
+    "email": ["juraj.valis"],
+    "pubid": 604630
+  },
+  {
+    "id": "14990",
+    "name": "Jozef Zaťko",
+    "short": "J Zaťko",
+    "position": "technik", 
+    "tel": "+421 2 9014 9260",
+    "room": "B1-451",
+    "email": [ "jozef.zatko" ]
+  }
+]
+
+

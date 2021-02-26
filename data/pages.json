@@ -1,0 +1,37 @@
+{
+  "sk": [
+    { "title": "O katedre", "id": "katedra", "children": [
+      { "title": "Základné informácie", "id": "info" },
+      { "title": "História", "id": "historia" },
+      { "title": "Zamestanci", "id": "zamestnanci" },
+      { "title": "Doktorandi", "id": "doktorandi" },
+      { "title": "Absolventi", "id": "absolventi" },
+      { "title": "Podujatia", "id": "podujatia" },
+      { "title": "Archívy a knižnica", "id": "archivy_kniznica" },
+      { "title": "Galéria", "id": "galeria" },
+      { "title": "Linky", "id": "linky" },
+      { "title": "V médiách", "id": "media" }
+    ]},
+    { "title": "Štúdium", "id": "studium", "children": [
+      { "title": "Pre uchádzačov", "id": "pre_uchadzacov" },
+      { "title": "Študijné programy", "id": "studijne_programy" },
+      { "title": "Predmety", "id": "predmety" },
+      { "title": "Štátne záverečné skúšky", "id": "zaverecne_skusky" },
+      { "title": "Rozvrhy", "id": "rozvrhy" },
+      { "title": "Záverečné práce", "id": "zaverecne_prace" }
+    ]},
+    { "title": "Veda a výskum", "id": "vyskum", "children": [
+      { "title": "Vedecké zameranie", "id": "vedecke_zameranie" },
+      { "title": "Projekty", "id": "projekty" },
+      { "title": "Publikácie", "id": "publikacie" },
+      { "title": "Práca v teréne", "id": "praca_v_terene" },
+      { "title": "Popularizácia vedy", "id": "popularizacia_vedy" },
+      { "title": "Aplikácia v praxi", "id": "aplikacia_v_praxi" }
+    ]}
+  ],
+  "en": [
+    { "title": "About us", "id": "about", "children": []},
+    { "title": "Study", "id": "study", "children": [] },
+    { "title": "Research", "id": "research", "children": [] }
+  ]
+} 
