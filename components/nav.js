@@ -47,7 +47,7 @@ export default function Nav(props) {
           : (
             <div className="flex items-stretch col-span-6 lg:col-span-5">
               <div className="flex-1">
-                <img className="h-36 pt-4 ml-auto" src={`/images/${menuOpened.id}.svg`} />
+                <img className="h-36 pt-4 ml-auto" src={`images/${menuOpened.id}.svg`} />
               </div>
               <div className="flex-1 font-bold text-xl px-4 pt-8 ml-6">{menuOpened.title}</div>
             </div>

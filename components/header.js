@@ -11,8 +11,8 @@ export default function Header( props ) {
   const [menuMobileIsOpen, setMenuMobileIsOpen] = useState(false);
   
   const logo = {
-    'sk': "/images/navrhLogo2o.svg",
-    'en': "/images/navrhLogo2oEN.svg"
+    'sk': "images/navrhLogo2o.svg",
+    'en': "images/navrhLogo2oEN.svg"
   }
   
   return (
