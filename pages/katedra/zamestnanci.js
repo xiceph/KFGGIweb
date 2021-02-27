@@ -1,5 +1,6 @@
 import { promises as fs } from 'fs';
 import path from 'path';
+import React from 'react';
 import Link from "next/link";
 import Email from "@components/email";
 import { Door, Tel, At } from "@components/icons";
@@ -13,13 +14,13 @@ function Zamestnanci({ data }) {
         {data
           .filter( item => item.position == "odborný asistent" || item.position == "vedecký zamestnanec" || item.position == "docent" || item.position == "profesor" )
           .map( item => (
-          <>
-            <dt key={item.id}>
+          <React.Fragment key={item.id}>
+            <dt>
               <Link href={`/katedra/zamestnanci/${encodeURIComponent(item.short)}`}>
                 {item.name}
               </Link>
             </dt>
-            <dd key={`${item.id}_d`} className="mb-8">
+            <dd className="mb-8">
               <div className="italic -mt-1 mb-1">{item.position}</div>
               <div>
                 <span className="inline-block mr-4">
@@ -36,7 +37,7 @@ function Zamestnanci({ data }) {
                 </span>
               </div>
             </dd>
-          </>
+          </React.Fragment>
         ))}
       </dl>
       <h3>Ostatní pracovníci</h3>
@@ -44,13 +45,13 @@ function Zamestnanci({ data }) {
         {data
           .filter( item => item.position != "odborný asistent" && item.position != "vedecký zamestnanec" && item.position != "docent" && item.position != "profesor" )
           .map( item => (
-          <>
-            <dt key={item.id}>
+          <React.Fragment key={item.id}>
+            <dt>
               <Link href={`/katedra/zamestnanci/${encodeURIComponent(item.short)}`}>
                 {item.name}
               </Link>
             </dt>
-            <dd key={`${item.id}_d`} className="mb-8">
+            <dd className="mb-8">
               <div className="italic -mt-1 mb-1">{item.position}</div>
               <div>
                 <span className="inline-block mr-4">
@@ -67,7 +68,7 @@ function Zamestnanci({ data }) {
                 </span>
               </div>
             </dd>
-          </>
+          </React.Fragment>
         ))}
       </dl>
       
