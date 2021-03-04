@@ -8,6 +8,7 @@ function Zamestnanec({ person }) {
       <h1>{person.name}</h1>
       <div className="-mt-3 mb-6 font-bold">{person.position}</div>
       <Info 
+        id={person.id}
         pubid={person.pubid}
         room={person.room}
         tel={person.tel}

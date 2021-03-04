@@ -11,8 +11,18 @@ function ZaverecnePrace({ data }) {
       <Contents levels={2} >
         <h3>Pre bakalárske štúdium</h3>
         <h4>Program geografia, kartografia a geoinformatika</h4>
+        <Preparing />
+        <h4>Program geografia a geoekológia pre krajinné plánovanie</h4>
+        <Preparing />
+        <h4>Programy učiteľstvo geografie v kombinácii</h4>
+        <Preparing />
+        <h3>Pre magisterské štúdium</h3>
+        <h4>Program fyzická geografia a geoinformatika</h4>
+        <Preparing />
+        <h3>Pre doktorandské štúdium</h3>
+        <h4>Program fyzická geografia, geoekológia a geoinformatika</h4>
         <dl>
-        { data.filter( item => item.program == "ZKI" ).map( item => (
+        { data.filter( item => item.program == "dFGG" || item.program == "dFGG_GGU" ).map( item => (
           <React.Fragment key={item.id}>
             <dt className="font-bold mt-4">
               { item.name }
@@ -25,15 +35,6 @@ function ZaverecnePrace({ data }) {
           </React.Fragment>
         ))}
         </dl>
-        <h4>Program geografia a geoekológia pre krajinné plánovanie</h4>
-        <Preparing />
-        <h4>Programy učiteľstvo geografie v kombinácii</h4>
-        <Preparing />
-        <h3>Pre magisterské štúdium</h3>
-        <h4>Program fyzická geografia a geoinformatika</h4>
-        <Preparing />
-        <h3>Pre doktorandské štúdium</h3>
-        <h4>Program fyzická geografia, geoekológia a geoinformatika</h4>
         <p><a href="https://fns.uniba.sk/studium/doktorandi/prijimacie-konanie/temy-dizertacnych-prac-pre-prijimacie-konanie/" target="_blank" >Témy dizertačných prác</a> vo všetkých programoch, o ktoré sa možno uchádzať v rámci prijímacieho konania na doktorandské štúdium pre akademický rok 2021/2022 na Prírodovedeckej fakulte UK.</p>
       </Contents>
     </section>

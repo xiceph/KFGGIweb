@@ -1,130 +1,114 @@
 [
   {
-    "id": "ZKI1",
-    "program": "ZKI",
-    "supervisor": "Mgr. Alexandra Benová, PhD.",
-    "aff": "",
-    "name": "Analýza máp sveta v školských atlasoch z hľadiska mapového jazyka",
-    "text": "Práca sa zaoberá analýzou máp zobrazujúcich celý svet v školských atlasoch na základe dostupných domácich a zahraničných máp a atlasov vydaných v minulosti až po súčasnosť. Identifikácia a zastúpenie zistených tematických máp celého sveta a ich zaradenie do tematických okruhov, štatistické vyhodnotenie získaných údajov, zameranie sa aj na odlišné a podobné črty v mapovom vyjadrení týchto máp. Analyza týchto máp z hľadiska mapového jazyka."
+    "id": "dFGG1",
+    "program": "dFGG",
+    "supervisor": "doc. RNDr. Vladimír Falťan, PhD.",
+    "aff": "Katedra fyzickej geografie a geoinformatiky, PriF UK",
+    "name": "Detailný výskum dynamiky krajinnej pokrývky v oblastiach s prejavmi opúšťania poľnohospodárskej pôdy",
+    "text": "Práca bude zameraná na hodnotenie zmien krajinnej pokrývky a ich zaznamenanie vo veľkých mierkach s využitím návrhu modifikácie metodológie CORINE land cover. Výskum bude realizovaný v oblastiach s prejavmi opúšťania poľnohospodárskej pôdy, výskytom historických krajinných štruktúr a obnovou lesa."
   },
   {
-    "id": "ZKI2",
-    "program": "ZKI",
-    "supervisor": "Mgr. Alexandra Benová, PhD.",
-    "aff": "",
-    "name": "Mapy fiktívnych svetov z hľadiska mapového jazyka",
-    "text": "Práca sa zaoberá skúmaním máp fiktívnych svetov v knihách, stolových alebo počítačových hrách. Mapy sa analyzujú z hľadiska metód mapového vyjadrovania, použitia mapových znakov, kompozície týchto máp, čitateľnosti a geografického obsahu. Cieľom je opísať mapy z hľadiska mapového jazyka, štýlu, vytvoriť klasifikáciu týchto máp. Druhým cieľom je preskúmať a porovnať voľne dostupné programy na tvorbu máp fiktívnych svetov."
+    "id": "dFGG2",
+    "program": "dFGG",
+    "supervisor": "doc. RNDr. Vladimír Falťan, PhD.",
+    "aff": "Katedra fyzickej geografie a geoinformatiky, PriF UK",
+    "name": "Hodnotenie dynamiky využitia krajiny a zmien krajinnej pokrývky",
+    "text": "Na základe aplikácie aktuálnych metodických postupov výskumu a mapovania krajinnej pokrývky (fyziognomických prejavov prebiehajúcich prírodných a socioekonomických procesov na zemskom povrchu) s využitím dostupných historických prameňov, máp, leteckých snímok, GIS analýz a vlastného terénneho výskumu bude doktorand charakterizovať detailne dlhodobý vývoj využitia krajiny vybraného územia, fyziognomické prejavy tokov zmien krajinnej pokrývky (land cover flows) a vplyv prírodných komponentov krajiny na ne."
   },
   {
-    "id": "ZKI3",
-    "program": "ZKI",
-    "supervisor": "Mgr. Alexandra Benová, PhD.",
-    "aff": "",
-    "name": "Porovnanie mapových znakov na zobrazenie vegetácie od 3. vojenského mapovania habsburskej monarchie",
-    "text": "Analýza mapových znakov na zobrazenie vegetácie na mapách od 3. vojenského mapovania habsburskej monarchie z hľadiska mapového jazyka, ich porovnanie so súčasne používanými mapovými znakmi ZM SR a inými starými znakovými kľúčmi. Morfografická analýza vybraných mapových znakov 3. vojenského mapovania."
+    "id": "dFGG3",
+    "program": "dFGG",
+    "supervisor": "RNDr. Igor Matečný, PhD.",
+    "aff": "Katedra fyzickej geografie a geoinformatiky, PriF UK",
+    "name": "Využitie metód diaľkového prieskumu Zeme pre hodnotenie zmien prírodných ekosystémov",
+    "text": "Metódy diaľkového priekumu Zeme sa široko využívajú pre hodnotenie zmien štruktúry krajiny. Nové technické možnosti, spojené so širokým využívaním dronov (UAV), snímkovanie v rôznych pásmach spektra , ako aj technológia LIDAR umožnuje získanie veľmi podrobných dát o prírodných ekosystémoch. Hodnotenie rôznych časových radov snímok, využitie rôznych formátov dát, spolu s pozemnými meraniami a mapovými podkladmi umžňuje zachytiť zmeny v sledovaných ekosystémoch, nielen z hľadiska štruktúry, výmery ale aj ich zdravotného stavu."
   },
   {
-    "id": "ZKI4",
-    "program": "ZKI",
-    "supervisor": "Mgr. Jozef Fábry",
-    "aff": "externý",
-    "name": "Publikovanie rastrov do prostredia webu",
-    "text": "V teoretickej časti práce sa budeme zaoberať historickým vývojom GIS. Následne prejdeme na popis vektorových a rastrových formátov, výhody a nevýhody ich používania a hlavné rozdiely medzi nimi. V druhej časti teoretickej práce si bližšie popíšeme štruktúru rastrových formátov, ich využitie v geoinformatike a spôsob publikácie do prostredia webu.  Praktická časť práce bude spočívať v príprave rastrov na publikáciu a tvorby webovej aplikácie s rôznymi metódami publikácie rastrov."
+    "id": "dFGG4",
+    "program": "dFGG",
+    "supervisor": "doc. RNDr. Eva Mičietová, CSc.",
+    "aff": "Katedra fyzickej geografie a geoinformatiky, PriF UK",
+    "name": "Vplyv krajinnej pokrývky na uhlíkovú bilanciu a klimatické zmeny – regionálny aspekt",
+    "text": "Hodnotenie zmien krajinnej pokrývky SR podľa IPCC Afolu. Výpočet uhlíkovej bilancie  podľa metodiky IPCC  za posledných 30 rokov v SR. Identifikácia areálov zmeny klimatických faktorov z hľadiska zmeny uhlikovej bilancie. Vyhodnotenie identifikovaných vplyvov  na životné prostredie."
   },
   {
-    "id": "ZKI5",
-    "program": "ZKI",
-    "supervisor": "Mgr. Richard Feciskanin, Ph.D.",
-    "aff": "",
-    "name": "Analýza výškového profilu turistických značkovaných trás na podklade DMR 5.0",
-    "text": "Cieľom práce je vypočítať a analyzovať parametre prevýšení na úsekoch turistických značkovaných trás (TZT) s využitím detailného výškového modelu DMR 5.0. Záhŕňa identifikáciu TZT na území, rozčlenenie úsekov TZT, výpočet kumulatívneho prevýšenia, sklonov stúpania/klesania. Na vybraných úsekoch zhodnotenie závislosti určených parametrov s orientačnými časmi na smerovníkoch."
+    "id": "dFGG5",
+    "program": "dFGG",
+    "supervisor": "prof. RNDr. Jozef Minár, CSc.",
+    "aff": "Katedra fyzickej geografie a geoinformatiky, PriF UK",
+    "name": "Numerické modelovanie dlhodobého vývoja georeliéfu a geomorfometrická evaluácia jeho výsledkov",
+    "text": "Numerické modelovanie dlhodobého vývoja georeliéfu sa používa na testovanie vývojových hypotéz konkrétnych území. Nastavenia modelu odrážajú často variantné scenáre a predstavy o iniciálnom reliéfe územia etapách jeho neotektonického a morfoklimatického vývoja a ďalších počiatočných a okrajových podmienkach. Mieru úspešnosti rôznych výsledkov takéhoto modelovania definuje zhoda výsledného namodelovaného povrchu so súčasným georeliéfom. Túto možno vyšetrovať prostredníctvom rôznych geomorfometrických charakteristík a objektov, ktoré je potrebné derivovať z vhodne generalizovaného DMR záujmového územia. Utvorenie sady numerických experimentov vybraného územia a ich ohodnotenie prostredníctvom porovnania povrchu utvoreného modelovaním a generalizovaného reálneho DMR bude hlavným cieľom dizertácie."
   },
   {
-    "id": "ZKI6",
-    "program": "ZKI",
-    "supervisor": "Mgr. Richard Feciskanin, Ph.D.",
-    "aff": "",
-    "name": "Algoritmus identifikácie vrcholov s určením prominencie",
-    "text": "Hlavným cieľom práce je pripraviť postup pre identifikáciu vrcholov z digitálneho výškového modelu. Základnym prvkom postupu je efektívny algoritmus určenia prominencie a súvisiacich vlastností (kľúčové sedlo, materský vrchol, izolácia, ...). Vrcholy s vypočítanými parametrami prezentuje webová mapová aplikácia."
+    "id": "dFGG6",
+    "program": "dFGG",
+    "supervisor": "doc. RNDr. Milan Trizna, PhD.",
+    "aff": "Katedra fyzickej geografie a geoinformatiky, PriF UK",
+    "name": "Verifikácia vplyvu povrchu povodia na zrážkovo-odtokové modelovania",
+    "text": "Vybrané morfometrické a morfografické parametre povodí vstupujú významným spôsobom do zrážkovo-odtokového modelovania, ovplyvňujú ich výsledky a môžu byť zdrojom chýb, ktoré je problematické odhaliť. Dizertačná práca by sa zamerala na úlohu plochy povodia pri zrážkovo-odtokovom modelovaní, špeciálne pri určovaní úhrnu zrážok na plochu povodia. Zároveň by sa preveril vplyv vertikálnej členitosti reliéfu na presnosť určenia zrážkového úhrnu na plochu povodia ako vstup pre zrážkovo-odtokové modelovanie."
   },
   {
-    "id": "ZKI7",
-    "program": "ZKI",
-    "supervisor": "Mgr. Miroslav Kožuch, PhD.",
-    "aff": "",
-    "name": "Manažment líniových stavieb pri ochrane pred povodňami",
-    "text": "Cieľom práce bude mapovanie melioračných kanálov využitím dát leteckého lidaru pri prevencii pred povodňami vo zvolenej obci. Uvedené vodohospodárske stavby sú pod veľkým tlakom investorov. Kanály preto časom zanikajú a ich priebeh možno rekonštruovať len zo starých máp. Po rekonštrukcii bývalej siete sa vykoná modelovanie. Určí sa hierarchia siete, plocha zberných oblastí s prípadným návrhom optimalizácie, či obnovy zaniknutého kanála. Výstup bude poskytnutý samospráve príslušnej obce."
+    "id": "dFGG-GgU1",
+    "program": "dFGG_GGU",
+    "supervisor": "Ing. Anna Kidová, PhD.",
+    "aff": "Geografický ústav SAV",
+    "name": "Časovo-priestorový vývoj rómskych komunít v rámci geosystému riečnej krajiny",
+    "text": "Práca sa bude orientovať na životný priestor marginalizovaných komunít v blízkosti vodných tokov s dôrazom na riešenie otázky protipovodňovej ochrany a miery zraniteľnosti rómskych komunít v súvislosti s migráciou vodných tokov a povodňovým rizikom. Na základe multitemporálnej analýzy dát diaľkového prieskumu Zeme, morfometrických ukazovateľov reliéfu a socio-ekonomických a priestorovo-funkčných vzťahov bude mať práca ambíciu pochopiť príčiny predispozície výberu životného priestoru rómskymi komunitami, ako aj vytvorenie priestorovej databázy rómskych komunít s dôrazom na ich blízkosť k vodným tokom. Na dosiahnutie efektívneho manažmentu riečnej krajiny sa práca bude zaoberať aj rovnováhou medzi nekontrolovateľným využívaním riečnej nivy a optimalizovaním environmentálnych dopadov takéhoto využívania."
   },
   {
-    "id": "ZKI8",
-    "program": "ZKI",
-    "supervisor": "Mgr. Miroslav Kožuch, PhD.",
-    "aff": "",
-    "name": "Deforestácia a jej modelovanie zo záznamov DPZ",
-    "text": "Cieľom práce bude mapovanie úbytku lesa zo záznamov Sentinel 2 niekoľkých ročných časových radov v lokalite Chopok-Jasná. Klasifikácia obrazu prebehne pomocou pixlovo založeného prístupu. Areály s odlesnením budú vizualizované využitím záznamom z lidaru. \nÚbytok lesa spôsobuje viacero činiteľov (vietor, kôrovec, cestovný ruch,...). Na ochranu a obnovu svetových lesov poukazuje aj nariadenie Európskej Komisie COM(2019) 352 final (https://eur-lex.europa.eu/legal-content/SK/TXT/HTML/?uri=CELEX:52019DC0352&from=EN)."
+    "id": "dFGG-GgU2",
+    "program": "dFGG_GGU",
+    "supervisor": "Ing. Anna Kidová, PhD.",
+    "aff": "Geografický ústav SAV",
+    "name": "Modelovanie hydrogeomorfologickej odozvy vodného toku na jeho reguláciu",
+    "text": "Modely vývoja krajiny simulujú pohyb vody a sedimentov pomocou rekonštruovaných historických a súčasných DEM s vysokým rozlíšením. Detailný model riečneho úseku bude realizovaný na základe porovnaní vývoja koryta v dôsledku antropogénnych vplyvov spôsobujúcich zmeny v energetických tokoch, ako aj geomorfológii koryta. Model CAESAR-Lisflood alebo MIKE 21C sú vhodnými nástrojmi na skúmanie dôsledkov ľudských zásahov do vodných tokov, ako je ich regulovanie, rozširovanie, presmerovanie, odstraňovanie priehrad alebo obnova. Tieto typy modelov možno použiť aj na určenie následkov takýchto zásahov na povodňové riziko. Ich využitie má význam nielen pri štúdiu vývoja krajiny, v ktorej čoraz viac dominujú ľudské zásahy, ale predovšetkým pri informovaní sféry manažmentu vodných tokov."
   },
   {
-    "id": "ZKI9",
-    "program": "ZKI",
-    "supervisor": "doc. RNDr. Eva Mičietová, PhD.",
-    "aff": "",
-    "name": "Operačné možnosti interoperabilých informačných zdrojov NIPI (Národnej infraštruktúry priestorových informácií)",
-    "text": "Cieľom práce je vypracovanie systematického prehľadu, dostupnosti, interaktívnej prezentácie   a operačných možností geografických informačných zdrojov  povinných osôb v zmysle § 12 ods.4 zákona č. 3/2010 Z. z."
+    "id": "dFGG-GgU3",
+    "program": "dFGG_GGU",
+    "supervisor": "RNDr. Monika Kopecká, PhD.",
+    "aff": "Geografický ústav SAV",
+    "name": "Komparatívna analýza diverzity poľnohospodárskej krajiny s využitím objektovo-orientovanej klasifikácie",
+    "text": "V súvislosti s meniacou sa Spoločnou poľnohospodárskou politikou krajín EÚ pribúdajú iniciatívy smerujúce k zvyšovaniu biodiverzity poľnohospodárskej krajiny vrátane zmien využívania krajiny spojeních so znižovaním veľkosti poľnohospodráskych parciel. Cieľom DDP bude analyzovať   priestorovú štruktúru poľnohospodárskej krajiny na zvolených modelových územiach s využitím objektovo-orientovanej klasifikácie, zhodnotiť ju pomocou vybraných  indikátorov diverzity  a definovať optimálne  trendy jej budúceho vývoja."
   },
   {
-    "id": "ZKI10",
-    "program": "ZKI",
-    "supervisor": "doc. RNDr. Eva Mičietová, PhD.",
-    "aff": "",
-    "name": "Geografický informačný systém epidemiologických ochoreni so zameraním na COVID 19",
-    "text": "Cieľom práce je vypracovanie systematického prehľadu, dostupnosti, interaktívnej prezentácie   a operačných možností geografických informačných zdrojov o COVID 19 na  globálnej, európskej, národnej a regionálnej úrovni."
+    "id": "dFGG-GgU4",
+    "program": "dFGG_GGU",
+    "supervisor": "Mgr. Róbert Pazúr, PhD.",
+    "aff": "Geografický ústav SAV",
+    "name": "Mapovanie dlhodobých zmien krajiny na rozsiahlých územiach kombináciou historických máp a satelitných údajov",
+    "text": "Údaje ako letecké snímky a topografické mapy sú dostupné skoro od začiatku 20tého storočia. Cieľom tejto dizertačnej práce je využiť súčasný technologický vývoj v spracovaní obrazu a diaľkovom prieskume Zeme na mapovanie historického vývoja krajiny pre rozsiahle územia. Ako historické údaje budú využité topografické mapy, letecké snímky a satelitné údaje Corona, Landsat, a Sentinel. Spracovanie týchto údajov a mapovanie využitia krajiny je v súčasnosti náročne na čas a ľudské zdroje. Perspektívnym riešením je využitie súčasného vývoja v klasifikácií obrazu (napr. Keras, Tensorflow), objektovo orientovanej klasifikácii a klasifikácií pomocou neurálnych sieti. Definovaním vhodných trénovacích množín môžu tieto prístupy výrazne prispieť ku urýchleniu klasifikácie historických zmien krajiny na rozsiahlych územiach. Úspešný kandidát by mal mať pokročilé znalosti angličtiny a záujem o priestorovú analýzu, diaľkový prieskum Zeme a spracovanie dát. Táto DDP ponúka jedinečné možnosti zapojiť sa do prebiehajúcich medzinárodných projektov."
   },
   {
-    "id": "ZKI11",
-    "program": "ZKI",
-    "supervisor": "Mgr. Filip Moravčík",
-    "aff": "",
-    "name": "Modelovanie a predikcia zmien krajinnej pokrývky pre okres Piešťany",
-    "text": "Cieľom bakalárskej práce je modelovanie a predikcia zmien krajinnej pokrývky pre okres Piešťany. Predpokladom realizácie je využite dostupných údajov o krajinnej pokrývke z rôznych časových období, ich vzájomné porovnanie, kartografické vyjadrenie zistených výsledkov a uskutočnenie predikcie zmien krajinnej pokrývky pomocou dostupných nástrojov. Publikácia výsledkov bude uskutočnená pomocou webovej mapovej aplikácie."
+    "id": "dFGG-GgU5",
+    "program": "dFGG_GGU",
+    "supervisor": "Mgr. Róbert Pazúr, PhD.",
+    "aff": "Geografický ústav SAV",
+    "name": "Mapovanie intenzity využívania poľnohospodárskej krajiny",
+    "text": "Poľnohospodárska krajina môže byť využívaná rôznymi spôsobmi a intenzitou. Cieľom DDP je zhodnotiť možnosti údajov diaľkového prieskumu Zeme a iných priestorových/štatistických údajov pri mapovaní intenzity využitia poľnohospodárskej krajiny. Kandidát bude pracovať s časovými rádmi získanými zo satelitov Landsat a Sentinel-2 a spolu s ďalšími údajmi (napr., letecké snímky, alebo európske dáta Copernicus) identifikovať špecifické aktivity prebiehajúce na poľnohospodárskej pôde (napr., spásanie, kosenie, hnojenie). Úspešný kandidát by mal mať pokročilé znalosti angličtiny a záujem o priestorovú analýzu, diaľkový prieskum Zeme a spracovanie dát. Táto DDP ponúka jedinečné možnosti zapojiť sa do prebiehajúcich medzinárodných projektov."
   },
   {
-    "id": "ZKI12",
-    "program": "ZKI",
-    "supervisor": "Mgr. Filip Moravčík",
-    "aff": "",
-    "name": "Mapovanie zásob pôdneho organického uhlíka pomocou voľne dostupných nástrojov",
-    "text": "Cieľom bakalárskej práce je mapovanie pôdneho organického uhlíka pomocou voľne dostupných nástrojov. Záujmové územie (vo veľkosti okresu) bude určené po vzájomnej dohode so študentom. Predpokladom riešenia problematiky je identifikácia voľne dostupných údajov a nástrojov, pomocou ktorých je možné uskutočniť mapovanie zásob pôdneho organického uhlíka v povrchovej vrstve poľnohospodárskych pôd. Publikácia výsledkov bude uskutočnená pomocou webovej mapovej aplikácie."
+    "id": "dFGG-GgU6",
+    "program": "dFGG_GGU",
+    "supervisor": "RNDr. Roberta Prokešová, PhD.",
+    "aff": "Geografický ústav SAV",
+    "name": "Odraz kvartérnych tektonických pohybov vo fluviálnych systémoch Západných Karpát",
+    "text": "Výskum mladých tektonických procesov v ostatných rokoch významne profituje aj s výsledkov získaných štúdiom vývoja fluviálnych systémov a fluviálne modelovaného georeliéfu. Použitie metód založených na analýze digitálnych modelov reliéfu (vrátane DMR s vysoký rozlíšením získaným laserovým skenovaním) a ďalších DPZ údajov umožňuje efektívnu extrakciu údajov pre numerické a štatistické analýzy. Vývoj na poli numerického modelovania a izotopového datovania prináša nové možnosti kvantitatívneho hodnotenia procesov, ktoré možno následne zužitkovať pri štúdiu neotektonického vývoja ako aj vývoja fluviálnych systémov. Cieľom práce bude analýza fluviálne modelovaného georeliéfu a fluviálneho systému vybranej oblasti Západných Karpát s dôrazom na identifikáciu a hodnotenie  tektonicky podmienených zmien. Doktorand v práci využije multizdrojové  dáta (DMR rôzneho rozlíšenia, DPZ, historické mapovanie) pre extrakciu potrebných údajov, ktoré bude následne analyzovať a interpretovať  v súlade dostupnými geologickými a geofyzikálnymi údajmi a terénnymi pozorovaniami. Podľa možností (v súlade s možnosťami projektového krytia výskumu) študent aplikuje aj vybrané laboratórne metódy (izotopové datovanie, sedimentologické analýzy a podobne), ktoré umožnia kvantifikáciu procesov a datovanie vývojových fáz."
   },
   {
-    "id": "ZKI13",
-    "program": "ZKI",
-    "supervisor": "Mgr. Filip Moravčík",
-    "aff": "",
-    "name": "Modelovanie vývoja územia Podbeskydskej brázdy pomocou vegetačného indexu NDVI",
-    "text": "Cieľom bakalárskej práce je modelovanie vývoja územia Podbeskydskej brázdy pomocou vegetačného indexu NDVI. Predpokladom realizácie je využite voľne dostupných satelitných údajov Sentinel-2 z rôznych časových období, ich vzájomné porovnanie, kartografické vyjadrenie zistených výsledkov a uskutočnenie modelovania vývoja územia pomocou dostupných nástrojov. Publikácia výsledkov bude uskutočnená pomocou webovej mapovej aplikácie."
+    "id": "dFGG-GgU7",
+    "program": "dFGG_GGU",
+    "supervisor": "Mgr. Miloš Rusnák, PhD.",
+    "aff": "Geografický ústav SAV",
+    "name": "Použitie optických a radarových satelitných snímok pre dynamickú analýzu biogeomorfologických interakcií v riečnej krajine",
+    "text": "Cieľom práce je spracovanie a analýza satelitných snímok pre hodnotenie vzájomných väzieb medzi morfologickými zmenami v koryte a nastupujúcou vegetáciou. Vegetačné indexy spolu s fyziognomickými znakmi vegetácie sú relevantné aj pre identifikáciu a hodnotenie ripariálnej zóny a identifikáciu biogeomorfologických interakciíí v koryte. Cieľom DDP bude analyzovať, vyhodnotiť a testovať vhodnosť použitia vegetačných indexov uvádzaných v literatúre spolu s fyziognomickými znakmi vegetácie v procese identifikácie a hodnotenia vybraných ripariálnych zón na Slovensku aplikáciou satelitných údajov DPZ."
   },
   {
-    "id": "ZKI14",
-    "program": "ZKI",
-    "supervisor": "Mgr. Vladimir Pelech, PhD.",
-    "aff": "",
-    "name": "Časová dostupnosť k plánovanej sieti diaľnic a rýchlostných ciest pre priemyselné parky v SR",
-    "text": "Priemyselné parky sú hospodársky významné objekty, pre ktoré je dôležité mať dostupnú nadradenú cestnú infraštruktúru jednak z hľadiska dopravy potrebného materiálu a jednak z hľadiska prepravy výrobkov. Plánovaná výstavba nových úsekov nadradenej infraštruktúry môže výrazne znížiť časovú dostupnosť pre priemyselné podniky. Cieľom práce je pokúsiť sa identifikovať tieto časové úspory pomocou nástrojov sieťovej analýzy."
-  },
-  {
-    "id": "ZKI15",
-    "program": "ZKI",
-    "supervisor": "Mgr. Vladimir Pelech, PhD.",
-    "aff": "",
-    "name": "Porovnanie dostupnosti okresných miest Trebišov a Michalovce pre obce uvedených okresov",
-    "text": "Okres Trebišov má špecifický tvar písmena L. V súvislosti s tým sa ponúka myšlienka, že pre niektoré obce okresu Trebišov je dostupnejšie okresné mesto Michalovce. Cieľom danej práce je overiť uvedenú hypotézu porovnaním dojazdových a časových vzdialeností pre jednotlivé obce vzhľadom na súčasný stav cestnej siete."
-  },
-  {
-    "id": "ZKI16",
-    "program": "ZKI",
-    "supervisor": "Ing. Jozef Vališ, PhD.",
-    "aff": "",
-    "name": "Analýza služieb registra priestorových informácií a jeho využitia",
-    "text": "Cieľom práce je podrobný popis služieb registra priestorových informácií (RPI), možností využitia služieb RPI v rámci národnej infraštruktúry priestorových informácií a realizácia projektu zobrazenia kombinovaných údajov zo zdrojov získaných z RPI."
+    "id": "dFGG-GgU8",
+    "program": "dFGG_GGU",
+    "supervisor": "Mgr. Miloš Rusnák, PhD.",
+    "aff": "Geografický ústav SAV",
+    "name": "Interakcia vegetácie a morfológie koryta identifikovaná pomocou detailných 3D modelov",
+    "text": "Cieľom práce je tvorba a klasifikácia komplexného 3D mračna bodov riečnej krajiny, ktorý obsahuje povrchové časti nivy, vegetáciu a dna koryta. Takto získaný model riečnej krajiny bude spracovaný pre identifikovanie jednotlivých morfologických foriem ako základných habitatov pre fungovanie riečneho ekosystému. Práca je založená na tvorbe modelu na základe optických dát získaných z dronov a automatickej klasifikácie rozličných typov foriem na základe geometrie mračna a spektrálnych charakteristík snímok. Výsledky budú validované terénnym prieskumom."
   }
 ]
