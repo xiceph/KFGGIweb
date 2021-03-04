@@ -92,13 +92,13 @@ module.exports = {
           css: {
             fontSize: rem(17),
             h1: {
-              fontSize: '1.75rem'
+              fontSize: rem(30),
             },
             h3: {
-              fontSize: rem(28),
+              fontSize: rem(25),
             },
             h4: {
-              fontSize: rem(24),
+              fontSize: rem(22),
             },
             img: {
               margin: '0.75rem 0',
@@ -107,7 +107,7 @@ module.exports = {
               }
             },
             dt: {
-              fontSize: rem(21),
+              fontSize: rem(20),
             }
           },
         },
@@ -115,7 +115,13 @@ module.exports = {
           css: {
             fontSize: rem(19),
             h1: {
-              fontSize: '2rem'
+              fontSize: rem(32),
+            },
+            h3: {
+              fontSize: rem(27),
+            },
+            h4: {
+              fontSize: rem(24),
             },
             img: {
               margin: '1rem 0',
