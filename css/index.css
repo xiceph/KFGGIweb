@@ -25,6 +25,10 @@
 .hover {
   @apply hover:bg-k-blue hover:bg-opacity-10;
 }
+.rounded-info {
+  @apply rounded-full bg-gray-300 bg-opacity-40 border border-gray-200 border-opacity-60
+}
+
 
 .reset {
   color: currentColor !important;
@@ -32,4 +36,11 @@
 
 .zavin::before {
   content: "@";
+}
+
+.anchor {
+  position: relative;
+}
+.anchor span {
+  @apply absolute -top-24 lg:-top-28 
 }

@@ -11,7 +11,7 @@ function Zamestnanci({ data }) {
       <h1>Zoznam zamestnancov</h1>
       <h3>Učitelia a vedeckí pracovníci</h3>
       <dl>
-        {data
+        { data
           .filter( item => item.position == "odborný asistent" || item.position == "vedecký zamestnanec" || item.position == "docent" || item.position == "profesor" )
           .map( item => (
           <React.Fragment key={item.id}>

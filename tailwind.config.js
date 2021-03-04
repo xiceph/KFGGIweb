@@ -63,6 +63,12 @@ module.exports = {
                 marginTop: '0'
               }
             },
+            h3: {
+              fontSize: rem(24),
+            },
+            h4: {
+              fontSize: rem(21),
+            },
             img: {
               margin: '0.5rem 0',
               '&:first-child': {
@@ -87,6 +93,12 @@ module.exports = {
             fontSize: rem(17),
             h1: {
               fontSize: '1.75rem'
+            },
+            h3: {
+              fontSize: rem(27),
+            },
+            h4: {
+              fontSize: rem(24),
             },
             img: {
               margin: '0.75rem 0',
