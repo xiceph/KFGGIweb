@@ -1,7 +1,10 @@
 import Link from "next/link";
+import { useRouter } from "next/router"; 
 
 export default function Contents( props ) {
   const { levels, children } = props;
+  
+  const router = useRouter();
   
   const contents = [];
   let level1 = 0;
@@ -20,7 +23,7 @@ export default function Contents( props ) {
     if( levels > 1 && item.type == "h4" ) {
       const id = `sect_${level1}_${++level2}`;
       contents.push(
-        <div className="pl-4 md:pl-6 pb-1" key={ id } ><Link href={`#${id}`}>{ item.props.children }</Link></div>
+        <div className="pl-4 md:pl-6 pb-1" key={ id } ><Link href={`${router.asPath.split('#')[0]}#${id}`}>{ item.props.children }</Link></div>
       );
       
       return ( <h4 className="anchor" { ...item.props } ><span id={ id } ></span>{ item.props.children }</h4> )
