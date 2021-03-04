@@ -2,6 +2,7 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import React from 'react';
 import Contents from "@components/contents";
+import Preparing from "@components/preparing";
 
 function ZaverecnePrace({ data }) {
   return (
@@ -25,9 +26,12 @@ function ZaverecnePrace({ data }) {
         ))}
         </dl>
         <h4>Program geografia a geoekológia pre krajinné plánovanie</h4>
+        <Preparing />
         <h4>Programy učiteľstvo geografie v kombinácii</h4>
+        <Preparing />
         <h3>Pre magisterské štúdium</h3>
         <h4>Program fyzická geografia a geoinformatika</h4>
+        <Preparing />
         <h3>Pre doktorandské štúdium</h3>
         <h4>Program fyzická geografia, geoekológia a geoinformatika</h4>
         <p><a href="https://fns.uniba.sk/studium/doktorandi/prijimacie-konanie/temy-dizertacnych-prac-pre-prijimacie-konanie/" target="_blank" >Témy dizertačných prác</a> vo všetkých programoch, o ktoré sa možno uchádzať v rámci prijímacieho konania na doktorandské štúdium pre akademický rok 2021/2022 na Prírodovedeckej fakulte UK.</p>
