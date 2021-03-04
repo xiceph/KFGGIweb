@@ -25,6 +25,7 @@ function ZaverecnePrace({ data }) {
         ))}
         </dl>
         <h4>Program geografia a geoekológia pre krajinné plánovanie</h4>
+        <h4>Programy učiteľstvo geografie v kombinácii</h4>
         <h3>Pre magisterské štúdium</h3>
         <h4>Program fyzická geografia a geoinformatika</h4>
         <h3>Pre doktorandské štúdium</h3>
