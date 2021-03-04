@@ -56,7 +56,7 @@ module.exports = {
           css: {
             fontSize: rem(17),
             h1: {
-              fontSize: '1.75rem'
+              fontSize: rem(29),
             },
             h2: {
               '&:first-child': {
@@ -67,7 +67,7 @@ module.exports = {
               fontSize: rem(25),
             },
             h4: {
-              fontSize: rem(21),
+              fontSize: rem(22),
             },
             img: {
               margin: '0.5rem 0',

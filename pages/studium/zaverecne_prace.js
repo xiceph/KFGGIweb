@@ -24,7 +24,7 @@ function ZaverecnePrace({ data }) {
         <dl>
         { data.filter( item => item.program == "dFGG" || item.program == "dFGG_GGU" ).map( item => (
           <React.Fragment key={item.id}>
-            <dt className="font-bold mt-4">
+            <dt className="font-bold text-black mt-8">
               { item.name }
               
             </dt>
