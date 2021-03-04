@@ -6,7 +6,7 @@ import Contents from "@components/contents";
 function ZaverecnePrace({ data }) {
   return (
     <section>
-      <h1>Záverečné práce</h1>
+      <h1>Záverečné práce 2021/22</h1>
       <Contents levels={2} >
         <h3>Pre bakalárske štúdium</h3>
         <h4>Program geografia, kartografia a geoinformatika</h4>
