@@ -15,10 +15,10 @@ function ZaverecnePrace({ data }) {
           <React.Fragment key={item.id}>
             <dt className="font-bold mt-4">
               { item.name }
-              <span className="rounded-info text-sm text-gray-600 px-3 py-1 ml-3 ">{ item.id }</span>
+              
             </dt>
-            <dd className="mb-8">
-              <div className="italic mt-3 mb-2">{ item.supervisor } { item.aff && `(${item.aff})`}</div>
+            <dd className="mb-8 md:mb-10">
+              <div className="italic mt-2 mb-4"><span className="rounded-info text-sm text-gray-600 px-3 py-1 mr-2 -ml-1 not-italic">{ item.id }</span> { item.supervisor } { item.aff && `(${item.aff})`}</div>
               <div>{ item.text }</div>
             </dd>
           </React.Fragment>

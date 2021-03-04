@@ -64,7 +64,7 @@ module.exports = {
               }
             },
             h3: {
-              fontSize: rem(24),
+              fontSize: rem(25),
             },
             h4: {
               fontSize: rem(21),
@@ -95,7 +95,7 @@ module.exports = {
               fontSize: '1.75rem'
             },
             h3: {
-              fontSize: rem(27),
+              fontSize: rem(28),
             },
             h4: {
               fontSize: rem(24),
