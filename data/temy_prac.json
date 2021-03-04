@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ZKI1",
+    "program": "ZKI",
+    "supervisor": "Mgr. Alexandra Benová, PhD.",
+    "name": "Analýza máp sveta v školských atlasoch z hľadiska mapového jazyka",
+    "text": "Práca sa zaoberá analýzou máp zobrazujúcich celý svet v školských atlasoch na základe dostupných domácich a zahraničných máp a atlasov vydaných v minulosti až po súčasnosť. Identifikácia a zastúpenie zistených tematických máp celého sveta a ich zaradenie do tematických okruhov, štatistické vyhodnotenie získaných údajov, zameranie sa aj na odlišné a podobné črty v mapovom vyjadrení týchto máp. Analyza týchto máp z hľadiska mapového jazyka."
+  },
+  {
+    "id": "ZKI2",
+    "program": "ZKI",
+    "supervisor": "Mgr. Alexandra Benová, PhD.",
+    "name": "Mapy fiktívnych svetov z hľadiska mapového jazyka",
+    "text": "Práca sa zaoberá skúmaním máp fiktívnych svetov v knihách, stolových alebo počítačových hrách. Mapy sa analyzujú z hľadiska metód mapového vyjadrovania, použitia mapových znakov, kompozície týchto máp, čitateľnosti a geografického obsahu. Cieľom je opísať mapy z hľadiska mapového jazyka, štýlu, vytvoriť klasifikáciu týchto máp. Druhým cieľom je preskúmať a porovnať voľne dostupné programy na tvorbu máp fiktívnych svetov."
+  },
+  {
+    "id": "ZKI3",
+    "program": "ZKI",
+    "supervisor": "Mgr. Richard Feciskanin, Ph.D.",
+    "name": "Analýza výškového profilu turistických značkovaných trás na podklade DMR 5.0",
+    "text": "Cieľom práce je vypočítať a analyzovať parametre prevýšení na úsekoch turistických značkovaných trás (TZT) s využitím detailného výškového modelu DMR 5.0. Záhŕňa identifikáciu TZT na území, rozčlenenie úsekov TZT, výpočet kumulatívneho prevýšenia, sklonov stúpania/klesania. Na vybraných úsekoch zhodnotenie závislosti určených parametrov s orientačnými časmi na smerovníkoch."
+  },
+  {
+    "id": "ZKI4",
+    "program": "ZKI",
+    "supervisor": "Mgr. Richard Feciskanin, Ph.D.",
+    "name": "Algoritmus identifikácie vrcholov s určením prominencie",
+    "text": "Hlavným cieľom práce je pripraviť postup pre identifikáciu vrcholov z digitálneho výškového modelu. Základnym prvkom postupu je efektívny algoritmus určenia prominencie a súvisiacich vlastností (kľúčové sedlo, materský vrchol, izolácia, ...). Vrcholy s vypočítanými parametrami prezentuje webová mapová aplikácia."
+  }
+]
