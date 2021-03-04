@@ -3,6 +3,7 @@
     "id": "ZKI1",
     "program": "ZKI",
     "supervisor": "Mgr. Alexandra Benová, PhD.",
+    "aff": "",
     "name": "Analýza máp sveta v školských atlasoch z hľadiska mapového jazyka",
     "text": "Práca sa zaoberá analýzou máp zobrazujúcich celý svet v školských atlasoch na základe dostupných domácich a zahraničných máp a atlasov vydaných v minulosti až po súčasnosť. Identifikácia a zastúpenie zistených tematických máp celého sveta a ich zaradenie do tematických okruhov, štatistické vyhodnotenie získaných údajov, zameranie sa aj na odlišné a podobné črty v mapovom vyjadrení týchto máp. Analyza týchto máp z hľadiska mapového jazyka."
   },
@@ -10,21 +11,120 @@
     "id": "ZKI2",
     "program": "ZKI",
     "supervisor": "Mgr. Alexandra Benová, PhD.",
+    "aff": "",
     "name": "Mapy fiktívnych svetov z hľadiska mapového jazyka",
     "text": "Práca sa zaoberá skúmaním máp fiktívnych svetov v knihách, stolových alebo počítačových hrách. Mapy sa analyzujú z hľadiska metód mapového vyjadrovania, použitia mapových znakov, kompozície týchto máp, čitateľnosti a geografického obsahu. Cieľom je opísať mapy z hľadiska mapového jazyka, štýlu, vytvoriť klasifikáciu týchto máp. Druhým cieľom je preskúmať a porovnať voľne dostupné programy na tvorbu máp fiktívnych svetov."
   },
   {
     "id": "ZKI3",
     "program": "ZKI",
-    "supervisor": "Mgr. Richard Feciskanin, Ph.D.",
-    "name": "Analýza výškového profilu turistických značkovaných trás na podklade DMR 5.0",
-    "text": "Cieľom práce je vypočítať a analyzovať parametre prevýšení na úsekoch turistických značkovaných trás (TZT) s využitím detailného výškového modelu DMR 5.0. Záhŕňa identifikáciu TZT na území, rozčlenenie úsekov TZT, výpočet kumulatívneho prevýšenia, sklonov stúpania/klesania. Na vybraných úsekoch zhodnotenie závislosti určených parametrov s orientačnými časmi na smerovníkoch."
+    "supervisor": "Mgr. Alexandra Benová, PhD.",
+    "aff": "",
+    "name": "Porovnanie mapových znakov na zobrazenie vegetácie od 3. vojenského mapovania habsburskej monarchie",
+    "text": "Analýza mapových znakov na zobrazenie vegetácie na mapách od 3. vojenského mapovania habsburskej monarchie z hľadiska mapového jazyka, ich porovnanie so súčasne používanými mapovými znakmi ZM SR a inými starými znakovými kľúčmi. Morfografická analýza vybraných mapových znakov 3. vojenského mapovania."
   },
   {
     "id": "ZKI4",
     "program": "ZKI",
+    "supervisor": "Mgr. Jozef Fábry",
+    "aff": "externý",
+    "name": "Publikovanie rastrov do prostredia webu",
+    "text": "V teoretickej časti práce sa budeme zaoberať historickým vývojom GIS. Následne prejdeme na popis vektorových a rastrových formátov, výhody a nevýhody ich používania a hlavné rozdiely medzi nimi. V druhej časti teoretickej práce si bližšie popíšeme štruktúru rastrových formátov, ich využitie v geoinformatike a spôsob publikácie do prostredia webu.  Praktická časť práce bude spočívať v príprave rastrov na publikáciu a tvorby webovej aplikácie s rôznymi metódami publikácie rastrov."
+  },
+  {
+    "id": "ZKI5",
+    "program": "ZKI",
     "supervisor": "Mgr. Richard Feciskanin, Ph.D.",
+    "aff": "",
+    "name": "Analýza výškového profilu turistických značkovaných trás na podklade DMR 5.0",
+    "text": "Cieľom práce je vypočítať a analyzovať parametre prevýšení na úsekoch turistických značkovaných trás (TZT) s využitím detailného výškového modelu DMR 5.0. Záhŕňa identifikáciu TZT na území, rozčlenenie úsekov TZT, výpočet kumulatívneho prevýšenia, sklonov stúpania/klesania. Na vybraných úsekoch zhodnotenie závislosti určených parametrov s orientačnými časmi na smerovníkoch."
+  },
+  {
+    "id": "ZKI6",
+    "program": "ZKI",
+    "supervisor": "Mgr. Richard Feciskanin, Ph.D.",
+    "aff": "",
     "name": "Algoritmus identifikácie vrcholov s určením prominencie",
     "text": "Hlavným cieľom práce je pripraviť postup pre identifikáciu vrcholov z digitálneho výškového modelu. Základnym prvkom postupu je efektívny algoritmus určenia prominencie a súvisiacich vlastností (kľúčové sedlo, materský vrchol, izolácia, ...). Vrcholy s vypočítanými parametrami prezentuje webová mapová aplikácia."
+  },
+  {
+    "id": "ZKI7",
+    "program": "ZKI",
+    "supervisor": "Mgr. Miroslav Kožuch, PhD.",
+    "aff": "",
+    "name": "Manažment líniových stavieb pri ochrane pred povodňami",
+    "text": "Cieľom práce bude mapovanie melioračných kanálov využitím dát leteckého lidaru pri prevencii pred povodňami vo zvolenej obci. Uvedené vodohospodárske stavby sú pod veľkým tlakom investorov. Kanály preto časom zanikajú a ich priebeh možno rekonštruovať len zo starých máp. Po rekonštrukcii bývalej siete sa vykoná modelovanie. Určí sa hierarchia siete, plocha zberných oblastí s prípadným návrhom optimalizácie, či obnovy zaniknutého kanála. Výstup bude poskytnutý samospráve príslušnej obce."
+  },
+  {
+    "id": "ZKI8",
+    "program": "ZKI",
+    "supervisor": "Mgr. Miroslav Kožuch, PhD.",
+    "aff": "",
+    "name": "Deforestácia a jej modelovanie zo záznamov DPZ",
+    "text": "Cieľom práce bude mapovanie úbytku lesa zo záznamov Sentinel 2 niekoľkých ročných časových radov v lokalite Chopok-Jasná. Klasifikácia obrazu prebehne pomocou pixlovo založeného prístupu. Areály s odlesnením budú vizualizované využitím záznamom z lidaru. \nÚbytok lesa spôsobuje viacero činiteľov (vietor, kôrovec, cestovný ruch,...). Na ochranu a obnovu svetových lesov poukazuje aj nariadenie Európskej Komisie COM(2019) 352 final (https://eur-lex.europa.eu/legal-content/SK/TXT/HTML/?uri=CELEX:52019DC0352&from=EN)."
+  },
+  {
+    "id": "ZKI9",
+    "program": "ZKI",
+    "supervisor": "doc. RNDr. Eva Mičietová, PhD.",
+    "aff": "",
+    "name": "Operačné možnosti interoperabilých informačných zdrojov NIPI (Národnej infraštruktúry priestorových informácií)",
+    "text": "Cieľom práce je vypracovanie systematického prehľadu, dostupnosti, interaktívnej prezentácie   a operačných možností geografických informačných zdrojov  povinných osôb v zmysle § 12 ods.4 zákona č. 3/2010 Z. z."
+  },
+  {
+    "id": "ZKI10",
+    "program": "ZKI",
+    "supervisor": "doc. RNDr. Eva Mičietová, PhD.",
+    "aff": "",
+    "name": "Geografický informačný systém epidemiologických ochoreni so zameraním na COVID 19",
+    "text": "Cieľom práce je vypracovanie systematického prehľadu, dostupnosti, interaktívnej prezentácie   a operačných možností geografických informačných zdrojov o COVID 19 na  globálnej, európskej, národnej a regionálnej úrovni."
+  },
+  {
+    "id": "ZKI11",
+    "program": "ZKI",
+    "supervisor": "Mgr. Filip Moravčík",
+    "aff": "",
+    "name": "Modelovanie a predikcia zmien krajinnej pokrývky pre okres Piešťany",
+    "text": "Cieľom bakalárskej práce je modelovanie a predikcia zmien krajinnej pokrývky pre okres Piešťany. Predpokladom realizácie je využite dostupných údajov o krajinnej pokrývke z rôznych časových období, ich vzájomné porovnanie, kartografické vyjadrenie zistených výsledkov a uskutočnenie predikcie zmien krajinnej pokrývky pomocou dostupných nástrojov. Publikácia výsledkov bude uskutočnená pomocou webovej mapovej aplikácie."
+  },
+  {
+    "id": "ZKI12",
+    "program": "ZKI",
+    "supervisor": "Mgr. Filip Moravčík",
+    "aff": "",
+    "name": "Mapovanie zásob pôdneho organického uhlíka pomocou voľne dostupných nástrojov",
+    "text": "Cieľom bakalárskej práce je mapovanie pôdneho organického uhlíka pomocou voľne dostupných nástrojov. Záujmové územie (vo veľkosti okresu) bude určené po vzájomnej dohode so študentom. Predpokladom riešenia problematiky je identifikácia voľne dostupných údajov a nástrojov, pomocou ktorých je možné uskutočniť mapovanie zásob pôdneho organického uhlíka v povrchovej vrstve poľnohospodárskych pôd. Publikácia výsledkov bude uskutočnená pomocou webovej mapovej aplikácie."
+  },
+  {
+    "id": "ZKI13",
+    "program": "ZKI",
+    "supervisor": "Mgr. Filip Moravčík",
+    "aff": "",
+    "name": "Modelovanie vývoja územia Podbeskydskej brázdy pomocou vegetačného indexu NDVI",
+    "text": "Cieľom bakalárskej práce je modelovanie vývoja územia Podbeskydskej brázdy pomocou vegetačného indexu NDVI. Predpokladom realizácie je využite voľne dostupných satelitných údajov Sentinel-2 z rôznych časových období, ich vzájomné porovnanie, kartografické vyjadrenie zistených výsledkov a uskutočnenie modelovania vývoja územia pomocou dostupných nástrojov. Publikácia výsledkov bude uskutočnená pomocou webovej mapovej aplikácie."
+  },
+  {
+    "id": "ZKI14",
+    "program": "ZKI",
+    "supervisor": "Mgr. Vladimir Pelech, PhD.",
+    "aff": "",
+    "name": "Časová dostupnosť k plánovanej sieti diaľnic a rýchlostných ciest pre priemyselné parky v SR",
+    "text": "Priemyselné parky sú hospodársky významné objekty, pre ktoré je dôležité mať dostupnú nadradenú cestnú infraštruktúru jednak z hľadiska dopravy potrebného materiálu a jednak z hľadiska prepravy výrobkov. Plánovaná výstavba nových úsekov nadradenej infraštruktúry môže výrazne znížiť časovú dostupnosť pre priemyselné podniky. Cieľom práce je pokúsiť sa identifikovať tieto časové úspory pomocou nástrojov sieťovej analýzy."
+  },
+  {
+    "id": "ZKI15",
+    "program": "ZKI",
+    "supervisor": "Mgr. Vladimir Pelech, PhD.",
+    "aff": "",
+    "name": "Porovnanie dostupnosti okresných miest Trebišov a Michalovce pre obce uvedených okresov",
+    "text": "Okres Trebišov má špecifický tvar písmena L. V súvislosti s tým sa ponúka myšlienka, že pre niektoré obce okresu Trebišov je dostupnejšie okresné mesto Michalovce. Cieľom danej práce je overiť uvedenú hypotézu porovnaním dojazdových a časových vzdialeností pre jednotlivé obce vzhľadom na súčasný stav cestnej siete."
+  },
+  {
+    "id": "ZKI16",
+    "program": "ZKI",
+    "supervisor": "Ing. Jozef Vališ, PhD.",
+    "aff": "",
+    "name": "Analýza služieb registra priestorových informácií a jeho využitia",
+    "text": "Cieľom práce je podrobný popis služieb registra priestorových informácií (RPI), možností využitia služieb RPI v rámci národnej infraštruktúry priestorových informácií a realizácia projektu zobrazenia kombinovaných údajov zo zdrojov získaných z RPI."
   }
 ]

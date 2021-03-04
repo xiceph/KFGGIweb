@@ -18,7 +18,7 @@ function ZaverecnePrace({ data }) {
               <span className="rounded-info text-sm text-gray-600 px-3 py-1 ml-3 ">{ item.id }</span>
             </dt>
             <dd className="mb-8">
-              <div className="italic mt-3 mb-2">{ item.supervisor }</div>
+              <div className="italic mt-3 mb-2">{ item.supervisor } { item.aff && `(${item.aff})`}</div>
               <div>{ item.text }</div>
             </dd>
           </React.Fragment>
