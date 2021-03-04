@@ -13,7 +13,7 @@ function Doktorandi({ data }) {
         {data.map( item => (
           <React.Fragment key={item.id}>
             <dt>
-              <Link href={`/katedra/zamestnanci/${encodeURIComponent(item.short)}`}>
+              <Link href={`/katedra/doktorandi/${encodeURIComponent(item.short)}`}>
                 {item.name}
               </Link>
             </dt>
