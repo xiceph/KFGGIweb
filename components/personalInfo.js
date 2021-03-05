@@ -14,12 +14,7 @@ export default function PersonalInfo( props ) {
         <div className="w-44 h-44 relative overflow-hidden bg-gray-200 bg-opacity-60 mb-6 md:mb-1 md:mr-8 rounded-full">
           { photo ?
             (
-              <Image
-              src={`/photos/person/${photo}`}
-                alt=""
-                layout="fill"
-                objectFit="contain"
-              />
+              <img src={ `photos/person/${photo}` } alt="" className="w-44 h-44" />
             )
             : (
               <svg className={`h-44 w-44 p-4 inline text-gray-300 text-opacity-80 align-text-middle`} viewBox="0 0 24 24">
