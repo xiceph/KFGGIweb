@@ -3,6 +3,7 @@ import path from 'path';
 import React from 'react';
 import Contents from "@components/contents";
 import Preparing from "@components/preparing";
+import Separator from "@components/separator";
 
 function ZaverecnePrace({ data }) {
   return (
@@ -35,7 +36,8 @@ function ZaverecnePrace({ data }) {
           </React.Fragment>
         ))}
         </dl>
-        <p><a href="https://fns.uniba.sk/studium/doktorandi/prijimacie-konanie/temy-dizertacnych-prac-pre-prijimacie-konanie/" target="_blank" >Témy dizertačných prác</a> vo všetkých programoch, o ktoré sa možno uchádzať v rámci prijímacieho konania na doktorandské štúdium pre akademický rok 2021/2022 na Prírodovedeckej fakulte UK.</p>
+        <Separator />
+        <p><a href="https://fns.uniba.sk/studium/doktorandi/prijimacie-konanie/temy-dizertacnych-prac-pre-prijimacie-konanie/" target="_blank" >Základné informácie a témy dizertačných prác</a> vo všetkých programoch, o ktoré sa možno uchádzať v rámci prijímacieho konania na doktorandské štúdium pre akademický rok 2021/2022 na Prírodovedeckej fakulte UK.</p>
       </Contents>
     </section>
   );

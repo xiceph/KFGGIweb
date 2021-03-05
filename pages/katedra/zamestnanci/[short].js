@@ -7,17 +7,7 @@ function Zamestnanec({ person }) {
     <article>
       <h1>{person.name}</h1>
       <div className="-mt-3 mb-6 font-bold">{person.position}</div>
-      <Info 
-        id={person.id}
-        pubid={person.pubid}
-        room={person.room}
-        tel={person.tel}
-        email={person.email}
-        info={person.info}
-        web={person.web}
-        photo={person.photo}
-      >
-      </Info>
+      <Info person={person} />
     </article>
   );
 } 
@@ -45,7 +35,16 @@ export async function getStaticProps(context) {
   const data = JSON.parse(fileContents);
   
   const person = data.find(item => item.short == context.params.short);
-
+  
+  const photoDirectory = path.join(process.cwd(), 'public/photos/person');
+  const photoAccess = await fs.access(`${photoDirectory}/${person.id}.jpg`)
+    .then(() => true)
+    .catch(() => false)
+  
+  if( photoAccess) {
+    person.photo = `${person.id}.jpg`;
+  }
+  
   return {
     props: { person }, 
   }

@@ -4,7 +4,9 @@ import Email from "@components/email";
 import { Door, Tel, At, Pointer, OpenExt } from "@components/icons";
 
 export default function PersonalInfo( props ) {
-  const { id, room, tel, email, web, info, pubid, photo } = props;
+  const { id, room, tel, email, web, info, pubid, photo } = props.person;
+  
+  //console.log(props.person)
 
   return (
     <>
@@ -13,7 +15,7 @@ export default function PersonalInfo( props ) {
           { photo ?
             (
               <Image
-                src={`/photos/person/${id}.jpg`}
+              src={`/photos/person/${photo}`}
                 alt=""
                 layout="fill"
                 objectFit="contain"

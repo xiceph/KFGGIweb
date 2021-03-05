@@ -6,12 +6,7 @@ function Doktorand({ person }) {
   return (
     <article>
       <h1>{person.name}</h1>
-      <Info 
-        room={person.room}
-        tel={person.tel}
-        email={person.email}
-      >
-      </Info>
+      <Info person={person} />
     </article>
   );
 } 
@@ -39,7 +34,16 @@ export async function getStaticProps(context) {
   const data = JSON.parse(fileContents);
   
   const person = data.find(item => item.short == context.params.short);
-
+  
+  const photoDirectory = path.join(process.cwd(), 'public/photos/person');
+  const photoAccess = await fs.access(`${photoDirectory}/${person.id}.jpg`)
+    .then(() => true)
+    .catch(() => false)
+    
+  if( photoAccess) {
+    person.photo = `${person.id}.jpg`;
+  }
+  
   return {
     props: { person }, 
   }

@@ -19,6 +19,16 @@
     "pubid": 340850
   },
   {
+    "id": "1XXXX",
+    "name": "Mgr. Hana Bobáľová, PhD.",
+    "short": "H Bobáľová",
+    "position": "odborný asistent",
+    "tel": "+421 2 9014 9283",
+    "room": "G-19",
+    "email": ["hana.bobalova"],
+    "pubid": 432378
+  },
+  {
     "id": "14212",
     "name": "Mgr. Michal Druga, PhD.",
     "short": "M Druga",
@@ -51,16 +61,6 @@
     "web": "https://gis.fns.uniba.sk/feciskanin/"
   },
   {
-    "id": "14894",
-    "name": "Mgr. Richard Feciskanin, Ph.D.",
-    "short": "R Feciskanin",
-    "position": "odborný technický zamestnanec",
-    "tel": "+421 2 9014 9393",
-    "room": "G-20",
-    "email": ["richard.feciskanin"],
-    "pubid": 572577
-  },
-  {
     "id": "15126",
     "name": "RNDr. Marián Jenčo, PhD.",
     "short": "M Jenčo",
@@ -75,16 +75,6 @@
     "name": "Mgr. Miroslav Kožuch, PhD.",
     "short": "M Kožuch",
     "position": "odborný asistent",
-    "tel": "+421 2 9014 9283",
-    "room": "G-18",
-    "email": ["miroslav.kozuch"],
-    "pubid": 340828
-  },
-  {
-    "id": "15103",
-    "name": "Mgr. Miroslav Kožuch, PhD.",
-    "short": "M Kožuch",
-    "position": "odborný technický zamestnanec",
     "tel": "+421 2 9014 9283",
     "room": "G-18",
     "email": ["miroslav.kozuch"],

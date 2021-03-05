@@ -1,10 +1,12 @@
+import Separator from "@components/separator";
+
 export default function Historia() {
   return (
     <article>
       <h1>História katedry</h1>
       <p>Katedra fyzickej geografie a geoinformatiky patrí medzi najstaršie geografické pracoviská na Slovensku s dlhou tradíciou výskumu a výuky v oboch oblastiach zmienených v jej názve. Je priamym nasledovníkom Katedry fyzickej geografie, ktorá vznikla v roku 1952 a na ktorej sa už v roku 1953 vytvorilo oddelenie kartografie. Pôsobili na nej významné osobnosti slovenskej geografie a kartografie, ako prof. Michal Lukniš, prof. Pavol Plesník, prof. Michal Zaťko, doc. Ľudovít Mičian či prof. Jozef Krcho. V roku 1992 z nej vznikli dve pracoviská: Katedra kartografie, geoinformatiky a diaľkového prieskumu Zeme a Katedra fyzickej geografie a geoekológie, ktoré pracovali ďalšie takmer tri dekády samostatne, hoci často v úzkej vedeckej aj pedagogickej spolupráci. Ich opätovným spojením vznikla 1. 1. 2021 súčasná Katedra fyzickej geografie a geoinformatiky.</p>
       
-      <div className="border-t-2 border-gray-200 my-8 md:my-10"></div>
+      <Separator />
 
       <div className="my-3"><span className="text-k-brown">1921</span> – začiatky prednášok z geografie na <i>Filozofickej fakulte Univerzity Komenského</i> (UK) (prednášal Karel Chotek, profesor národopisu)</div>
       <div className="my-3"><span className="text-k-brown">1923</span> – vznikol <b>Seminár geografický</b> <i>Filozofickej fakulty UK</i>, od 1927 <b>Proseminár zemepisný</b> (pôsobili tu: Jiří Viktor Daneš, František Štůla, Jiří Král a Jan Hromádka)</div>
