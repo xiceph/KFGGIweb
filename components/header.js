@@ -18,7 +18,7 @@ export default function Header( props ) {
   return (
     <header 
       className={cn(
-        "fixed z-10 inset-0 md:bottom-auto max-h-screen bg-white bg-opacity-97 border-b border-gray-200 border-opacity-75 shadow-sm md:shadow flex flex-col items-stretch",
+        "fixed z-10 inset-0 md:bottom-auto max-h-screen bg-white bg-opacity-97 border-b border-k-xl-gray border-opacity-50 shadow-sm md:shadow flex flex-col items-stretch",
         !menuOpened && `bottom-auto`
       ) 
     }>

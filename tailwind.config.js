@@ -19,7 +19,9 @@ module.exports = {
         'k-blue': '#38BFF8',
         'k-green': '#22C55E',
         'k-brown': '#92400E',
-        'k-gray': '#3b4b59'
+        'k-gray': '#3b4b59',
+        'k-l-gray': '#c2d0dc',
+        'k-xl-gray': '#dde7f0',
       },
       opacity: {
         '97': '.97'
@@ -42,7 +44,7 @@ module.exports = {
         '3': '3px'
       },
       boxShadow: {
-        DEFAULT: '0 0 15px 0 rgba(0, 0, 0, 0.02), 0 1px 9px 0 rgba(0, 0, 0, 0.03), 0 1px 4px 0 rgba(0, 0, 0, 0.03)',
+        DEFAULT: '0 0 18px 0 rgba(0, 20, 40, 0.02), 0 0 10px 0 rgba(0, 20, 40, 0.03), 0 0 3px 0 rgba(0, 20, 40, 0.05)',
       },
       fontSize: {
         'sm':  rem(15),

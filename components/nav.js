@@ -16,7 +16,7 @@ export default function Nav(props) {
   if(!menuOpened) return (<div></div>) 
   
   return (
-      <div className="max-w-screen-xl mx-auto md:pb-4 flex-grow min-h-0 grid grid-cols-11 w-full place-content-stretch border-t border-gray-200 md:border-opacity-50 bg-gray-300 bg-opacity-10 md:bg-transparent">
+      <div className="max-w-screen-xl mx-auto md:pb-4 flex-grow min-h-0 grid grid-cols-11 w-full place-content-stretch border-t border-k-l-gray md:border-opacity-50 bg-gray-300 bg-opacity-10 md:bg-transparent">
         {
           mobile 
           ? (
@@ -27,7 +27,7 @@ export default function Nav(props) {
                     key={item.id} 
                     className={cn(
                       "py-2.5 pl-4 my-px cursor-pointer rounded-l-full border-t border-b border-l border-transparent hover:bg-opacity-10",
-                      menuOpened.id == item.id && 'cursor-default bg-white hover:bg-opacity-100 border-gray-200 text-black',
+                      menuOpened.id == item.id && 'cursor-default bg-white hover:bg-opacity-100 border-k-l-gray text-black',
                       menuOpened.id != item.id && 'hover text-gray-600'
                     )}
                     onClick={() => setMenuOpened(item)}
@@ -55,7 +55,7 @@ export default function Nav(props) {
         }
 
         <ul 
-          className="flex-shrink col-span-7 md:col-span-5 lg:col-span-6 lg:grid lg:grid-cols-2 border-l bg-white md:bg-transparent md:border-none border-gray-200 px-1 pb-3 pt-6 -ml-px overflow-auto"
+          className="flex-shrink col-span-7 md:col-span-5 lg:col-span-6 lg:grid lg:grid-cols-2 border-l bg-white md:bg-transparent md:border-none border-k-l-gray px-1 pb-3 pt-6 -ml-px overflow-auto"
           onClick={() => setMenuOpened(false)}
         >
           {menuOpened.children.map((item) => (

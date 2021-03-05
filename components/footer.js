@@ -26,7 +26,7 @@ export default function Footer( props ) {
   }
   
   return (
-    <footer className="max-w-screen-xl w-full mx-auto border-t border-gray-200 text-gray-700 px-4 md:px-6 py-10 grid md:grid-cols-2 gap-6 text-sm md:text-base">
+    <footer className="max-w-screen-xl w-full mx-auto border-t border-k-l-gray text-gray-700 px-4 md:px-6 py-10 grid md:grid-cols-2 gap-6 text-sm md:text-base">
       <div>
         <h4 className="font-bold mb-2 text-base md:text-lg">{ addressHead[locale] }</h4>
         { address[locale].map( (line, i) => <p className="my-1" key={i}>{line}</p>) }

@@ -26,7 +26,7 @@
   @apply hover:bg-k-blue hover:bg-opacity-10;
 }
 .rounded-info {
-  @apply rounded-full bg-gray-300 bg-opacity-40 border border-gray-200 border-opacity-60
+  @apply rounded-full bg-k-xl-gray bg-opacity-75 border border-k-xl-gray
 }
 
 

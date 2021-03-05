@@ -30,7 +30,7 @@ export default function IndexPage( props ) {
           <p className="mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim fusce tortor, ac sed malesuada blandit. Et mi gravida sem feugiat.</p>
           <p className="text-right pr-3">
             <Link href="/studium/pre_uchadzacov">
-              <button className="bg-k-blue px-5 py-2 rounded-full text-base text-white justify-self-end">
+              <button className="bg-k-blue px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end">
                 zistiť viac
               </button>
             </Link>
@@ -41,7 +41,7 @@ export default function IndexPage( props ) {
           <p className="mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim fusce tortor, ac sed malesuada blandit. Et mi gravida sem feugiat.</p>
           <p className="text-right pr-3">
             <Link href="/vyskum/vedecke_zameranie">
-              <button className="bg-k-green px-5 py-2 rounded-full text-base text-white justify-self-end">
+              <button className="bg-k-green px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end">
                 zistiť viac
               </button>
             </Link>
@@ -52,7 +52,7 @@ export default function IndexPage( props ) {
           <p className="mt-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim fusce tortor, ac sed malesuada blandit. Et mi gravida sem feugiat.</p>
           <p className="text-right pr-3">
             <Link href="/vyskum/aplikacia_v_praxi">
-              <button className="bg-k-brown px-5 py-2 rounded-full text-base text-white justify-self-end">zistiť viac</button>
+              <button className="bg-k-brown px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end">zistiť viac</button>
             </Link>
           </p>
         </div>
@@ -61,7 +61,7 @@ export default function IndexPage( props ) {
       <section className="grid gap-x-6 lg:gap-x-8 grid-cols-1 md:grid-cols-2 my-8 md:my-10">
         <div>
           <h3 className="text-gray-800">Aktuality</h3>
-          <div className="divide-y">
+          <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim fusce tortor, ac sed. Et mi gravida sem feugiat.</div>
             <div className="py-4 first:pt-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim fusce tortor, ac sed malesuada blandit. Et mi gravida e tortor sem feugiat.</div>
             <div className="py-4 first:pt-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim fusce tortor, ac sed malesuada. Et mi gravida sem feugiat.</div>
@@ -70,7 +70,7 @@ export default function IndexPage( props ) {
         </div>
         <div>
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
-          <div className="divide-y">
+          <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
               <div className="mb-1"><Datum date={new Date()}></Datum></div>
               Suspendisse a diam vestibulum nulla commodo aliquam. Proin eget diam vitae nulla bibendum rutrum ac ac erat. Aliquam eget nunc suscipit, posuere mi id

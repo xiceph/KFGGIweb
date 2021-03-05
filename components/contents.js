@@ -37,7 +37,7 @@ export default function Contents( props ) {
   
   return (
     <>
-      <div className="border-l-3 md:border-l-4 border-gray-300 pl-3 md:pl-5 py-2 md:py-3">
+      <div className="border-l-3 md:border-l-4 border-k-xl-gray pl-3 md:pl-5 py-2 md:py-3">
         {contents}
       </div>
       {rest}
