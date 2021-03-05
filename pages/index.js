@@ -62,22 +62,36 @@ export default function IndexPage( props ) {
         <div>
           <h3 className="text-gray-800">Aktuality</h3>
           <div className="divide-y divide-k-xl-gray">
-            <div className="py-4 first:pt-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim fusce tortor, ac sed. Et mi gravida sem feugiat.</div>
-            <div className="py-4 first:pt-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim fusce tortor, ac sed malesuada blandit. Et mi gravida e tortor sem feugiat.</div>
-            <div className="py-4 first:pt-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim fusce tortor, ac sed malesuada. Et mi gravida sem feugiat.</div>
-            <div className="py-4 first:pt-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim fusce tortor, malesuada blandit. Et mi gravida feugiat.</div>
+            <div className="py-4 first:pt-0">
+              <h5 className="font-bold mb-1">Organizačná zmena</h5>
+              <div className="mb-2">Od 1.1.2021 sa zlúčila Katedra kartografie, geoinformatiky a diaľkového prieskumu Zeme a Katedra fyzickej geografie a geoekológie pod jednu Katedru fyzickej geografie a geoinformatiky, ktorá zastrešuje dva Bc., jeden Mgr. a jeden PhD. študijné programy.</div>
+            </div>
+            <div className="py-4 first:pt-0">
+              <h5 className="font-bold mb-1">Nové významné publikácie</h5>
+              <div className="mb-2">Prof. RNDr. Jozefovi Minárovi, CSc., v spolupráci s RNDr. Mariánom Jenčom, PhD., vyšiel na konci roku 2020 článok <i>A comprehensive system of definitions of land surface (topographic) curvatures, with implications for their application in geoscience modelling and prediction</i> v karentovanom časopise Earth-Science Reviews. </div>
+              <div className="mb-1">RNDr. Mariánovi Jenčovi, PhD.; Mgr. Hane Bobáľovej, PhD.;  RNDr. Igorovi Matečnému, PhD.; Mgr. Miroslavovi Kožuchovi, PhD. a Mgr. Veronike Oršulovovej vyšiel taktiež koncom roka 2020 článok <i>Mapping soil degradation on arable land with aerial photography and erosion models, case study from Danube Lowland, Slovakia</i> v karentovanom časopise Remote Sensing.</div>
+            </div>
           </div>
         </div>
         <div>
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <div className="mb-1"><Datum date={new Date()}></Datum></div>
-              Suspendisse a diam vestibulum nulla commodo aliquam. Proin eget diam vitae nulla bibendum rutrum ac ac erat. Aliquam eget nunc suscipit, posuere mi id
+              <div className="mb-1.5"><Datum date={new Date("2021-03-17")}></Datum></div>
+              <h5 className="font-bold mb-2">Prednáška: Geologický vývoj a stavba Bratislavy a okolia</h5>
+              <div>
+                <div className="mb-2">Čas: <i>16:00 - 17:30</i> online</div>
+                <div className="mb-2">Prednášajúci: <i>Mgr. Imrich Sládek, PhD.</i></div>
+                <div className="mb-2">Popularizačným spôsobom bude prezentovaný geologický vývoj a stavba Bratislavy a jej blízkeho okolia, a to ako slovenská časť (Devínske Karpaty), tak aj rakúska (Hainburské vrchy) na podklade zjednodušenej geologickej mapy. Zvláštna pozornosť bude venovaná zaujímavým geologickým lokalitám na oboch stranách Dunaja a tiež horninám charakteristickým pre toto územie.</div>
+                <div className="mb-2">Online prednáška cez aplikáciu Zoom. Prístupové údaje prihláseným budú zaslané najneskôr 1 hodinu pred prednáškou.</div>
+                <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/gkmo" target="_blank">https://lnk.sk/gkmo</a>.</div>
+                <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2021/2021-03-17-geoklub.pdf" target="_blank">Plagát</a></div>
+              </div>
             </div>
             <div className="py-4 first:pt-0">
-              <div className="mb-1"><Datum date={new Date()}></Datum></div>
-              Suspendisse a diam vestibulum nulla commodo aliquam. Proin eget diam vitae nulla bibendum rutrum ac ac erat. Aliquam eget nunc suscipit, posuere mi id
+              <div className="mb-1.5"><Datum date={new Date("2021-03-31")}></Datum></div>
+              <h5 className="font-bold mb-1">Termín podávania prihlášok</h5>
+              <div>Na bakalárske študijné programy uskutočňované na Prírodovedeckej fakulte UK v akademickom roku 2021/2022. Detaily o <a href="https://fns.uniba.sk/studium/uchadzaci-o-studium/prijimacie-konanie/bakalarsky-stupen-studia/" taget="_blank">prijímacom konaní na fakulte</a>.</div>
             </div>
           </div>
         </div>
