@@ -10,18 +10,18 @@ function ZaverecnePrace({ data }) {
     <section>
       <h1>Záverečné práce 2021/22</h1>
       <Contents levels={2} >
-        <h3>Pre bakalárske štúdium</h3>
-        <h4>Program geografia, kartografia a geoinformatika</h4>
+        <h3>Pre bakalárske štúdijné programy</h3>
+        <h4>Geografia, kartografia a geoinformatika</h4>
         <Preparing />
-        <h4>Program geografia a geoekológia pre krajinné plánovanie</h4>
+        <h4>Geografia a geoekológia pre krajinné plánovanie</h4>
         <Preparing />
-        <h4>Programy učiteľstvo geografie v kombinácii</h4>
+        <h4>Učiteľstvo Geografia</h4>
         <Preparing />
-        <h3>Pre magisterské štúdium</h3>
-        <h4>Program fyzická geografia a geoinformatika</h4>
+        <h3>Pre magisterský štúdijný program</h3>
+        <h4>Fyzická geografia a geoinformatika</h4>
         <Preparing />
-        <h3>Pre doktorandské štúdium</h3>
-        <h4>Program fyzická geografia, geoekológia a geoinformatika</h4>
+        <h3>Pre doktorandské štúdijné programy</h3>
+        <h4>Fyzická geografia, geoekológia a geoinformatika</h4>
         <dl>
         { data.filter( item => item.program == "dFGG" || item.program == "dFGG_GGU" ).map( item => (
           <React.Fragment key={item.id}>
