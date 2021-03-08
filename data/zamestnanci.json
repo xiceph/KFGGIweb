@@ -1,5 +1,25 @@
 [
   {
+    "id": "14290V",
+    "name": "RNDr. Igor Matečný, PhD.",
+    "short": "I Matečný",
+    "position": "vedúci katedry",
+    "tel": "+421 2 9014 9264",
+    "room": "B1-453",
+    "email": ["igor.matecny"],
+    "pubid": 316926
+  },
+  {
+    "id": "15126V",
+    "name": "RNDr. Marián Jenčo, PhD.",
+    "short": "M Jenčo",
+    "position": "zástupca vedúceho katedry",
+    "tel": "+421 2 9014 9266",
+    "room": "B1-454",
+    "email": ["marian.jenco"],
+    "pubid": 608015
+  },
+  {
     "id": "20508",
     "name": "Viera Bartovicová",
     "short": "V Bartovicová",

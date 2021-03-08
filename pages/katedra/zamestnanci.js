@@ -9,6 +9,37 @@ function Zamestnanci({ data }) {
   return (
     <article>
       <h1>Zoznam zamestnancov</h1>
+      <h3>Vedenie katedry</h3>
+      <dl>
+        { data
+          .filter( item => item.position == "vedúci katedry" || item.position == "zástupca vedúceho katedry" )
+          .map( item => (
+          <React.Fragment key={item.id}>
+            <dt>
+              <Link href={`/katedra/zamestnanci/${encodeURIComponent(item.short)}`}>
+                {item.name}
+              </Link>
+            </dt>
+            <dd className="mb-8">
+              <div className="italic -mt-1 mb-1">{item.position}</div>
+              <div>
+                <span className="inline-block mr-4">
+                  <Door className="text-gray-400" />
+                  {item.room || ''}
+                </span>
+                <span className="inline-block mr-4"> 
+                  <Tel className="text-gray-400" />
+                  {item.tel || ''}
+                </span>
+                <span className="inline-block">
+                  <At className="text-gray-400" />
+                  <Email parts={item.email} />
+                </span>
+              </div>
+            </dd>
+          </React.Fragment>
+        ))}
+      </dl>
       <h3>Učitelia a vedeckí pracovníci</h3>
       <dl>
         { data

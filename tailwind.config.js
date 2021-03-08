@@ -72,7 +72,10 @@ module.exports = {
               fontSize: rem(22),
             },
             h5: {
+              fontSize: rem(20),
               fontWeight: 'bold',
+              marginTop: em(28, 17),
+              marginBottom: em(8, 17)
             },
             img: {
               margin: '0.5rem 0',
@@ -105,6 +108,9 @@ module.exports = {
             h4: {
               fontSize: rem(22),
             },
+            h5: {
+              fontSize: rem(20),
+            },
             img: {
               margin: '0.75rem 0',
               '&:first-child': {
@@ -127,6 +133,9 @@ module.exports = {
             },
             h4: {
               fontSize: rem(24),
+            },
+            h5: {
+              fontSize: rem(21),
             },
             img: {
               margin: '1rem 0',

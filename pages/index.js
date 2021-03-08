@@ -4,7 +4,7 @@ import Datum from "@components/datum"
 export default function IndexPage( props ) {
   
   return (
-    <div>
+    <div className="front">
       <section className="grid md:grid-cols-3 gap-6 items-center">
         <div className="flex items-center justify-center md:col-start-3 h-60 md:h-72">
           <img
@@ -63,13 +63,14 @@ export default function IndexPage( props ) {
           <h3 className="text-gray-800">Aktuality</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <h5 className="font-bold mb-1">Organizačná zmena</h5>
-              <div className="mb-2">Od 1.1.2021 sa zlúčila Katedra kartografie, geoinformatiky a diaľkového prieskumu Zeme a Katedra fyzickej geografie a geoekológie pod jednu Katedru fyzickej geografie a geoinformatiky, ktorá zastrešuje dva Bc., jeden Mgr. a jeden PhD. študijné programy.</div>
+              <h5 className="font-bold my-1">Deň otvorených dverí 2021</h5>
+              <div className="mb-2">DOD PriF UK 2021 prebehol 5.2.2021 online formou.<br/>
+                Pozrite si <a href="/docs/DOD2021.pdf">prezentačný dokument pre DOD</a> a <a href="https://youtu.be/C0JAGw7tjLI" target="_blank">videozáznam geografickej časti DOD</a>.
+              </div>
             </div>
             <div className="py-4 first:pt-0">
-              <h5 className="font-bold mb-1">Nové významné publikácie</h5>
-              <div className="mb-2">Prof. RNDr. Jozefovi Minárovi, CSc., v spolupráci s RNDr. Mariánom Jenčom, PhD., vyšiel na konci roku 2020 článok <i>A comprehensive system of definitions of land surface (topographic) curvatures, with implications for their application in geoscience modelling and prediction</i> v karentovanom časopise Earth-Science Reviews. </div>
-              <div className="mb-1">RNDr. Mariánovi Jenčovi, PhD.; Mgr. Hane Bobáľovej, PhD.;  RNDr. Igorovi Matečnému, PhD.; Mgr. Miroslavovi Kožuchovi, PhD. a Mgr. Veronike Oršulovovej vyšiel taktiež koncom roka 2020 článok <i>Mapping soil degradation on arable land with aerial photography and erosion models, case study from Danube Lowland, Slovakia</i> v karentovanom časopise Remote Sensing.</div>
+              <h5 className="font-bold my-1">Organizačná zmena</h5>
+              <div className="mb-2">Od 1.1.2021 sa zlúčila Katedra kartografie, geoinformatiky a diaľkového prieskumu Zeme a Katedra fyzickej geografie a geoekológie pod jednu Katedru fyzickej geografie a geoinformatiky.</div>
             </div>
           </div>
         </div>

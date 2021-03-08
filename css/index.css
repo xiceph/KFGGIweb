@@ -29,6 +29,13 @@
   @apply rounded-full bg-k-xl-gray bg-opacity-75 border border-k-xl-gray
 }
 
+h5 + * {
+  margin-top: 0 !important;
+}
+
+.front h5 {
+  margin-top: 0 !important;
+}
 
 .reset {
   color: currentColor !important;
@@ -39,7 +46,6 @@
 .mt-s4 {
   margin-top: -1rem !important
 }
-
 
 .zavin::before {
   content: "@";

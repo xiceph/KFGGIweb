@@ -16,7 +16,7 @@ export default function Contents( props ) {
       const id = `sect_${++level1}`
       if( levels == 1 ){
         contents.push(
-          <div className="pl-3 md:pl-4 pb-1" key={ id } >
+          <div className="py-1" key={ id } >
             <Link href={`${router.asPath.split('#')[0]}#${id}`}>{ item.props.children }</Link>
           </div>
         );

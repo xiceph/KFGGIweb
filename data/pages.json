@@ -1,24 +1,19 @@
 {
   "sk": [
     { "title": "O katedre", "id": "katedra", "children": [
-      { "title": "Základné informácie", "id": "info" },
       { "title": "História", "id": "historia" },
       { "title": "Zamestanci", "id": "zamestnanci" },
       { "title": "Doktorandi", "id": "doktorandi" },
       { "title": "Absolventi", "id": "absolventi" },
       { "title": "Podujatia", "id": "podujatia" },
       { "title": "Archívy a knižnica", "id": "archivy_kniznica" },
-      { "title": "Galéria", "id": "galeria" },
-      { "title": "Linky", "id": "linky" },
       { "title": "V médiách", "id": "media" }
     ]},
     { "title": "Štúdium", "id": "studium", "children": [
       { "title": "Pre uchádzačov", "id": "pre_uchadzacov" },
       { "title": "Študijné programy", "id": "studijne_programy" },
-      { "title": "Predmety", "id": "predmety" },
       { "title": "Záverečné práce", "id": "zaverecne_prace" },
-      { "title": "Štátne záverečné skúšky", "id": "zaverecne_skusky" },
-      { "title": "Rozvrhy", "id": "rozvrhy" }
+      { "title": "Štátne záverečné skúšky", "id": "zaverecne_skusky" }
     ]},
     { "title": "Veda a výskum", "id": "vyskum", "children": [
       { "title": "Vedecké zameranie", "id": "vedecke_zameranie" },
