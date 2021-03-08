@@ -19,7 +19,7 @@ export default function IndexPage( props ) {
             Univerzita Komenského v Bratislave, Prírodovedecká fakulta
           </div>
           <cite className="text-gray-500 mb-6">
-            Spájame poznanie prírody a informačné technológie. Krajina je naše laboratórium.
+            Spájame poznanie prírody a informačné technológie.
           </cite>
         </div>
       </section>
