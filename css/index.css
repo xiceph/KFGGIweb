@@ -33,6 +33,13 @@
 .reset {
   color: currentColor !important;
 }
+.mt-s2 {
+  margin-top: -0.5rem !important
+}
+.mt-s4 {
+  margin-top: -1rem !important
+}
+
 
 .zavin::before {
   content: "@";

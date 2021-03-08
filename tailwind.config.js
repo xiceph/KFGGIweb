@@ -71,6 +71,9 @@ module.exports = {
             h4: {
               fontSize: rem(22),
             },
+            h5: {
+              fontWeight: 'bold',
+            },
             img: {
               margin: '0.5rem 0',
               '&:first-child': {

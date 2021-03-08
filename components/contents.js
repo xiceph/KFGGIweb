@@ -14,11 +14,19 @@ export default function Contents( props ) {
     if( item.type == "h3" ) {
       level2 = 0;
       const id = `sect_${++level1}`
-      contents.push(
-        <div className="py-1 font-bold" key={ id }>{ item.props.children }</div>
-      );
+      if( levels == 1 ){
+        contents.push(
+          <div className="pl-3 md:pl-4 pb-1" key={ id } >
+            <Link href={`${router.asPath.split('#')[0]}#${id}`}>{ item.props.children }</Link>
+          </div>
+        );
+      } else {
+        contents.push(
+          <div className="py-1 font-bold" key={ id }>{ item.props.children }</div>
+        );
+      }
       
-      return ( <h3 { ...item.props } >{ item.props.children }</h3> )
+      return ( <h3 className="anchor" { ...item.props } ><span id={ id } ></span>{ item.props.children }</h3> )
     }
     if( levels > 1 && item.type == "h4" ) {
       const id = `sect_${level1}_${++level2}`;
