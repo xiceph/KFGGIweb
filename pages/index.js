@@ -97,7 +97,7 @@ export default function IndexPage( props ) {
             <div className="py-4 first:pt-0">
               <div className="mb-1.5"><Datum date={new Date("2021-03-31")}></Datum></div>
               <h5 className="font-bold mb-1">Termín podávania prihlášok</h5>
-              <div>Na bakalárske študijné programy uskutočňované na Prírodovedeckej fakulte UK v akademickom roku 2021/2022. Detaily o <a href="https://fns.uniba.sk/studium/uchadzaci-o-studium/prijimacie-konanie/bakalarsky-stupen-studia/" taget="_blank">prijímacom konaní na fakulte <OpenExt /></a>.</div>
+              <div>Na bakalárske študijné programy uskutočňované na Prírodovedeckej fakulte UK v akad. roku 2021/2022. Detaily o <a href="https://fns.uniba.sk/studium/uchadzaci-o-studium/prijimacie-konanie/bakalarsky-stupen-studia/" taget="_blank">prijímacom konaní na fakulte <OpenExt /></a>.</div>
             </div>
           </div>
         </div>
