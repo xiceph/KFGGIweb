@@ -4,11 +4,12 @@ import React from 'react';
 import Contents from "@components/contents";
 import Preparing from "@components/preparing";
 import Separator from "@components/separator";
+import { OpenExt } from "@components/icons";
 
 function ZaverecnePrace({ data }) {
   return (
     <section>
-      <h1>Záverečné práce - ponuka tém pre akademický rok 2021/22</h1>
+      <h1>Záverečné práce – ponuka tém pre akademický rok 2021/22</h1>
       <Contents levels={2} >
         <h3>Pre bakalárske štúdijné programy</h3>
         <h4>Geografia, kartografia a geoinformatika</h4>
@@ -36,8 +37,9 @@ function ZaverecnePrace({ data }) {
           </React.Fragment>
         ))}
         </dl>
+        <p>Ďalšie témy tohto študijného programu s vedením na Geografickom ústav SAV prezentuje ich <a href="http://www.geography.sav.sk/o-nas/doktorandske-studium/" target="_blank">stránka k doktorandskému štúdiu <OpenExt /></a>.</p>
         <Separator />
-        <p><a href="https://fns.uniba.sk/studium/doktorandi/prijimacie-konanie/temy-dizertacnych-prac-pre-prijimacie-konanie/" target="_blank" >Základné informácie a témy dizertačných prác</a> – vo všetkých programoch, o ktoré sa možno uchádzať v rámci prijímacieho konania na doktorandské štúdium pre akademický rok 2021/2022 na Prírodovedeckej fakulte UK.</p>
+        <p><a href="https://fns.uniba.sk/studium/doktorandi/prijimacie-konanie/temy-dizertacnych-prac-pre-prijimacie-konanie/" target="_blank" >Základné informácie a témy dizertačných prác <OpenExt /></a> – vo všetkých programoch, o ktoré sa možno uchádzať v rámci prijímacieho konania na doktorandské štúdium pre akademický rok 2021/2022 na Prírodovedeckej fakulte UK.</p>
       </Contents>
     </section>
   );

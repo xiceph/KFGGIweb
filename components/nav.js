@@ -21,12 +21,12 @@ export default function Nav(props) {
           mobile 
           ? (
             <div className="col-span-4 flex flex-col justify-between">
-              <ul className="flex flex-col w-full relative z-10 pl-0.5 pt-6">
+              <ul className="flex flex-col w-full relative z-10 pl-2 pt-6">
                 {pages.map((item) => (
                   <li 
                     key={item.id} 
                     className={cn(
-                      "py-2.5 pl-4 my-px cursor-pointer rounded-l-full border-t border-b border-l border-transparent hover:bg-opacity-10",
+                      "py-2.5 pl-5 my-px cursor-pointer rounded-l-full border-t border-b border-l border-transparent hover:bg-opacity-10",
                       menuOpened.id == item.id && 'cursor-default bg-white hover:bg-opacity-100 border-k-l-gray text-black',
                       menuOpened.id != item.id && 'hover text-gray-600'
                     )}
@@ -36,18 +36,18 @@ export default function Nav(props) {
                   </li>
                 ))}
               </ul>
-              <div 
+              {/*<div 
                 className="px-2 mb-4"
                 onClick={() => setMenuOpened(false)}
               >
                 <LangSwitch full={true} locale={locale} />
-              </div>
+              </div>*/}
             </div>
           )
           : (
             <div className="flex items-stretch col-span-6 lg:col-span-5">
               <div className="flex-1">
-                <img className="h-36 pt-4 ml-auto" src={`images/${menuOpened.id}.svg`} />
+                <img className="h-36 pt-4 ml-auto mb-4" src={`images/${menuOpened.id}.svg`} />
               </div>
               <div className="flex-1 font-bold text-xl px-4 pt-8 ml-6">{menuOpened.title}</div>
             </div>

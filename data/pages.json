@@ -5,7 +5,6 @@
       { "title": "Zamestanci", "id": "zamestnanci" },
       { "title": "Doktorandi", "id": "doktorandi" },
       { "title": "Absolventi", "id": "absolventi" },
-      { "title": "Podujatia", "id": "podujatia" },
       { "title": "Archívy a knižnica", "id": "archivy_kniznica" },
       { "title": "V médiách", "id": "media" }
     ]},
@@ -15,7 +14,7 @@
       { "title": "Záverečné práce", "id": "zaverecne_prace" },
       { "title": "Štátne záverečné skúšky", "id": "zaverecne_skusky" }
     ]},
-    { "title": "Veda a výskum", "id": "vyskum", "children": [
+    { "title": "Výskum", "id": "vyskum", "children": [
       { "title": "Vedecké zameranie", "id": "vedecke_zameranie" },
       { "title": "Aplikácia v praxi", "id": "aplikacia_v_praxi" },
       { "title": "Projekty", "id": "projekty" },

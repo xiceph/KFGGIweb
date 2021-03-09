@@ -1,5 +1,7 @@
 import Link from 'next/link'
 import Datum from "@components/datum"
+import Collapse from "@components/collapse"
+import { OpenExt } from "@components/icons";
 
 export default function IndexPage( props ) {
   
@@ -65,7 +67,7 @@ export default function IndexPage( props ) {
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Deň otvorených dverí 2021</h5>
               <div className="mb-2">DOD PriF UK 2021 prebehol 5.2.2021 online formou.<br/>
-                Pozrite si <a href="/docs/DOD2021.pdf">prezentačný dokument pre DOD</a> a <a href="https://youtu.be/C0JAGw7tjLI" target="_blank">videozáznam geografickej časti DOD</a>.
+                Pozrite si <a href="/docs/DOD2021.pdf">prezentačný dokument pre DOD</a> a <a href="https://youtu.be/C0JAGw7tjLI?t=73" target="_blank">videozáznam geografickej časti DOD <OpenExt /></a>.
               </div>
             </div>
             <div className="py-4 first:pt-0">
@@ -83,16 +85,19 @@ export default function IndexPage( props ) {
               <div>
                 <div className="mb-2">Čas: <i>16:00 - 17:30</i> online</div>
                 <div className="mb-2">Prednášajúci: <i>Mgr. Imrich Sládek, PhD.</i></div>
-                <div className="mb-2">Popularizačným spôsobom bude prezentovaný geologický vývoj a stavba Bratislavy a jej blízkeho okolia, a to ako slovenská časť (Devínske Karpaty), tak aj rakúska (Hainburské vrchy) na podklade zjednodušenej geologickej mapy. Zvláštna pozornosť bude venovaná zaujímavým geologickým lokalitám na oboch stranách Dunaja a tiež horninám charakteristickým pre toto územie.</div>
-                <div className="mb-2">Online prednáška cez aplikáciu Zoom. Prístupové údaje prihláseným budú zaslané najneskôr 1 hodinu pred prednáškou.</div>
-                <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/gkmo" target="_blank">https://lnk.sk/gkmo</a>.</div>
-                <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2021/2021-03-17-geoklub.pdf" target="_blank">Plagát</a></div>
+                <Collapse>
+                  <div className="mb-2">Popularizačným spôsobom bude prezentovaný geologický vývoj a stavba Bratislavy a jej blízkeho okolia, a to ako slovenská časť (Devínske Karpaty), tak aj rakúska (Hainburské vrchy) na podklade zjednodušenej geologickej mapy. Zvláštna pozornosť bude venovaná zaujímavým geologickým lokalitám na oboch stranách Dunaja a tiež horninám charakteristickým pre toto územie.</div>
+                  <div className="mb-2">Online prednáška cez aplikáciu Zoom. Prístupové údaje prihláseným budú zaslané najneskôr 1 hodinu pred prednáškou.</div>
+                  <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/gkmo" target="_blank">https://lnk.sk/gkmo <OpenExt /></a>.</div>
+                  <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2021/2021-03-17-geoklub.pdf" target="_blank">Plagát</a></div>
+                </Collapse>
+                
               </div>
             </div>
             <div className="py-4 first:pt-0">
               <div className="mb-1.5"><Datum date={new Date("2021-03-31")}></Datum></div>
               <h5 className="font-bold mb-1">Termín podávania prihlášok</h5>
-              <div>Na bakalárske študijné programy uskutočňované na Prírodovedeckej fakulte UK v akademickom roku 2021/2022. Detaily o <a href="https://fns.uniba.sk/studium/uchadzaci-o-studium/prijimacie-konanie/bakalarsky-stupen-studia/" taget="_blank">prijímacom konaní na fakulte</a>.</div>
+              <div>Na bakalárske študijné programy uskutočňované na Prírodovedeckej fakulte UK v akademickom roku 2021/2022. Detaily o <a href="https://fns.uniba.sk/studium/uchadzaci-o-studium/prijimacie-konanie/bakalarsky-stupen-studia/" taget="_blank">prijímacom konaní na fakulte <OpenExt /></a>.</div>
             </div>
           </div>
         </div>

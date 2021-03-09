@@ -11,8 +11,8 @@ export default function Header( props ) {
   const [menuMobileIsOpen, setMenuMobileIsOpen] = useState(false);
   
   const logo = {
-    'sk': "images/navrhLogo2o.svg",
-    'en': "images/navrhLogo2oEN.svg"
+    'sk': "images/bezLogoO.svg",
+    //'en': "images/navrhLogo2oEN.svg"
   }
   
   return (
@@ -28,25 +28,25 @@ export default function Header( props ) {
           onClick={() => setMenuOpened(false)}
         >
           <Link href={ locale == "sk" ? "/": "/en"}>
-            <img src={ logo[locale] } alt="logo" />
+            <img className="max-h-full" src={ logo[locale] } alt="logo" />
           </Link>
         </div>
         <div className="hidden md:block">
           { pages.map((item) => (
             <button 
-              className="cursor-pointer px-4 py-2.5 ml-1 text-blue-grey-800 rounded-full hover focus:outline-none focus:ring-1 focus:border-k-blue"
+              className="cursor-pointer px-4 py-2.5 ml-3 text-blue-grey-800 rounded-full hover focus:outline-none focus:ring-1 focus:border-k-blue"
               key={item.id} 
               onClick={() => setMenuOpened(menuOpened == item ? false : item)}
             >
               { item.title }
             </button>
           ))}
-          <span 
+          {/*<span 
             className="px-3 ml-8 lg:ml-10" 
             onClick={() => setMenuOpened(false)}
           >
             <LangSwitch locale={ locale } />
-          </span>
+          </span>*/}
         </div>
         
         <button

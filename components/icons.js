@@ -1,3 +1,13 @@
+export const Mdown = (props) => (
+  <svg className={`h-6 w-6 mr-1 inline align-text-top ${props.className}`} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M7,10L12,15L17,10H7Z" />
+  </svg>
+) 
+export const Mup = (props) => (
+  <svg className={`h-6 w-6 mr-1 inline align-text-top ${props.className}`} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M7,15L12,10L17,15H7Z" />
+  </svg>
+) 
 
 export const Door = (props) => (
   <svg className={`h-6 w-6 mr-1 inline align-text-top ${props.className}`} viewBox="0 0 24 24">
