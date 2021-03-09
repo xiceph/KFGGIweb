@@ -46,6 +46,9 @@ h5 + * {
 .mt-s4 {
   margin-top: -1rem !important
 }
+.mt-s5 {
+  margin-top: -1.25rem !important
+}
 
 .zavin::before {
   content: "@";

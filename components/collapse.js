@@ -10,19 +10,19 @@ export default function Collapse( props ) {
     (
       <>
         { props.children }
-        <p><a href="" onClick={(e) => { e.preventDefault(); toggleExpanded(!isExpanded)} }>
+        <div className="mt-2"><a href="" onClick={(e) => { e.preventDefault(); toggleExpanded(!isExpanded)} }>
           menej
           <Mup />
-        </a></p>
+        </a></div>
       </>  
     )
   : (
-      <p>
+      <div>
         <a href="" onClick={(e) => { e.preventDefault(); toggleExpanded(!isExpanded)} }>
           viac
           <Mdown />
         </a>
-      </p>
+      </div>
     )
   
   return (

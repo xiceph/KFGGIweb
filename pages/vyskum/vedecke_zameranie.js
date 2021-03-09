@@ -3,13 +3,33 @@ export default function Veda() {
     <article>
       <h1>Vedecké zameranie</h1>
 
-      <p>Aliquam ac ipsum libero. Mauris varius quis mauris ut mattis. Fusce ut ultrices est. Duis dignissim elit sed porttitor sodales. Sed ligula ligula, maximus nec ipsum at, dictum auctor tellus. Mauris rhoncus orci ac lacus tincidunt, nec interdum ligula congue. Vestibulum lacinia turpis a arcu porta fermentum. Fusce vitae vehicula nisl. Vivamus blandit et ligula nec pharetra. Nullam mattis purus at sapien molestie tempor. Morbi suscipit ut dolor id vehicula.</p>
+      <h3>Geomorfometria a modelovanie georeliéfu </h3>
+      <p>V geomorfometrii a počítačovom modelovaní terénu má naše pracovisko silnú dlhoročnú tradíciu. Digitálne terénne modely sú stále dostupnejšie a presnejšie, preto sa používajú v narastajúcom spektre odborných aplikácií. Náš výskum sa zameriava na to, aby sa informácie z nich používali čím správnejšie a efektívnejšie, ale aj na množstvo ďalších tém.<br/>
+      <img src="images/vyskum/vz-0.webp" alt="Geomorfometria a modelovanie georeliéfu" />
+      </p>
 
-      <p>Suspendisse a diam vestibulum nulla commodo aliquam. Proin eget diam vitae nulla bibendum rutrum ac ac erat. Aliquam eget nunc suscipit, posuere mi id, sodales massa. Nullam maximus quam a dolor interdum aliquet. Maecenas tincidunt efficitur ante, eget fringilla arcu hendrerit non. Duis malesuada porttitor purus, ut suscipit nibh facilisis id. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas ultrices malesuada ipsum, at condimentum justo vehicula vel. Pellentesque libero ligula, tincidunt nec libero sed, tempus rutrum risus. Duis vel cursus ipsum. Nunc rutrum, tellus ac feugiat gravida, lorem libero luctus nibh, vulputate dictum massa risus non mauris. Fusce interdum magna eu est accumsan semper. Pellentesque hendrerit, nunc ut pretium finibus, metus velit egestas elit, eu imperdiet lorem nisl sit amet mauris. Mauris egestas, sapien eget tempor fringilla, ligula enim consectetur tellus, vitae sollicitudin ligula nunc in felis. Sed venenatis leo ac ante interdum eleifend.</p>
+      <h3>Paleoekologické analýzy </h3>
+      <p>Pedologický výskum má u nás taktiež dlhú tradíciu, pričom v poslednom období sú jeho najzaujímavejšou časťou paleoekologické analýzy. S ich pomocou rekonštruujeme krajinu minulých storočí – predovšetkým zmeny v riečnej krajine, ktoré boli v oblasti slovenských nížin a kotlín pomerne rozsiahle.<br/>
+      <img src="images/vyskum/vz-1.webp" alt="Paleoekologické analýzy" />
+      </p>
 
-      <p>Mauris nec tristique justo. Etiam at magna lectus. Suspendisse tincidunt purus a ex bibendum iaculis. Integer sagittis erat pharetra dignissim cursus. Nulla euismod ex egestas augue sodales consequat. Pellentesque commodo libero lectus, vel aliquam justo ultricies vel. Morbi consectetur magna quis convallis consequat. Pellentesque nec ligula viverra, rhoncus neque id, aliquet nulla. Morbi at ultrices mi, vel condimentum dolor. Donec et bibendum lacus. Donec vel leo quis ex porta porta id eget purus.</p>
 
-      <p>Mauris eleifend sed ligula a sagittis. Duis pellentesque est dolor, ac imperdiet eros luctus sit amet. Vestibulum scelerisque tincidunt libero eu tincidunt. Mauris finibus eu mauris et dictum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi imperdiet vestibulum elit vitae volutpat. Quisque in tempor elit. Nullam sit amet tortor velit. Quisque elit dui, ullamcorper ac feugiat nec, interdum sed magna. Integer pharetra elementum erat, vel condimentum enim ullamcorper fermentum. Phasellus faucibus viverra lobortis. Curabitur non tincidunt ex, at facilisis est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse mollis auctor erat vel vulputate. Quisque et elit nulla. </p>
+      <h3>Zmeny krajinnej pokrývky a ich modelovanie </h3>
+      <p>Intenzívne sa venujeme hodnoteniu zmien krajinnej pokrývky s využitím starých máp, archívnych aj aktuálnych ortofotomáp či terénneho merania. V poslednej dobe je u nás stále silnejšou témou predpovedné modelovanie týchto zmien a práca na vylepšovaní vstupných dát takýchto modelov.<br/>
+      <img src="images/vyskum/vz-2.webp" alt="Zmeny krajinnej pokrývky a ich modelovanie" />
+      </p>
+
+
+      <h3>Digitálna fotogrametria a analýza obrazu </h3>
+      <p>Diaľkový prieskum Zeme je ďalšou disciplínou s celosvetovo rastúcim významom. Na našom pracovisku vieme spracovávať aktuálne aj archívne letecké snímky do podoby ortofotomáp a terénnych modelov, taktiež sa venujeme objektovo-orientovanej klasifikácii obrazu, či už z takýchto snímok, alebo zo satelitov.<br/>
+      <img src="images/vyskum/vz-3.webp" alt="Digitálna fotogrametria a analýza obrazu" />
+      </p>
+
+
+      <h3>Kartografia </h3>
+      <p>Náš kartografický výskum sa zaoberá predovšetkým deformačnými vlastnosťami mapy, metódam mapového vyjadrovania, navrhovaniu atlasov, analýzam starých máp, no stále viac aj webovej kartografii.<br/>
+      <img src="images/vyskum/vz-4.webp" alt="Kartografia" />
+      </p>
     </article>
   );
 } 

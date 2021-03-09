@@ -26,7 +26,9 @@ export default function Contents( props ) {
         );
       }
       
-      return ( <h3 className="anchor" { ...item.props } ><span id={ id } ></span>{ item.props.children }</h3> )
+      const { className, children, ...others } = item.props;
+      
+      return ( <h3 className={ `anchor ${className}` } { ...others } ><span id={ id } ></span>{ children }</h3> )
     }
     if( levels > 1 && item.type == "h4" ) {
       const id = `sect_${level1}_${++level2}`;
@@ -36,7 +38,9 @@ export default function Contents( props ) {
         </div>
       );
       
-      return ( <h4 className="anchor" { ...item.props } ><span id={ id } ></span>{ item.props.children }</h4> )
+      const { className, children, ...others } = item.props;
+      
+      return ( <h4 className={ `anchor ${className}` } { ...others } ><span id={ id } ></span>{ item.props.children }</h4> )
     }
     
     return item
@@ -45,7 +49,7 @@ export default function Contents( props ) {
   
   return (
     <>
-      <div className="border-l-3 md:border-l-4 border-k-xl-gray pl-3 md:pl-5 py-2 md:py-3">
+      <div className="border-l-3 md:border-l-4 border-k-xl-gray pl-3 md:pl-5 py-2 md:py-3 mb-8 md:mb-12">
         {contents}
       </div>
       {rest}
