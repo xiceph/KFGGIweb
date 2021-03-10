@@ -130,7 +130,7 @@ export default function Projekty() {
           <td>2010 – 2011</td>
           <td>VEGA</td>
           <td>1/0469/10 </td>
-          <td>Mgr. Miroslav Kožuch, PhD.</td>
+          <td>Mgr. Miroslav <b>Kožuch</b>, PhD.</td>
           <td>Spracovanie, modelovanie a prezentácia prvkov krajiny z obrazových digitálnych záznamov</td>
         </tr>
         <tr>
@@ -307,13 +307,6 @@ export default function Projekty() {
             <td>1/7333/20</td>
             <td>doc. RNDr. Milan <b>Trizna</b>, PhD.</td>
             <td>Hodnotenie povodňového ohrozenia územia ako aktuálnej prírodnej hrozby a súvisiacich prírodných rizík</td>
-        </tr>
-        <tr>
-          <td>1995 – 1999</td>
-          <td></td>
-          <td>ŠO 05/1995</td>
-          <td>prof. RNDr. Jozef <b>Krcho</b>, DrSc.</td>
-          <td>Hodnotenie ekotoxikologických faktorov v SR, ich minimalizácia a modelovanie v environmentálnom geoinformačnom systéme</td>
         </tr>
       </tbody></table>
      </article>
