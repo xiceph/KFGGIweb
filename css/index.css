@@ -40,6 +40,21 @@ h5 + * {
 .reset {
   color: currentColor !important;
 }
+.text-left-f {
+  text-align: left !important;
+}
+.text-right-f {
+  text-align: right !important;
+}
+.text-ext {
+  font-size: 0.875em;
+}
+p.text-ext {
+  margin-top: 0.875em !important;
+  margin-bottom: 0.875em !important;
+}
+
+
 .mt-s2 {
   margin-top: -0.5rem !important
 }

@@ -42,7 +42,7 @@ export default function PersonalInfo( props ) {
       </div>
       {
         info && (
-          <div className="mt-8">{ info }</div>
+          <div className="mt-8 md:text-justify">{ info }</div>
         )
       }
       {

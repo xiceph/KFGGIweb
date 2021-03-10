@@ -9,13 +9,13 @@ export default function Veda() {
       </p>
 
       <h3>Paleoekologické analýzy </h3>
-      <p>Pedologický výskum má u nás taktiež dlhú tradíciu, pričom v poslednom období sú jeho najzaujímavejšou časťou paleoekologické analýzy. S ich pomocou rekonštruujeme krajinu minulých storočí – predovšetkým zmeny v riečnej krajine, ktoré boli v oblasti slovenských nížin a kotlín pomerne rozsiahle.<br/>
+      <p>Pedologický výskum má u nás taktiež dlhú tradíciu, pričom v poslednom období sú jeho najzaujímavejšou časťou paleoekologické analýzy. S ich pomocou rekonštruujeme krajinu minulých storočí – predovšetkým zmeny v riečnej krajine, ktoré boli v oblasti slovenských nížin a kotlín pomerne rozsiahle.<br/>
       <img src="images/vyskum/vz-1.webp" alt="Paleoekologické analýzy" />
       </p>
 
 
       <h3>Zmeny krajinnej pokrývky a ich modelovanie </h3>
-      <p>Intenzívne sa venujeme hodnoteniu zmien krajinnej pokrývky s využitím starých máp, archívnych aj aktuálnych ortofotomáp či terénneho merania. V poslednej dobe je u nás stále silnejšou témou predpovedné modelovanie týchto zmien a práca na vylepšovaní vstupných dát takýchto modelov.<br/>
+      <p>Intenzívne sa venujeme hodnoteniu zmien krajinnej pokrývky s využitím starých máp, archívnych aj aktuálnych ortofotomáp či terénneho merania. V poslednej dobe je u nás stále silnejšou témou predpovedné modelovanie týchto zmien a práca na vylepšovaní vstupných dát takýchto modelov.<br/>
       <img src="images/vyskum/vz-2.webp" alt="Zmeny krajinnej pokrývky a ich modelovanie" />
       </p>
 

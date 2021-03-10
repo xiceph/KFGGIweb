@@ -119,6 +119,12 @@ module.exports = {
             },
             dt: {
               fontSize: rem(20),
+            },
+            p: {
+              textAlign: 'justify'
+            },
+            ul: {
+              textAlign: 'justify'
             }
           },
         },

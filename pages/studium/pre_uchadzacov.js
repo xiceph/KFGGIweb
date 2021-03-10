@@ -12,10 +12,10 @@ export default function Studovat() {
 
         <li>Naši absolventi majú veľké možnosti individuálnej špecializácie počas svojho štúdia. Okrem voliteľných predmetov na to slúžia aj záverečné práce, na ktoré kladieme veľký dôraz. Pozrite si <a href="studium/zaverecne_prace">ponuku aktuálnych tém záverečných prác</a>, <a href="studium/studijne_programy#prace">ukážky záverečných prác našich študentov</a>.</li>
 
-        <li>Najlepšie sa učí na konkrétnych príkladoch v skutočnom teréne. Podstatnou súčasťou štúdia u nás sú preto <a href="vyskum/praca_v_terene">exkurzie a terénne práce</a>.</li>
+        <li>Najlepšie sa učí na konkrétnych príkladoch v skutočnom teréne. Podstatnou súčasťou štúdia u nás sú preto <a href="vyskum/praca_v_terene">exkurzie a terénne práce</a>.</li>
 
         <li>Je pre nás dôležité, aby sme pre našich študentov neboli len kvalitnými pedagógmi, ale aj inšpiratívnymi vedcami. Centrálnou súčasťou našej práce je preto výskum, ktorý sa dokáže presadiť na poli svetovej vedy: <a href="vyskum/vedecke_zameranie">vedecké zameranie</a>, <a href="vyskum/aplikacia_v_praxi">aplikácia v praxi</a>.</li> 
-        <li>Ak máte záujem o štúdium u nás, podaním prihlášky Vás prevedie stránka <a href="https://uniba.sk/prihlaska/" target="_blank">https://uniba.sk/prihlaska/<OpenExt /></a></li>
+        <li>Ak máte záujem o štúdium u nás, podaním prihlášky Vás prevedie stránka <a href="https://uniba.sk/prihlaska/" target="_blank">https://uniba.sk/prihlaska/<OpenExt /></a></li>
       </ul>
       
     </section>

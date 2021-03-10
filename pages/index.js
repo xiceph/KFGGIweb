@@ -28,9 +28,9 @@ export default function IndexPage( props ) {
       
       <section className="grid gap-x-6 lg:gap-x-8 grid-cols-1 md:grid-cols-3 my-8 md:my-10">
         <div>
-          <h3 className="text-gray-800 border-l-3 md:border-l-4 border-k-blue pl-3 py-1">Študujte u nás</h3>
-          <p className="mt-2">Či už sa chcete stať špecialistom na geoinformačné technológie alebo komplexným prírodovedcom, štúdium u nás pokrýva obe tieto zamerania od bakalárskeho až po doktorandský stupeň.</p>
-          <p className="text-right pr-3">
+          <h3 className="text-gray-800 border-l-3 md:border-l-4 border-k-blue pl-3 py-1">Študujte u nás</h3>
+          <p className="mt-2 text-left-f">Či už sa chcete stať špecialistom na geoinformačné technológie alebo komplexným prírodovedcom, štúdium u nás pokrýva obe tieto zamerania od bakalárskeho až po doktorandský stupeň.</p>
+          <p className="text-right-f pr-3">
             <Link href="/studium/pre_uchadzacov">
               <button className="bg-k-blue px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end">
                 zistiť viac
@@ -40,8 +40,8 @@ export default function IndexPage( props ) {
         </div>
         <div>
           <h3 className="text-gray-800 border-l-3 md:border-l-4 border-k-green pl-3 py-1">Špičková veda</h3>
-          <p className="mt-2">Produkujeme výskum, ktorý sa dokáže presadiť na poli svetovej vedy. Spektrum našich tém je široké, vďaka čomu sme schopní učiť aj riešiť vedecké problémy komplexne a interdisciplinárne.</p>
-          <p className="text-right pr-3">
+          <p className="mt-2 text-left-f">Produkujeme výskum, ktorý sa dokáže presadiť na poli svetovej vedy. Spektrum našich tém je široké, vďaka čomu sme schopní učiť aj riešiť vedecké problémy komplexne a interdisciplinárne.</p>
+          <p className="text-right-f pr-3">
             <Link href="/vyskum/vedecke_zameranie">
               <button className="bg-k-green px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end">
                 zistiť viac
@@ -51,8 +51,8 @@ export default function IndexPage( props ) {
         </div>
         <div>
           <h3 className="text-gray-800 border-l-3 md:border-l-4 border-k-brown pl-3 py-1">Aplikácia v praxi</h3>
-          <p className="mt-2">Nezabúdame ani na výzvy uplatnenia fyzickej geografie a geoinformatiky pri praktických problémoch životného prostredia, pôdohospodárstva, či implementácie GIS do inštitucionálnej praxe.</p>
-          <p className="text-right pr-3">
+          <p className="mt-2 text-left-f">Nezabúdame ani na výzvy uplatnenia fyzickej geografie a geoinformatiky pri praktických problémoch životného prostredia, pôdohospodárstva, či implementácie GIS do inštitucionálnej praxe.</p>
+          <p className="text-right-f pr-3">
             <Link href="/vyskum/aplikacia_v_praxi">
               <button className="bg-k-brown px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end">zistiť viac</button>
             </Link>
