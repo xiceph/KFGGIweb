@@ -6,7 +6,7 @@ import Gallery from "@components/gallery";
 function Teren({ photos }) {
   return (
     <article>
-      <h1>Práca v teréne</h1>
+      <h1>Práca v teréne</h1>
       <Preparing />
       <p>test foto</p>
       <Gallery photos={photos} />

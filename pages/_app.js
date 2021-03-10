@@ -12,8 +12,8 @@ const config = require('../next.config');
 
 const text = {
   sk: {
-    name: "Katedra fyzickej geografie a geoinformatiky",
-    desc: "Katedra fyzickej geografie a geoinformatiky, Prírodovedecká fakulta, Univerzita Komenského v Bratislave"
+    name: "Katedra fyzickej geografie a geoinformatiky",
+    desc: "Katedra fyzickej geografie a geoinformatiky, Prírodovedecká fakulta, Univerzita Komenského v Bratislave"
   },
   en: {
     name: "Department of Physical Geography and Geoinformatics",

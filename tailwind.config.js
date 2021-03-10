@@ -16,8 +16,8 @@ module.exports = {
       },
       colors: {
         blue: colors.lightBlue,
-        'k-blue': '#38BFF8',
-        'k-green': '#22C55E',
+        'k-blue': '#39c3fa',
+        'k-green': '#1db956',
         'k-brown': '#92400E',
         'k-gray': '#3b4b59',
         'k-l-gray': '#c2d0dc',

@@ -8,8 +8,8 @@ export default function Info() {
       <h3>Vznik katedry</h3>
       <p>Katedra vznikla 1. 1. 2021 zlúčením dvoch katedier:
         <ul>
-          <li>Katedry fyzickej geografie a geoekológie </li>
-          <li>Katedry kartografie, geoinformatiky a diaľkového prieskumu Zeme</li>
+          <li>Katedry fyzickej geografie a geoekológie </li>
+          <li>Katedry kartografie, geoinformatiky a diaľkového prieskumu Zeme</li>
         </ul>
       </p>
 

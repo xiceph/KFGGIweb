@@ -18,7 +18,7 @@ export default function IndexPageEn( props ) {
             Comenius University in Bratislava, Faculty of Natural Sciences
           </div>
           <cite className="text-gray-500">
-            Spájame poznanie prírody a informačné technológie. Krajina je naše laboratórium.
+            Spájame poznanie prírody a informačné technológie. Krajina je naše laboratórium.
           </cite>
         </div>
       </section>

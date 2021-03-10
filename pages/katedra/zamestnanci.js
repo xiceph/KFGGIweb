@@ -40,7 +40,7 @@ function Zamestnanci({ data }) {
           </React.Fragment>
         ))}
       </dl>
-      <h3>Učitelia a vedeckí pracovníci</h3>
+      <h3>Učitelia a vedeckí pracovníci</h3>
       <dl>
         { data
           .filter( item => item.position == "odborný asistent" || item.position == "vedecký zamestnanec" || item.position == "docent" || item.position == "profesor" )
