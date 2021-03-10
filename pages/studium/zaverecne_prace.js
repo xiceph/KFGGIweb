@@ -21,7 +21,7 @@ function ZaverecnePrace({ data }) {
         <h3 className="border-l-3 md:border-l-4 border-k-green pl-3 md:pl-5 py-2 md:py-3">Pre magisterský študijný program</h3>
         <h4>Fyzická geografia a geoinformatika</h4>
         <Preparing />
-        <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 py-2 md:py-3">Pre doktorandské študijné programy</h3>
+        <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 py-2 md:py-3">Pre doktorandský študijný program</h3>
         <h4>Fyzická geografia, geoekológia a geoinformatika</h4>
         <dl>
         { data.filter( item => item.program == "dFGG" || item.program == "dFGG_GGU" ).map( item => (

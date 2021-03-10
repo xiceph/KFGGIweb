@@ -313,7 +313,7 @@ export default function Projekty() {
           <td></td>
           <td>ŠO 05/1995</td>
           <td>prof. RNDr. Jozef <b>Krcho</b>, DrSc.</td>
-          <td>Hodnotenie ekotoxíkologických faktorov v SR, ich minimalizácia a modelovanie v environmentálnom geoinformačnom systéme</td>
+          <td>Hodnotenie ekotoxikologických faktorov v SR, ich minimalizácia a modelovanie v environmentálnom geoinformačnom systéme</td>
         </tr>
       </tbody></table>
      </article>
