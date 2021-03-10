@@ -25,7 +25,11 @@ export default function Programy() {
         <p><b>Geoinformatické predmety</b> magisterského štúdia sa ponárajú do sofistikovanejších tém kartografie a GIS. Príkladmi môžu byť deformačné parametre kartografických zobrazení, teoretické princípy a metódy kartografickej reprezentácie, klasifikácia obrazu z údajov diaľkového prieskumu Zeme, digitálna fotogrametria, či globálne navigačné satelitné systémy. Poskytujú tiež podrobnejšie vedomosti o princípoch a metódach tvorby geografických databáz, topologickej štruktúry geografických objektov, ale zameriavajú sa aj na aplikáciu analytických a dopytovacích metód a tvorbu rozhodnutí v GIS.</p>
         
         <h5 className="anchor mt-8"><span id="prace" ></span>Ukážky záverečných prác</h5>
-        <p>Práca na diplomových témach a spoločná diskusia o nich v rámci diplomových seminárov je podstatnou časťou nášho štúdia. Vďaka nej má študent príležitosť rozvíjať si vlastnú špecializáciu, ale aj získať skúsenosti s nástrahami praktického použitia širších vedomostí v konkrétom probléme riešenom ním, či jeho spolužiakmi. Diplomové práce sú preto dobrou ukážkou schopností našich absolventov.</p>
+        <p>Práca na diplomových témach a spoločná diskusia o nich v rámci diplomových seminárov je podstatnou časťou nášho štúdia. Vďaka nej má študent príležitosť rozvíjať si vlastnú špecializáciu, ale aj získať skúsenosti s nástrahami praktického použitia širších vedomostí v konkrétom probléme riešenom ním, či jeho spolužiakmi. Diplomové práce sú preto dobrou ukážkou schopností našich absolventov.<br/>
+        <span className="inline-block mt-3">
+          <a href="docs/FG_posteryO.pdf">Postery zo záverečných prác z fyzickej geografie</a><br/>
+          <a href="docs/DOD_P2020.pdf">Ukážky zo záverečných prác z kartografie, geoinformatiky a diaľkového prieskumu Zeme</a></span>
+        </p>
         <p>linky na pdf</p>
 
         <h5 className="anchor mt-8"><span id="uplatnenie" ></span>Uplatnenie</h5>
