@@ -131,7 +131,7 @@ export default function Projekty() {
           <td>VEGA</td>
           <td>1/0469/10 </td>
           <td>Mgr. Miroslav Kožuch, PhD.</td>
-          <td>Spracovanie, modelovanie a prezentácia prvkov krajiny z obrazových digitálnych záznamov</td>
+          <td>Spracovanie, modelovanie a prezentácia prvkov krajiny z obrazových digitálnych záznamov</td>
         </tr>
         <tr>
             <td>01.09.2009 – 31.08.2012 (31.12.2012)</td>
@@ -313,7 +313,7 @@ export default function Projekty() {
           <td></td>
           <td>ŠO 05/1995</td>
           <td>prof. RNDr. Jozef <b>Krcho</b>, DrSc.</td>
-          <td>Hodnotenie ekotoxíkologických faktorov v SR, ich minimalizácia a modelovanie v environmentálnom geoinformačnom systéme</td>
+          <td>Hodnotenie ekotoxíkologických faktorov v SR, ich minimalizácia a modelovanie v environmentálnom geoinformačnom systéme</td>
         </tr>
       </tbody></table>
      </article>
