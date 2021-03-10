@@ -5,7 +5,7 @@
       { "title": "Zamestanci", "id": "zamestnanci" },
       { "title": "Doktorandi", "id": "doktorandi" },
       { "title": "Absolventi", "id": "absolventi" },
-      { "title": "Archívy a knižnica", "id": "archivy_kniznica" },
+      { "title": "Archívy a knižnica", "id": "archivy_kniznica" },
       { "title": "V médiách", "id": "media" }
     ]},
     { "title": "Štúdium", "id": "studium", "children": [
@@ -16,10 +16,10 @@
     ]},
     { "title": "Výskum", "id": "vyskum", "children": [
       { "title": "Vedecké zameranie", "id": "vedecke_zameranie" },
-      { "title": "Aplikácia v praxi", "id": "aplikacia_v_praxi" },
+      { "title": "Aplikácia v praxi", "id": "aplikacia_v_praxi" },
       { "title": "Projekty", "id": "projekty" },
       { "title": "Publikácie", "id": "publikacie" },
-      { "title": "Práca v teréne", "id": "praca_v_terene" }
+      { "title": "Práca v teréne", "id": "praca_v_terene" }
     ]}
   ],
   "en": [

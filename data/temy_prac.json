@@ -4,16 +4,16 @@
     "program": "dFGG",
     "supervisor": "doc. RNDr. Vladimír Falťan, PhD.",
     "aff": "",
-    "name": "Detailný výskum dynamiky krajinnej pokrývky v oblastiach s prejavmi opúšťania poľnohospodárskej pôdy",
-    "text": "Práca bude zameraná na hodnotenie zmien krajinnej pokrývky a ich zaznamenanie vo veľkých mierkach s využitím návrhu modifikácie metodológie CORINE land cover. Výskum bude realizovaný v oblastiach s prejavmi opúšťania poľnohospodárskej pôdy, výskytom historických krajinných štruktúr a obnovou lesa."
+    "name": "Detailný výskum dynamiky krajinnej pokrývky v oblastiach s prejavmi opúšťania poľnohospodárskej pôdy",
+    "text": "Práca bude zameraná na hodnotenie zmien krajinnej pokrývky a ich zaznamenanie vo veľkých mierkach s využitím návrhu modifikácie metodológie CORINE land cover. Výskum bude realizovaný v oblastiach s prejavmi opúšťania poľnohospodárskej pôdy, výskytom historických krajinných štruktúr a obnovou lesa."
   },
   {
     "id": "dFGG2",
     "program": "dFGG",
     "supervisor": "doc. RNDr. Vladimír Falťan, PhD.",
     "aff": "",
-    "name": "Hodnotenie dynamiky využitia krajiny a zmien krajinnej pokrývky",
-    "text": "Na základe aplikácie aktuálnych metodických postupov výskumu a mapovania krajinnej pokrývky (fyziognomických prejavov prebiehajúcich prírodných a socioekonomických procesov na zemskom povrchu) s využitím dostupných historických prameňov, máp, leteckých snímok, GIS analýz a vlastného terénneho výskumu bude doktorand charakterizovať detailne dlhodobý vývoj využitia krajiny vybraného územia, fyziognomické prejavy tokov zmien krajinnej pokrývky (land cover flows) a vplyv prírodných komponentov krajiny na ne."
+    "name": "Hodnotenie dynamiky využitia krajiny a zmien krajinnej pokrývky",
+    "text": "Na základe aplikácie aktuálnych metodických postupov výskumu a mapovania krajinnej pokrývky (fyziognomických prejavov prebiehajúcich prírodných a socioekonomických procesov na zemskom povrchu) s využitím dostupných historických prameňov, máp, leteckých snímok, GIS analýz a vlastného terénneho výskumu bude doktorand charakterizovať detailne dlhodobý vývoj využitia krajiny vybraného územia, fyziognomické prejavy tokov zmien krajinnej pokrývky (land cover flows) a vplyv prírodných komponentov krajiny na ne."
   },
   {
     "id": "dFGG3",
@@ -21,23 +21,23 @@
     "supervisor": "RNDr. Igor Matečný, PhD.",
     "aff": "",
     "name": "Využitie metód diaľkového prieskumu Zeme pre hodnotenie zmien prírodných ekosystémov",
-    "text": "Metódy diaľkového priekumu Zeme sa široko využívajú pre hodnotenie zmien štruktúry krajiny. Nové technické možnosti, spojené so širokým využívaním dronov (UAV), snímkovanie v rôznych pásmach spektra , ako aj technológia LIDAR umožnuje získanie veľmi podrobných dát o prírodných ekosystémoch. Hodnotenie rôznych časových radov snímok, využitie rôznych formátov dát, spolu s pozemnými meraniami a mapovými podkladmi umžňuje zachytiť zmeny v sledovaných ekosystémoch, nielen z hľadiska štruktúry, výmery ale aj ich zdravotného stavu."
+    "text": "Metódy diaľkového priekumu Zeme sa široko využívajú pre hodnotenie zmien štruktúry krajiny. Nové technické možnosti, spojené so širokým využívaním dronov (UAV), snímkovanie v rôznych pásmach spektra , ako aj technológia LIDAR umožnuje získanie veľmi podrobných dát o prírodných ekosystémoch. Hodnotenie rôznych časových radov snímok, využitie rôznych formátov dát, spolu s pozemnými meraniami a mapovými podkladmi umžňuje zachytiť zmeny v sledovaných ekosystémoch, nielen z hľadiska štruktúry, výmery ale aj ich zdravotného stavu."
   },
   {
     "id": "dFGG4",
     "program": "dFGG",
     "supervisor": "doc. RNDr. Eva Mičietová, CSc.",
     "aff": "",
-    "name": "Vplyv krajinnej pokrývky na uhlíkovú bilanciu a klimatické zmeny – regionálny aspekt",
-    "text": "Hodnotenie zmien krajinnej pokrývky SR podľa IPCC Afolu. Výpočet uhlíkovej bilancie  podľa metodiky IPCC  za posledných 30 rokov v SR. Identifikácia areálov zmeny klimatických faktorov z hľadiska zmeny uhlikovej bilancie. Vyhodnotenie identifikovaných vplyvov  na životné prostredie."
+    "name": "Vplyv krajinnej pokrývky na uhlíkovú bilanciu a klimatické zmeny – regionálny aspekt",
+    "text": "Hodnotenie zmien krajinnej pokrývky SR podľa IPCC Afolu. Výpočet uhlíkovej bilancie  podľa metodiky IPCC  za posledných 30 rokov v SR. Identifikácia areálov zmeny klimatických faktorov z hľadiska zmeny uhlikovej bilancie. Vyhodnotenie identifikovaných vplyvov  na životné prostredie."
   },
   {
     "id": "dFGG5",
     "program": "dFGG",
     "supervisor": "prof. RNDr. Jozef Minár, CSc.",
     "aff": "",
-    "name": "Numerické modelovanie dlhodobého vývoja georeliéfu a geomorfometrická evaluácia jeho výsledkov",
-    "text": "Numerické modelovanie dlhodobého vývoja georeliéfu sa používa na testovanie vývojových hypotéz konkrétnych území. Nastavenia modelu odrážajú často variantné scenáre a predstavy o iniciálnom reliéfe územia etapách jeho neotektonického a morfoklimatického vývoja a ďalších počiatočných a okrajových podmienkach. Mieru úspešnosti rôznych výsledkov takéhoto modelovania definuje zhoda výsledného namodelovaného povrchu so súčasným georeliéfom. Túto možno vyšetrovať prostredníctvom rôznych geomorfometrických charakteristík a objektov, ktoré je potrebné derivovať z vhodne generalizovaného DMR záujmového územia. Utvorenie sady numerických experimentov vybraného územia a ich ohodnotenie prostredníctvom porovnania povrchu utvoreného modelovaním a generalizovaného reálneho DMR bude hlavným cieľom dizertácie."
+    "name": "Numerické modelovanie dlhodobého vývoja georeliéfu a geomorfometrická evaluácia jeho výsledkov",
+    "text": "Numerické modelovanie dlhodobého vývoja georeliéfu sa používa na testovanie vývojových hypotéz konkrétnych území. Nastavenia modelu odrážajú často variantné scenáre a predstavy o iniciálnom reliéfe územia etapách jeho neotektonického a morfoklimatického vývoja a ďalších počiatočných a okrajových podmienkach. Mieru úspešnosti rôznych výsledkov takéhoto modelovania definuje zhoda výsledného namodelovaného povrchu so súčasným georeliéfom. Túto možno vyšetrovať prostredníctvom rôznych geomorfometrických charakteristík a objektov, ktoré je potrebné derivovať z vhodne generalizovaného DMR záujmového územia. Utvorenie sady numerických experimentov vybraného územia a ich ohodnotenie prostredníctvom porovnania povrchu utvoreného modelovaním a generalizovaného reálneho DMR bude hlavným cieľom dizertácie."
   },
   {
     "id": "dFGG6",
@@ -45,6 +45,6 @@
     "supervisor": "doc. RNDr. Milan Trizna, PhD.",
     "aff": "",
     "name": "Verifikácia vplyvu povrchu povodia na zrážkovo-odtokové modelovania",
-    "text": "Vybrané morfometrické a morfografické parametre povodí vstupujú významným spôsobom do zrážkovo-odtokového modelovania, ovplyvňujú ich výsledky a môžu byť zdrojom chýb, ktoré je problematické odhaliť. Dizertačná práca by sa zamerala na úlohu plochy povodia pri zrážkovo-odtokovom modelovaní, špeciálne pri určovaní úhrnu zrážok na plochu povodia. Zároveň by sa preveril vplyv vertikálnej členitosti reliéfu na presnosť určenia zrážkového úhrnu na plochu povodia ako vstup pre zrážkovo-odtokové modelovanie."
+    "text": "Vybrané morfometrické a morfografické parametre povodí vstupujú významným spôsobom do zrážkovo-odtokového modelovania, ovplyvňujú ich výsledky a môžu byť zdrojom chýb, ktoré je problematické odhaliť. Dizertačná práca by sa zamerala na úlohu plochy povodia pri zrážkovo-odtokovom modelovaní, špeciálne pri určovaní úhrnu zrážok na plochu povodia. Zároveň by sa preveril vplyv vertikálnej členitosti reliéfu na presnosť určenia zrážkového úhrnu na plochu povodia ako vstup pre zrážkovo-odtokové modelovanie."
   }
 ]
