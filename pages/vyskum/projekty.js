@@ -3,7 +3,8 @@ import { OpenExt } from "@components/icons";
 export default function Projekty() {
   return (
     <article>
-      <h1>Prehľad riešených projektov</h1>
+      <h1>Projekty</h1>
+      <h5>Prehľad riešených projektov od roku 2000</h5>
 
       <table><thead>
         <tr>
