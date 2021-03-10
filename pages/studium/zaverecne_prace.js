@@ -32,7 +32,7 @@ function ZaverecnePrace({ data }) {
             </dt>
             <dd className="mb-8 md:mb-10">
               <div className="italic mt-2 mb-4"><span className="rounded-info text-sm text-gray-600 px-3 py-1 mr-2 -ml-1 not-italic">{ item.id }</span> { item.supervisor } { item.aff && `(${item.aff})`}</div>
-              <div>{ item.text }</div>
+              <div className="text-justify">{ item.text }</div>
             </dd>
           </React.Fragment>
         ))}
