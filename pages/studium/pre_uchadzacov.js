@@ -7,28 +7,28 @@ export default function Studovat() {
       <h1>Pre uchádzačov</h1>
 
       <div className="flex flex-col md:flex-row-reverse items-center">
-        <img className="h-40" src="images/study1.svg" />
-        <div className="md:mr-4">Naša katedra ponúka dva bakalárske, magisterský aj doktorandský študijný program. Pokrývame tak všetky tri stupne štúdia v dvoch zameraniach: <b>fyzická geografia</b> sa sústreďuje na pochopenie prírodných javov a ich vzájomných vzťahov, <b>geoinformatika</b> na prácu s geografickými informáciami v GIS. <a href="studium/studijne_programy">Viac o ponuke programov...</a></div>
+        <img className="h-44" src="images/study1.svg" />
+        <div className="md:mr-6">Naša katedra ponúka dva bakalárske, magisterský aj doktorandský študijný program. Pokrývame tak všetky tri stupne štúdia v dvoch zameraniach: <b>fyzická geografia</b> sa sústreďuje na pochopenie prírodných javov a ich vzájomných vzťahov, <b>geoinformatika</b> na prácu s geografickými informáciami v GIS. <a href="studium/studijne_programy">Viac o ponuke programov...</a></div>
       </div>
 
-      <div className="flex flex-col md:flex-row items-center mt-8">
-        <img className="h-40" src="images/out.svg" />
-        <div className="md:ml-4">Najlepšie sa učí na konkrétnych príkladoch v skutočnom teréne. Podstatnou súčasťou štúdia u nás sú preto <a href="vyskum/praca_v_terene">exkurzie a terénne práce</a>.</div>
+      <div className="flex flex-col md:flex-row items-center mt-10">
+        <img className="h-44" src="images/out.svg" />
+        <div className="md:ml-6">Najlepšie sa učí na konkrétnych príkladoch v skutočnom teréne. Podstatnou súčasťou štúdia u nás sú preto <a href="vyskum/praca_v_terene">exkurzie a terénne práce</a>.</div>
       </div>
         
-      <div className="flex flex-col md:flex-row-reverse items-center mt-8">
-        <img className="h-40" src="images/grad.svg" />
-        <div className="md:mr-4">Naši absolventi majú veľké možnosti individuálnej špecializácie počas svojho štúdia. Okrem voliteľných predmetov na to slúžia aj záverečné práce, na ktoré kladieme veľký dôraz. Pozrite si <a href="studium/zaverecne_prace">ponuku aktuálnych tém záverečných prác</a>, <a href="studium/studijne_programy#prace">ukážky záverečných prác našich študentov</a>.</div>
+      <div className="flex flex-col md:flex-row-reverse items-center mt-10">
+        <img className="h-44" src="images/grad.svg" />
+        <div className="md:mr-6">Naši absolventi majú veľké možnosti individuálnej špecializácie počas svojho štúdia. Okrem voliteľných predmetov na to slúžia aj záverečné práce, na ktoré kladieme veľký dôraz. Pozrite si <a href="studium/zaverecne_prace">ponuku aktuálnych tém záverečných prác</a>, <a href="studium/studijne_programy#prace">ukážky záverečných prác našich študentov</a>.</div>
       </div>
         
-      <div className="flex flex-col md:flex-row items-center mt-8">
-        <img className="h-40" src="images/work1.svg" />
-        <div className="md:ml-4">Naši absolventi sú široko uplatniteľní ako GIS špecialisti aj ako prírodovedci špecializujúci sa na prierezové problémy prírody a krajiny. <a href="studium/studijne_programy#uplatnenie">Viac o uplatnení absolventov...</a></div>
+      <div className="flex flex-col md:flex-row items-center mt-10">
+        <img className="h-44" src="images/work1.svg" />
+        <div className="md:ml-6">Naši absolventi sú široko uplatniteľní ako GIS špecialisti aj ako prírodovedci špecializujúci sa na prierezové problémy prírody a krajiny. <a href="studium/studijne_programy#uplatnenie">Viac o uplatnení absolventov...</a></div>
       </div>
 
-       <div className="flex flex-col md:flex-row-reverse items-center mt-8">
-        <img className="h-40" src="images/science1.svg" />
-        <div className="md:mr-4">Je pre nás dôležité, aby sme pre našich študentov neboli len kvalitnými pedagógmi, ale aj inšpiratívnymi vedcami. Centrálnou súčasťou našej práce je preto výskum, ktorý sa dokáže presadiť na poli svetovej vedy: <a href="vyskum/vedecke_zameranie">vedecké zameranie</a>, <a href="vyskum/aplikacia_v_praxi">aplikácia v praxi</a>.</div>
+       <div className="flex flex-col md:flex-row-reverse items-center mt-10">
+        <img className="h-44" src="images/science1.svg" />
+        <div className="md:mr-6">Je pre nás dôležité, aby sme pre našich študentov neboli len kvalitnými pedagógmi, ale aj inšpiratívnymi vedcami. Centrálnou súčasťou našej práce je preto výskum, ktorý sa dokáže presadiť na poli svetovej vedy: <a href="vyskum/vedecke_zameranie">vedecké zameranie</a>, <a href="vyskum/aplikacia_v_praxi">aplikácia v praxi</a>.</div>
       </div>
         
       
