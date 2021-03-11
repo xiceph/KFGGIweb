@@ -72,7 +72,7 @@ export default function IndexPage( props ) {
             </div>
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Organizačná zmena</h5>
-              <div className="mb-2">Od 1.1.2021 sa zlúčila Katedra kartografie, geoinformatiky a diaľkového prieskumu Zeme a Katedra fyzickej geografie a geoekológie pod jednu Katedru fyzickej geografie a geoinformatiky.</div>
+              <div className="mb-2">Od 1.1.2021 sa zlúčila <a href="https://gis.fns.uniba.sk/" target="_blank">Katedra kartografie, geoinformatiky a diaľkového prieskumu Zeme</a> a <a href="https://fns.uniba.sk/kfg/" target="_blank">Katedra fyzickej geografie a geoekológie</a> pod jednu Katedru fyzickej geografie a geoinformatiky.</div>
             </div>
           </div>
         </div>
