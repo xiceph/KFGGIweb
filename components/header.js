@@ -14,6 +14,11 @@ export default function Header( props ) {
     'sk': "images/bezLogoO.svg",
     //'en': "images/navrhLogo2oEN.svg"
   }
+  const color = {
+    katedra: 'brown',
+    studium: 'green',
+    vyskum: 'blue'
+  }
   
   return (
     <header 
@@ -34,13 +39,15 @@ export default function Header( props ) {
         </div>
         <div className="hidden md:block">
           { pages.map((item) => (
-            <button 
-              className="cursor-pointer px-4 py-2.5 ml-3 text-blue-grey-800 rounded-full hover focus:outline-none focus:ring-1 focus:border-k-blue"
+            <span 
+              className={`inline-block cursor-pointer px-4 ml-6 mt-3 text-blue-grey-800 rounded-full hover-${color[item.id]} focus:outline-none focus:bg-k-${color[item.id]} focus:border-k-${color[item.id]} overflow-hidden`}
               key={item.id} 
               onClick={() => setMenuOpened(menuOpened == item ? false : item)}
             >
-              { item.title }
-            </button>
+              <button className={`pt-3 px-1.5 pb-0.5 mb-2.5 border-b-3 border-k-${color[item.id]} focus:outline-none`}>
+                { item.title }
+              </button>
+            </span>
           ))}
           {/*<span 
             className="px-3 ml-8 lg:ml-10" 

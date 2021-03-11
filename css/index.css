@@ -22,8 +22,14 @@
 
 @tailwind utilities;
 
-.hover {
-  @apply hover:bg-k-blue hover:bg-opacity-10;
+.hover, .hover-blue {
+  @apply hover:bg-k-blue hover:bg-opacity-10 focus:bg-opacity-10;
+}
+.hover-green {
+  @apply hover:bg-k-green hover:bg-opacity-10 focus:bg-opacity-10;
+}
+.hover-brown {
+  @apply hover:bg-k-brown hover:bg-opacity-5 focus:bg-opacity-5;
 }
 .rounded-info {
   @apply rounded-full bg-k-xl-gray bg-opacity-75 border border-k-xl-gray

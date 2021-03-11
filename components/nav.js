@@ -14,6 +14,12 @@ export default function Nav(props) {
   } = props;
   
   if(!menuOpened) return (<div></div>) 
+    
+  const color = {
+    katedra: 'brown',
+    studium: 'green',
+    vyskum: 'blue'
+  }
   
   return (
       <div className="relative z-20 max-w-screen-xl mx-auto md:pb-4 flex-grow min-h-0 grid grid-cols-11 w-full place-content-stretch border-t border-k-l-gray md:border-opacity-50 bg-gray-300 bg-opacity-10 md:bg-transparent">
@@ -32,7 +38,8 @@ export default function Nav(props) {
                     )}
                     onClick={() => setMenuOpened(item)}
                   >
-                    {item.title}
+                    { item.title }
+                    { menuOpened.id == item.id && <span className={`inline-block ml-2 w-5 h-1 align-middle bg-k-${color[item.id]} `}></span>}
                   </li>
                 ))}
               </ul>
@@ -58,10 +65,10 @@ export default function Nav(props) {
           className="flex-shrink col-span-7 md:col-span-5 lg:col-span-6 lg:grid lg:grid-cols-2 border-l bg-white md:bg-transparent md:border-none border-k-l-gray px-1 pb-3 pt-6 -ml-px overflow-auto"
           onClick={() => setMenuOpened(false)}
         >
-          {menuOpened.children.map((item) => (
+          { menuOpened.children.map((item) => (
             <li key={item.id}>
               <Link href={`/${menuOpened.id}/${item.id}`}>
-                <div className="py-2.5 px-5 md:px5 my-px cursor-pointer rounded-full hover border-t border-b border-transparent md:border-b-gray-200">{item.title}</div>
+                <div className={`py-2.5 px-5 md:px5 my-px cursor-pointer rounded-full hover-${color[menuOpened.id]} border-t border-b border-transparent md:border-b-gray-200`}>{item.title}</div>
               </Link>
             </li>
           ))}
