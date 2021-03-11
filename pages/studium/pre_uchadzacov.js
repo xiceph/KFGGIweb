@@ -13,7 +13,7 @@ export default function Studovat() {
 
       <div className="flex flex-col md:flex-row items-center mt-12">
         <img className="h-44" src="images/out.svg" />
-        <div className="mt-3 md:ml-6">Najlepšie sa učí na konkrétnych príkladoch v skutočnom teréne. Podstatnou súčasťou štúdia u nás sú preto <a href="vyskum/praca_v_terene">exkurzie a terénne práce</a>.</div>
+        <div className="mt-3 md:ml-6">Najlepšie sa učí na konkrétnych príkladoch v skutočnom teréne. Podstatnou súčasťou štúdia u nás sú preto <a href="studium/exkurzie_a_tereny">exkurzie a terénne práce</a>.</div>
       </div>
         
       <div className="flex flex-col md:flex-row-reverse items-center mt-12">
