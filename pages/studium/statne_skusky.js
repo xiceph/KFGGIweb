@@ -27,7 +27,7 @@ export default function Statnice() {
           <li>Geoekológia  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/mgr/ss_geoekologia.pdf">okruhy [pdf]</a></li>
           <li>Krajinné plánovanie  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/mgr/ss_krajplan.pdf">otázky [pdf]</a></li>
           <li>Geodézia a kartografia  <a href="docs/ss_GK.pdf">otázky [pdf]</a></li>
-          <li>Geoinformatika a diaľkový prieskum Zeme  <a href="docs/ss_GI.pdf">otázky [pdf]</a></li>
+          <li>Geoinformatika a diaľkový prieskum Zeme  <a href="docs/ss_GIDPZ.pdf">otázky [pdf]</a></li>
         </ol>
         
         <h4>Povinne voliteľné predmety</h4>
@@ -36,7 +36,7 @@ export default function Statnice() {
           <li>Hydrogeografia, meteorológia a klimatológia  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/mgr/ss_hydro_met_a_klim.pdf">otázky [pdf]</a></li>
           <li>Pedogeografia a biogeografia  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/mgr/ss_pedo_a_bio.pdf">otázky [pdf]</a></li>
           <li>Geografická báza údajov  <a href="docs/ss_GBU.pdf">otázky [pdf]</a></li>
-          <li>Fotogrametria  <a href="docs/ss_DF.pdf">otázky [pdf]</a></li>
+          <li>Fotogrametria  <a href="docs/ss_FG.pdf">otázky [pdf]</a></li>
           <li>Komplexný digitálny model reliéfu  <a href="docs/ss_KDMR.pdf">otázky [pdf]</a></li>
         </ol>
         <Separator size="sm" position="left" />
