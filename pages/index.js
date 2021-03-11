@@ -32,7 +32,7 @@ export default function IndexPage( props ) {
           <p className="mt-2 text-left-f">Či už sa chcete stať špecialistom na geoinformačné technológie alebo komplexným prírodovedcom, štúdium u nás pokrýva obe tieto zamerania od bakalárskeho až po doktorandský stupeň.</p>
           <p className="text-right-f pr-3">
             <Link href="/studium/pre_uchadzacov">
-              <button className="bg-k-blue px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end">
+              <button className="bg-k-blue px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end hover:shadow-md">
                 zistiť viac
               </button>
             </Link>
@@ -43,7 +43,7 @@ export default function IndexPage( props ) {
           <p className="mt-2 text-left-f">Produkujeme výskum, ktorý sa dokáže presadiť na poli svetovej vedy. Spektrum našich tém je široké, vďaka čomu sme schopní učiť aj riešiť vedecké problémy komplexne a interdisciplinárne.</p>
           <p className="text-right-f pr-3">
             <Link href="/vyskum/vedecke_zameranie">
-              <button className="bg-k-green px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end">
+              <button className="bg-k-green px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end hover:shadow-md">
                 zistiť viac
               </button>
             </Link>
@@ -54,7 +54,7 @@ export default function IndexPage( props ) {
           <p className="mt-2 text-left-f">Nezabúdame ani na výzvy uplatnenia fyzickej geografie a geoinformatiky pri praktických problémoch životného prostredia, pôdohospodárstva, či implementácie GIS do inštitucionálnej praxe.</p>
           <p className="text-right-f pr-3">
             <Link href="/vyskum/aplikacia_v_praxi">
-              <button className="bg-k-brown px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end">zistiť viac</button>
+              <button className="bg-k-brown px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end hover:shadow-md">zistiť viac</button>
             </Link>
           </p>
         </div>
