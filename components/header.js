@@ -40,7 +40,7 @@ export default function Header( props ) {
         <div className="hidden md:block">
           { pages.map((item) => (
             <span 
-              className={`inline-block cursor-pointer px-5 ml-6 mt-3 text-blue-grey-800 rounded-full hover-${color[item.id]} focus:outline-none focus:bg-k-${color[item.id]} focus:border-k-${color[item.id]} overflow-hidden`}
+              className={`inline-block cursor-pointer px-5 ml-5 mt-3 text-blue-grey-800 rounded-full hover-${color[item.id]} focus:outline-none focus:bg-k-${color[item.id]} focus:border-k-${color[item.id]} overflow-hidden`}
               key={item.id} 
               onClick={() => setMenuOpened(menuOpened == item ? false : item)}
             >
