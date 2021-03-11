@@ -66,7 +66,8 @@
     "tel": "+421 2 9014 9431",
     "room": "B1-458",
     "email": ["vladimir.faltan"],
-    "pubid": 442675
+    "pubid": 442675,
+    "web": "https://fns.uniba.sk/en/faltan"
   },
   {
     "id": "14893",
@@ -138,7 +139,8 @@
     "tel": "+421 2 9014 9518",
     "room": "B1-450",
     "email": ["jozef.minar"],
-    "pubid": 315378
+    "pubid": 315378,
+    "web": "https://fns.uniba.sk/en/minar"
   },
   {
     "id": "14604",

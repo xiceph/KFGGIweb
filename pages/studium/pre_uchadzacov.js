@@ -27,7 +27,7 @@ export default function Studovat() {
       </div>
 
        <div className="flex flex-col md:flex-row-reverse items-center mt-12">
-        <img className="h-44" src="images/science1.svg" />
+        <img className="h-44" src="images/science2a.svg" />
         <div className="mt-3 md:mr-6">Je pre nás dôležité, aby sme pre našich študentov neboli len kvalitnými pedagógmi, ale aj inšpiratívnymi vedcami. Centrálnou súčasťou našej práce je preto výskum, ktorý sa dokáže presadiť na poli svetovej vedy: <a href="vyskum/vedecke_zameranie">vedecké zameranie</a>, <a href="vyskum/aplikacia_v_praxi">aplikácia v praxi</a>.</div>
       </div>
         
