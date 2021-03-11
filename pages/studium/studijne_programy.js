@@ -39,9 +39,9 @@ export default function Programy() {
 
           <li>Súkromné expertné firmy zamerané na aktivity v ochrane prírody, krajinnom plánovaní a hodnotení krajiny, či v posudzovaní vplyvov na životné prostredie (EIA).</li>
           
-          <li>Oblasť meteorológie, klimatológie a hydrológie (SHMÚ a iné odborné inštitúcie, ale aj súkromné firmy)</li>
+          <li>Oblasť meteorológie, klimatológie a hydrológie (SHMÚ a iné odborné inštitúcie, ale aj súkromné firmy).</li>
 
-          <li>Pozície analytikov vo verejnej správe, najmä v rezortoch životného prostredia, výstavby a regionálneho rozvoja, pôdohospodárstva a v orgánoch samospráv regiónov, miest a obcí.</li>
+          <li>Pozície analytikov vo verejnej správe, najmä v rezortoch životného prostredia, výstavby a regionálneho rozvoja, pôdohospodárstva a v orgánoch samospráv regiónov, miest a obcí.</li>
           
           <li>Vo výskume v súkromnej aj akademickej sfére – naši absolventi sú pripravení pre nadväzné doktorandské štúdium v celom spektre geografických a environmentálnych odborov.</li>
         </ul>
