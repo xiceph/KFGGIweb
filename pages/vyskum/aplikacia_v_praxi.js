@@ -17,6 +17,16 @@ export default function Prax() {
       <img src="images/vyskum/vz-7.webp" alt="GIS portály obcí" />
       </p>
       
+      <h3>Tvorba koncepcií ochrany krajiny</h3> 
+      <p>Geografický prístup má významné miesto pri ochrane krajiny a navrhovaní jej optimálneho manažmentu. V ostatnom čase sme vypracovali štúdie zamerané na prívalové dažde a ochranu zdrojov vôd pre Bratislavský samosprávny kraj.<br/>
+      <img src="images/vyskum/vz-8.webp" alt="Tvorba koncepcií ochrany krajiny" />
+      </p>
+      
+      <h3>Monitoring bioty v Dunajských luhoch</h3> 
+      <p>Výstavba VD Gabčíkovo znamenala zásadnú zmenu pre prírodu Dunajských luhov. Už vyše tri dekády preto prebieha kontinuálny monitoring jej vplyvov na biotu v tomto území, ktorý je zastrešený pracovníkmi našej katedry.<br/>
+      <img src="images/vyskum/vz-9.webp" alt="Monitoring bioty v Dunajských luhoch" />
+      </p>
+      
     </article>
   );
 }

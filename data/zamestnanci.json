@@ -7,7 +7,8 @@
     "tel": "+421 2 9014 9264",
     "room": "B1-453",
     "email": ["igor.matecny"],
-    "pubid": 316926
+    "pubid": 316926,
+    "info": ""
   },
   {
     "id": "15126V",
@@ -17,7 +18,8 @@
     "tel": "+421 2 9014 9266",
     "room": "B1-454",
     "email": ["marian.jenco"],
-    "pubid": 608015
+    "pubid": 608015,
+    "info": ""
   },
   {
     "id": "20508",
@@ -26,7 +28,8 @@
     "position": "technik",
     "tel": "+421 2 9014 9380",
     "email": ["viera.bartovicova"],
-    "room": "CH1-B1-1"
+    "room": "CH1-B1-1",
+    "info": ""
   },
   {
     "id": "14553",
@@ -36,7 +39,8 @@
     "tel": "+421 2 9014 2097",
     "email": ["alexandra.benova"],
     "room": "G-21",
-    "pubid": 340850
+    "pubid": 340850,
+    "info": "Venuje sa geomorfometrii a kvantitatívnej geomorfológii; tematickej kartografii a mapovému jazyku, kartografickej vizualizácii a tvorbe tematických máp a atlasov; analýze starých máp a atlasov z hľadiska kartografie a zmien krajiny."
   },
   {
     "id": "1XXXX",
@@ -46,7 +50,8 @@
     "tel": "+421 2 9014 2167",
     "room": "G-19",
     "email": ["hana.bobalova"],
-    "pubid": 432378
+    "pubid": 432378,
+    "info": ""
   },
   {
     "id": "14212",
@@ -56,7 +61,8 @@
     "tel": "+421 2 9014 9259",
     "room": "B1-457",
     "email": ["michal.druga"],
-    "pubid": 863572
+    "pubid": 863572,
+    "info": "Jeho výskum je zameraný na modelovanie zmien krajinnej pokrývky, v rámci ktorého sa špecializuje na rozvoj a testovanie alternatívnych geografických indikátorov používaných v týchto modeloch. Vyučuje predmety zamerané na ovládanie ArcGIS a Office a praktickú časť metód geoekologického výskumu."
   },
   {
     "id": "14141",
@@ -67,7 +73,8 @@
     "room": "B1-458",
     "email": ["vladimir.faltan"],
     "pubid": 442675,
-    "web": "https://fns.uniba.sk/en/faltan"
+    "web": "https://fns.uniba.sk/en/faltan",
+    "info": "Venuje sa detailnému výskumu priestorovej štruktúry a dynamiky krajinnej pokrývky a využitia zeme. Zaoberá sa štúdiom území zasiahnutých prírodnými disturbanciami a kalamitnými udalosťami. Má skúsenosti s vedením vedeckých i aplikačne zameraných projektov využívajúcich terénny geoekologický výskum, diaľkový prieskum Zeme, interpretáciu štatistických modelov a GIS."
   },
   {
     "id": "14893",
@@ -79,7 +86,8 @@
     "email": ["richard.feciskanin"],
     "pubid": 572577,
     "info": "Venuje sa digitálnym modelom georeliéfu, najmä modelom založeným na trojuholníkovej sieti a ich optimalizácii; mapovým informačným službám a ich štandardom; webovému programovaniu a tvorbe webových mapových aplikácií; digitálnej kartografii a kartografickému modelovaniu.",
-    "web": "https://gis.fns.uniba.sk/feciskanin/"
+    "web": "https://gis.fns.uniba.sk/feciskanin/",
+    "info": ""
   },
   {
     "id": "15126",
@@ -89,7 +97,8 @@
     "tel": "+421 2 9014 9266",
     "room": "B1-454",
     "email": ["marian.jenco"],
-    "pubid": 608015
+    "pubid": 608015,
+    "info": ""
   },
   {
     "id": "15102",
@@ -99,7 +108,8 @@
     "tel": "+421 2 9014 9283",
     "room": "G-18",
     "email": ["miroslav.kozuch"],
-    "pubid": 340828
+    "pubid": 340828,
+    "info": "Venuje sa spracovaniu archívnych a aktuálnych leteckých meračských snímok metódami digitálnej fotogrametrie, resp. záznamov diaľkového prieskumu Zeme a hodnoteniu dosiahnutých výsledkov; zberu priestorových údajov využitím geodetických metód a globálnych navigačných satelitných systémov; 3D modelovaniu objektov."
   },
   {
     "id": "14380",
@@ -109,7 +119,8 @@
     "tel": "+421 2 9014 9261",
     "room": "B1-449",
     "email": ["zora.machova"],
-    "pubid": 334615
+    "pubid": 334615,
+    "info": ""
   },
   {
     "id": "14290",
@@ -119,7 +130,8 @@
     "tel": "+421 2 9014 9264",
     "room": "B1-453",
     "email": ["igor.matecny"],
-    "pubid": 316926
+    "pubid": 316926,
+    "info": ""
   },
   {
     "id": "14223",
@@ -129,7 +141,8 @@
     "tel": "+421 2 9014 9286",
     "email": ["eva.micietova"],
     "room": "G-437",
-    "pubid": 342726
+    "pubid": 342726,
+    "info": "Zameranie: geografické informačné systémy, geografická báza údajov, digitálne modely georeliéfu, priestorové informačné infraštruktúry. Najvýznamnejšie výsledky projektovej činnosti: Gis4EU, Geografický informačný systém environmentálneho zdravia, Národná infraštruktúra priestorových informácií."
   },
   {
     "id": "15107",
@@ -140,7 +153,8 @@
     "room": "B1-450",
     "email": ["jozef.minar"],
     "pubid": 315378,
-    "web": "https://fns.uniba.sk/en/minar"
+    "web": "https://fns.uniba.sk/en/minar",
+    "info": ""
   },
   {
     "id": "14604",
@@ -150,7 +164,8 @@
     "tel": "+421 2 9014 9396",
     "room": "G-23",
     "email": ["vladimir.pelech"],
-    "pubid": 1074302
+    "pubid": 1074302,
+    "info": "Venuje sa optimalizácii polohy kartografického pólu a problematike využitia GIS v oblasti environmentálneho zdravia. Výuka predmetov: Modelovanie DTM v GIS, Kartografia, Geografická báza údajov 1, 2 (cvičenia), Tvorba rozhodnutí v GIS."
   },
   {
     "id": "15099",
@@ -160,7 +175,8 @@
     "tel": "+421 2 9014 9263",
     "room": "B1-452",
     "email": ["peter.pisut"],
-    "pubid": 608013
+    "pubid": 608013,
+    "info": ""
   },
   {
     "id": "14254",
@@ -170,7 +186,8 @@
     "tel": "+421 2 9014 9262",
     "room": "B1-447",
     "email": ["juraj.prochazka"],
-    "pubid": 833746
+    "pubid": 833746,
+    "info": "Ťažiskom výskumu sú rekonštrukcie vývoja prírodného prostredia s využitím paleobotanických metód, s dôrazom na dlhodobé klimatické zmeny a interakcie človek-krajina v minulosti. Druhým výskumným pólom sú fluviálne geomorfologické procesy a vývoj georeliéfu riečnej krajiny v kvartéri vo vzťahu k rôznym faktorom, predovšetkým k tektonike, hydroklimatickým fluktuáciám a v mladších dobách k činnosti človeka."
   },
   {
     "id": "14983",
@@ -180,7 +197,8 @@
     "tel": "+421 2 9014 9620",
     "room": "B1-448",
     "email": ["ivan.ruzek"],
-    "pubid": 322133
+    "pubid": 322133,
+    "info": ""
   },
   {
     "id": "14687",
@@ -190,7 +208,8 @@
     "tel": "+421 2 9014 9568",
     "room": "B1-456",
     "email": ["milan.trizna"],
-    "pubid": 317669
+    "pubid": 317669,
+    "info": ""
   },
   {
     "id": "14732",
@@ -200,7 +219,8 @@
     "tel": "+421 2 9014 9742",
     "room": "G-101",
     "email": ["juraj.valis"],
-    "pubid": 604630
+    "pubid": 604630,
+    "info": "Venuje sa problematike geodézie, katastra nehnuteľností, metódam projektovania geografických informačných zdrojov, národnej infraštruktúre priestorových informácií a implementácii smernice EÚ INSPIRE, harmonizácii geografických údajov a terestrickým metódam zberu priestorových informácií."
   },
   {
     "id": "14990",
@@ -209,7 +229,8 @@
     "position": "technik", 
     "tel": "+421 2 9014 9260",
     "room": "B1-451",
-    "email": [ "jozef.zatko" ]
+    "email": [ "jozef.zatko" ],
+    "info": ""
   }
 ]
 

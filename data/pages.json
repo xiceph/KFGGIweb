@@ -12,7 +12,8 @@
       { "title": "Pre uchádzačov", "id": "pre_uchadzacov" },
       { "title": "Študijné programy", "id": "studijne_programy" },
       { "title": "Záverečné práce", "id": "zaverecne_prace" },
-      { "title": "Štátne skúšky", "id": "statne_skusky" }
+      { "title": "Štátne skúšky", "id": "statne_skusky" },
+      { "title": "Exkurzie a terény", "id": "exkurzie_a_tereny" }
     ]},
     { "title": "Výskum", "id": "vyskum", "children": [
       { "title": "Vedecké zameranie", "id": "vedecke_zameranie" },

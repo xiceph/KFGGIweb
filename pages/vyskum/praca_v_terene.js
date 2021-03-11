@@ -1,14 +1,14 @@
 import { promises as fs } from 'fs';
 import path from 'path';
-import Preparing from "@components/preparing";
 import Gallery from "@components/gallery";
 
 function Teren({ photos }) {
   return (
     <article>
       <h1>Práca v teréne</h1>
-      <Preparing />
-      <p>test foto</p>
+      
+      <p>Vlastné terénne dáta sú základom väčšiny našich výskumných projektov. Našťastie. V teréne sa totiž cítime najlepšie.</p>
+      
       <Gallery photos={photos} />
     </article>
   );
@@ -16,7 +16,7 @@ function Teren({ photos }) {
  
 export async function getStaticProps(context) {
 
-  const gallery = 'teren_exk';
+  const gallery = 'vysk_teren';
   const dataDirectory = path.join(process.cwd(), 'data');
   const fileContents = await fs.readFile(`${dataDirectory}/galleries/${gallery}.json`, 'utf8');
   const data = JSON.parse(fileContents);

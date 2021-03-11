@@ -6,7 +6,7 @@ export default function Media() {
     <article>
       <h1>V médiách</h1>
       
-      <p><a href="http://naucnechodniky.eu/" target="_blank">Náučné chodníky na Slovensku</a><br/>portál s postupne napĺňanou databázou pasportov náučných chodníkov na Slovensku, ktorý vznikol v rámci projektu katedry 
+      <p><a href="http://naucnechodniky.eu/" target="_blank">Náučné chodníky na Slovensku</a><span className="border-l-2 border-k-brown mx-3 py-0.5"></span>portál s postupne napĺňanou databázou pasportov náučných chodníkov na Slovensku, ktorý vznikol v rámci projektu katedry 
       </p>
       <Separator />
       <p><div className="mb-2"><Datum date={new Date("2020-11-15")} /></div>V reportáži <a href="https://fb.watch/49wmpUVeah/" target="_blank">Televíznych novín TV Markíza</a> charakterizoval Mgr. Miroslav Kožuch, PhD., úlohu misie Sentinel 6.

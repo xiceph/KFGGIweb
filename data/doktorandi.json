@@ -7,7 +7,8 @@
     "tel": "+421 2 9014 9250",
     "room": "B1-446",
     "year": "",
-    "pubid": 1118831
+    "pubid": 1118831,
+    "info": ""
   },
   {
     "id": 9999002,
@@ -17,7 +18,8 @@
     "tel": "+421 2 9014 9265",
     "room": "B1-455",
     "year": "",
-    "pubid": 1145238
+    "pubid": 1145238,
+    "info": "Venuje sa paleoekologickej rekonštrukcii aluviálnych pôd a antropicky ovplyvnených pôdnych sedimentov; primárne sa zameriava na rozbor tanatocenóz mäkkýšov a genézu pôd, taktiež na rekonštrukciu ľudskej ekumény a paleohydrologických pomerov. Podieľa sa na výuke predmetov Metódy pedogeografického výskumu a Základy pedológie a pedogeografie."
   },
   {
     "id": 9999003,
@@ -27,7 +29,8 @@
     "tel": "+421 2 9014 1141",
     "room": "G-14",
     "year": 2020,
-    "pubid": 1163533
+    "pubid": 1163533,
+    "info": "Venuje sa problematike mapovania a modelovania pôdneho organického uhlíka, taktiež zmenám krajinnej pokrývky a historickým štruktúram poľnohospodárskej krajiny. Podieľa sa na výučbe predmetov súvisiacich s geografickými informačnými systémami (GIS), databázami a počítačovou kartografiou."
   },
   {
     "id": 9999004,
@@ -37,7 +40,8 @@
     "tel": "+421 2 9014 9265",
     "room": "B1-455",
     "year": "",
-    "pubid": 1096402
+    "pubid": 1096402,
+    "info": "Vo výskume sa zameriava na využívanie geoekologických podkladov v precíznom poľnohospodárstve; primárne sa venuje meraniam a analýzam mikroklimatických pomerov, distribúcie hmyzích škodcov a pôdnych vlastností vo vinohradoch. V rámci pedagogickej činnosti sa podieľa na výuke predmetov Geoekológia, Fyzická geografia 3 a Metódy pedogeografického výskumu."
   },
   {
     "id": 9999005,
@@ -47,7 +51,8 @@
     "tel": "+421 2 9014 2076",
     "room": "B1-446",
     "year": "",
-    "pubid": 1087518
+    "pubid": 1087518,
+    "info": ""
   },
   {
     "id": 9999006,
@@ -57,7 +62,8 @@
     "tel": "+421 2 9014 2093",
     "room": "B1-445",
     "year": "",
-    "pubid": 1173544 
+    "pubid": 1173544 ,
+    "info": "Vo svojej dizertačnej práci sa venuje modelovaniu zmien krajinnej pokrývky. Špecializuje sa na výskum riadiacich síl súvisiacich s georeliéfom, jeho morfometrickými vlastnosťami a ich digitálnej reprezentácií v prostredí GIS."
   },
   {
     "id": 9999007,
@@ -67,7 +73,8 @@
     "tel": "+421 2 9014 2093",
     "room": "B1-445",
     "year": "",
-    "pubid": 1173549
+    "pubid": 1173549,
+    "info": ""
   },
   {
     "id": 9999008,
@@ -76,6 +83,7 @@
     "email": ["adam.supcik"],
     "tel": "+421 2 9014 2125",
     "room": "B1-455",
-    "year": ""
+    "year": "",
+    "info": "Špecializuje sa na precízne poľnohospodárstvo a vinohradníctvo, zo zameraním na analýzu leteckých snímok pre potreby identifikácie viniča v prostredí GIS, taktiež sa zaoberá tvorbou 3D modelov pre potreby precízneho vinohradníctva."
   }
 ]
