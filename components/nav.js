@@ -16,7 +16,7 @@ export default function Nav(props) {
   if(!menuOpened) return (<div></div>) 
   
   return (
-      <div className="max-w-screen-xl mx-auto md:pb-4 flex-grow min-h-0 grid grid-cols-11 w-full place-content-stretch border-t border-k-l-gray md:border-opacity-50 bg-gray-300 bg-opacity-10 md:bg-transparent">
+      <div className="relative z-20 max-w-screen-xl mx-auto md:pb-4 flex-grow min-h-0 grid grid-cols-11 w-full place-content-stretch border-t border-k-l-gray md:border-opacity-50 bg-gray-300 bg-opacity-10 md:bg-transparent">
         {
           mobile 
           ? (
