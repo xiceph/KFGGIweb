@@ -28,7 +28,7 @@ export default function Header( props ) {
       ) 
     }>
       { menuOpened && <div className="fixed inset-0 z-0" onClick={() => setMenuOpened(false)}></div> }
-      <div className="relative z-20 max-w-screen-xl w-full mx-auto flex justify-between items-center p-2 px-3 lg:p-2.5 lg:px-4" >
+      <div className="relative z-20 max-w-screen-xl w-full mx-auto flex justify-between items-center p-1.5 px-3 lg:p-2 lg:px-4" >
         <div 
           className="relative w-60 h-15 md:w-64 md:h-16 lg:w-72 lg:h-18 cursor-pointer"
           onClick={() => setMenuOpened(false)}
@@ -40,11 +40,11 @@ export default function Header( props ) {
         <div className="hidden md:block">
           { pages.map((item) => (
             <span 
-              className={`inline-block cursor-pointer px-4 ml-6 mt-3 text-blue-grey-800 rounded-full hover-${color[item.id]} focus:outline-none focus:bg-k-${color[item.id]} focus:border-k-${color[item.id]} overflow-hidden`}
+              className={`inline-block cursor-pointer px-5 ml-6 mt-3 text-blue-grey-800 rounded-full hover-${color[item.id]} focus:outline-none focus:bg-k-${color[item.id]} focus:border-k-${color[item.id]} overflow-hidden`}
               key={item.id} 
               onClick={() => setMenuOpened(menuOpened == item ? false : item)}
             >
-              <button className={`pt-3 px-1.5 pb-0.5 mb-2.5 border-b-3 border-k-${color[item.id]} focus:outline-none`}>
+              <button className={`pt-2.5 px-1.5 pb-0.5 mb-2 border-b-3 border-k-${color[item.id]} focus:outline-none`}>
                 { item.title }
               </button>
             </span>

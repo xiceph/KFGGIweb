@@ -5,6 +5,7 @@ export default function Projekty() {
     <article>
       <h1>Projekty</h1>
       <h5>Prehľad riešených projektov od roku 2000</h5>
+      <div><b>Pôvodná katedra fyzickej geografie a geoekológie</b></div>
 
       <table><thead>
         <tr>
@@ -128,13 +129,6 @@ export default function Projekty() {
             <td>Ostrovy vegetácie ako zdroje biodiverzity vo veľkomeste</td>
         </tr>
         <tr>
-          <td>2010 – 2011</td>
-          <td>VEGA</td>
-          <td>1/0469/10 </td>
-          <td>Mgr. Miroslav <b>Kožuch</b>, PhD.</td>
-          <td>Spracovanie, modelovanie a prezentácia prvkov krajiny z obrazových digitálnych záznamov</td>
-        </tr>
-        <tr>
             <td>01.09.2009 – 31.08.2012 (31.12.2012)</td>
             <td>APVV</td>
             <td>LPP-0130-09</td>
@@ -170,25 +164,11 @@ export default function Projekty() {
             <td>Vplyv zmien kvality ovzdušia mestskej aglomerácie Bratislava na lišajníky</td>
         </tr>
         <tr>
-          <td>11/2007 – 07/2010</td>
-          <td>EU eContentplus programme</td>
-          <td>ECP-2006-GEO-310011 </td>
-          <td>Ing. Juraj <b>Vališ</b>, PhD.</td>
-          <td>Provision of interoperable datasets GI to EU communities (GIS4EU)</td>
-        </tr>  
-        <tr>
             <td>01.01.2007 – 31.12.2009</td>
             <td>VEGA</td>
             <td>1/4042/07</td>
             <td>prof. RNDr. Jozef <b>Minár</b>, CSc.</td>
             <td>Geografické polia a výskum prírodných hrozieb (hazardov) a rizík</td>
-        </tr>
-        <tr>
-          <td>2007 – 2009</td>
-          <td>VEGA</td>
-          <td>1/0434/07</td>
-          <td>Mgr. Miroslav <b>Kožuch</b>, PhD.</td>
-          <td>Modelovanie priestorových štruktúr na podklade údajov získaných metódou digitálnej fotografie</td>
         </tr>
         <tr>
             <td>2006 – 2013</td>
