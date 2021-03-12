@@ -30,7 +30,7 @@ export default function Header( props ) {
       { menuOpened && <div className="fixed inset-0 z-0" onClick={() => setMenuOpened(false)}></div> }
       <div className="relative z-20 max-w-screen-xl w-full mx-auto flex justify-between items-center p-1.5 px-3 lg:p-2 lg:px-4" >
         <div 
-          className="relative w-60 h-15 md:w-64 md:h-16 lg:w-72 lg:h-18 cursor-pointer"
+          className="relative w-60 h-15 md:w-64 md:h-16 lg:w-72 lg:h-18 md:ml-2 lg:ml-1 cursor-pointer"
           onClick={() => setMenuOpened(false)}
         >
           <Link href={ locale == "sk" ? "/": "/en"}>
