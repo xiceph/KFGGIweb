@@ -1,3 +1,4 @@
+import React, { useEffect } from "react";
 import Head from "next/head";
 import { useRouter } from "next/router"; 
 //import Layout from "@components/layout";
@@ -30,6 +31,10 @@ function MyApp({ Component, pageProps }) {
   const regex = /^(\/en\/|\/)(.+)\/.+/g;
   const match = [...router.asPath.matchAll(regex)][0];
   const page = match && match[2];
+  
+  useEffect(() => {
+    document.documentElement.lang = locale;
+  }, [locale]);
   
   const locPages = pages[locale];
   const actPage = locPages.find( item => item.id == page );
