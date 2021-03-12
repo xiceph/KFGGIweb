@@ -32,14 +32,14 @@ export default function Nav(props) {
                   <li 
                     key={item.id} 
                     className={cn(
-                      "py-2.5 pl-5 my-px cursor-pointer rounded-l-full border-t border-b border-l border-transparent hover:bg-opacity-10",
+                      "py-2.5 pl-5 my-px flex items-center justify-between cursor-pointer rounded-l-full border-t border-b border-l border-transparent hover:bg-opacity-10",
                       menuOpened.id == item.id && 'cursor-default bg-white hover:bg-opacity-100 border-k-l-gray text-black',
                       menuOpened.id != item.id && 'hover text-gray-600'
                     )}
                     onClick={() => setMenuOpened(item)}
                   >
                     { item.title }
-                    { menuOpened.id == item.id && <span className={`inline-block ml-2 w-5 h-1 align-middle bg-k-${color[item.id]} `}></span>}
+                    { menuOpened.id == item.id && <span className={`inline-block mr-2 w-5 h-1 align-middle bg-k-${color[item.id]} `}></span>}
                   </li>
                 ))}
               </ul>
