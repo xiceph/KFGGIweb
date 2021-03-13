@@ -26,10 +26,10 @@
   @apply hover:bg-k-blue hover:bg-opacity-10 focus:bg-opacity-10;
 }
 .hover-green {
-  @apply hover:bg-k-green hover:bg-opacity-10 focus:bg-opacity-10;
+  @apply hover:bg-k-green hover:bg-opacity-8 focus:bg-opacity-8;
 }
 .hover-brown {
-  @apply hover:bg-k-brown hover:bg-opacity-5 focus:bg-opacity-5;
+  @apply hover:bg-k-brown hover:bg-opacity-6 focus:bg-opacity-6;
 }
 .rounded-info {
   @apply rounded-full bg-k-xl-gray bg-opacity-75 border border-k-xl-gray

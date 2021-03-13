@@ -39,7 +39,7 @@ export default function Nav(props) {
                     onClick={() => setMenuOpened(item)}
                   >
                     { item.title }
-                    { menuOpened.id == item.id && <span className={`inline-block mr-2 w-5 h-1 align-middle bg-k-${color[item.id]} `}></span>}
+                    { menuOpened.id == item.id && <span className={`inline-block mr-2 w-5 h-3px align-middle bg-k-${color[item.id]} `}></span>}
                   </li>
                 ))}
               </ul>

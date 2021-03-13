@@ -19,14 +19,19 @@ module.exports = {
         'k-blue': '#39c3fa',
         'k-green': '#1db956',
         'k-brown': '#92400E',
+        'k-d-brown': '#643e29',
         'k-gray': '#3b4b59',
         'k-l-gray': '#c2d0dc',
         'k-xl-gray': '#dde7f0',
       },
       opacity: {
+        '6': '.06',
+        '8': '.08',
         '97': '.97'
       },
       height: {
+        '2px': '2px',
+        '3px': '3px',
         '15': '3.75rem',
         '18': '4.5rem',
         '22': '5.5rem',
