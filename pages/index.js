@@ -80,24 +80,14 @@ export default function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <div className="mb-1.5"><Datum date={new Date("2021-03-17")}></Datum></div>
-              <h5 className="font-bold mb-2">Prednáška: Geologický vývoj a stavba Bratislavy a okolia</h5>
-              <div>
-                <div className="mb-2">Čas: <i>16:00 - 17:30</i> online</div>
-                <div className="mb-2">Prednášajúci: <i>Mgr. Imrich Sládek, PhD.</i></div>
-                <Collapse>
-                  <div className="mb-2">Popularizačným spôsobom bude prezentovaný geologický vývoj a stavba Bratislavy a jej blízkeho okolia, a to ako slovenská časť (Devínske Karpaty), tak aj rakúska (Hainburské vrchy) na podklade zjednodušenej geologickej mapy. Zvláštna pozornosť bude venovaná zaujímavým geologickým lokalitám na oboch stranách Dunaja a tiež horninám charakteristickým pre toto územie.</div>
-                  <div className="mb-2">Online prednáška cez aplikáciu Zoom. Prístupové údaje prihláseným budú zaslané najneskôr 1 hodinu pred prednáškou.</div>
-                  <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/gkmo" target="_blank">https://lnk.sk/gkmo <OpenExt /></a>.</div>
-                  <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2021/2021-03-17-geoklub.pdf" target="_blank">Plagát</a></div>
-                </Collapse>
-                
-              </div>
-            </div>
-            <div className="py-4 first:pt-0">
               <div className="mb-1.5"><Datum date={new Date("2021-03-31")}></Datum></div>
               <h5 className="font-bold mb-1">Termín podávania prihlášok</h5>
               <div>Na bakalárske študijné programy uskutočňované na Prírodovedeckej fakulte UK v akad. roku 2021/2022. Detaily o <a href="https://fns.uniba.sk/studium/uchadzaci-o-studium/prijimacie-konanie/bakalarsky-stupen-studia/" taget="_blank">prijímacom konaní na fakulte <OpenExt /></a>.</div>
+            </div>
+            <div className="py-4 first:pt-0">
+              <div className="mb-1.5"><Datum date={new Date("2021-04-21")}></Datum></div>
+              <h5 className="font-bold mb-1">Študentská vedecká konferencia</h5>
+              <div>ŠVK PRIF UK 2021 sa bude konať "on-line" formou cez MS Teams. <a href="http://registracia.svkprifuk.fns.uniba.sk/" taget="_blank">Registrácia <OpenExt /></a> je otvorená do 26. 3. 2021. Viac informácií na <a href="https://fns.uniba.sk/svk/" taget="_blank">stránke konferencie <OpenExt /></a>.</div>
             </div>
           </div>
         </div>
