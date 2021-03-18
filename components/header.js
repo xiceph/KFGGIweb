@@ -11,8 +11,12 @@ export default function Header( props ) {
   const [menuMobileIsOpen, setMenuMobileIsOpen] = useState(false);
   
   const logo = {
-    'sk': "images/bezLogoO.svg",
-    //'en': "images/navrhLogo2oEN.svg"
+    sk: "images/bezLogoO.svg",
+    en: "images/navrhLogo2oEN.svg"
+  }
+  const text = {
+    sk: "Katedra fyzickej geografie a geoinformatiky",
+    en: "Department of Physical Geography and Geoinformatics"
   }
   const color = {
     katedra: 'brown',
@@ -34,7 +38,7 @@ export default function Header( props ) {
           onClick={() => setMenuOpened(false)}
         >
           <Link href={ locale == "sk" ? "/": "/en"}>
-            <img className="max-h-full" src={ logo[locale] } alt="logo" />
+            <a><img className="max-h-full" src={ logo[locale] } alt={ text[locale] } /></a>
           </Link>
         </div>
         <div className="hidden md:block">
