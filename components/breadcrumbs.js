@@ -18,7 +18,7 @@ export default function Breadcrumbs( props ) {
     }
   }
 
-  const path = router.asPath.slice(1).split('#')[0].split("/");
+  const path = router.asPath.slice(1).split('#')[0].split('?')[0].split("/");
   const first = path[0] == "en" 
     ? { title: "Home", id: "en" }
     : { title: "Domov", id: "" }
