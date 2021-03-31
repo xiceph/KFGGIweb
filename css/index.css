@@ -32,7 +32,16 @@
   @apply hover:bg-k-brown hover:bg-opacity-6 focus:bg-opacity-6;
 }
 .rounded-info {
-  @apply rounded-full bg-k-xl-gray bg-opacity-75 border border-k-xl-gray
+  @apply rounded-full bg-k-xl-gray bg-opacity-75 border border-k-xl-gray text-gray-600
+}
+.rounded-info svg {
+  @apply text-gray-500
+}
+.rounded-info-strong {
+  @apply rounded-full bg-k-gray bg-opacity-70 border border-k-gray border-opacity-70 text-gray-50
+}
+.rounded-info-strong svg {
+  @apply text-gray-100
 }
 
 h5 + * {
