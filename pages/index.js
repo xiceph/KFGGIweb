@@ -3,7 +3,9 @@ import Datum from "@components/datum"
 import Collapse from "@components/collapse"
 import { OpenExt } from "@components/icons";
 
-export default function IndexPage( props ) {
+
+
+function IndexPage( props ) {
   
   return (
     <div className="front">
@@ -80,7 +82,7 @@ export default function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <div className="mb-1.5"><Datum date={new Date("2021-04-21")}></Datum></div>
+              <div className="mb-1.5"><Datum date={ new Date("2021-04-21") } today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-2">Prednáška: Nebezpečné lavíny</h5>
               <div>
                 <div className="mb-2">Čas: <i>16:00 - 17:30</i> online</div>
@@ -94,7 +96,7 @@ export default function IndexPage( props ) {
               </div>
             </div>
             <div className="py-4 first:pt-0">
-              <div className="mb-1.5"><Datum date={new Date("2021-04-21")}></Datum></div>
+              <div className="mb-1.5"><Datum date={ new Date("2021-04-21") } today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Študentská vedecká konferencia</h5>
               <div>ŠVK PRIF UK 2021 sa bude konať "on-line" formou cez MS Teams. Viac informácií na <a href="https://fns.uniba.sk/svk/" taget="_blank">stránke konferencie <OpenExt /></a>.</div>
             </div>
@@ -105,3 +107,11 @@ export default function IndexPage( props ) {
     </div>
   );
 }
+
+export const getServerSideProps = async() => {
+  const today = new Date().toJSON();
+  
+  return { props: { today } };
+}
+
+export default IndexPage;

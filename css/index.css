@@ -38,7 +38,7 @@
   @apply text-gray-500
 }
 .rounded-info-strong {
-  @apply rounded-full bg-k-gray bg-opacity-70 border border-k-gray border-opacity-70 text-gray-50
+  @apply rounded-full bg-k-brown bg-opacity-75 border border-k-brown border-opacity-50 text-gray-50
 }
 .rounded-info-strong svg {
   @apply text-gray-100

@@ -1,8 +1,7 @@
 export default function Datum( props ) {
-  const { date, className } = props;
+  const { date, today, className } = props;
   
   const options = { dateStyle: 'short' };
-  const today = new Date();
   const isToday = date.getDate() == today.getDate() 
     && date.getMonth() == today.getMonth() 
     && date.getFullYear() == today.getFullYear();
