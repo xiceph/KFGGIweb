@@ -96,7 +96,7 @@ export default function IndexPage( props ) {
             <div className="py-4 first:pt-0">
               <div className="mb-1.5"><Datum date={new Date("2021-04-21")}></Datum></div>
               <h5 className="font-bold mb-1">Študentská vedecká konferencia</h5>
-              <div>ŠVK PRIF UK 2021 sa bude konať "on-line" formou cez MS Teams. <a href="http://registracia.svkprifuk.fns.uniba.sk/" taget="_blank">Registrácia <OpenExt /></a> je otvorená do 31. 3. 2021. Viac informácií na <a href="https://fns.uniba.sk/svk/" taget="_blank">stránke konferencie <OpenExt /></a>.</div>
+              <div>ŠVK PRIF UK 2021 sa bude konať "on-line" formou cez MS Teams. Viac informácií na <a href="https://fns.uniba.sk/svk/" taget="_blank">stránke konferencie <OpenExt /></a>.</div>
             </div>
           </div>
         </div>
