@@ -2,10 +2,12 @@ export default function Datum( props ) {
   const { date, today, className } = props;
   
   const options = { dateStyle: 'short' };
-  const isToday = date.getDate() == today.getDate() 
+  let isToday = false;
+  if( today ) {
+    isToday = date.getDate() == today.getDate() 
     && date.getMonth() == today.getMonth() 
     && date.getFullYear() == today.getFullYear();
-    
+  }
   const type = isToday ? 'rounded-info-strong' : 'rounded-info'
   
   return (
