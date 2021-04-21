@@ -96,9 +96,9 @@ function IndexPage( props ) {
               </div>
             </div>
             <div className="py-4 first:pt-0">
-              <div className="mb-1.5"><Datum date={ new Date("2021-04-21") } today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Študentská vedecká konferencia</h5>
-              <div>ŠVK PRIF UK 2021 sa bude konať "on-line" formou cez MS Teams. Viac informácií na <a href="https://fns.uniba.sk/svk/" taget="_blank">stránke konferencie <OpenExt /></a>.</div>
+              <div className="mb-1.5"><Datum date={new Date("2021-05-31")}></Datum></div>
+              <h5 className="font-bold mb-1">Termín prihlasovania</h5>
+              <div>Na PhD. doktorandské štúdium pre akademický rok 2021/2022 na Prírodovedeckej fakulte UK. Vyberte si z našej <Link href="/studium/zaverecne_prace#sect_3_1"><a>ponuky tém záverečných prác.</a></Link>.</div>
             </div>
           </div>
         </div>
