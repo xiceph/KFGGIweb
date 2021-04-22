@@ -82,20 +82,6 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <div className="mb-1.5"><Datum date={ new Date("2021-04-21") } today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-2">Prednáška: Nebezpečné lavíny</h5>
-              <div>
-                <div className="mb-2">Čas: <i>16:00 - 17:30</i> online</div>
-                <div className="mb-2">Prednášajúci: <i>Mgr. Miroslav Žiak, PhD.</i></div>
-                <Collapse>
-                  <div className="mb-2">V prednáške predstavíme lavínové udalosti, ktoré patria k tým najrozsiahlejším. Aj na Slovensku boli nešťastia, ktoré patria do svetového zoznamu 80 najväčších lavínových udalostí. Zoznam otvára najväčšia lavínová katastrofa z Peru s 22 000 obeťami na životoch. Ďalšou je tzv. Biely piatok z roku 1916, kedy v Taliansku zahynuli tisícky ľudí v dôsledku mimoriadne tragickej série lavín. Na Slovensku bola najtragickejšou lavína vo Veľkej Fatre, ktorá zasiahla osadu Rybô, s 18 obeťami. Spomenieme aj udalosti z Nízkych Tatier, Západných Tatier, Vysokých Tatier a Oravskej Magury. Za zmienku stojí aj tragická lavína z poľskej strany Tatier od Morského oka, kde v roku 2003 zahynuli žiaci strednej školy.</div>
-                  <div className="mb-2">Online prednáška cez aplikáciu Zoom. Prístupové údaje prihláseným budú zaslané najneskôr 1 hodinu pred prednáškou.</div>
-                  <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/gkmo" target="_blank">https://lnk.sk/gkmo <OpenExt /></a>.</div>
-                  <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2021/2021-04-21-geoklub.pdf" target="_blank">Plagát</a></div>
-                </Collapse>
-              </div>
-            </div>
-            <div className="py-4 first:pt-0">
               <div className="mb-1.5"><Datum date={new Date("2021-05-31")}></Datum></div>
               <h5 className="font-bold mb-1">Termín prihlasovania</h5>
               <div>Na PhD. doktorandské štúdium pre akademický rok 2021/2022 na Prírodovedeckej fakulte UK. Vyberte si z našej <Link href="/studium/zaverecne_prace#sect_3_1"><a>ponuky tém záverečných prác</a></Link>.</div>
