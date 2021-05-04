@@ -82,6 +82,20 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
+              <div className="mb-1.5"><Datum date={ new Date("2021-05-12") } today={ new Date(props.today) }></Datum></div>
+              <h5 className="font-bold mb-2">Prednáška: Dierkavce ako indikátory znečistenia morských ekosystémov</h5>
+              <div>
+                <div className="mb-2">Čas: <i>16:00 - 17:30</i> online</div>
+                <div className="mb-2">Prednášajúci: <i>Mgr. Andrej Ruman, PhD.</i></div>
+                <Collapse>
+                  <div className="mb-2">Negatívny vplyv ľudských aktivít na životné prostredie si naliehavo vyžaduje plán riadenia našich aktivít s ohľadom na udržateľnosť priaznivého životného prostredia pribežných oblastí a tým i svetového oceánu. Dierkavce, jednobunkové (prevažne) morské organizmy s vápenatou alebo aglutinovanou schránkou, patria medzi najhojnejšie zastúpené mikroorganizmy v povrchových sedimentoch morských prostredí. Sú veľmi citlivé na meniace sa podmienky prostredia, čím potenciálne poskytujú informácie o kvalite ekosystému v ktorom žijú. Štúdium dierkavcov je nezastupiteľné, pretože umožňujú početným vedeckým tímom monitorovať stav pobrežného a morského prostredia identifikáciou vplyvu znečisťujúcich látok na živé organizmy.</div>
+                  <div className="mb-2">Online prednáška cez aplikáciu Zoom. Prístupové údaje prihláseným budú zaslané najneskôr 1 hodinu pred prednáškou.</div>
+                  <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/gkmo" target="_blank">https://lnk.sk/gkmo <OpenExt /></a>.</div>
+                  <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2021/2021-05-12-geoklub.pdf" target="_blank">Plagát</a></div>
+                </Collapse>
+              </div>
+            </div>
+            <div className="py-4 first:pt-0">
               <div className="mb-1.5"><Datum date={new Date("2021-05-31")}></Datum></div>
               <h5 className="font-bold mb-1">Termín prihlasovania</h5>
               <div>Na PhD. doktorandské štúdium pre akademický rok 2021/2022 na Prírodovedeckej fakulte UK. Vyberte si z našej <Link href="/studium/zaverecne_prace#sect_3_1"><a>ponuky tém záverečných prác</a></Link>.</div>
