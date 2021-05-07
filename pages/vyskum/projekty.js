@@ -5,7 +5,11 @@ export default function Projekty() {
     <article>
       <h1>Projekty</h1>
       <h5 className="mb-f6">Prehľad riešených projektov od roku 2000</h5>
+      
 
+
+
+    
       <div className="border-b border-l-3 md:border-l-4 border-k-l-gray pl-3 md:pl-5 mt-4">
         <div className="flex flex-col pb-3 pt-1">
             <div><b>Názov projektu</b></div>
@@ -15,9 +19,15 @@ export default function Projekty() {
       </div>
       <div className="divide-y divide-k-xl-gray">
         <div className="flex flex-col-reverse py-3">
-            <div>01.01.2020 – 31.12.2022  VEGA  1/0555/20</div>
-            <div className="mt-1.5">RNDr. Igor <b>Matečný</b>, PhD.</div>
-            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/ismonitoringbioty" target="_blank" data-htmlarea-external="1">Informačný systém monitoring bioty v rámci hodnotenia vplyvu VD Gabčíkovo <OpenExt /></a></div>
+          <div>01.01.2021 – 31.12.2023  KEGA  065UK-4/2021</div>
+          <div className="mt-1.5">RNDr. Ivan <b>Ružek</b>, PhD.</div>
+          <div className="text-k-d-brown">Podpora geovedného vzdelávania prostredníctvom náučných chodníkov</div>
+        </div>
+        <div className="flex flex-col-reverse py-3">
+          <div>01.01.2020 – 31.12.2022  VEGA  1/0555/20</div>
+          <div className="mt-1.5">RNDr. Igor <b>Matečný</b>, PhD.</div>
+          <div className="text-k-d-brown"><a href="https://fns.uniba.sk/ismonitoringbioty" target="_blank" data-htmlarea-external="1">Informačný systém monitoring bioty v rámci hodnotenia vplyvu VD Gabčíkovo <OpenExt /></a>
+          </div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>01.01.2019 – 31.12.2022  VEGA  1/0247/19</div>
