@@ -13,7 +13,7 @@ function IndexPage( props ) {
         <div className="flex items-center justify-center md:col-start-3 h-60 md:h-72">
           <img
             className="max-h-full"
-            alt="Hero image"
+            alt="Katedra fyzickej geografie a geoinformatiky - Spájame poznanie prírody a informačné technológie"
             src="images/KFGGIo.svg"
           />
         </div>
