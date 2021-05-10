@@ -336,6 +336,30 @@
     "text": "Cieľom práce je podrobný popis služieb registra priestorových informácií (RPI), možností využitia služieb RPI v rámci národnej infraštruktúry priestorových informácií a realizácia projektu zobrazenia kombinovaných údajov zo zdrojov získaných z RPI."
   },
   {
+    "id": "ZIK18",
+    "program": "ZIK",
+    "supervisor": "Mgr. Adam Šupčík",
+    "aff": "",
+    "name": "Tvorba a optimalizácia 3D modelu viniča pre potreby precízneho vinohradníctva",
+    "text": "Práca sa zameriava na tvorbu a optimalizáciu 3D modelu koruny a kmeňa viniča zo snímok. 3D model napomáha pri určovaní množstva koreňov, objemu koruny a rôznych charakteristík jednotlivých odrôd ako napríklad výška porastu, rozstup medzi jednotlivými koreňmi. Včasnou identifikáciou nedostatkov vinohradu sa dajú odhaliť vznikajúce problémy spojené s výskytom škodcov, chorôb a nevhodných fyziologických a chemických podmienok. Téma ponúka nadobudnutie zručností v oblasti práce s bezpilotnými lietadlami (UAV/drony), spracovania snímok, tvorby 3D modelov, používania GIS softvéru a GNSS zariadení."
+  },
+  {
+    "id": "ZIK19",
+    "program": "ZIK",
+    "supervisor": "Mgr. Tomáš Goga",
+    "aff": "Geografický ústav SAV, Bratislava",
+    "name": "Identifikácia solárnych elektrární s využitím satelitných údajov",
+    "text": "Fotovoltaika je v súčasnosti jednou s najrýchlejšie rozvíjajúcich sa foriem výroby elektrickej energie. V mnohých krajinách dochádza k zintenzívneniu výroby takejto energie prostredníctvom štátnej podpory a vznikajú tak „menšie elektrárne“ na strechách domov alebo veľkých fabrík a taktiež aj vo voľnej krajine. Cieľom bakalárskej práce je vytvorenie klasifikačného postupu pre identifikáciu solárnych elektrární s využitím satelitných údajov Sentinel-2 a (alebo) Sentinel-1.Veľkosť záujmového územia závisí zvoleného nástroja na prácu s takýmto typom údajov – možné je využitie výpočtových kapacít na lokálnych zariadeniach (softvér SNAP, QGIS, prípadne Python) alebo tzv. cloud-based computing prostredníctvom služby Google Earth Engine (programovanie v JavaScript). Študent počas vypracovania bakalárskej práce získa prax v oblasti spracovania údajov diaľkového prieskumu Zeme a tvorbe klasifikačných postupov. Dôraz pri hodnotení práce študenta je kladený na prácu s informačnými zdrojmi. Skúsenosti nadobudnuté pri takomto type práce sú vysoko hodnotené v komerčnom prostredí."
+  },
+  {
+    "id": "ZIK20",
+    "program": "ZIK",
+    "supervisor": "Mgr. Tomáš Goga",
+    "aff": "Geografický ústav SAV, Bratislava",
+    "name": "Filtrácia radarového šumu na rôznych triedach krajinnej pokrývky",
+    "text": "Cieľom bakalárskej práce je porovnanie algoritmov určených pre filtráciu šumu radarových snímok. Testované budú algoritmy implementované vo voľne dostupnom softvéri SNAP s rôznymi nastaveniami na rôznych triedach krajinnej pokrývky. Študent bude realizovať štatistickú analýzu pomocou parametrov identifikovaných v aktuálnej literatúre. Študent zvládne pokročilé metódy jedno-produktovej a temporálnej filtrácie radarového šumu. Realizácia práce predpokladá pokročilé znalosti spracovania radarových údajov a vizuálnej klasifikácie, výhodou sú základy programovania v programovacom jazyku Python."
+  },
+  {
     "id": "upGE1",
     "program": "upGE",
     "supervisor": "Mgr. Alexandra Benová, PhD.",
