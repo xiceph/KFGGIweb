@@ -82,18 +82,9 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <div className="mb-1.5"><Datum date={ new Date("2021-05-12") } today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-2">Prednáška: Dierkavce ako indikátory znečistenia morských ekosystémov</h5>
-              <div>
-                <div className="mb-2">Čas: <i>16:00 - 17:30</i> online</div>
-                <div className="mb-2">Prednášajúci: <i>Mgr. Andrej Ruman, PhD.</i></div>
-                <Collapse>
-                  <div className="mb-2">Negatívny vplyv ľudských aktivít na životné prostredie si naliehavo vyžaduje plán riadenia našich aktivít s ohľadom na udržateľnosť priaznivého životného prostredia pribežných oblastí a tým i svetového oceánu. Dierkavce, jednobunkové (prevažne) morské organizmy s vápenatou alebo aglutinovanou schránkou, patria medzi najhojnejšie zastúpené mikroorganizmy v povrchových sedimentoch morských prostredí. Sú veľmi citlivé na meniace sa podmienky prostredia, čím potenciálne poskytujú informácie o kvalite ekosystému v ktorom žijú. Štúdium dierkavcov je nezastupiteľné, pretože umožňujú početným vedeckým tímom monitorovať stav pobrežného a morského prostredia identifikáciou vplyvu znečisťujúcich látok na živé organizmy.</div>
-                  <div className="mb-2">Online prednáška cez aplikáciu Zoom. Prístupové údaje prihláseným budú zaslané najneskôr 1 hodinu pred prednáškou.</div>
-                  <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/gkmo" target="_blank">https://lnk.sk/gkmo <OpenExt /></a>.</div>
-                  <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2021/2021-05-12-geoklub.pdf" target="_blank">Plagát</a></div>
-                </Collapse>
-              </div>
+              <div className="mb-1.5"><Datum date={new Date("2021-05-26")}></Datum></div>
+              <h5 className="font-bold mb-1">Dizertačná skúška</h5>
+              <div>Dizertačnú skúšku absolvujú o 9.00 Mgr. F. Moravčík, o 10.30 Mgr. A. Šupčík a o 13.00 Mgr. R. Kohilová. <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjEzMTZjNmUtMzE2Zi00M2JiLThmN2UtZDMxZmU1MjhmZGQz%40thread.v2/0?context=%7b%22Tid%22%3a%22ce31478d-6e7a-4ce7-8670-a5b9d51884f9%22%2c%22Oid%22%3a%22774e8706-8076-4582-b086-65d27e2a63a8%22%7d" target="_blank">Link pre verejnosť na pripojenie na dizertačnú skúšku <OpenExt /></a>.</div>
             </div>
             <div className="py-4 first:pt-0">
               <div className="mb-1.5"><Datum date={new Date("2021-05-31")}></Datum></div>
