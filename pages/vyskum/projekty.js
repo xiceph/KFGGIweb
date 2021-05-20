@@ -6,10 +6,6 @@ export default function Projekty() {
       <h1>Projekty</h1>
       <h5 className="mb-f6">Prehľad riešených projektov od roku 2000</h5>
       
-
-
-
-    
       <div className="border-b border-l-3 md:border-l-4 border-k-l-gray pl-3 md:pl-5 mt-4">
         <div className="flex flex-col pb-3 pt-1">
             <div><b>Názov projektu</b></div>
@@ -21,58 +17,58 @@ export default function Projekty() {
         <div className="flex flex-col-reverse py-3">
           <div>01.01.2021 – 31.12.2023  KEGA  065UK-4/2021</div>
           <div className="mt-1.5">RNDr. Ivan <b>Ružek</b>, PhD.</div>
-          <div className="text-k-d-brown">Podpora geovedného vzdelávania prostredníctvom náučných chodníkov</div>
+          <div className="text-k-d-brown"><a href="https://fns.uniba.sk/geovzdelavanie" target="_blank" >Podpora geovedného vzdelávania prostredníctvom náučných chodníkov <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
           <div>01.01.2020 – 31.12.2022  VEGA  1/0555/20</div>
           <div className="mt-1.5">RNDr. Igor <b>Matečný</b>, PhD.</div>
-          <div className="text-k-d-brown"><a href="https://fns.uniba.sk/ismonitoringbioty" target="_blank" data-htmlarea-external="1">Informačný systém monitoring bioty v rámci hodnotenia vplyvu VD Gabčíkovo <OpenExt /></a>
+          <div className="text-k-d-brown"><a href="https://fns.uniba.sk/ismonitoringbioty" target="_blank" >Informačný systém monitoring bioty v rámci hodnotenia vplyvu VD Gabčíkovo <OpenExt /></a>
           </div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>01.01.2019 – 31.12.2022  VEGA  1/0247/19</div>
             <div className="mt-1.5">doc. RNDr. Vladimír <b>Falťan</b>, PhD.</div>
-            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/hodnotenie" target="_blank" data-htmlarea-external="1">Hodnotenie dynamiky využitia krajiny a zmien krajinnej pokrývky <OpenExt /></a></div>
+            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/hodnotenie" target="_blank" >Hodnotenie dynamiky využitia krajiny a zmien krajinnej pokrývky <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>01.01.2017 – 31.12.2019  VEGA  1/0781/17</div>
             <div className="mt-1.5">doc. Ing. Peter <b>Pišút</b>, PhD.</div>
-            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/riecnealuvia" target="_blank" data-htmlarea-external="1">Riečne alúviá ako archívy prírody a ľudskej civilizácie <OpenExt /></a></div>
+            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/riecnealuvia" target="_blank" >Riečne alúviá ako archívy prírody a ľudskej civilizácie <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>01.01.2017 – 31.12.2019  KEGA  003UK-4/2017</div>
             <div className="mt-1.5">RNDr. Ivan <b>Ružek</b>, PhD.</div>
-            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/terennevyucovanie" target="_blank" data-htmlarea-external="1">Terénne vyučovanie geovied s využitím vybraných náučných chodníkov <OpenExt /></a></div>
+            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/terennevyucovanie" target="_blank" >Terénne vyučovanie geovied s využitím vybraných náučných chodníkov <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>01.07.2016 – 31.10.2020  APVV  APVV-15-0054</div>
             <div className="mt-1.5">prof. RNDr. Jozef <b>Minár</b>, CSc.</div>
-            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/segment" target="_blank" data-htmlarea-external="1">Fyzikálne založená segmentácia georeliéfu a jej geovedné aplikácie <OpenExt /></a></div>
+            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/segment" target="_blank" >Fyzikálne založená segmentácia georeliéfu a jej geovedné aplikácie <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>01.07.2016 – 31.12.2019  APVV  APVV-15-0597</div>
             <div className="mt-1.5">RNDr. Igor <b>Matečný</b>, PhD.</div>
-            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/precfarm" target="_blank" data-htmlarea-external="1">Využitie geoekologických podkladov v rámci zavádzania precízneho poľnohospodárstva <OpenExt /></a></div>
+            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/precfarm" target="_blank" >Využitie geoekologických podkladov v rámci zavádzania precízneho poľnohospodárstva <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>01.01.2016 – 31.12.2019  VEGA  1/0602/16</div>
             <div className="mt-1.5">prof. RNDr. Jozef <b>Minár</b>, CSc.</div>
-            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/datovanie" target="_blank" data-htmlarea-external="1">Datovanie hlavných etáp vývoja reliéfu Západných Karpát <OpenExt /></a></div>
+            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/datovanie" target="_blank" >Datovanie hlavných etáp vývoja reliéfu Západných Karpát <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>01.01.2016 – 31.12.2018  VEGA  1/0421/16</div>
             <div className="mt-1.5">doc. RNDr. Vladimír <b>Falťan</b>, PhD.</div>
-            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/AnalyzaZmien" target="_blank" data-htmlarea-external="1">Analýza zmien krajinnej pokrývky v kontexte environmentálnych hybných síl <OpenExt /></a></div>
+            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/AnalyzaZmien" target="_blank" >Analýza zmien krajinnej pokrývky v kontexte environmentálnych hybných síl <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>01.01.2016 – 31.12.2017  KEGA  080UK-4/2016</div>
             <div className="mt-1.5">doc. RNDr. Vladimír <b>Falťan</b>, PhD.</div>
-            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/ucebnicametodyvyskumulc/" target="_blank" data-htmlarea-external="1">Tvorba vysokoškolskej učebnice „Metódy výskumu krajinnej pokrývky“ <OpenExt /></a></div>
+            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/ucebnicametodyvyskumulc/" target="_blank" >Tvorba vysokoškolskej učebnice „Metódy výskumu krajinnej pokrývky“ <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>2015 – 2016  Štipendijný program EHP Slovensko  EEA/EHP-SK06-IV-V-02</div>
             <div className="mt-1.5">Mgr. Juraj <b>Holec</b>, PhD. (riešiteľ z katedry)</div>
-            <div className="text-k-d-brown"><a href="https://eeagrants.org/project-portal/project/SK06-0019" target="_blank" data-htmlarea-external="1">PARtnership Against GEOhazards <OpenExt /></a></div>
+            <div className="text-k-d-brown"><a href="https://eeagrants.org/project-portal/project/SK06-0019" target="_blank" >PARtnership Against GEOhazards <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>01.07.2012 – 31.12.2015  KEGA  088UK-4/2013</div>
@@ -82,7 +78,7 @@ export default function Projekty() {
         <div className="flex flex-col-reverse py-3">
             <div>01.07.2012 – 31.12.2015  APVV  APVV-0625-11</div>
             <div className="mt-1.5">prof. RNDr. Jozef <b>Minár</b>, CSc.</div>
-            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/neosynteza" target="_blank" data-htmlarea-external="1">Nová syntéza vývoja reliéfu Západných Karpát – príprava databázy pre testovanie kľúčových hypotéz <OpenExt /></a></div>
+            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/neosynteza" target="_blank" >Nová syntéza vývoja reliéfu Západných Karpát – príprava databázy pre testovanie kľúčových hypotéz <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>01.01.2013 – 31.12.2015  IVF Strategic Grant  31210058</div>
@@ -117,12 +113,12 @@ export default function Projekty() {
         <div className="flex flex-col-reverse py-3">
             <div>01.01.2009 – 31.12.2011  VEGA  1/0434/09</div>
             <div className="mt-1.5">doc. RNDr. Miloš <b>Stankoviansky</b>, CSc.</div>
-            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/index.php?id=20418" target="_blank" data-htmlarea-external="1">Recentný vývoj reliéfu a geomorfologický efekt extrémnych udalostí <OpenExt /></a></div>
+            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/index.php?id=20418" target="_blank" >Recentný vývoj reliéfu a geomorfologický efekt extrémnych udalostí <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>03.06.2008 – 31.12.2011 (30.06.2012)  APVV  ESF-EC-0006-07</div>
             <div className="mt-1.5">prof. RNDr. Jozef <b>Minár</b>, CSc.</div>
-            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/SourceSink" target="_blank" data-htmlarea-external="1">Od výzdvihu k poklesu: integrované hodnotenie prírodných hrozieb prostredníctvom kvantifikácie transportu materiálu z pohorí do aktívnych sedimentárnych paniev <OpenExt /></a></div>
+            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/SourceSink" target="_blank" >Od výzdvihu k poklesu: integrované hodnotenie prírodných hrozieb prostredníctvom kvantifikácie transportu materiálu z pohorí do aktívnych sedimentárnych paniev <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>26.05.2008 – 30.04.2009  APVV  APVV-51-040805</div>
@@ -137,7 +133,7 @@ export default function Projekty() {
         <div className="flex flex-col-reverse py-3">
             <div>2006 – 2013  IAG/AIG   CarBalDinRWG</div>
             <div className="mt-1.5">doc. RNDr. Miloš <b>Stankoviansky</b>, CSc.</div>
-            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/carbaldin" target="_blank" data-htmlarea-external="1">Recent Landform Evolution in the Carpatho-Balkan-Dinaric Area <OpenExt /></a></div>
+            <div className="text-k-d-brown"><a href="https://fns.uniba.sk/carbaldin" target="_blank" >Recent Landform Evolution in the Carpatho-Balkan-Dinaric Area <OpenExt /></a></div>
         </div>
         <div className="flex flex-col-reverse py-3">
             <div>01.01.2006 – 31.12.2008  KEGA  3/4270/06</div>
