@@ -82,14 +82,15 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <div className="mb-1.5"><Datum date={new Date("2021-05-26")}></Datum></div>
-              <h5 className="font-bold mb-1">Dizertačná skúška</h5>
-              <div>Dizertačnú skúšku absolvujú o 9.00 Mgr. F. Moravčík, o 10.30 Mgr. A. Šupčík a o 13.00 Mgr. R. Kohilová. <a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjEzMTZjNmUtMzE2Zi00M2JiLThmN2UtZDMxZmU1MjhmZGQz%40thread.v2/0?context=%7b%22Tid%22%3a%22ce31478d-6e7a-4ce7-8670-a5b9d51884f9%22%2c%22Oid%22%3a%22774e8706-8076-4582-b086-65d27e2a63a8%22%7d" target="_blank">Link pre verejnosť na pripojenie na dizertačnú skúšku <OpenExt /></a>.</div>
-            </div>
-            <div className="py-4 first:pt-0">
               <div className="mb-1.5"><Datum date={new Date("2021-05-31")}></Datum></div>
               <h5 className="font-bold mb-1">Termín prihlasovania</h5>
               <div>Na PhD. doktorandské štúdium pre akademický rok 2021/2022 na Prírodovedeckej fakulte UK. Vyberte si z našej <Link href="/studium/zaverecne_prace#sect_3_1"><a>ponuky tém záverečných prác</a></Link>.</div>
+            </div>
+            <div className="py-4 first:pt-0">
+              <div className="mb-1.5"><Datum date={new Date("2021-06-01")}></Datum></div>
+              <h5 className="font-bold mb-1">Habilitačná  prednáška</h5>
+              <div>z odboru habilitačného konania fyzická geografia a geoekológia RNDr. Igora Matečného, PhD., o 13.00, <a href="https://teams.microsoft.com/l/meetup-join/19%3a4863c8b5e68e4af387fddde8b8a9c320%40thread.tacv2/1620035947173?context=%7b%22Tid%22%3a%22ce31478d-6e7a-4ce7-8670-a5b9d51884f9%22%2c%22Oid%22%3a%2270368cce-82cf-4937-a086-f6072982a4a0%22%7d" target="_blank">link pre verejnosť na pripojenie na habilitačnú prednášku <OpenExt /></a>.
+              </div>
             </div>
           </div>
         </div>
