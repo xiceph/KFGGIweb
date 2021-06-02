@@ -82,9 +82,9 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <div className="mb-1.5"><Datum date={ new Date("2021-06-01") } today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Habilitačná  prednáška</h5>
-              <div>z odboru habilitačného konania fyzická geografia a geoekológia RNDr. Igora Matečného, PhD., o 13.00, <a href="https://teams.microsoft.com/l/meetup-join/19%3a4863c8b5e68e4af387fddde8b8a9c320%40thread.tacv2/1620035947173?context=%7b%22Tid%22%3a%22ce31478d-6e7a-4ce7-8670-a5b9d51884f9%22%2c%22Oid%22%3a%2270368cce-82cf-4937-a086-f6072982a4a0%22%7d" target="_blank">link pre verejnosť na pripojenie na habilitačnú prednášku <OpenExt /></a>.
+              <div className="mb-1.5"><Datum date={ new Date("2021-06-03") } _today={ new Date(props.today) }></Datum></div>
+              <h5 className="font-bold mb-1">Čas štátnych skúšok</h5>
+              <div>Vo vybraných dňoch do 10. 6. 2021 prebiehajú na katedre <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>. 
               </div>
             </div>
           </div>
