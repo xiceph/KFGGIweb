@@ -27,7 +27,7 @@ export default function Statnice() {
         <h3 className="border-l-3 md:border-l-4 border-k-green pl-3 md:pl-5 py-2 md:py-3">Magisterský študijný program</h3>
         
         <h4>Termíny 2020/21</h4>
-        <p>mZ-FI/FYZ:  7. - 9. 6. 2021.</p>
+        <p>mZ-FI/FYZ:  7. - 9. 6. 2021 (<a href="docs/HarmonogramFYZMgr2021.pdf">harmonogram [pdf]</a>).</p>
         <p>mZ-FI/GIS:  3. 6. 2021 obhajoba diplomovej práce (<a href="docs/ObhajobyMgr2021.pdf">harmonogram [pdf]</a>), 10. 6. 2021 ústna skúška (<a href="docs/UstneSkuskyMgr2021.pdf">harmonogram [pdf]</a>).</p>
 
         
