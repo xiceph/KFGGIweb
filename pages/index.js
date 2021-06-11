@@ -82,9 +82,9 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <div className="mb-1.5"><Datum date={ new Date("2021-06-03") } _today={ new Date(props.today) }></Datum></div>
+              <div className="mb-1.5"><Datum date={ new Date("2021-06-21") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Čas štátnych skúšok</h5>
-              <div>Vo vybraných dňoch do 10. 6. 2021 prebiehajú na katedre <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>. 
+              <div>V dňoch 21. 6. 2021 a 22. 6. 2021 prebiehajú na katedre <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskych študijných programoch</a></Link>. 
               </div>
             </div>
           </div>
