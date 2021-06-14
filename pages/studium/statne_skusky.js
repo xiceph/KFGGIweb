@@ -11,7 +11,7 @@ export default function Statnice() {
         
         <h4>Termíny 2020/21</h4>
         <p>Obhajoba bakalárskej práce ZEP:  21. 6. 2021.</p>
-        <p>Obhajoba bakalárskej práce ZKI:  22. 6. 2021.</p>
+        <p>Obhajoba bakalárskej práce ZKI:  22. 6. 2021 (<a href="docs/ObhajobyBc2021.pdf">harmonogram [pdf]</a>).</p>
         
         <h4>Povinné predmety</h4>
         <ol>
