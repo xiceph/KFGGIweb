@@ -85,7 +85,7 @@ function IndexPage( props ) {
               {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
               <div className="mb-1.5"><Datum date={ new Date("2021-08-25") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div>Na katedre budú prebiehať <Link href="/studium/statne_skusky"><a>štátne skúšky na bakalárskom a magisterskom študijnom programe</a></Link>. 
+              <div>Na katedre budú prebiehať <Link href="/studium/statne_skusky"><a>štátne skúšky na bakalárskom a magisterskom študijnom programe</a></Link>.</div> 
             </div>
           </div>
         </div>
