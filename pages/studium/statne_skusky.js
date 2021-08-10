@@ -11,7 +11,7 @@ export default function Statnice() {
         
         <h4>Termíny 2020/21</h4>
         <p>Obhajoba bakalárskej práce ZEP:  21. 6. 2021 (<a href="docs/HarmonogramFYZBc2021.pdf">harmonogram [pdf]</a>), 25. 8. 2021.</p>
-        <p>Obhajoba bakalárskej práce ZKI:  22. 6. 2021 (<a href="docs/ObhajobyBc2021.pdf">harmonogram [pdf]</a>).</p>
+        <p>Obhajoba bakalárskej práce ZKI:  22. 6. 2021 (<a href="docs/ObhajobyBc2021.pdf">harmonogram [pdf]</a>), 24. 8. 2021 (<a href="docs/Obhajoby2021aug.pdf">harmonogram [pdf]</a>).</p>
         
         <h4>Povinné predmety</h4>
         <ol>
@@ -28,7 +28,7 @@ export default function Statnice() {
         
         <h4>Termíny 2020/21</h4>
         <p>mZ-FI/FYZ:  7. - 9. 6. 2021 (<a href="docs/HarmonogramFYZMgr2021.pdf">harmonogram [pdf]</a>), 25. 8. 2021.</p>
-        <p>mZ-FI/GIS:  3. 6. 2021 obhajoba diplomovej práce (<a href="docs/ObhajobyMgr2021.pdf">harmonogram [pdf]</a>), 10. 6. 2021 ústna skúška (<a href="docs/UstneSkuskyMgr2021.pdf">harmonogram [pdf]</a>).</p>
+        <p>mZ-FI/GIS:  3. 6. 2021 obhajoba diplomovej práce (<a href="docs/ObhajobyMgr2021.pdf">harmonogram [pdf]</a>), 10. 6. 2021 ústna skúška (<a href="docs/UstneSkuskyMgr2021.pdf">harmonogram [pdf]</a>), 24. 8. 2021 obhajoba diplomovej práce (<a href="docs/Obhajoby2021aug.pdf">harmonogram [pdf]</a>).</p>
 
         
         <h4>Povinné predmety</h4>
