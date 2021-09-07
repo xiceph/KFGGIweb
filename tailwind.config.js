@@ -56,6 +56,9 @@ module.exports = {
       boxShadow: {
         DEFAULT: '0 0 18px 0 rgba(0, 20, 40, 0.02), 0 0 10px 0 rgba(0, 20, 40, 0.03), 0 0 3px 0 rgba(0, 20, 40, 0.05)',
       },
+      maxWidth: {
+        'xs': '320px'
+      },
       fontSize: {
         'sm':  rem(15),
         'base':  rem(17),
