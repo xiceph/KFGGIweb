@@ -17,12 +17,15 @@ function IndexPage( props ) {
             src="images/KFGGIo.svg"
           />
         </div>
-        <div className="md:row-start-1 md:col-span-2 mt-6 md:mt-10">
-          <h1>Katedra fyzickej geografie a geoinformatiky</h1>
-          <div className="text-lg md:text-xl font-bold md:-mt-4 mb-8">
-            Univerzita Komenského v Bratislave, Prírodovedecká fakulta
+        <div className="md:row-start-1 md:col-span-2">
+          <div className="max-w-sm">
+            <img 
+              alt="Univerzita Komenského v Bratislave, Prírodovedecká fakulta"
+              src="images/prifUKo.svg"
+            />
           </div>
-          <cite className="text-gray-500 mb-6">
+          <h1 className="uk">Katedra fyzickej geografie a geoinformatiky</h1>
+          <cite className="block text-gray-500 mt-8 md:mt-12">
             Spájame poznanie prírody a informačné technológie.
           </cite>
         </div>

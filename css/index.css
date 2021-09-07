@@ -19,6 +19,13 @@
   font-weight: normal;
   font-style: italic;
 }
+@font-face {
+  font-family: 'UKsans';
+  src: url('./fonts/uksans-regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 
 @tailwind utilities;
 
@@ -103,3 +110,7 @@ p.text-ext {
 .anchor span {
   @apply absolute -top-24 lg:-top-28 
 }
+.uk {
+  font-family: UKsans
+}
+
