@@ -56,6 +56,9 @@ module.exports = {
       boxShadow: {
         DEFAULT: '0 0 18px 0 rgba(0, 20, 40, 0.02), 0 0 10px 0 rgba(0, 20, 40, 0.03), 0 0 3px 0 rgba(0, 20, 40, 0.05)',
       },
+      maxWidth: {
+        'xs': '320px'
+      },
       fontSize: {
         'sm':  rem(15),
         'base':  rem(17),
@@ -68,7 +71,7 @@ module.exports = {
           css: {
             fontSize: rem(17),
             h1: {
-              fontSize: rem(29),
+              fontSize: rem(28),
             },
             h2: {
               '&:first-child': {
@@ -110,7 +113,7 @@ module.exports = {
           css: {
             fontSize: rem(17),
             h1: {
-              fontSize: rem(30),
+              fontSize: rem(29),
             },
             h3: {
               fontSize: rem(25),
@@ -142,7 +145,7 @@ module.exports = {
           css: {
             fontSize: rem(19),
             h1: {
-              fontSize: rem(32),
+              fontSize: rem(34),
             },
             h3: {
               fontSize: rem(27),
