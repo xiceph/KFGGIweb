@@ -18,7 +18,7 @@ function IndexPage( props ) {
           />
         </div>
         <div className="md:row-start-1 md:col-span-2">
-          <div className="max-w-xs md:max-w-sm ">
+          <div className="max-w-xs md:max-w-sm mb-6">
             <img 
               alt="Univerzita Komenského v Bratislave, Prírodovedecká fakulta"
               src="images/prifUKo.svg"
