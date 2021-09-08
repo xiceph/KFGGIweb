@@ -25,7 +25,7 @@ function IndexPage( props ) {
             />
           </div>
           <h1 className="uk">Katedra fyzickej geografie a geoinformatiky</h1>
-          <cite className="block text-gray-500 mt-8 md:mt-12">
+          <cite className="block text-gray-500 mt-6 md:mt-10">
             Spájame poznanie prírody a informačné technológie.
           </cite>
         </div>

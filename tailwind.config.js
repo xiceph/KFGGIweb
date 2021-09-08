@@ -71,7 +71,7 @@ module.exports = {
           css: {
             fontSize: rem(17),
             h1: {
-              fontSize: rem(26),
+              fontSize: rem(27),
             },
             h2: {
               '&:first-child': {
@@ -145,7 +145,7 @@ module.exports = {
           css: {
             fontSize: rem(19),
             h1: {
-              fontSize: rem(32),
+              fontSize: rem(33),
             },
             h3: {
               fontSize: rem(27),
