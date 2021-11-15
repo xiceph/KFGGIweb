@@ -9,6 +9,8 @@ export default function Media() {
       <p><a href="http://naucnechodniky.eu/" target="_blank">Náučné chodníky na Slovensku</a><span className="border-l-2 border-k-brown mx-3 py-0.5"></span>portál s postupne napĺňanou databázou pasportov náučných chodníkov na Slovensku, ktorý vznikol v rámci projektu katedry 
       </p>
       <Separator />
+      <p><div className="mb-2"><Datum date={new Date("2021-07-21")} /></div>Prechodil stovky náučných chodníkov, píše o nich na webe: <a href="https://ahojmama.pravda.sk/clanky/prechodil-stovky-naucnych-chodnikov-pise-o-/14542-clanok.html" target="_blank">„Máme pre vás vyše 420 tipov na výlet.“</a> <span className="border-l-2 border-k-green mx-3 py-0.5"></span>rozhovor s RNDr. Ivanom Ružekom, PhD., v Pravde na jej portále pre rodičov Ahojmama.sk 
+      </p>
       <p><div className="mb-2"><Datum date={new Date("2020-11-15")} /></div>V reportáži <a href="https://fb.watch/49wmpUVeah/" target="_blank">Televíznych novín TV Markíza</a> charakterizoval Mgr. Miroslav Kožuch, PhD., úlohu misie Sentinel 6.
       </p>
       <p><div className="mb-2 pt-4"><Datum date={new Date("2020-04-30")} /></div>Spravodajský portál Univerzity Komenského v Bratislave uverejnil rozhovor <a href="https://uniba.sk/spravodajsky-portal/detail-aktuality/back_to_page/univerzita-komenskeho/article/dajme-sa-viest-trasami-naucnych-chodnikov/" target="_blank">Dajme sa viesť trasami náučných chodníkov</a> s RNDr. Ivanom Ružekom, PhD., vedúcim projektu, v rámci ktorého vznikla stránka Naucnechodniky.eu 

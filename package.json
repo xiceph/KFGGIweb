@@ -11,6 +11,7 @@
     "restart": "next build && next start"
   },
   "dependencies": {
+    "browserslist": "^4.16.6",
     "next": "10.0.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
