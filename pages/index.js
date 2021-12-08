@@ -85,16 +85,15 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <p className="text-gray-600 italic">žiadne udalosti</p>
-              {/*<div className="mb-1.5"><Datum date={ new Date("2021-11-24") } today={ new Date(props.today) }></Datum></div>
-               <h5 className="font-bold mb-2">Prednáška: Cesty stredoslovenskej medi</h5>
+              {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
+              <div className="mb-1.5"><Datum date={ new Date("2021-12-15") } today={ new Date(props.today) }></Datum></div>
+               <h5 className="font-bold mb-2">Prednáška: Nórskom za polárnym kruhom</h5>
                <div>
-                 <div className="mb-2">Čas: 15:00 - 17:30</div>
-                 <div className="mb-2">Miesto: PriF UK B1-322 + online</div>
-                 <div className="mb-2">Prednášajúci: <i>Doc. RNDr. Stanislav Jeleň, CSc.</i></div>
-                 <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2021/2021-11-24-geoklub.pdf" target="_blank">Plagát</a></div>
-                 
-               </div>*/}
+                 <div className="mb-2">Čas: 16:00 - 18:00 <i>onlinecez MS Teams</i></div>
+                 <div className="mb-2">Prednášajúci: <i>Mgr. Adam Šupčík</i></div>
+                 <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/dag9" target="_blank">https://lnk.sk/dag9</a></div>
+                 <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2021/2021-12-15-geoklub.pdf" target="_blank">Plagát</a></div>
+               </div>
               
               {/*<div className="mb-1.5"><Datum date={ new Date("2021-08-24") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
