@@ -87,7 +87,7 @@ function IndexPage( props ) {
             <div className="py-4 first:pt-0">
               {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
               <div className="mb-1.5"><Datum date={ new Date("2022-01-19") } today={ new Date(props.today) }></Datum></div>
-               <h5 className="font-bold mb-2">Prednášky: Letokruhy: odhaľujúce minulosť prírody a Divoké Nórsko: putovanie za polárnym kruhom</h5>
+               <h5 className="font-bold mb-2">Prednášky: <br/>Letokruhy: odhaľujúce minulosť prírody <br/>Divoké Nórsko: putovanie za polárnym kruhom</h5>
                <div>
                  <div className="mb-2">Čas: 16:00 - 18:30 <i>online cez MS Teams</i></div>
                  <div className="mb-2">Prednášajúci: <i>prof. RNDr. Karel Šilhán, Ph.D.</i>, <i>Mgr. Adam Šupčík</i></div>
