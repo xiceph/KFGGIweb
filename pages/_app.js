@@ -30,7 +30,10 @@ function MyApp({ Component, pageProps }) {
   const isBase = router.pathname == "/en" || router.pathname == "/" || router.pathname == "/404";
   const regex = /^(\/en\/|\/)(.+)\/.+/g;
   const match = [...router.asPath.matchAll(regex)][0];
-  const page = match && match[2];
+  const regex1 = /^(\/en\/|\/)(.+)(.*|#+.*)/g;
+  const match1 = [...router.asPath.matchAll(regex1)][0];
+  let page = ( match && match[2] ) || ( match1 && match1[2] ) || "";
+  page = page.split('#')[0];
   
   useEffect(() => {
     document.documentElement.lang = locale;
@@ -38,6 +41,7 @@ function MyApp({ Component, pageProps }) {
   
   const locPages = pages[locale];
   const actPage = locPages.find( item => item.id == page );
+  const special = pages.special.includes( page );
   
   pageProps.locale = locale;
   pageProps.pages = locPages;
@@ -60,7 +64,7 @@ function MyApp({ Component, pageProps }) {
       </Head>
       
       <div className="flex flex-col items-stretch min-h-screen font-serif text-base">
-        <Header locale={ locale } pages={ locPages } actPage={ actPage } />
+        <Header locale={ locale } pages={ locPages } actPage={ actPage } special={ special } />
         {
           isBase 
           ? (
@@ -71,9 +75,17 @@ function MyApp({ Component, pageProps }) {
           : (
             <>
               <div className="flex-grow">
-                <div className="mx-auto max-w-4xl mt-20 lg:mt-24 p-4 md:p-6 py-6 md:py-8">
-                 <Breadcrumbs pages={ locPages } />
-                </div>
+              {
+                special
+                ? (
+                  <div className="mx-auto max-w-4xl mt-20 lg:mt-24"> </div>
+                )
+                : (
+                  <div className="mx-auto max-w-4xl mt-20 lg:mt-24 p-4 md:p-6 py-6 md:py-8">
+                    <Breadcrumbs pages={ locPages } />
+                  </div>
+                )
+              }
                 <main className="mx-auto max-w-4xl prose md:prose-md lg:prose-lg px-4 md:px-6 pt-2 md:pt-3 pb-6  md:pb-8">
                   <Component { ...pageProps } />
                 </main>

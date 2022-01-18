@@ -51,6 +51,35 @@
   @apply text-gray-100
 }
 
+
+html {
+  scroll-behavior: smooth;
+}
+/*.smooth {
+  scroll-behavior: smooth;
+}*/
+
+
+table {
+   @apply mb-8 md:mb-12;
+}
+td, th {
+  padding: .5rem 1rem;
+  @apply border-b border-k-xl-gray;
+}
+th {
+  @apply border-b border-k-l-gray;
+}
+
+table.center td, table.center th {
+  text-align: center;
+}
+
+table.left1 td:first-child, table.left1 th:first-child {
+  text-align: left;
+}
+
+
 h5 + * {
   margin-top: 0 !important;
 }
@@ -68,6 +97,9 @@ h5 + * {
 .text-right-f {
   text-align: right !important;
 }
+.text-center-f {
+  text-align: center !important;
+}
 .text-ext {
   font-size: 0.875em;
 }
@@ -75,6 +107,7 @@ p.text-ext {
   margin-top: 0.875em !important;
   margin-bottom: 0.875em !important;
 }
+
 
 
 .mt-s2 {

@@ -27,5 +27,8 @@
     { "title": "About us", "id": "about", "children": []},
     { "title": "Study", "id": "study", "children": [] },
     { "title": "Research", "id": "research", "children": [] }
+  ],
+  "special": [
+    "geokarto2022"
   ]
 } 

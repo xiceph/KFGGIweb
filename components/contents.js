@@ -28,7 +28,7 @@ export default function Contents( props ) {
       
       const { className, children, ...others } = item.props;
       
-      return ( <h3 className={ `anchor ${className}` } { ...others } ><span id={ id } ></span>{ children }</h3> )
+      return ( <h3 className={ `anchor ${className}` } key={ id } { ...others } ><span id={ id } ></span>{ children }</h3> )
     }
     if( levels > 1 && item.type == "h4" ) {
       const id = `sect_${level1}_${++level2}`;
