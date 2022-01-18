@@ -26,7 +26,7 @@ export default function GeoKarto( props ) {
       
       <p className="text-center-f">
         <Link href="">
-          <button className="bg-k-gray px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end hover:shadow-md">
+          <button className="bg-k-gray px-5 py-2 rounded-info -ml-1 text-base text-white justify-self-end hover:shadow-md">
             Pozvánka - 1. informácia 
           </button>
         </Link>
@@ -42,7 +42,7 @@ export default function GeoKarto( props ) {
       </p>
       
       <p className="flex flex-col md:flex-row md:justify-around">
-        <Link href="">
+        <Link href="https://forms.gle/tqdEWxVAgCNgNXwv7">
           <button className="bg-k-blue px-5 py-2 rounded-full m-4 text-base text-white justify-self-end hover:shadow-md">
             Registrovať sa ako prednášajúci
           </button>
@@ -50,14 +50,13 @@ export default function GeoKarto( props ) {
         {" "}
         <Link href="">
           <button className="bg-k-blue px-5 py-2 rounded-full m-4 text-base text-white justify-self-end hover:shadow-md">
-            Registrovať sa ako účastník/poslucháč
+            Registrovať sa ako poslucháč
           </button>
         </Link>
       </p>
       <p> </p>
       
       <Contents levels={1} >
-      
       
       <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Tematické okruhy</h3>
       <ol>
@@ -76,7 +75,7 @@ export default function GeoKarto( props ) {
 
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Predbežný program</h3>
       
-        <h5>8.9.2022 – štvrtok</h5>
+        <h5>8. 9. 2022 – štvrtok</h5>
         <table><tbody>
           <tr><td>8:30</td><td>prezentácia</td></tr>
           <tr><td>9:30 – 9:45</td><td>otvorenie konferencie</td></tr>
@@ -89,8 +88,8 @@ export default function GeoKarto( props ) {
           <tr><td>16:00 – 17:00</td><td>prednášky v pléne</td></tr>
           <tr><td>19:00  </td><td>spoločenský večer</td></tr>
         </tbody></table>
-        <p>POSTEROVÁ sekcia: 14:00 – 17:00</p>
-        <h5>9.9.2022 – piatok</h5>
+        <p>Posterová sekcia: 14:00 – 17:00</p>
+        <h5>9. 9. 2022 – piatok</h5>
         <table><tbody>
           <tr><td>9:00 – 10:30 </td><td>prednášky v pléne</td></tr>
           <tr><td>10:30 – 11:00 </td><td>prestávka</td></tr>
@@ -103,7 +102,7 @@ export default function GeoKarto( props ) {
         
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Organizačné pokyny</h3>
         
-        <p>Konferencia sa koná</p>
+        <p>Konferencia sa koná...</p>
         
         <h4> Účastnícky poplatok</h4>
         
@@ -153,11 +152,11 @@ export default function GeoKarto( props ) {
         
         
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Publikovanie príspevkov</h3>
-        <p>Účastníci konferencie môžu prispieť do konferenčného zborníka abstraktom v rozsahu 1 normostrany. Odborní garanti konferencie odporučia vybrané príspevky na publikovanie vo vedeckom časopise Kartografické listy (Scopus).</p>
+        <p>Účastníci konferencie môžu prispieť do konferenčného zborníka abstraktom v rozsahu 1 normostrany. Odborní garanti konferencie odporučia vybrané príspevky na publikovanie vo vedeckom časopise Kartografické listy (Scopus).</p>
         <h5>Šablóny</h5>
-        <p>neskôr</p>
+        <p><i>pripravujeme...</i></p>
         <h5>Možnosti prezentácie</h5>
-        <p>prednáška  alebo poster</p>
+        <p>prednáška alebo poster</p>
         
         
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Organizátori a odborní garanti</h3>

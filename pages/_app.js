@@ -41,7 +41,7 @@ function MyApp({ Component, pageProps }) {
   
   const locPages = pages[locale];
   const actPage = locPages.find( item => item.id == page );
-  const special = pages.special.includes( page );
+  const special = pages.special.find( item => item.id == page )
   
   pageProps.locale = locale;
   pageProps.pages = locPages;

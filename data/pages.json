@@ -29,6 +29,6 @@
     { "title": "Research", "id": "research", "children": [] }
   ],
   "special": [
-    "geokarto2022"
+    { "title": "GeoKARTO 2022", "id": "geokarto2022" }
   ]
 } 

@@ -42,7 +42,11 @@ export default function Header( props ) {
           </Link>
         </div>
         {
-          !special && (
+          !!special 
+          ? (
+            <span className="text-2xl text-bold text-gray-700">{special.title}</span>
+          )
+          : (
             <>
             <div className="hidden md:block">
               { pages.map((item) => (
