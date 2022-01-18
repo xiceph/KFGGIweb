@@ -20,7 +20,7 @@ export default function GeoKarto( props ) {
         Prírodovedecká fakulta Univerzity Komenského v Bratislave
       </p>
       
-      <p><img src="images/geokarto2022/hero.jpg" /></p>
+      <p><img src="images/geokarto2022/heroO.jpg" /></p>
   
       <p>Konferencia je organizovaná každé dva roky Kartografickou spoločnosťou SR v spolupráci s významnými akademickými inštitúciami so zameraním na aktuálne otázky a trendy teórie a praxe kartografie, geoinformatiky a geodézie.</p>
       
