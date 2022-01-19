@@ -44,7 +44,7 @@ export default function Header( props ) {
         {
           !!special 
           ? (
-            <span className="text-2xl text-bold text-gray-700">{special.title}</span>
+            <span className="text-xl md:text-2xl text-bold text-gray-700">{special.title}</span>
           )
           : (
             <>
