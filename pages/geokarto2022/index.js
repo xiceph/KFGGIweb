@@ -160,25 +160,23 @@ export default function GeoKarto( props ) {
         
         
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Organizátori a odborní garanti</h3>
-        <div className="flex flex-row items-center justify-around space-x-4 py-4">
-          <div>
-            <Link href="/">
-              <a><img className="w-44 md:w-52" src="images/bezLogoO.svg" alt="Katedra fyzickej geografie a geoinformatiky" /></a>
-            </Link>
-          </div>
-          <div>
-            <a href="https://www.slovakcarto.sk/" className="flex flex-col items-center">
-              <img className="h-20 md:h-24" src="images/geokarto2022/KSSRlogo.svg" alt="Kartografická spoločnosť Slovenskej republiky" />
-              <span>Kartografická spoločnosť SR</span>
+        
+        <div className="flex flex-row items-stretch justify-around space-x-4 py-4">
+          <Link href="/" >
+            <a className="flex flex-col justify-center">
+              <img className="w-44 md:w-52" src="images/bezLogoO.svg" alt="Katedra fyzickej geografie a geoinformatiky" />
             </a>
-          </div>
-          <div>
-            <a href="http://www.geography.sav.sk/" className="flex flex-col items-center">
-              <img className="h-20 md:h-24" src="images/geokarto2022/GgUlogo.svg" alt="Geografický ústav SAV, v.v.i." />
-              <span>Geografický ústav SAV, v.v.i.</span>
-            </a>
-          </div>
+          </Link>
+          <a href="https://www.slovakcarto.sk/" className="flex flex-col items-center justify-end">
+            <img className="w-16 md:w-28" src="images/geokarto2022/KSSRlogo.svg" alt="Kartografická spoločnosť Slovenskej republiky" />
+            <span>Kartografická spoločnosť SR</span>
+          </a>
+          <a href="http://www.geography.sav.sk/" className="flex flex-col items-center justify-end">
+            <img className="w-20 md:w-32" src="images/geokarto2022/GgUlogo.svg" alt="Geografický ústav SAV, v.v.i." />
+            <span>Geografický ústav SAV, v.v.i.</span>
+          </a>
         </div>
+        
         <h4>Organizačný výbor</h4>
         <p>
           Mgr. Miroslav Kožuch, PhD. (PriF UK Bratislava)<br/>
