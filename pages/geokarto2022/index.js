@@ -161,7 +161,7 @@ export default function GeoKarto( props ) {
         
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Organizátori a odborní garanti</h3>
         
-        <div className="flex flex-row items-stretch justify-around space-x-4 py-4">
+        <div className="flex flex-row items-stretch justify-around space-x-3 md:space-x-4 py-4">
           <Link href="/" >
             <a className="flex flex-col justify-center">
               <img className="w-44 md:w-52" src="images/bezLogoO.svg" alt="Katedra fyzickej geografie a geoinformatiky" />
