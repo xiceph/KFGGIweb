@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Link from "next/link";
+import { useRouter } from "next/router"; 
 import cn from "classnames";
 import LangSwitch from "./langSwitch";
 import Nav from "./nav";
@@ -9,6 +10,8 @@ export default function Header( props ) {
   
   const [menuOpened, setMenuOpened] = useState(false);
   const [menuMobileIsOpen, setMenuMobileIsOpen] = useState(false);
+  
+  const router = useRouter();
   
   const logo = {
     sk: "images/bezLogoO.svg",
@@ -44,7 +47,11 @@ export default function Header( props ) {
         {
           !!special 
           ? (
-            <span className="text-xl md:text-2xl text-bold text-gray-700">{special.title}</span>
+            <Link href={router.pathname}>
+              <a className="text-xl md:text-2xl text-bold text-gray-700">
+                {special.title}
+              </a>
+            </Link>
           )
           : (
             <>
