@@ -169,11 +169,11 @@ export default function GeoKarto( props ) {
           </Link>
           <a href="https://www.slovakcarto.sk/" className="flex flex-col items-center justify-end">
             <img className="h-16 md:h-28" src="images/geokarto2022/KSSRlogo.svg" alt="Kartografická spoločnosť Slovenskej republiky" />
-            <span>Kartografická spoločnosť SR</span>
+            <span className="text-sm md:text-base">Kartografická spoločnosť SR</span>
           </a>
           <a href="http://www.geography.sav.sk/" className="flex flex-col items-center justify-end">
             <img className="h-15 md:h-24" src="images/geokarto2022/GgUlogo.svg" alt="Geografický ústav SAV, v.v.i." />
-            <span>Geografický ústav SAV, v.v.i.</span>
+            <span className="text-sm md:text-base" >Geografický ústav SAV, v.v.i.</span>
           </a>
         </div>
         
