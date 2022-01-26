@@ -58,7 +58,6 @@ export default function GeoKarto( props ) {
       
       <Contents levels={1} >
       
-      
       <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Tematické okruhy</h3>
       <ol>
         <li>Teória kartografie, geoinformatiky a geodézie</li>
@@ -76,7 +75,7 @@ export default function GeoKarto( props ) {
 
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Predbežný program</h3>
       
-        <h5>8.9.2022 – štvrtok</h5>
+        <h5>8. 9. 2022 – štvrtok</h5>
         <table><tbody>
           <tr><td>8:30</td><td>prezentácia</td></tr>
           <tr><td>9:30 – 9:45</td><td>otvorenie konferencie</td></tr>
@@ -89,8 +88,8 @@ export default function GeoKarto( props ) {
           <tr><td>16:00 – 17:00</td><td>prednášky v pléne</td></tr>
           <tr><td>19:00  </td><td>spoločenský večer</td></tr>
         </tbody></table>
-        <p>POSTEROVÁ sekcia: 14:00 – 17:00</p>
-        <h5>9.9.2022 – piatok</h5>
+        <p>Posterová sekcia: 14:00 – 17:00</p>
+        <h5>9. 9. 2022 – piatok</h5>
         <table><tbody>
           <tr><td>9:00 – 10:30 </td><td>prednášky v pléne</td></tr>
           <tr><td>10:30 – 11:00 </td><td>prestávka</td></tr>
@@ -153,9 +152,9 @@ export default function GeoKarto( props ) {
         
         
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Publikovanie príspevkov</h3>
-        <p>Účastníci konferencie môžu prispieť do konferenčného zborníka abstraktom v rozsahu 1 normostrany. Odborní garanti konferencie odporučia vybrané príspevky na publikovanie vo vedeckom časopise Kartografické listy (Scopus).</p>
-        <h5>Šablóny</h5>
-        <p>neskôr</p>
+        <p>Účastníci konferencie môžu prispieť do konferenčného zborníka abstraktom v rozsahu 1 normostrany. Odborní garanti konferencie odporučia vybrané príspevky na publikovanie vo vedeckom časopise Kartografické listy (Scopus).</p>
+        <h5>Šablóny príspevkov</h5>
+        <p><i>pripravujeme...</i></p>
         <h5>Možnosti prezentácie</h5>
         <p>prednáška  alebo poster</p>
         
@@ -197,7 +196,7 @@ export default function GeoKarto( props ) {
           doc. RNDr. Dagmar Kusendová, CSc. (PriF UK Bratislava) <br/>
           Mgr. Ľuboslav Michalík (GKÚ Bratislava) <br/>
           prof. Ing.  Ján Tuček, PhD. (LF TU Zvolen) <br/>
-          prof. RNDr. Vít Voženílek, CSc.(UPOL Olomouc)
+          prof. RNDr. Vít Voženílek, CSc. (UPOL Olomouc)
         </p>
         
         
