@@ -8,7 +8,8 @@ export default function Studovat() {
 
       <div className="flex flex-col md:flex-row-reverse items-center">
         <img className="h-44" src="images/study1.svg" />
-        <div className="mt-3 md:mr-6">Naša katedra ponúka dva bakalárske, magisterský aj doktorandský študijný program. Pokrývame tak všetky tri stupne štúdia v dvoch zameraniach: <b>fyzická geografia</b> sa sústreďuje na pochopenie prírodných javov a ich vzájomných vzťahov, <b>geoinformatika</b> na prácu s geografickými informáciami v GIS. <a href="studium/studijne_programy">Viac o ponuke programov...</a></div>
+        <div className="mt-3 md:mr-6">
+        Naša katedra ponúka bakalársky, magisterský aj doktorandský študijný program. Na každom stupni je možné voliť si svoju profiláciu vlastnou kombináciou predmetov v dvoch hlavných smeroch: <b>fyzická geografia</b> sa sústreďuje na pochopenie prírodných procesov, javov a ich vzájomných vzťahov, <b>geoinformatika</b> na prácu s geografickými informáciami v GIS. <a href="studium/studijne_programy">Viac o ponuke programov...</a></div>
       </div>
 
       <div className="flex flex-col md:flex-row items-center mt-12">
