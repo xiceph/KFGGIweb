@@ -25,11 +25,11 @@ export default function GeoKarto( props ) {
       <p>Konferencia je organizovaná každé dva roky Kartografickou spoločnosťou SR v spolupráci s významnými akademickými inštitúciami so zameraním na aktuálne otázky a trendy teórie a praxe kartografie, geoinformatiky a geodézie. V roku 2022 sa  bude konferencia organizovať v spolupráci s Katedrou fyzickej geografie a geoinformatiky, Prírodovedeckej fakulty UK v Bratislave.</p>
       
       <p className="text-center-f">
-        <Link href="">
-          <button className="bg-k-gray px-5 py-2 rounded-info -ml-1 text-base text-white justify-self-end hover:shadow-md">
+        <a href="docs/geokarto2022/cirkular1.pdf" target="_blank" className="-ml-1">
+          <button className="bg-k-gray px-5 py-2 rounded-info  text-base text-white justify-self-end hover:shadow-md">
             Pozvánka - 1. informácia 
           </button>
-        </Link>
+        </a>
       </p>
     
       <h3>Termíny</h3>
