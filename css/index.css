@@ -148,8 +148,8 @@ p.text-ext {
 }
 
 img.predm {
-  max-width: 300%;
-  width: 300%;
+  max-width: 280%;
+  width: 280%;
   @apply lg:w-full;
 }
 
