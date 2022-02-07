@@ -147,3 +147,10 @@ p.text-ext {
   font-family: UKsans
 }
 
+img.predm {
+  max-width: 300%;
+  width: 300%;
+  @apply lg:w-full;
+}
+
+
