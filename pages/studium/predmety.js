@@ -31,14 +31,14 @@ function Predmety() {
     <div className="w-full">
       <h1>Predmety bakalárskeho štúdia</h1>
       <div>
-        Kredity spolu (min 180): <b>{all}</b>{`   `}
-        za B predmety (min 19): <b>{sums.b}</b>
+        Kredity spolu (min 180): <b>{all}</b>{`   `}
+        za B predmety (min 19): <b>{sums.b}</b>
       </div>
       <div className="w-full overflow-y-auto">
-        <div className="predm flex flex-row">
+        <div className="predm flex flex-row px-2">
         {
           sums.all.map((item, i) => (
-            <div className="flex-1 px-3 pt-2 pb-1">{i+1}. semester{` `} 
+            <div className="flex-1 px-2 pt-2 pb-1">{i+1}. semester{` `} 
               <b>{sums.all[i]}</b>
             </div>
           ))
