@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'; 
 import Link from "next/link";
-import { SchemaPredmety } from "@components/schemaPredmety";
+import { SchemaPredmety, LegendaPredmety } from "@components/schemaPredmety";
 
 function Predmety() {
   const [sums, setSums] = useState({all: [0,0,0,0,0,0], b: 0})
@@ -35,7 +35,7 @@ function Predmety() {
         za B predmety (min 19): <b>{sums.b}</b>
       </div>
       <div className="w-full overflow-y-auto">
-        <div className="predm flex flex-row px-2">
+        <div className="predm flex flex-row px-2 md:px-1">
         {
           sums.all.map((item, i) => (
             <div className="flex-1 px-2 pt-2 pb-1">{i+1}. semester{` `} 
@@ -46,6 +46,7 @@ function Predmety() {
         </div>
         <SchemaPredmety className="predm" onClick={calcSums} />
       </div>
+      <LegendaPredmety />
     </div>
   )
 }

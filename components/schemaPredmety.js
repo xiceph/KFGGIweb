@@ -9,6 +9,24 @@ const handleVyber = e => {
   
 }
 
+export const LegendaPredmety = () => {
+  const colors = ['#cfb1ec','#a2c2f4','#8fdce5','#9dd5a4','#cde299','#f3d798','#E2E2E2'];
+  const desc = ['Matematicko - štatistický základ', 'Geoinformatika a kartografia', 'Diaľkový prieskum Zeme a zber dát', 'Fyzická geografia a jej aplikácie', 'Environmentalistika', 'Všeobecná, humánna a regionálna geografia', 'Ostatné predmety'];
+  
+  return (
+    <div className="flex flex-col text-sm">
+      {
+        colors.map((item, i) => (
+          <div>
+            <span className="inline-block w-6 h-4 mr-2 align-middle" style={{background: item}}></span>
+            {desc[i]}
+          </div>
+        ))
+      }
+    </div>
+  )
+}
+
 export const SchemaPredmety = (props) => (
   <svg viewBox="0 0 1080 1510" {...props} >
     <style type="text/css">{`
@@ -20,9 +38,9 @@ export const SchemaPredmety = (props) => (
       .on .vyber{fill: #102f48;}
       .on .kredity,.on .povinnost{fill: #fff;}
       .kredity,.povinnost{cursor:pointer;pointer-events:none}
-      .st0{fill:#cdb1e9;}
-      .st6{fill:#a2bef0;}
-      .st8{fill:#8fdcdb;}
+      .st0{fill:#cfb1ec;}
+      .st6{fill:#a2c2f4;}
+      .st8{fill:#8fdce5;}
       .st9{fill:#9dd5a4;}
       .st10{fill:#cde299;}
       .st11{fill:#f3d798;}
