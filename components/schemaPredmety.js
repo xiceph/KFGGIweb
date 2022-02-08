@@ -17,7 +17,7 @@ export const LegendaPredmety = () => {
     <div className="flex flex-col text-sm">
       {
         colors.map((item, i) => (
-          <div>
+          <div key={item}>
             <span className="inline-block w-6 h-4 mr-2 align-middle" style={{background: item}}></span>
             {desc[i]}
           </div>
