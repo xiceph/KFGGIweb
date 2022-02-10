@@ -13,7 +13,7 @@ const handleList = e => {
   
   const pr = e.target.parentNode;
   const id = pr.id;
-  window.open(`/docs/infolisty/${id}.pdf`);
+  window.open(`docs/infolisty/${id}.pdf`);
   
 }
 
