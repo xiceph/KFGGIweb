@@ -34,6 +34,8 @@ export const SchemaPredmety = (props) => (
       .b{font-family:'PTSerif';font-weight:bold;font-style:italic;}
       .c{font-family:'PTSerif';font-style:italic;}
       .predmet{font-size:12px;}
+      .linia{cursor:help;}
+      text:not(.kredity):not(.povonnost){cursor:help;pointer-events:none}
       .vyber{fill:#ccc;cursor:pointer;}
       .on .vyber{fill: #102f48;}
       .on .kredity,.on .povinnost{fill: #fff;}
@@ -257,7 +259,7 @@ export const SchemaPredmety = (props) => (
       <rect x="190.1" y="467" onClick={handleVyber} className="vyber" width="28" height="53"/>
       <text transform="matrix(1 0 0 1 200.962 505.6041)" className="a kredity">4</text>
       <text transform="matrix(1 0 0 1 199.474 489.0623)" className="a povinnost">A</text>
-      <text transform="matrix(1 0 0 1 227.5798 499.2087)" className="a">Geomorfológia (+cv.)</text>
+      <text transform="matrix(1 0 0 1 227.5798 499.2087)" className="a">Geomorfológia + cv.</text>
     </g>
     
     <g id="h3" className="predmet on">
@@ -266,14 +268,14 @@ export const SchemaPredmety = (props) => (
       <text transform="matrix(1 0 0 1 378.962 505.6041)" className="a kredity">3</text>
       <text transform="matrix(1 0 0 1 377.474 489.0623)" className="a povinnost">A</text>
       <text transform="matrix(1 0 0 1 425.9782 490.8755)" className="a">Meteorológia </text>
-      <text transform="matrix(1 0 0 1 406.7782 505.2755)" className="a">a klimatológia (+cv.)</text>
+      <text transform="matrix(1 0 0 1 406.7782 505.2755)" className="a">a klimatológia + cv.</text>
     </g>
     <g id="h4" className="predmet on">
       <rect x="574.1" y="467" className="linia st9" width="137.9" height="53"/>
       <rect x="546.1" y="467" onClick={handleVyber} className="vyber" width="28" height="53"/>
       <text transform="matrix(1 0 0 1 556.962 505.6041)" className="a kredity">3</text>
       <text transform="matrix(1 0 0 1 555.474 489.0623)" className="a povinnost">A</text>
-      <text transform="matrix(1 0 0 1 590.15 499.2086)" className="a">Biogeografia (+cv.)</text>
+      <text transform="matrix(1 0 0 1 590.15 499.2086)" className="a">Biogeografia + cv.</text>
     </g>
     
     <g id="h5" className="predmet on">
@@ -291,7 +293,7 @@ export const SchemaPredmety = (props) => (
       <text transform="matrix(1 0 0 1 200.962 570.6041)" className="a kredity">3</text>
       <text transform="matrix(1 0 0 1 199.474 554.0623)" className="a povinnost">A</text>
       <text transform="matrix(1 0 0 1 256.108 555.8755)" className="a">Geológia a </text>
-      <text transform="matrix(1 0 0 1 233.608 570.2755)" className="a">litogeografia (+cv.)</text>
+      <text transform="matrix(1 0 0 1 233.608 570.2755)" className="a">litogeografia + cv.</text>
     </g>
 
     <g id="i3" className="predmet on">
@@ -300,7 +302,7 @@ export const SchemaPredmety = (props) => (
       <text transform="matrix(1 0 0 1 378.962 570.6041)" className="a kredity">3</text>
       <text transform="matrix(1 0 0 1 377.474 554.0623)" className="a povinnost">A</text>
       <text transform="matrix(1 0 0 1 427.6219 555.8755)" className="a">Hydrológia a </text>
-      <text transform="matrix(1 0 0 1 404.8219 570.2755)" className="a">hydrogeografia  (+cv.)</text>
+      <text transform="matrix(1 0 0 1 404.8219 570.2755)" className="a">hydrogeografia  + cv.</text>
     </g>
     
     <g id="i4" className="predmet on">
@@ -308,7 +310,7 @@ export const SchemaPredmety = (props) => (
       <rect x="546.1" y="532" onClick={handleVyber} className="vyber" width="28" height="53"/>
       <text transform="matrix(1 0 0 1 556.962 570.6041)" className="a kredity">4</text>
       <text transform="matrix(1 0 0 1 555.474 554.0623)" className="a povinnost">A</text>
-      <text transform="matrix(1 0 0 1 590.7861 562.459)" className="a">Geoekológia (+cv.)</text>
+      <text transform="matrix(1 0 0 1 590.7861 562.459)" className="a">Geoekológia + cv.</text>
     </g>
     
     <g id="i5" className="predmet">
@@ -341,7 +343,7 @@ export const SchemaPredmety = (props) => (
       <text transform="matrix(1 0 0 1 378.962 635.6041)" className="a kredity">3</text>
       <text transform="matrix(1 0 0 1 377.474 619.0623)" className="a povinnost">A</text>
       <text transform="matrix(1 0 0 1 430.9279 619.5)" className="a">Pedológia a </text>
-      <text transform="matrix(1 0 0 1 407.5279 633.9)" className="a">pedogeografia (+cv.)</text>
+      <text transform="matrix(1 0 0 1 407.5279 633.9)" className="a">pedogeografia + cv.</text>
     </g>
    
     <g id="j4" className="predmet">

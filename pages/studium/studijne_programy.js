@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Contents from "@components/contents";
 import { OpenExt } from "@components/icons";
 
@@ -17,6 +18,8 @@ export default function Programy() {
         
         <p><b>Geoinformatická línia</b> postupne buduje v absolventoch znalosti a zručnosti v oblasti kartografie, práce s geografickými informačnými systémami (GIS), databázami, aj nástrojmi diaľkového prieskumu Zeme. Študenti si osvoja kartografické metódy potrebné k tvorbe kvalitných máp, no môžu získať aj podrobnejšie znalosti práce s kartografickými zobrazeniami. V oblasti GIS získajú okrem rozsiahlej praxe aj podstatné vedomosti o pozadí ich fungovania, ktoré sú predpokladom ich expertného používania. Program pokrýva celý proces práce s geografickými informáciami; od ich získavania (terénnym výskumom či diaľkovo satelitmi, lietadlami a dronmi) cez ich spracovanie v GIS a geodatabázach, ich hlbšiu analýzu nástrojmi GIS a štatistiky, až po ich profesionálne kartografické zobrazenie v tlačenej forme či vo webovej aplikácii.</p>
         
+        <p><Link href="/studium/predmety"><a >Interaktívna schéma programu</a></Link><br/><a href="docs/predmetyBc.pdf">Zoznam predmetov</a><br/></p>
+        
         <p><b>Uplatniteľnosť absolventov</b> je vysoká, keďže dopyt po geoinformatických riešeniach rastie v súkromnej aj verejnej sfére. Jedná sa hlavne o pozície GIS analytika, dátového analytika či databázového špecialistu, a to jednak v expertných firmách, jednak vo verejnej správe (štátnej, regionálnej aj komunálnej), či v odborných a výskumných inštitúciách. Vďaka silnému prierezovému prírodovednému vzdelaniu je vysoká aj uplatniteľnosť absolventov ako odborníkov v oblastiach životného prostredia, pôdohospodárstva a prakticky v akomkoľvek sektore, ktorý vyžaduje priestorové a interdisciplinárne myslenie.</p>
         
         <h3 className="border-l-3 md:border-l-4 border-k-green pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Magisterský program</h3>
@@ -29,6 +32,8 @@ export default function Programy() {
         <p><b>Fyzickogeografické predmety</b> prechádzajú od štúdia zložiek prírodnej krajiny k štúdiu metód ich výskumu. Prednášky predstavujú teoretické princípy širokej palety terénnych, laboratórnych aj GIS výskumných postupov, pričom tie najpodstatnejšie sú prakticky realizované v rámci rozsiahlych cvičení. Týmto študentov pripravujeme na prácu v interdisciplinárnych tímoch, ktoré sa zaoberajú komplexnými a stále pribúdajúcimi problémami životného prostredia a zmeny klímy, k tomu nevyhnutným hodnotením a monitoringom prírodnej krajiny, územným a krajinným plánovaním, či postupmi pre trvalo udržateľný rozvoj.</p>
 
         <p><b>Geoinformatické predmety</b> magisterského štúdia sa ponárajú do sofistikovanejších tém kartografie a GIS. Príkladmi môžu byť deformačné parametre kartografických zobrazení, teoretické princípy a metódy kartografickej reprezentácie, klasifikácia obrazu z údajov diaľkového prieskumu Zeme, digitálna fotogrametria, či globálne navigačné satelitné systémy. Poskytujú tiež podrobnejšie vedomosti o princípoch a metódach tvorby geografických databáz, topologickej štruktúry geografických objektov, ale zameriavajú sa aj na aplikáciu analytických a dopytovacích metód a tvorbu rozhodnutí v GIS.</p>
+        
+        <p><a href="docs/predmetyMgr.pdf">Zoznam predmetov</a></p>
         
         <h5 className="anchor mt-8"><span id="prace" ></span>Ukážky záverečných prác</h5>
         <p>Práca na diplomových témach a spoločná diskusia o nich v rámci diplomových seminárov je podstatnou časťou nášho štúdia. Vďaka nej má študent príležitosť rozvíjať si vlastnú špecializáciu, ale aj získať skúsenosti s nástrahami praktického použitia širších vedomostí v konkrétom probléme riešenom ním, či jeho spolužiakmi. Diplomové práce sú preto dobrou ukážkou schopností našich absolventov.<br/>
@@ -64,6 +69,7 @@ export default function Programy() {
         <h4>Fyzická geografia, geoekológia a geoinformatika</h4>
         <p><i>Garant: prof. RNDr. Jozef Minár, CSc.</i></p>
         <p>Doktorandské štúdium na našej katedre je zamerané na výchovu mladých vedcov, pričom jeho vysoký štandard v tejto oblasti je garantovaný profesorom Jozefom Minárom. Okrem zvládnutia základných vedeckých postupov študenti získavajú schopnosť samostatne vyhľadávať, selektovať a používať najnovšie poznatky z teórie a metodológie vo vedeckej oblasti ich dizertačnej práce. Následne sa ich učia samostatne rozvíjať a prinášať teoretické aj metodologické inovácie publikovateľné v renomovaných vedeckých periodikách. Aj na doktorandskom štúdium ponúkame možnosť výberu zamerania. Na fyzickej geografii a geoekológii naši doktorandi študujú najnovšie metódy výskumu prírodnej krajiny, no nadštandardne si osvoja aj prácu vo viacerých GIS-och, celú škálu metód zberu priestorových informácií, ako aj ich spracovanie vo forme modelovania vývoja a fungovania prírodných geosystémov. Doktorandi študujúci geoinformatiku získavajú vysoko nadštandardné poznatky a kompetencie v oblasti aplikovanej geoinformatiky, kartografie a diaľkového prieskumu Zeme, a osvojujú si metódy práce s geografickými informáciami v GIS-och na takej úrovni, že sú schopní svoje teoretické a metodologické inovácie pretaviť aj do formy vlastných informatických riešení. </p>
+        <p><a href="docs/predmetyPhD.pdf">Zoznam predmetov</a></p>
       </Contents>
     </section>
   );
