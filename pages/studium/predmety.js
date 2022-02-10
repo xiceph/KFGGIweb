@@ -31,7 +31,8 @@ function Predmety() {
   
   return (
     <div className="w-full">
-      <h1>Predmety bakalárskeho štúdia</h1>
+      <h1>Predmety</h1>
+      <h2>Predmety bakalárskeho štúdia</h2>
       <p>Prehľadná schéma ponuky programu uľahčujúca výber vlastnej kombinácie predmetov. Tlačidlo predmetu otvorí jeho infolist, pomocou ľavého pruhu predmet pridáte do svojho výberu.</p>
       <div>
         Kredity spolu (min 180): <b>{all}</b>,{`  `}
@@ -51,12 +52,12 @@ function Predmety() {
       </div>
       <LegendaPredmety />
       <Separator size="sm" position="left" />
-      <p className="text-ext">Odporúčame rozložiť kreditovú záťaž na celú dobu štúdia. Priemer je 30 kreditov za semester, no časť záťaže z posledného semestra je lepšie preložiť na skoršie semestre. Je dobré mať naplánovanú malú rezervu kreditov. Tiež treba rátať s tým, že niektoré výberové predmety sa môžu v rozvrhu kryť s inými predmetmi tak, že ich nebudete môcť absolvovať. Ako výberové si však máte možnosť zapísať aj predmety z ponuky iných študijných programov.<br/> </p>
+      <p className="text-ext">Odporúčame rozložiť kreditovú záťaž na celú dobu štúdia. Priemer je 30 kreditov za semester, no časť záťaže z posledného semestra je lepšie preložiť na skoršie semestre. Je dobré mať naplánovanú malú rezervu kreditov. Tiež treba rátať s tým, že niektoré výberové predmety sa môžu v rozvrhu kryť s inými predmetmi tak, že ich nebudete môcť absolvovať. Ako výberové si však máte možnosť zapísať aj predmety z ponuky iných študijných programov.</p>
       
-      <h1>Predmety magisterského štúdia</h1>
+      <h2>Predmety magisterského štúdia</h2>
       <p><a href="docs/predmetyMgr.pdf">Zoznam predmetov</a></p>
       
-      <h1>Predmety doktorandského štúdia</h1>
+      <h2>Predmety doktorandského štúdia</h2>
       <p><a href="docs/predmetyPhD.pdf">Zoznam predmetov</a></p>
     </div>
   )
