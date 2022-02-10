@@ -55,10 +55,10 @@ function Predmety() {
       <p className="text-ext">Odporúčame rozložiť kreditovú záťaž na celú dobu štúdia. Priemer je 30 kreditov za semester, no časť záťaže z posledného semestra je lepšie preložiť na skoršie semestre. Je dobré mať naplánovanú malú rezervu kreditov. Tiež treba rátať s tým, že niektoré výberové predmety sa môžu v rozvrhu kryť s inými predmetmi tak, že ich nebudete môcť absolvovať. Ako výberové si však máte možnosť zapísať aj predmety z ponuky iných študijných programov.</p>
       
       <h2>Predmety magisterského štúdia</h2>
-      <p><a href="docs/predmetyMgr.pdf">Zoznam predmetov</a></p>
+      <p><a href="docs/predmetyMgr.pdf" target="_blank">Zoznam predmetov</a></p>
       
       <h2>Predmety doktorandského štúdia</h2>
-      <p><a href="docs/predmetyPhD.pdf">Zoznam predmetov</a></p>
+      <p><a href="docs/predmetyPhD.pdf" target="_blank">Zoznam predmetov</a></p>
     </div>
   )
 }
