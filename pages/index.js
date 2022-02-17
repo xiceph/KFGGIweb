@@ -70,9 +70,9 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Aktuality</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <h5 className="font-bold my-1">Deň otvorených dverí 2021</h5>
-              <div className="mb-2">DOD PriF UK 2021 prebehol 5.2.2021 online formou.<br/>
-                Pozrite si <a href="/docs/DOD2021.pdf">našu prezentáciu pre DOD</a> a <a href="https://youtu.be/C0JAGw7tjLI?t=73" target="_blank">videozáznam geografickej časti DOD <OpenExt /></a>.
+              <h5 className="font-bold my-1">Deň otvorených dverí 2022</h5>
+              <div className="mb-2">DOD PriF UK 2022 prebehol 11.2.2022 online formou.<br/>
+                Pozrite si <a href="/docs/DOD2022.pdf" target="_blank">našu prezentáciu pre DOD</a>. Videozáznam bude dostupný v najbližších dňoch. {/* a <a href="https://youtu.be/C0JAGw7tjLI?t=73" target="_blank">videozáznam geografickej časti DOD <OpenExt /></a>.*/}
               </div>
             </div>
             <div className="py-4 first:pt-0">
