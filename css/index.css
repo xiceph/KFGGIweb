@@ -119,7 +119,16 @@ p.text-ext {
 .mt-s5 {
   margin-top: -1.25rem !important
 }
+.mt-f0 {
+  margin-top: 0 !important
+}
+.mt-f1 {
+  margin-top: 0.25rem !important
+}
 
+.mb-f1 {
+  margin-bottom: 0.25rem !important
+}
 .mb-f2 {
   margin-bottom: 0.5rem !important
 }

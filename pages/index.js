@@ -85,15 +85,17 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <p className="text-gray-600 italic">žiadne udalosti</p>
-              {/*<div className="mb-1.5"><Datum date={ new Date("2022-02-16") } today={ new Date(props.today) }></Datum></div>
-               <h5 className="font-bold mb-2">Prednáška</h5><p>Antimón - kritický prvok pre EÚ, alebo nebezpečný kontaminant?</p>
+              {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
+              <div className="mb-1.5"><Datum date={ new Date("2022-03-23") } today={ new Date(props.today) }></Datum></div>
+               <h5 className="font-bold mb-2">Prednášky</h5>
+               <p className="font-bold mb-f2">Príspevok geofyziky k lokalizácii archeologických objektov</p>
+               <p className="font-bold mt-f0">Zmeny v krajine na satelitných snímkach s možnosťami využitia vo vyučovaní</p>
                <div>
-                 <div className="mb-2">Čas: 16:00 - 18:00 <i>online cez MS Teams</i></div>
-                 <div className="mb-2">Prednášajúci: <i>doc. Mgr. Peter Šottník, PhD.</i></div>
-                 <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/po49" target="_blank">https://lnk.sk/po49</a></div>
-                 <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2022/2022-02-16-geoklub.pdf" target="_blank">Plagát</a></div>
-               </div>*/}
+                 <div className="mb-2">Čas: 15:00 – 17:30 <br/><i>online cez MS Teams</i>, <i>prezenčne (OTP) na PriF UK, B1-PLUS</i> </div>
+                 <div className="mb-2">Prednášajúci: <br/><i>prof. RNDr. Roman Pašteka, PhD.</i>, <i>RNDr. Peter Likavský, CSc.</i></div>
+                 <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/euny" target="_blank">https://lnk.sk/euny</a></div>
+                 <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2022/2022-03-23-geoklub.pdf" target="_blank">Plagát</a></div>
+               </div>
               
               {/*<div className="mb-1.5"><Datum date={ new Date("2021-08-24") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
