@@ -9,7 +9,11 @@ export default function Media() {
       <p><a href="http://naucnechodniky.eu/" target="_blank">Náučné chodníky na Slovensku</a><span className="border-l-2 border-k-brown mx-3 py-0.5"></span>portál s postupne napĺňanou databázou pasportov náučných chodníkov na Slovensku, ktorý vznikol v rámci projektu katedry 
       </p>
       <Separator />
+      <p><div className="mb-2"><Datum date={new Date("2021-12-07")} /></div>RNDr. Ivan Ružek, PhD., v RTVS <a href="https://www.rtvs.sk/televizia/archiv/17008/298853#464" target="_blank">v TV relácii Klub 3</a> na pozvanie redaktorov RTVS Marcela Hanáčka a Katky Brychtovej o náučných chodníkoch a našej internetovej databáze Naucnechodniky.eu. 
+      </p>
       <p><div className="mb-2"><Datum date={new Date("2021-07-21")} /></div>Prechodil stovky náučných chodníkov, píše o nich na webe: <a href="https://ahojmama.pravda.sk/clanky/prechodil-stovky-naucnych-chodnikov-pise-o-/14542-clanok.html" target="_blank">„Máme pre vás vyše 420 tipov na výlet.“</a> <span className="border-l-2 border-k-green mx-3 py-0.5"></span>rozhovor s RNDr. Ivanom Ružekom, PhD., v Pravde na jej portále pre rodičov Ahojmama.sk 
+      </p>
+      <p><div className="mb-2"><Datum date={new Date("2021-07-17")} /></div>doc. Ing. Peter Pišút, PhD., v dokumentárnom filme RTVS <a href="https://www.rtvs.sk/televizia/archiv/17379/280300#0" target="_blank">Oheň a voda</a> – samostanom dieli „cyklu o malých bratislavských nevšednostiach“, Metropola. 
       </p>
       <p><div className="mb-2"><Datum date={new Date("2020-11-15")} /></div>V reportáži <a href="https://fb.watch/49wmpUVeah/" target="_blank">Televíznych novín TV Markíza</a> charakterizoval Mgr. Miroslav Kožuch, PhD., úlohu misie Sentinel 6.
       </p>

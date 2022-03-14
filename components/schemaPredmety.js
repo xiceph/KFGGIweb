@@ -19,7 +19,7 @@ const handleList = e => {
 
 export const LegendaPredmety = () => {
   const colors = ['#cfb1ec','#a2c2f4','#8fdce5','#9dd5a4','#cde299','#f3d798','#E2E2E2'];
-  const desc = ['Matematicko - štatistický základ', 'Geoinformatika a kartografia', 'Diaľkový prieskum Zeme a zber dát', 'Fyzická geografia a jej aplikácie', 'Environmentalistika', 'Všeobecná, humánna a regionálna geografia', 'Ostatné predmety'];
+  const desc = ['Matematicko-štatistický základ', 'Geoinformatika a kartografia', 'Diaľkový prieskum Zeme a zber dát', 'Fyzická geografia a jej aplikácie', 'Environmentalistika', 'Všeobecná, humánna a regionálna geografia', 'Ostatné predmety'];
   
   return (
     <div className="flex flex-col text-sm">

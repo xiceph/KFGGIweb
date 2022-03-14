@@ -2,7 +2,7 @@
   "sk": [
     { "title": "O katedre", "id": "katedra", "children": [
       { "title": "História", "id": "historia" },
-      { "title": "Zamestanci", "id": "zamestnanci" },
+      { "title": "Zamestnanci", "id": "zamestnanci" },
       { "title": "Doktorandi", "id": "doktorandi" },
       { "title": "Absolventi", "id": "absolventi" },
       { "title": "Archívy a knižnica", "id": "archivy_kniznica" },
