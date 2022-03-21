@@ -164,6 +164,20 @@ export default function GeoKarto( props ) {
         <h5>Možnosti prezentácie</h5>
         <p>prednáška alebo poster</p>
         
+        <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Mediálny partneri</h3>
+        
+        <div className="flex flex-row items-stretch justify-around space-x-3 md:space-x-4 py-4">
+          <a href="https://amavet962.org/" target="_blank" className="flex flex-col items-center justify-end">
+            <img className="h-6 md:h-14" src="images/geokarto2022/logo-amavet962.svg" alt="Amavet klub 962" />
+            <span className="text-xs md:text-base text-center">Amavet klub 962</span>
+          </a>
+        
+          <a href="https://egako.eu/cs/o-casopise/" target="_blank" className="flex flex-col items-center justify-end">
+            <img className="h-10 md:h-24" src="images/geokarto2022/GaKO.svg" alt="Geodetický a kartografický obzor" />
+            <span className="text-xs md:text-base text-center">Geodetický a kartografický obzor</span>
+          </a>
+
+        </div>
         
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Organizátori a odborní garanti</h3>
         
