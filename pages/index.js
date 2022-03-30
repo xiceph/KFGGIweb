@@ -72,7 +72,7 @@ function IndexPage( props ) {
           
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Smútočné oznámenie</h5>
-              <div className="mb-2">Dňa 28.2.2022 nás navždy opustil <b>prof. RNDr. Jozef Krcho, DrSc.</b><br/>
+              <div className="mb-2">Dňa 28.3.2022 nás navždy opustil <b>prof. RNDr. Jozef Krcho, DrSc.</b><br/>
                 Katedra fyzickej geografie a geoinformatiky vyjadruje hlbokú ľútosť nad odchodom vyznamnej osobnosti.<br/><a href="docs/KrchoNekrolog.pdf" target="_blank">Nekrológ</a>
               </div>
             </div>
