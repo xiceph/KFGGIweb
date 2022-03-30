@@ -69,6 +69,14 @@ function IndexPage( props ) {
         <div>
           <h3 className="text-gray-800">Aktuality</h3>
           <div className="divide-y divide-k-xl-gray">
+          
+            <div className="py-4 first:pt-0">
+              <h5 className="font-bold my-1">Smútočné oznámenie</h5>
+              <div className="mb-2">Dňa 28.2.2022 nás navždy opustil <b>prof. RNDr. Jozef Krcho, DrSc.</b><br/>
+                Katedra fyzickej geografie a geoinformatiky vyjadruje hlbokú ľútosť nad odchodom vyznamnej osobnosti.<br/><a href="docs/KrchoNekrológ" target="_blank">Nekrológ</a>.
+              </div>
+            </div>
+          
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Deň otvorených dverí 2022</h5>
               <div className="mb-2">DOD PriF UK 2022 prebehol 11.2.2022 online formou.<br/>
