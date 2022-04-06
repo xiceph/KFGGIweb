@@ -71,6 +71,13 @@ function IndexPage( props ) {
           <div className="divide-y divide-k-xl-gray">
           
             <div className="py-4 first:pt-0">
+              <h5 className="font-bold my-1">Smútočné oznámenie</h5>
+              <div className="mb-2">Dňa 28.3.2022 nás navždy opustil <b>prof. RNDr. Jozef Krcho, DrSc.</b><br/>
+                Katedra fyzickej geografie a geoinformatiky vyjadruje hlbokú ľútosť nad odchodom vyznamnej osobnosti.<br/><a href="docs/Krcho_nekrolog_kratky.pdf" target="_blank">Krátky nekrológ</a>
+              </div>
+            </div>
+          
+            <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Deň otvorených dverí 2022</h5>
               <div className="mb-2">DOD PriF UK 2022 prebehol 11.2.2022 online formou.<br/>
                 Môžete si pozrieť <a href="https://youtu.be/aGd43lKvxzY" target="_blank">videozáznam <OpenExt /></a> alebo navštíviť našu <a href="https://hub.link/ycfVVzE" target="_blank">virtuálnu miestnosť <OpenExt /></a>.
