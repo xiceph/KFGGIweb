@@ -99,7 +99,7 @@ function IndexPage( props ) {
                <p className="font-bold mb-f2">Geopark Malé Karpaty</p>
                <div>
                  <div className="mb-2">Čas: 15:00 – 17:30 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
-                 <div className="mb-2">Prednášajúci: <br/><i>Jiří Vitáloš</i>, <i>Tomáš Fuksi</i></div>
+                 <div className="mb-2">Prednášajúci: <i>Jiří Vitáloš</i>, <i>Tomáš Fuksi</i></div>
                  <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/bmv7" target="_blank">https://lnk.sk/euny</a></div>
                  <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2022/2022-04-20-geoklub.pdf" target="_blank">Plagát</a></div>
                </div>
