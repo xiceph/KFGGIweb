@@ -30,24 +30,6 @@ function ZaverecnePrace({ data }) {
           <p className="text-ext">(1) Nie sú vylúčené aj ďalšie témy (po osobnom dohovore). Tieto však musia byť odsúhlasené vedúcim katedry a garantom štúdia.</p>
         </div>
         
-        <h4>Geografia a geoekológia pre krajinné plánovanie</h4>
-        { data.filter( item => item.program == "ZEP" ).map( item => (
-          <React.Fragment key={item.id}>
-            <dt className="font-bold text-black mt-8">
-              { item.name }
-            </dt>
-            <dd className="mb-8 md:mb-10">
-              <div className="italic mt-2 mb-4"><span className="rounded-info text-sm text-gray-600 px-3 py-1 mr-2 -ml-1 not-italic">{ item.id }</span> { item.supervisor } { item.aff && `(${item.aff})`}</div>
-              <div className="text-justify">{ item.text }</div>
-            </dd>
-          </React.Fragment>
-        ))}
-        <Separator size="sm" position="left" />
-        <div className="mb-10 md:mb-12">
-          <div className="font-bold">Poznámky</div>
-          <p className="text-ext">(1) Nie sú vylúčené aj ďalšie témy (po osobnom dohovore). Tieto však musia byť odsúhlasené vedúcim katedry a garantom štúdia.</p>
-        </div>
-        
         <h4>Učiteľstvo Geografia</h4>
         { data.filter( item => item.program == "upGE" ).map( item => (
           <React.Fragment key={item.id}>
