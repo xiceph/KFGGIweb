@@ -1,402 +1,266 @@
 [
   {
-    "id": "dFGG1",
-    "program": "dFGG",
-    "supervisor": "doc. RNDr. Vladimír Falťan, PhD.",
+    "id": "ZIK1",
+    "program": "ZIK",
+    "supervisor": "Mgr. Alexandra Benová, PhD.",
     "aff": "",
-    "name": "Detailný výskum dynamiky krajinnej pokrývky v oblastiach s prejavmi opúšťania poľnohospodárskej pôdy",
-    "text": "Práca bude zameraná na hodnotenie zmien krajinnej pokrývky a ich zaznamenanie vo veľkých mierkach s využitím návrhu modifikácie metodológie CORINE land cover. Výskum bude realizovaný v oblastiach s prejavmi opúšťania poľnohospodárskej pôdy, výskytom historických krajinných štruktúr a obnovou lesa."
+    "name": "Mapy Mesiaca a ich kartografická analýza",
+    "text": "Práca sa zaoberá mapami zobrazujúcimi vesmírne teleso Mesiac od starých máp po súčasnosť. Spracovávané sú voľne dostupné mapy Mesiaca. Analýza máp Mesiaca ako tematických máp je zameraná na mapy ako kartografické diela, na kompozíciu máp, obsahovú náplň, identifikáciu metód mapového vyjadrovania, mapových znakov, mierok a ďalších parametrov. Porovnávané budú aj staré mapy z rôznych historických období, až po nové mapy Mesiaca. Získané údaje budú štatisticky vyhodnotené, zameranie bude aj na odlišné a podobné črty v mapovom vyjadrení týchto máp."
   },
   {
-    "id": "dFGG2",
-    "program": "dFGG",
-    "supervisor": "doc. RNDr. Vladimír Falťan, PhD.",
+    "id": "ZIK2",
+    "program": "ZIK",
+    "supervisor": "Mgr. Alexandra Benová, PhD.",
     "aff": "",
-    "name": "Hodnotenie dynamiky využitia krajiny a zmien krajinnej pokrývky",
-    "text": "Na základe aplikácie aktuálnych metodických postupov výskumu a mapovania krajinnej pokrývky (fyziognomických prejavov prebiehajúcich prírodných a socioekonomických procesov na zemskom povrchu) s využitím dostupných historických prameňov, máp, leteckých snímok, GIS analýz a vlastného terénneho výskumu bude doktorand charakterizovať detailne dlhodobý vývoj využitia krajiny vybraného územia, fyziognomické prejavy tokov zmien krajinnej pokrývky (land cover flows) a vplyv prírodných komponentov krajiny na ne."
+    "name": "Rozmanitosť humánnogeografických tematických máp sveta v geografických atlasoch",
+    "text": "Práca sa zaoberá analýzou máp s humánnogeografickou tematikou zobrazujúcich celý svet v geografických atlasoch. Použité sú vybrané dostupné domáce a zahraničné atlasy vydané v minulosti až po súčasnosť. Analýza máp sa konkrétne zameriava na analýzu metód mapového vyjadrovania, použitia mapových znakov, kompozíciu máp a iných parametrov. Nasleduje identifikácia a zastúpenie tematických oblastí máp, štatistické vyhodnotenie získaných údajov, zameranie sa aj na odlišné a podobné črty v mapovom vyjadrení týchto máp."
   },
   {
-    "id": "dFGG3",
-    "program": "dFGG",
-    "supervisor": "RNDr. Igor Matečný, PhD.",
+    "id": "ZIK3",
+    "program": "ZIK",
+    "supervisor": "Mgr. Alexandra Benová, PhD.",
     "aff": "",
-    "name": "Využitie metód diaľkového prieskumu Zeme pre hodnotenie zmien prírodných ekosystémov",
-    "text": "Metódy diaľkového priekumu Zeme sa široko využívajú pre hodnotenie zmien štruktúry krajiny. Nové technické možnosti, spojené so širokým využívaním dronov (UAV), snímkovanie v rôznych pásmach spektra, ako aj technológia LIDAR umožnuje získanie veľmi podrobných dát o prírodných ekosystémoch. Hodnotenie rôznych časových radov snímok, využitie rôznych formátov dát, spolu s pozemnými meraniami a mapovými podkladmi umžňuje zachytiť zmeny v sledovaných ekosystémoch, nielen z hľadiska štruktúry, výmery ale aj ich zdravotného stavu."
+    "name": "Fantazijné mapy v kartografickej tvorbe",
+    "text": "Práca sa zaoberá skúmaním fantazijných máp vytvorených na základe knižných predlôh, cez detské fantazijné mapy po voľnú tvorbu. Analýza máp sa zameriava na ich kartografickú stránku, a to analýzu metód mapového vyjadrovania, použitia mapových znakov, kompozíciu máp, geografického obsahu a iné. Následne sú mapy analyzované aj z hľadiska mapového štýlu s určením charakteristických štýlotvorných prostriedkov. Ďalším cieľom je vytvoriť vo voľne dostupných programoch na tvorbu fantazijných máp mapy na základe výsledkov analýz."
   },
   {
-    "id": "dFGG4",
-    "program": "dFGG",
-    "supervisor": "doc. RNDr. Eva Mičietová, CSc.",
+    "id": "ZIK4",
+    "program": "ZIK",
+    "supervisor": "Mgr. Michal Druga, PhD.",
     "aff": "",
-    "name": "Vplyv krajinnej pokrývky na uhlíkovú bilanciu a klimatické zmeny – regionálny aspekt",
-    "text": "Hodnotenie zmien krajinnej pokrývky SR podľa IPCC Afolu. Výpočet uhlíkovej bilancie  podľa metodiky IPCC  za posledných 30 rokov v SR. Identifikácia areálov zmeny klimatických faktorov z hľadiska zmeny uhlikovej bilancie. Vyhodnotenie identifikovaných vplyvov  na životné prostredie."
+    "name": "Potenciál sprietočnenia riečnych ramien na základe analýzy lidarového DMR",
+    "text": "Na Slovensku prebiehajú projekty smerujúce k zvýšeniu laterálnej konektivity riek napojením starých riečnych ramien na súčasné toky. Pre vytypovanie vhodných lokalít je nutné poznať rozdiel nadmorských výšok medzi dnami starých ramien (lidarový model DMR 5.0 poskytuje podrobné dáta) a hladinami najbližších riek pri rôznych prietokoch. GIS ponúka jednoduché nástroje na takéto porovnanie, existuje však viacero možností ich použitia. Cieľom tejto témy je otestovať tieto možnosti na nížinách s dostupným DMR5.0, vyhodnotiť postupy, určiť lokality s najväčším potenciálom, opísať výsledky vzhľadom k prítomnosti chránených území a publikovať výsledné mapy ako webovú mapu."
   },
   {
-    "id": "dFGG5",
-    "program": "dFGG",
-    "supervisor": "prof. RNDr. Jozef Minár, CSc.",
-    "aff": "",
-    "name": "Numerické modelovanie dlhodobého vývoja georeliéfu a geomorfometrická evaluácia jeho výsledkov",
-    "text": "Numerické modelovanie dlhodobého vývoja georeliéfu sa používa na testovanie vývojových hypotéz konkrétnych území. Nastavenia modelu odrážajú často variantné scenáre a predstavy o iniciálnom reliéfe územia etapách jeho neotektonického a morfoklimatického vývoja a ďalších počiatočných a okrajových podmienkach. Mieru úspešnosti rôznych výsledkov takéhoto modelovania definuje zhoda výsledného namodelovaného povrchu so súčasným georeliéfom. Túto možno vyšetrovať prostredníctvom rôznych geomorfometrických charakteristík a objektov, ktoré je potrebné derivovať z vhodne generalizovaného DMR záujmového územia. Utvorenie sady numerických experimentov vybraného územia a ich ohodnotenie prostredníctvom porovnania povrchu utvoreného modelovaním a generalizovaného reálneho DMR bude hlavným cieľom dizertácie."
-  },
-  {
-    "id": "dFGG6",
-    "program": "dFGG",
-    "supervisor": "doc. RNDr. Milan Trizna, PhD.",
-    "aff": "",
-    "name": "Verifikácia vplyvu povrchu povodia na zrážkovo-odtokové modelovania",
-    "text": "Vybrané morfometrické a morfografické parametre povodí vstupujú významným spôsobom do zrážkovo-odtokového modelovania, ovplyvňujú ich výsledky a môžu byť zdrojom chýb, ktoré je problematické odhaliť. Dizertačná práca by sa zamerala na úlohu plochy povodia pri zrážkovo-odtokovom modelovaní, špeciálne pri určovaní úhrnu zrážok na plochu povodia. Zároveň by sa preveril vplyv vertikálnej členitosti reliéfu na presnosť určenia zrážkového úhrnu na plochu povodia ako vstup pre zrážkovo-odtokové modelovanie."
-  },
-  {
-    "id": "ZEP1",
-    "program": "ZEP",
+    "id": "ZIK5",
+    "program": "ZIK",
     "supervisor": "Mgr. Michal Druga, PhD.",
     "aff": "",
     "name": "Vplyv geografických faktorov na zmeny krajinnej pokrývky na vybranom území",
-    "text": "Krajina na Slovensku sa mení predovšetkým v dôsledku zmien jej využívania človekom. Lokalizácia týchto zmien nie je náhodná, ale viac či menej usmerňovaná vlastnosťami krajiny - geografickými faktormi. Téma zahŕňa vymedzenie zmien krajinnej pokrývky vo vybranom území, následne vypracovanie máp geografických faktorov a nakoniec analýzu vplyvu faktorov na zmeny. Jedná sa preto o prierezovú geografickú tému: Študent sa na jednej strane naučí používať viaceré analytické nástroje GIS a osvojí si jednoduché štatistické postupy, na druhej strane si vyskúša geografickú teóriu o hľadaní súvislostí medzi zložkami krajiny na ich vzťahoch v reálnom území."
+    "text": "Krajina na Slovensku sa mení predovšetkým v dôsledku zmien jej využívania človekom. Lokalizácia týchto zmien nie je náhodná, ale viac či menej usmerňovaná vlastnosťami krajiny – geografickými faktormi. Téma zahŕňa vymedzenie zmien krajinnej pokrývky vo vybranom území, následne vypracovanie máp geografických faktorov a nakoniec analýzu vplyvu faktorov na zmeny. Jedná sa preto o prierezovú geografickú tému – študent sa na jednej strane naučí používať viaceré analytické nástroje GIS a osvojí si jednoduché štatistické postupy, na druhej strane si vyskúša geografickú teóriu o hľadaní súvislostí medzi zložkami krajiny na ich vzťahoch v reálnom území."
   },
   {
-    "id": "ZEP2",
-    "program": "ZEP",
-    "supervisor": "Mgr. Tomáš Goga",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Vplyv zrážkových udalostí na hodnotu intenzity radarového signálu",
-    "text": "Cieľom bakalárskej práce je pracovať s hypotézou, či sa intenzita radarového signálu mení podľa aktívnej (aktuálnej) zrážkovej situácie v sledovanej záujmovej oblasti. Vstupom budú radarové údaje satelitu Sentinel-1 a údaje zrážkových udalostiach od SHMÚ vo vybranej záujmovej oblasti. Podmienku výberu záujmovej oblasti je rovinatý ráz územia aby sa minimalizoval vplyv sklonu a orientácie na intenzitu  radarového signálu. Študent počas vypracovania bakalárskej práce nadobudne vedomosti o spracovaní radarových záznamov a expertnom vyhodnocovaní obrazu DPZ. Dôraz pri hodnotení práce študenta bude kladený na dôkladnú prácu s dostupnými informačnými zdrojmi, ich analýzu a porovnanie získaných výsledkov s dostupnou literatúrou vo forme dôsledne spracovanej diskusie."
-  },
-  {
-    "id": "ZEP3",
-    "program": "ZEP",
-    "supervisor": "RNDr. Šárka Horáčková, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Možnosti interpretácie vývoja krajiny pomocou historických máp a zdrojov",
-    "text": "Téma bude zameraná okolie alúvia rieky Ipeľ a jeho zmeny od 18. storočia do súčasnosti s využitím dostupných historických máp a zdrojov v okolí mesta Šahy so zameraním na zmeny koryta a historické zmienky o povodňových udalostiach. Súčasťou vypracovania práce bude hodnotenie zužovania šírky územia nivy vplyvom protipovodňových opatrení."
-  },
-  {
-    "id": "ZEP4",
-    "program": "ZEP",
-    "supervisor": "RNDr. Marián Jenčo, PhD.",
+    "id": "ZIK6",
+    "program": "ZIK",
+    "supervisor": "doc. RNDr. Vladimír Falťan, PhD.",
     "aff": "",
-    "name": "Využitie eróznych modelov USLE, resp. RUSLE a USPED pri návrhu zmien v poľnohospodársky využívanej krajine",
-    "text": "Výpočet potenciálnej vodnej erózie v rámci vybraného územia a použitie eróznych modelov pri vyjadrení vplyvu alternatívnych návrhov zmien využitia územia na zníženie erózie."
+    "name": "Detailný výskum krajinnej pokrývky lokality Petržalka – Starý háj",
+    "text": "Prírodné rezervácie v rámci mestského prostredia tvoria z hľadiska ekologickej stability významné areály. Cieľom práce je charakterizovať aktuálny stav krajinnej pokrývky vybraného územia zahŕňajúceho hlavne urbanizované a prírodné prvky krajinnej štruktúry a znázorniť jej priestorovú štruktúru v mierke 1 : 10 000."
   },
   {
-    "id": "ZEP5",
-    "program": "ZEP",
-    "supervisor": "RNDr. Marián Jenčo, PhD.",
-    "aff": "",
-    "name": "Využitie aktuálnych záznamov diaľkového prieskumu Zeme pri rekonštrukcii krajiny",
-    "text": "Identifikácia zaniknutých poľných ciest a občasných alebo opustených korýt malých vodných tokov a ich overenie terénnymi metódami."
-  },
-  {
-    "id": "ZEP6",
-    "program": "ZEP",
-    "supervisor": "RNDr. Marián Jenčo, PhD.",
-    "aff": "",
-    "name": "Svetlé fľaky na ornej pôde pahorkatín ako výsledok obhospodarovania pôdy v minulosti",
-    "text": "Identifikácia lokalít so svetlými plochami na ornej pôde pahorkatín a rekonštrukcia využitia krajiny na základe historických kartografických podkladov."
-  },
-  {
-    "id": "ZEP7",
-    "program": "ZEP",
-    "supervisor": "Ing. Anna Kidová, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Prírode blízke opatrenia ako nový prístup v manažmente vodných tokov",
-    "text": "Téma úzko súvisí s adaptáciou riečnej krajiny na zmenu klímy a so zvyšujúcim sa rizikom extrémnych hydrologických javov ako sú povodne a sucho. Využívanie prírode blízkych opatrení, tzv. „zelenej infraštruktúry“ v oblasti vodného hospodárstva, prispieva k zadržiavaniu vody v krajine, zlepšeniu kvality vody a zvýšeniu diverzity (bio-, geo-). V kontexte protipovodňovej ochrany navyše znižujú celkovú zraniteľnosť územia. Cieľom práce bude zmapovať aktuálnu situáciu v oblasti využívania prírode blízkych opatrení pri manažmente vodných tokov na Slovensku so zameraním sa na príklady dobrej praxe. Možným pokračovaním práce je vypracovanie návrhu prírode blízkeho riešenia protipovodňovej ochrany a zadržania vody v krajiny pre konkrétny vodný tok s ohľadom na jeho hydromorfologické vlastnosti v rámci diplomovej práce."
-  },
-  {
-    "id": "ZEP8",
-    "program": "ZEP",
-    "supervisor": "Ing. Anna Kidová, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Výskyt biotopov myrikovky nemeckej (NATURA 2000) ako indikátora morfologických zmien koryta",
-    "text": "Veľmi špecifické nároky na stanovisko (náplavy riečnych lavíc a brehov vodných tokov), status absolútneho heliofytu (neznáša akékoľvek tienenie) a takmer nulová konkurencia voči iným rastlinám správne predurčuje myrikovku nemeckú na jej ochranu ako európsky významného biotopu. Prirodzený výskyt tohto druhu je viazaný na stanovište štrkových a piesčitých lavíc. Tie sú často narušované povodňovými prietokmi, ktoré svojim geomorfologickým efektom priaznivo ovplyvňujú prirodzené korytotvorné procesy. Cieľom práce bude na základe dostupných dát jej prirodzeného výskytu na Slovensku a dát DPZ zmapovať charakteristické morfologické vlastnosti vodných tokov (rád vodného toku, pôdorysná vzorka, dĺžka a typ korytového úseku, šírka koryta, atď.) a zosumarizovať tieto poznatky do priestorovej databázy. Pokročilejšie analýzy časovo-priestorových zmien morfológie koryta s ohľadom na variabilitu rozsahu výskytu tohto indikátora v jeho alúviu môžu byť pokračovaním danej témy v diplomovej práci."
-  },
-  {
-    "id": "ZEP9",
-    "program": "ZEP",
-    "supervisor": "Mgr. Peter Labaš",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Monitorovanie geomorfologických zmien vybraného vodného toku pomocou dronu",
-    "text": "Dronom vieme detailne, rýchlo a podľa potreby pravidelne zachytiť aj malé zmeny, ktoré sa v krajine vyskytujú. Vodné toky sú dynamickým prvkom krajiny, kde má takéto využitie metódy bezpilotného snímkovania (UAV) opodstatnenie a v súčasnosti je ich využitie čoraz jednoduchšie a žiadanejšie. Cieľom bakalárskej práce bude teoreticky zhodnotiť možnosti využitia UAV vo fluviálnej geomorfológii."
-  },
-  {
-    "id": "ZEP10",
-    "program": "ZEP",
-    "supervisor": "Mgr. Peter Labaš",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Primárna sukcesia mŕtveho Markušovského meandra na vodnom toku Hornád",
-    "text": "Prirodzený proces meandrovania vodných tokov v súčasnosti sledujeme už len na niektorých miestach na Slovensku. Špecifickým a geomorfologicky veľmi zaujímavým výsledkom meandrovania je pretrhnutie šije meandra. V prípade, že pôvodný meander po pretrhnutí šije stráca prepojenie s vodným tokom, začína sa proces akrécie a primárnej sukcesie. Cieľom práce bude charakterizovať v mŕtvom meandri vodného toku Hornád nástup primárnej sukcesie, ktorá nastúpila po prerazení jeho šije počas série povodňových udalostí."
-  },
-  {
-    "id": "ZEP11",
-    "program": "ZEP",
-    "supervisor": "RNDr. Marián Melo, PhD.",
-    "aff": "Katedra astronómie, fyziky Zeme a meteorológie FMFaI UK v Bratislave",
-    "name": "Zhodnotenie klimatických informácií na stránkach novín Pressburger Zeitung v druhej polovici 18. storočia",
-    "text": "Historické pramene ponúkajú pomerne značný a zatiaľ dostatočne nevyužitý potenciál ohľadom nových poznatkov pri štúdiu historickej klímy na našom území. Jedným z takýchto prameňov sú aj noviny Pressburger Zeitung, ktoré vychádzali v Bratislave v rokoch 1764 až 1945 v nemeckom jazyku. Popri inom texte sa tu občas objavia aj informácie o rôznych extrémoch počasia, ktoré sa v tej dobe tu v Bratislave alebo v jej okolí vyskytli. Cieľom bakalárskej práce je zhodnotiť klimatické informácie, ktoré sa objavili na stránkach týchto novín od začiatku vydávania (r.1764) do konca 18. storočia. Pri tejto práci je nutná znalosť nemeckého jazyka."
-  },
-  {
-    "id": "ZEP12",
-    "program": "ZEP",
-    "supervisor": "RNDr. Marián Melo, PhD.",
-    "aff": "Katedra astronómie, fyziky Zeme a meteorológie FMFaI UK v Bratislave",
-    "name": "Identifikácia extrémnych meteorologických udalostí pre vybranú oblasť Slovenska na základe historických prameňov",
-    "text": "Pravidelné meteorologické merania na Slovensku začínajú na niektorých staniciach v priebehu druhej polovice 19. storočia. Ide však iba o obmedzený počet takýchto miest. Väčšina staníc na našom území pochádza až z 20. storočia, najmä z jeho druhej polovice. Poznatky o počasí a klíme na našom území z obdobia pred začiatkom systematických meteorologických meraní (resp. z lokalít, ktoré v období na konci 19. a v prvej polovici 20. storočia nemali vlastné merania) čerpáme z rôznych historických záznamov. Takéto poznatky sa týkajú najmä dosiahnutých extrémov počasia, ako sú napr. intenzívne zrážky, resp. ich dlhodobý nedostatok, povodne, búrky, silný vietor, výdatné sneženie, mimoriadna výška snehovej pokrývky, tuhé mrazy, vysoké teploty vzduchu a podobne. Záznamy možno nájsť v rôznych regionálnych archívoch, a to najmä v dobovej tlači, v kronikách, v starých listinách, knihách, mapách, fotografiách, na povodňových značkách a podobne. Na našej katedre (Katedre astronómie... FMFI UK – pozn. Z. M.) sa v rámci výskumu zaoberáme mapovaním historickej klímy na Slovensku a budovaním archívu dát. Cieľom bakalárskej práce je rozšíriť doteraz známe poznatky o klíme vybranej oblasti na Slovensku na základe dostupných historických prameňov ďalej do minulosti a pomôcť tak spoznať doteraz neznámu históriu klímy v tejto oblasti. Na podobnú tému boli v minulosti vypracované už dve bakalárske práce, jedna sa týkala oblasti Gemera a Malohontu, druhá oblasti v okolí Komárna. Obe tieto bakalárske práce nás obohatili o nové poznatky najmä z obdobia prelomu 19. a 20. storočia, pričom najvýznamnejšie výsledky z nich boli využité aj pri písaní viacerých článkov v spoluautorstve, ktoré boli publikované v časopisoch Acta Hydrologica Slovaca, Studia Scientifica Facultatis Paedagogicae, Geographica Pannonica."
-  },
-  {
-    "id": "ZEP13",
-    "program": "ZEP",
-    "supervisor": "Mgr. Juraj Procházka, PhD.",
-    "aff": "",
-    "name": "Pramenná hodnota opisov katastrálnych hraníc v geografickom výskume",
-    "text": "Opisy katastrálnych hraníc (tzv. „Mezepisy“) sú málo známou a len sporadicky využívanou súčasťou pôvodného katastrálneho operátu z 19.storočia. Zhotovené boli ako podklad k vlastnému mapovaniu, sú bohaté z hľadiska toponymie a obsahujú unikátne protokoly o triedení pôdnych blokov podľa úrodnosti. Cieľom práce je charakterizovať „mezepisy“ v kontexte pôvodného katastrálneho aparátu, identifikovať ich potenciál v geografickom výskume, porovnať ich s vlastnými mapami, prípadne zhodnotiť dobovú bonitáciu pôdnych jednotiek s aktuálnou na základe  grafickej reprezentácie."
-  },
-  {
-    "id": "ZEP14",
-    "program": "ZEP",
-    "supervisor": "Mgr. Juraj Procházka, PhD.",
-    "aff": "",
-    "name": "Renaturalizácia vodných tokov Slovenska",
-    "text": "V súvislosti s pokračujúcou environmentálnou krízou, pôdnym a hydrologickým suchom, či povodňovou hrozbou sa postupne paradigma regulácií vodných tokov (opevňovanie brehov, napriamovanie korýt, výstavba priehrad ap.) v súčasnosti vo vyspelých krajinách intenzívne prehodnocuje. Výsledkom sú stále častejšie snahy prinavrátiť vybrané úseky vodných tokov do prírode blízkeho stavu. Cieľom práce je zmapovať etapy antropizácie riečnej krajiny a spôsoby, akým človek zasahoval (najmä) do riečnych korýt, a zároveň prehľadne zdokumentovať prípady renaturalizácií vodných tokov vo svete a na Slovensku."
-  },
-  {
-    "id": "ZEP15",
-    "program": "ZEP",
-    "supervisor": "Mgr. Juraj Procházka, PhD.",
-    "aff": "",
-    "name": "Morfologický efekt zvyškov dreva a ripariálnej vegetácie na riečne koryto",
-    "text": ""
-  },
-  {
-    "id": "ZEP16",
-    "program": "ZEP",
-    "supervisor": "Mgr. Juraj Procházka, PhD.",
-    "aff": "",
-    "name": "Obraz historických povodní na Váhu (alebo Dunaji) v dobovej tlači",
-    "text": ""
-  },
-  {
-    "id": "ZEP17",
-    "program": "ZEP",
-    "supervisor": "Mgr. Miloš Rusnák, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Granulometrická analýza štrkových lavíc vybraného úseku vodného toku",
-    "text": "Cieľom práce je vypracovať teoretický prehľad o priestorovej variabilite sedimentov v korytách vodných tokov, ako aj metód a postupov pre zrnitostnú analýzu sedimentov. Získané znalosti následne preukázať na základe výberu jednej z metód (Wolmanova metóda, optická granulometria, osievanie sedimentov a pod. ) pri výskume sedimentov vo vybranom úseku vodného toku identifikáciou ich priestorovej variability na štrkovej lavici."
-  },
-  {
-    "id": "ZEP18",
-    "program": "ZEP",
-    "supervisor": "RNDr. Ivan Ružek, PhD.",
-    "aff": "",
-    "name": "Rozptýlená zeleň v poľnohospodárskej krajine – mapovanie, funkcie a ochrana",
-    "text": "Rozptýlenú zeleň v poľnohospodárskej krajine tvoria predovšetkým menšie porasty stromov a krov s rôznym zápojom. Súčasná podoba a zastúpenie sú výsledkom zmien v poľnohospodárskej výrobe od 2. polovice 20. storočia. Rozptýlená zeleň je dôležitá nielen z krajinárskeho hľadiska, ale najmä z hľadiska pôdoochranného a zachovania druhovej diverzity. Ako významné sa javia aj jej funkcie biocentier a biokoridorov v krajine. Cieľom bakalárskej práce je spracovať rešerš literatúry o rozptýlenej zeleni a jej význame, zmapovať a zhodnotiť stav (vývoj) rozptýlenej zelene vo vybranom území od 2. polovice 20. storočia po súčasnosť."
-  },
-  {
-    "id": "ZEP19",
-    "program": "ZEP",
-    "supervisor": "Mgr. Adam Šupčík",
-    "aff": "",
-    "name": "Tvorba a optimalizácia 3D modelu viniča pre potreby precízneho vinohradníctva",
-    "text": "Práca sa zameriava na tvorbu a optimalizáciu 3D modelu koruny a kmeňa viniča zo snímok. 3D model napomáha pri určovaní množstva koreňov, objemu koruny a rôznych charakteristík jednotlivých odrôd ako napríklad výška porastu, rozstup medzi jednotlivými koreňmi. Včasnou identifikáciou nedostatkov vinohradu sa dajú odhaliť vznikajúce problémy spojené s výskytom škodcov, chorôb a nevhodných fyziologických a chemických podmienok. Téma ponúka nadobudnutie zručností v oblasti práce s bezpilotnými lietadlami (UAV/drony), spracovania snímok, tvorby 3D modelov, používania GIS softvéru a GNSS zariadení."
-  },
-  {
-    "id": "ZKI1",
-    "program": "ZKI",
-    "supervisor": "Mgr. Alexandra Benová, PhD.",
-    "aff": "",
-    "name": "Analýza máp sveta v školských atlasoch z hľadiska mapového jazyka",
-    "text": "Práca sa zaoberá analýzou máp zobrazujúcich celý svet v školských atlasoch na základe dostupných domácich a zahraničných máp a atlasov vydaných v minulosti až po súčasnosť. Identifikácia a zastúpenie zistených tematických máp celého sveta a ich zaradenie do tematických okruhov, štatistické vyhodnotenie získaných údajov, zameranie sa aj na odlišné a podobné črty v mapovom vyjadrení týchto máp. Analýza týchto máp z hľadiska mapového jazyka."
-  },
-  {
-    "id": "ZKI2",
-    "program": "ZKI",
-    "supervisor": "Mgr. Alexandra Benová, PhD.",
-    "aff": "",
-    "name": "Mapy fiktívnych svetov z hľadiska mapového jazyka",
-    "text": "Práca sa zaoberá skúmaním máp fiktívnych svetov v knihách, stolových alebo počítačových hrách. Mapy sa analyzujú z hľadiska metód mapového vyjadrovania, použitia mapových znakov, kompozície týchto máp, čitateľnosti a geografického obsahu. Cieľom je opísať mapy z hľadiska mapového jazyka, štýlu, vytvoriť klasifikáciu týchto máp. Druhým cieľom je preskúmať a porovnať voľne dostupné programy na tvorbu máp fiktívnych svetov."
-  },
-  {
-    "id": "ZKI3",
-    "program": "ZKI",
-    "supervisor": "Mgr. Alexandra Benová, PhD.",
-    "aff": "",
-    "name": "Porovnanie mapových znakov na zobrazenie vegetácie od 3. vojenského mapovania habsburskej monarchie",
-    "text": "Analýza mapových znakov na zobrazenie vegetácie na mapách od 3. vojenského mapovania habsburskej monarchie z hľadiska mapového jazyka, ich porovnanie so súčasne používanými mapovými znakmi ZM SR a inými starými znakovými kľúčmi. Morfografická analýza vybraných mapových znakov 3. vojenského mapovania."
-  },
-  {
-    "id": "ZKI4",
-    "program": "ZKI",
-    "supervisor": "Mgr. Jozef Fábry",
-    "aff": "",
-    "name": "Publikovanie rastrov do prostredia webu",
-    "text": "V teoretickej časti práce sa budeme zaoberať historickým vývojom GIS. Následne prejdeme na popis vektorových a rastrových formátov, výhody a nevýhody ich používania a hlavné rozdiely medzi nimi. V druhej časti teoretickej práce si bližšie popíšeme štruktúru rastrových formátov, ich využitie v geoinformatike a spôsob publikácie do prostredia webu.  Praktická časť práce bude spočívať v príprave rastrov na publikáciu a tvorby webovej aplikácie s rôznymi metódami publikácie rastrov."
-  },
-  {
-    "id": "ZKI5",
-    "program": "ZKI",
+    "id": "ZIK7",
+    "program": "ZIK",
     "supervisor": "Mgr. Richard Feciskanin, Ph.D.",
     "aff": "",
     "name": "Analýza výškového profilu turistických značkovaných trás na podklade DMR 5.0",
-    "text": "Cieľom práce je vypočítať a analyzovať parametre prevýšení na úsekoch turistických značkovaných trás (TZT) s využitím detailného výškového modelu DMR 5.0. Záhŕňa identifikáciu TZT na území, rozčlenenie úsekov TZT, výpočet kumulatívneho prevýšenia, sklonov stúpania/klesania. Na vybraných úsekoch zhodnotenie závislosti určených parametrov s orientačnými časmi na smerovníkoch."
+    "text": "Cieľom práce je vypočítať a analyzovať parametre prevýšení na úsekoch turistických značkovaných trás (TZT) s využitím detailného výškového modelu DMR 5.0. Zahŕňa identifikáciu TZT na území, rozčlenenie úsekov TZT, výpočet kumulatívneho prevýšenia, sklonov stúpania/klesania. Na vybraných úsekoch zhodnotenie závislosti určených parametrov s orientačnými časmi na smerovníkoch."
   },
   {
-    "id": "ZKI6",
-    "program": "ZKI",
+    "id": "ZIK8",
+    "program": "ZIK",
     "supervisor": "Mgr. Richard Feciskanin, Ph.D.",
     "aff": "",
-    "name": "Algoritmus identifikácie vrcholov s určením prominencie",
-    "text": "Hlavným cieľom práce je pripraviť postup pre identifikáciu vrcholov z digitálneho výškového modelu. Základnym prvkom postupu je efektívny algoritmus určenia prominencie a súvisiacich vlastností (kľúčové sedlo, materský vrchol, izolácia, ...). Vrcholy s vypočítanými parametrami prezentuje webová mapová aplikácia."
+    "name": "Algoritmus identifikácie vrcholov s určením prominencie",
+    "text": "Hlavným cieľom práce je pripraviť postup pre identifikáciu vrcholov z digitálneho výškového modelu. Základným prvkom postupu je efektívny algoritmus určenia prominencie a súvisiacich vlastností (kľúčové sedlo, materský vrchol, izolácia...). Vrcholy s vypočítanými parametrami prezentuje webová mapová aplikácia."
   },
   {
-    "id": "ZKI7",
-    "program": "ZKI",
+    "id": "ZIK9",
+    "program": "ZIK",
+    "supervisor": "RNDr. Marián Jenčo, PhD.",
+    "aff": "",
+    "name": "Využitie eróznych modelov USLE, resp. RUSLE a USPED pri návrhu zmien v poľnohospodársky využívanej krajine",
+    "text": "Výpočet potenciálnej vodnej erózie v rámci vybraného územia a použitie eróznych modelov pri vyjadrení vplyvu alternatívnych návrhov zmien využitia územia na zníženie erózie."
+  },
+  {
+    "id": "ZIK10",
+    "program": "ZIK",
+    "supervisor": "RNDr. Marián Jenčo, PhD.",
+    "aff": "",
+    "name": "Svetlé fľaky na ornej pôde pahorkatín ako výsledok obhospodarovania pôdy v minulosti",
+    "text": "Identifikácia lokalít so svetlými plochami na ornej pôde pahorkatín a rekonštrukcia využitia krajiny na základe historických kartografických podkladov."
+  },
+  {
+    "id": "ZIK11",
+    "program": "ZIK",
+    "supervisor": "RNDr. Marián Jenčo, PhD.",
+    "aff": "",
+    "name": "Grafická knižnica krivostí",
+    "text": "Výpočet morfometrických veličín druhého a tretieho rádu na umelých povrchoch a vytvorenie mapovej knižnice týchto veličín pre potreby overovania algoritmov na výpočet krivostí v rôznych programových prostrediach."
+  },
+  {
+    "id": "ZIK12",
+    "program": "ZIK",
+    "supervisor": "Mgr. Romana Kohilová",
+    "aff": "",
+    "name": "Zánik dunajského ramena vo svetle historických dát a sedimentárneho archívu",
+    "text": "Bratislava bola v minulosti popretkávaná mohutnou sieťou dunajských ramien, ktoré mesto rozdeľovali na mestské nivy a ostrovy. Jednotlivé ramená a ich okolie sú zaujímavé z prírodnokrajinárskeho, ale aj historickogeografického hľadiska. Analýzou historických máp a plánov v kombinácii s údajmi sedimentárneho archívu je možné poznávať morfogenézu riek a jednotlivých riečnych ramien, definovať významné hydrologické zmeny a zmeny prírodných podmienok a využívania krajiny. Cieľom bakalárskej práce je rekonštrukcia dunajského ramena Grössling v historickom jadre Bratislavy na základe analýzy historických máp a sedimentárneho archívu."
+  },
+  {
+    "id": "ZIK13",
+    "program": "ZIK",
     "supervisor": "Mgr. Miroslav Kožuch, PhD.",
     "aff": "",
-    "name": "Manažment líniových stavieb pri ochrane pred povodňami",
-    "text": "Cieľom práce bude mapovanie melioračných kanálov využitím dát leteckého lidaru pri prevencii pred povodňami vo zvolenej obci. Uvedené vodohospodárske stavby sú pod veľkým tlakom investorov. Kanály preto časom zanikajú a ich priebeh možno rekonštruovať len zo starých máp. Po rekonštrukcii bývalej siete sa vykoná modelovanie. Určí sa hierarchia siete, plocha zberných oblastí s prípadným návrhom optimalizácie, či obnovy zaniknutého kanála. Výstup bude poskytnutý samospráve príslušnej obce."
+    "name": "Hodnotenie kvality záznamov vojenských spravodajských systémov DPZ",
+    "text": "Obrazové záznamy z programov tzv. CORONA, ARGON, LANYARD patria medzi najstaršie snímky satelitného DPZ. Vyhotovené boli v rokoch 1960 až 1972 pre spravodajské účely. Dnes predstavujú neoceniteľné zdroj informácii pre mapovanie zmien krajiny. Pri snímaní sa použili rozdielne snímače, záznamy majú rozdielne priestorové rozlíšenie a nie sú polohovo lokalizované. Cieľom práce bude overiť vzťah priestorového rozlíšenia (6/9/25/30/40/460 feet) a absolútnej polohovej presnosti záznamu, ktorá podmieňuje ich využitie pri mapovaní krajiny."
   },
   {
-    "id": "ZKI8",
-    "program": "ZKI",
-    "supervisor": "Mgr. Miroslav Kožuch, PhD.",
-    "aff": "",
-    "name": "Deforestácia a jej modelovanie zo záznamov DPZ",
-    "text": "Cieľom práce bude mapovanie úbytku lesa zo záznamov Sentinel 2 niekoľkých ročných časových radov v lokalite Chopok-Jasná. Klasifikácia obrazu prebehne pomocou pixlovo založeného prístupu. Areály s odlesnením budú vizualizované využitím záznamom z lidaru. \nÚbytok lesa spôsobuje viacero činiteľov (vietor, kôrovec, cestovný ruch,...). Na ochranu a obnovu svetových lesov poukazuje aj nariadenie Európskej Komisie COM(2019) 352 final (https://eur-lex.europa.eu/legal-content/SK/TXT/HTML/?uri=CELEX:52019DC0352&from=EN)."
+    "id": "ZIK14",
+    "program": "ZIK",
+    "supervisor": "RNDr. Marián Melo, PhD.",
+    "aff": "Katedra astronómie, fyziky Zeme a meteorológie FMFaI UK v Bratislave",
+    "name": "Zhodnotenie klimatických informácií na stránkach novín Pressburger Zeitung v druhej polovici 18. storočia",
+    "text": "Historické pramene ponúkajú pomerne značný a zatiaľ dostatočne nevyužitý potenciál ohľadom nových poznatkov pri štúdiu historickej klímy na našom území. Jedným z takýchto prameňov sú aj noviny Pressburger Zeitung, ktoré vychádzali v Bratislave v rokoch 1764 až 1945 v nemeckom jazyku. Popri inom texte sa tu občas objavia aj informácie o rôznych extrémoch počasia, ktoré sa v tej dobe tu v Bratislave alebo v jej okolí vyskytli. Cieľom bakalárskej práce je zhodnotiť klimatické informácie, ktoré sa objavili na stránkach týchto novín od začiatku vydávania (r.1764) do konca 18. storočia. Pri tejto práci je nutná znalosť nemeckého jazyka."
   },
   {
-    "id": "ZKI9",
-    "program": "ZKI",
+    "id": "ZIK15",
+    "program": "ZIK",
+    "supervisor": "RNDr. Marián Melo, PhD.",
+    "aff": "Katedra astronómie, fyziky Zeme a meteorológie FMFaI UK v Bratislave",
+    "name": "Identifikácia extrémnych meteorologických udalostí pre vybranú oblasť Slovenska na základe historických prameňov",
+    "text": "Pravidelné meteorologické merania na Slovensku začínajú na niektorých staniciach v priebehu druhej polovice 19. storočia. Ide však iba o obmedzený počet takýchto miest. Väčšina staníc na našom území pochádza až z 20. storočia, najmä z jeho druhej polovice. Poznatky o počasí a klíme na našom území z obdobia pred začiatkom systematických meteorologických meraní (resp. z lokalít, ktoré v období na konci 19. a v prvej polovici 20. storočia nemali vlastné merania) čerpáme z rôznych historických záznamov. Takéto poznatky sa týkajú najmä dosiahnutých extrémov počasia, ako sú napr. intenzívne zrážky, resp. ich dlhodobý nedostatok, povodne, búrky, silný vietor, výdatné sneženie, mimoriadna výška snehovej pokrývky, tuhé mrazy, vysoké teploty vzduchu a podobne. Záznamy možno nájsť v rôznych regionálnych archívoch, a to najmä v dobovej tlači, v kronikách, v starých listinách, knihách, mapách, fotografiách, na povodňových značkách a podobne. Na našej katedre (Katedre astronómie... FMFI UK – pozn. Z. M.) sa v rámci výskumu zaoberáme mapovaním historickej klímy na Slovensku a budovaním archívu dát. Cieľom bakalárskej práce je rozšíriť doteraz známe poznatky o klíme vybranej oblasti na Slovensku na základe dostupných historických prameňov ďalej do minulosti a pomôcť tak spoznať doteraz neznámu históriu klímy v tejto oblasti. Na podobnú tému boli v minulosti vypracované už dve bakalárske práce, jedna sa týkala oblasti Gemera a Malohontu, druhá oblasti v okolí Komárna. Obe tieto bakalárske práce nás obohatili o nové poznatky najmä z obdobia prelomu 19. a 20. storočia, pričom najvýznamnejšie výsledky z nich boli využité aj pri písaní viacerých článkov v spoluautorstve, ktoré boli publikované v časopisoch Acta Hydrologica Slovaca, Studia Scientifica Facultatis Paedagogicae, Geographica Pannonica."
+  },
+  {
+    "id": "ZIK16",
+    "program": "ZIK",
     "supervisor": "doc. RNDr. Eva Mičietová, PhD.",
     "aff": "",
-    "name": "Operačné možnosti interoperabilých informačných zdrojov NIPI (Národnej infraštruktúry priestorových informácií)",
-    "text": "Cieľom práce je vypracovanie systematického prehľadu, dostupnosti, interaktívnej prezentácie   a operačných možností geografických informačných zdrojov  povinných osôb v zmysle § 12 ods.4 zákona č. 3/2010 Z. z."
+    "name": "Možnosti voľne dostupných údajov o krajine z hľadiska priestorového rozhodovania samosprávy a občana",
+    "text": "Identifikácia voľne dostupných údajov o krajine z prostredia Národnej infraštruktúry priestorových informácií. Identifikácia potenciálu jednotlivých typov priestorových údajov o krajine  pre  rozhodovanie samosprávy a rozhodovanie občana. Vytvorenie integrovanej geografickej bázy údajov s obsahom Základná báza GIS, Kataster nehnuteľností, adresné body a vybrané ďalšie typy priestorových údajov. Návrh, implementácia a prezentácia modelu priestorového rozhodovania so zameraním na ciele samosprávy a občana. Výstupy: Geografická báza údajov. Model priestorového rozhodovania. Mapové výstupy vybraných prvkov modelu. Možnosť  implementácie  riešenia na webe. Spracovanie pre jednu obec."
   },
   {
-    "id": "ZKI10",
-    "program": "ZKI",
-    "supervisor": "doc. RNDr. Eva Mičietová, PhD.",
-    "aff": "",
-    "name": "Geografický informačný systém epidemiologických ochoreni so zameraním na COVID 19",
-    "text": "Cieľom práce je vypracovanie systematického prehľadu, dostupnosti, interaktívnej prezentácie   a operačných možností geografických informačných zdrojov o COVID 19 na  globálnej, európskej, národnej a regionálnej úrovni."
-  },
-  {
-    "id": "ZKI11",
-    "program": "ZKI",
-    "supervisor": "Mgr. Filip Moravčík",
-    "aff": "",
-    "name": "Modelovanie a predikcia zmien krajinnej pokrývky pre okres Piešťany",
-    "text": "Cieľom bakalárskej práce je modelovanie a predikcia zmien krajinnej pokrývky pre okres Piešťany. Predpokladom realizácie je využite dostupných údajov o krajinnej pokrývke z rôznych časových období, ich vzájomné porovnanie, kartografické vyjadrenie zistených výsledkov a uskutočnenie predikcie zmien krajinnej pokrývky pomocou dostupných nástrojov. Publikácia výsledkov bude uskutočnená pomocou webovej mapovej aplikácie."
-  },
-  {
-    "id": "ZKI12",
-    "program": "ZKI",
+    "id": "ZIK17",
+    "program": "ZIK",
     "supervisor": "Mgr. Filip Moravčík",
     "aff": "",
     "name": "Mapovanie zásob pôdneho organického uhlíka pomocou voľne dostupných nástrojov",
-    "text": "Cieľom bakalárskej práce je mapovanie pôdneho organického uhlíka pomocou voľne dostupných nástrojov. Záujmové územie (vo veľkosti okresu) bude určené po vzájomnej dohode so študentom. Predpokladom riešenia problematiky je identifikácia voľne dostupných údajov a nástrojov, pomocou ktorých je možné uskutočniť mapovanie zásob pôdneho organického uhlíka v povrchovej vrstve poľnohospodárskych pôd. Publikácia výsledkov bude uskutočnená pomocou webovej mapovej aplikácie."
-  },
-  {
-    "id": "ZKI13",
-    "program": "ZKI",
-    "supervisor": "Mgr. Filip Moravčík",
-    "aff": "",
-    "name": "Modelovanie vývoja územia Podbeskydskej brázdy pomocou vegetačného indexu NDVI",
-    "text": "Cieľom bakalárskej práce je modelovanie vývoja územia Podbeskydskej brázdy pomocou vegetačného indexu NDVI. Predpokladom realizácie je využite voľne dostupných satelitných údajov Sentinel-2 z rôznych časových období, ich vzájomné porovnanie, kartografické vyjadrenie zistených výsledkov a uskutočnenie modelovania vývoja územia pomocou dostupných nástrojov. Publikácia výsledkov bude uskutočnená pomocou webovej mapovej aplikácie."
-  },
-  {
-    "id": "ZKI14",
-    "program": "ZKI",
-    "supervisor": "Mgr. Vladimir Pelech, PhD.",
-    "aff": "",
-    "name": "Časová dostupnosť k plánovanej sieti diaľnic a rýchlostných ciest pre priemyselné parky v SR",
-    "text": "Priemyselné parky sú hospodársky významné objekty, pre ktoré je dôležité mať dostupnú nadradenú cestnú infraštruktúru jednak z hľadiska dopravy potrebného materiálu a jednak z hľadiska prepravy výrobkov. Plánovaná výstavba nových úsekov nadradenej infraštruktúry môže výrazne znížiť časovú dostupnosť pre priemyselné podniky. Cieľom práce je pokúsiť sa identifikovať tieto časové úspory pomocou nástrojov sieťovej analýzy."
-  },
-  {
-    "id": "ZKI15",
-    "program": "ZKI",
-    "supervisor": "Mgr. Vladimir Pelech, PhD.",
-    "aff": "",
-    "name": "Porovnanie dostupnosti okresných miest Trebišov a Michalovce pre obce uvedených okresov",
-    "text": "Okres Trebišov má špecifický tvar písmena L. V súvislosti s tým sa ponúka myšlienka, že pre niektoré obce okresu Trebišov je dostupnejšie okresné mesto Michalovce. Cieľom danej práce je overiť uvedenú hypotézu porovnaním dojazdových a časových vzdialeností pre jednotlivé obce vzhľadom na súčasný stav cestnej siete."
-  },
-  {
-    "id": "ZKI16",
-    "program": "ZKI",
-    "supervisor": "Mgr. Peter Scholtz",
-    "aff": "AgroGPS, s. r. o.",
-    "name": "Geografický informačný systém pre zber pôdnych vzoriek Agrochemického skúšania pôd",
-    "text": "Cieľom práce je návrh informačného systému pre zber pôdnych vzoriek Agrochemického skúšania pôd (ASP). Všetky subjekty hospodáriace na poľnohospodárskej pôde sú podľa zákona o hnojivách č. 136/2000 Z. z. (v znení zákona č. 394/2015 Z. z.) povinné na výzvu Ústredného kontrolného a skúšobného ústavu poľnohospodárskeho (ÚKSÚP) vykonať alebo zabezpečiť odber pôdnych vzoriek z nimi obhospodarovaných poľnohospodárskych pôd. Podrobnosti o postupe odberu pôdnych vzoriek ustanovuje vyhláška MPRV SR č. 151/2016 a Metodický pokyn ÚKSÚP č. 7/2018 pre ASP."
-  },
-  {
-    "id": "ZKI17",
-    "program": "ZKI",
-    "supervisor": "Ingr. Jozef Vališ, PhD.",
-    "aff": "",
-    "name": "Analýza služieb registra priestorových informácií a jeho využitia",
-    "text": "Cieľom práce je podrobný popis služieb registra priestorových informácií (RPI), možností využitia služieb RPI v rámci národnej infraštruktúry priestorových informácií a realizácia projektu zobrazenia kombinovaných údajov zo zdrojov získaných z RPI."
+    "text": "Cieľom bakalárskej práce je mapovanie pôdneho organického uhlíka pomocou voľne dostupných nástrojov. Záujmové územie (vo veľkosti okresu) bude určené po vzájomnej dohode so študentom. Predpokladom riešenia problematiky je identifikácia voľne dostupných údajov a nástrojov, pomocou ktorých je možné uskutočniť mapovanie zásob pôdneho organického uhlíka v povrchovej vrstve poľnohospodárskych pôd. Publikácia výsledkov bude uskutočnená pomocou webovej mapovej aplikácie."
   },
   {
     "id": "ZIK18",
-    "program": "ZKI",
-    "supervisor": "Mgr. Adam Šupčík",
+    "program": "ZIK",
+    "supervisor": "Mgr. Filip Moravčík",
     "aff": "",
-    "name": "Tvorba a optimalizácia 3D modelu viniča pre potreby precízneho vinohradníctva",
-    "text": "Práca sa zameriava na tvorbu a optimalizáciu 3D modelu koruny a kmeňa viniča zo snímok. 3D model napomáha pri určovaní množstva koreňov, objemu koruny a rôznych charakteristík jednotlivých odrôd ako napríklad výška porastu, rozstup medzi jednotlivými koreňmi. Včasnou identifikáciou nedostatkov vinohradu sa dajú odhaliť vznikajúce problémy spojené s výskytom škodcov, chorôb a nevhodných fyziologických a chemických podmienok. Téma ponúka nadobudnutie zručností v oblasti práce s bezpilotnými lietadlami (UAV/drony), spracovania snímok, tvorby 3D modelov, používania GIS softvéru a GNSS zariadení."
+    "name": "Modelovanie a predikcia zmien krajinnej pokrývky pre vybraný okres Slovenskej republiky",
+    "text": "Cieľom bakalárskej práce je modelovanie a predikcia zmien krajinnej pokrývky pre vybraný okres Slovenskej republiky. Záujmové územie (vo veľkosti okresu) bude určené po vzájomnej dohode so študentom. Predpokladom realizácie je využite dostupných údajov o krajinnej pokrývke z rôznych časových období, ich vzájomné porovnanie, kartografické vyjadrenie zistených výsledkov a uskutočnenie predikcie zmien krajinnej pokrývky pomocou dostupných nástrojov."
   },
   {
     "id": "ZIK19",
-    "program": "ZKI",
-    "supervisor": "Mgr. Tomáš Goga",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Identifikácia solárnych elektrární s využitím satelitných údajov",
-    "text": "Fotovoltaika je v súčasnosti jednou s najrýchlejšie rozvíjajúcich sa foriem výroby elektrickej energie. V mnohých krajinách dochádza k zintenzívneniu výroby takejto energie prostredníctvom štátnej podpory a vznikajú tak „menšie elektrárne“ na strechách domov alebo veľkých fabrík a taktiež aj vo voľnej krajine. Cieľom bakalárskej práce je vytvorenie klasifikačného postupu pre identifikáciu solárnych elektrární s využitím satelitných údajov Sentinel-2 a (alebo) Sentinel-1.Veľkosť záujmového územia závisí zvoleného nástroja na prácu s takýmto typom údajov – možné je využitie výpočtových kapacít na lokálnych zariadeniach (softvér SNAP, QGIS, prípadne Python) alebo tzv. cloud-based computing prostredníctvom služby Google Earth Engine (programovanie v JavaScript). Študent počas vypracovania bakalárskej práce získa prax v oblasti spracovania údajov diaľkového prieskumu Zeme a tvorbe klasifikačných postupov. Dôraz pri hodnotení práce študenta je kladený na prácu s informačnými zdrojmi. Skúsenosti nadobudnuté pri takomto type práce sú vysoko hodnotené v komerčnom prostredí."
+    "program": "ZIK",
+    "supervisor": "Mgr. Vladimir Pelech, PhD.",
+    "aff": "",
+    "name": "Porovnanie editačných nástrojov vektorových objektov v prostrediach QGIS a ArcGIS",
+    "text": "Cieľom práce je porovnať nástroje na editáciu v dvoch uvedených prostrediach. Primárne bude porovnanie zamerané na vektorové objekty bodov, línií, polygónov, možnosti nastavenia prichytávania (snapping) a pokročilej editácie objektov, topologickej editácie (viac objektov súčasne). Okrem uvedených môžu byť do porovnania zahrnuté aj vplyvy rôznych formátov (shp, geopackage, priestorová databáza...) a súradnicových systémov."
   },
   {
     "id": "ZIK20",
-    "program": "ZKI",
-    "supervisor": "Mgr. Tomáš Goga",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Filtrácia radarového šumu na rôznych triedach krajinnej pokrývky",
-    "text": "Cieľom bakalárskej práce je porovnanie algoritmov určených pre filtráciu šumu radarových snímok. Testované budú algoritmy implementované vo voľne dostupnom softvéri SNAP s rôznymi nastaveniami na rôznych triedach krajinnej pokrývky. Študent bude realizovať štatistickú analýzu pomocou parametrov identifikovaných v aktuálnej literatúre. Študent zvládne pokročilé metódy jedno-produktovej a temporálnej filtrácie radarového šumu. Realizácia práce predpokladá pokročilé znalosti spracovania radarových údajov a vizuálnej klasifikácie, výhodou sú základy programovania v programovacom jazyku Python."
+    "program": "ZIK",
+    "supervisor": "doc. Ing. Peter Pišút, PhD.",
+    "aff": "",
+    "name": "Odstavené riečne ramená a ich potenciál pre paleoekologický výskum alúvia Rudavy",
+    "text": ""
+  },
+  {
+    "id": "ZIK21",
+    "program": "ZIK",
+    "supervisor": "Mgr. Juraj Procházka, PhD.",
+    "aff": "",
+    "name": "Obcou chránené územia – inovatívny prvok v systéme územnej ochrany prírody Slovenska",
+    "text": "Koncepcia „obcou chránených území“ bola rozvíjaná od roku 2007 na Zaježovej s cieľom ochrániť územia environmentálne významné z hľadiska krajinnej štruktúry samotnej obce. Ekologicky stabilné, vekovo rôznorodé porasty lesov, nezregulované vodné toky s brehovými porastmi, druhovo pestré lúky aj so zastúpením chránených druhov a atraktívne formy georeliéfu svojou výnimočnosťou niekedy nespĺňajú kritériá na vyhlásenie „štátnych“ maloplošných chránených území, napriek tomu však plnia svoje funkcie a zasluhujú si ochranu. Cieľom práce bude podať prehľad systému územnej ochrany prírody Slovenska a navrhnúť možnosti a postupy, ktoré môžu využívať obce pri vyhlasovaní „obcou chránených území“. Na základe primeranej (fyzicko)geografickej analýzy územia zvolenej obce študent navrhne územia, primárne na pozemkoch vo vlastníctve obcí, vhodné na ochranu. Takto získaný výstup môže byť podkladom pre popularizáciu prírodnej krajiny pre žiakov miestnych škôl."
+  },
+  {
+    "id": "ZIK22",
+    "program": "ZIK",
+    "supervisor": "Mgr. Juraj Procházka, PhD.",
+    "aff": "",
+    "name": "Morfologický efekt zvyškov dreva a ripariálnej vegetácie na riečne koryto",
+    "text": "Po teoretických východiskách so zameraním na zvyšky dreva (large wood debris), ripariálnu vegetáciu a na stručný prehľad o vnútrokorytových a brehových formách georeliéfu študent na príklade zvoleného vodného toku (Slatina, Sikenica, Rudava, príp. po dohode iný) zhodnotí charakter akumulácií dreva v koryte daného toku a na alúviu a spolu s ripariálnou vegetáciou ich efekty na akumulačné a erózne procesy v riečnych korytách."
+  },
+  {
+    "id": "ZIK23",
+    "program": "ZIK",
+    "supervisor": "Mgr. Juraj Procházka, PhD.",
+    "aff": "",
+    "name": "Obraz historických povodní na Váhu (Hrone alebo Dunaji) v dobovej tlači",
+    "text": "Na základe analýzy dobovej tlače (najmä z druhej polovice 19. storočia a prvej polovice 20. storočia) študent rozšíri a sprehľadní poznanie historických povodní na vybranom toku (či jeho úseku), so zameraním sa aj na morfologické a iné efekty povodní, ktoré boli často motiváciami pre antropogénne zásahy do riečnej krajiny. Detailnejšie poznanie (nežiaducich) prírodných procesov v konkrétnom regióne môže byť ďalším podkladom pre strategické dokumenty a skvalitniť plánované manažmentové opatrenia v rámci implementácie rámcovej smernice o vode. Výhodou (nie nevyhnutnosťou) je znalosť maďarského, prípadne nemeckého jazyka."
+  },
+  {
+    "id": "ZIK24",
+    "program": "ZIK",
+    "supervisor": "Mgr. Juraj Procházka, PhD.",
+    "aff": "",
+    "name": "Organogénne a organominerálne sedimenty a pôdy na Slovensku",
+    "text": "Organogénne a organominerálne kvartérne sedimenty a súvisiace pôdy zaberajú na Slovensku a vo svete malé rozlohy, plnia však v krajine viacero významných environmentálnych funkcií a takisto majú hospodársky význam. Napriek skutočnosti, že sa tieto sedimenty analyzujú v početných paleoekologických štúdiách, v posledných desaťročiach chýba ucelenejší a moderný pohľad sumarizujúci poznanie týchto sedimentov a pôd a ich súčasný stav po masívnej ťažbe najmä v 50. až 80. rokoch 20. storočia a následných manažmentových opatreniach. Práca by mala poskytnúť prehľad týchto typov sedimentov, ich charakter, rozšírenie na Slovensku, „stav“ vybraných významných lokalít, problémy klasifikácie pôd. Upresnenie ich významu v krajine môže byť prínosom pre budúcu ochranu ďalších, stále zanikajúcich lokalít."
+  },
+  {
+    "id": "ZIK25",
+    "program": "ZIK",
+    "supervisor": "Mgr. Adam Rusinko",
+    "aff": "",
+    "name": "Úloha mierky výskumu pri mapovaní krajinnej pokrývky",
+    "text": "Práca sa zaoberá skúmaním vplyvu rôznej mierky výskumu na mapovanie krajinnej pokrývky. V prvej časti práce sa budeme zaoberať podrobným mapovaním krajinnej pokrývky na 5. hierarchickej úrovni CORINE Land Cover (CLC) pre modelové územia na Slovensku. V druhej časti práce budeme výsledky mapovania jednoduchými štatistickými metódami porovnávať s inými, menej podrobnými úrovňami metodiky CLC."
+  },
+  {
+    "id": "ZIK26",
+    "program": "ZIK",
+    "supervisor": "RNDr. Ivan Ružek, PhD.",
+    "aff": "",
+    "name": "Rozptýlená zeleň v poľnohospodárskej krajine – mapovanie, funkcie a ochrana",
+    "text": "Rozptýlenú zeleň v poľnohospodárskej krajine tvoria predovšetkým menšie porasty stromov a krov s rôznym zápojom. Súčasná podoba a zastúpenie sú výsledkom zmien v poľnohospodárskej výrobe od 2. polovice 20. storočia. Rozptýlená zeleň je dôležitá nielen z krajinárskeho hľadiska, ale najmä z hľadiska pôdoochranného a zachovania druhovej diverzity. Ako významné sa javia aj jej funkcie biocentier a biokoridorov v krajine. Cieľom bakalárskej práce je spracovať rešerš literatúry o rozptýlenej zeleni a jej význame, zmapovať a zhodnotiť stav (vývoj) rozptýlenej zelene vo vybranom území od 2. polovice 20. storočia po súčasnosť."
+  },
+  {
+    "id": "ZIK27",
+    "program": "ZIK",
+    "supervisor": "Mgr. Peter Scholtz",
+    "aff": "AgroGPS, s. r. o.",
+    "name": "Geografický informačný systém pre zber pôdnych vzoriek Agrochemického skúšania pôd",
+    "text": "Cieľom práce je návrh informačného systému pre zber pôdnych vzoriek Agrochemického skúšania pôd (ASP). Všetky subjekty hospodáriace na poľnohospodárskej pôde sú podľa zákona o hnojivách č. 136/2000 Z. z. (v znení zákona č. 394/2015 Z. z.) povinné na výzvu Ústredného kontrolného a skúšobného ústavu poľnohospodárskeho (ÚKSÚP) vykonať alebo zabezpečiť odber pôdnych vzoriek z nimi obhospodarovaných poľnohospodárskych pôd. Podrobnosti o postupe odberu pôdnych vzoriek ustanovuje vyhláška MPRV SR č. 151/2016 a Metodický pokyn ÚKSÚP č. 4/2022 pre ASP."
+  },
+  {
+    "id": "ZIK28",
+    "program": "ZIK",
+    "supervisor": "Mgr. Vladimír Šagát",
+    "aff": "",
+    "name": "Mapovanie prírodných kalamít s využitím leteckých a satelitných snímok",
+    "text": "Cieľom práce je identifikácia plôch zasiahnutých veternými a lykožrútovými kalamitami na vybranej ploche v Nízkych Tatrách.  Študent pri identifikácii odlesnených plôch využije manuálne mapovanie na podklade detailných leteckých snímok, ako aj poloautomatický prístup, s využitím multispektrálnych satelitných snímok a z nich odvodených vegetačných indexov."
   },
   {
     "id": "upGE1",
     "program": "upGE",
     "supervisor": "Mgr. Alexandra Benová, PhD.",
     "aff": "",
-    "name": "Analýza máp sveta v školských atlasoch z hľadiska mapového jazyka",
-    "text": "Práca sa zaoberá analýzou máp zobrazujúcich celý svet v školských atlasoch na základe dostupných domácich a zahraničných máp a atlasov vydaných v minulosti až po súčasnosť. Identifikácia a zastúpenie zistených tematických máp celého sveta a ich zaradenie do tematických okruhov, štatistické vyhodnotenie získaných údajov, zameranie sa aj na odlišné a podobné črty v mapovom vyjadrení týchto máp. Analýza týchto máp z hľadiska mapového jazyka."
+    "name": "Mapy sveta s tematikou morských prúdov v geografických atlasoch",
+    "text": "Práca sa zaoberá analýzou máp sveta s tematikou zobrazenia morských prúdov v geografických atlasoch. Použité sú vybrané dostupné domáce a zahraničné atlasy vydané v minulosti až po súčasnosť. Analýza máp sa konkrétne zameriava na analýzu metód mapového vyjadrovania, použitia mapových znakov, kompozíciu máp a iných parametrov. Nasleduje identifikácia a zastúpenie tematických oblastí máp, štatistické vyhodnotenie získaných údajov, zameranie sa aj na odlišné a podobné črty v mapovom vyjadrení týchto máp."
   },
   {
     "id": "upGE2",
     "program": "upGE",
-    "supervisor": "RNDr. Šárka Horáčková, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Nástroje pri online výuke na tému Georeliéf a príprava modelovej vyučovacej hodiny",
-    "text": "Počas pandémie sa online výuka stala samozrejmosťou a téma georeliéfu je náročnejšia na vysvetlenie v online priestore. Vypracovanie témy bude zahŕňať prehľad možností pri zostavovaní ukážok foriem georeliéfu pomocou online nástrojov ale aj prípravu modelovej online hodiny pre stredné školy s využitím GIS nástrojov alebo terénnych cvičení (v prípade preferencie zamerania na základné školy)."
+    "supervisor": "Mgr. Romana Kohilová",
+    "aff": "",
+    "name": "Zánik dunajského ramena vo svetle historických dát a sedimentárneho archívu",
+    "text": "Bratislava bola v minulosti popretkávaná mohutnou sieťou dunajských ramien, ktoré mesto rozdeľovali na mestské nivy a ostrovy. Jednotlivé ramená a ich okolie sú zaujímavé z prírodnokrajinárskeho, ale aj historickogeografického hľadiska. Analýzou historických máp a plánov v kombinácii s údajmi sedimentárneho archívu je možné poznávať morfogenézu riek a jednotlivých riečnych ramien, definovať významné hydrologické zmeny a zmeny prírodných podmienok a využívania krajiny. Cieľom bakalárskej práce je rekonštrukcia dunajského ramena Grössling v historickom jadre Bratislavy na základe analýzy historických máp a sedimentárneho archívu."
   },
   {
     "id": "upGE3",
     "program": "upGE",
     "supervisor": "Mgr. Juraj Procházka, PhD.",
     "aff": "",
-    "name": "Obraz historických povodní na Váhu (alebo Dunaji) v dobovej tlači",
-    "text": ""
+    "name": "Obcou chránené územia – inovatívny prvok v systéme územnej ochrany prírody Slovenska",
+    "text": "Koncepcia „obcou chránených území“ bola rozvíjaná od roku 2007 na Zaježovej s cieľom ochrániť územia environmentálne významné z hľadiska krajinnej štruktúry samotnej obce. Ekologicky stabilné, vekovo rôznorodé porasty lesov, nezregulované vodné toky s brehovými porastmi, druhovo pestré lúky aj so zastúpením chránených druhov a atraktívne formy georeliéfu svojou výnimočnosťou niekedy nespĺňajú kritériá na vyhlásenie „štátnych“ maloplošných chránených území, napriek tomu však plnia svoje funkcie a zasluhujú si ochranu. Cieľom práce bude podať prehľad systému územnej ochrany prírody Slovenska a navrhnúť možnosti a postupy, ktoré môžu využívať obce pri vyhlasovaní „obcou chránených území“. Na základe primeranej (fyzicko)geografickej analýzy územia zvolenej obce študent navrhne územia, primárne na pozemkoch vo vlastníctve obcí, vhodné na ochranu. Takto získaný výstup môže byť podkladom pre popularizáciu prírodnej krajiny pre žiakov miestnych škôl."
   },
   {
     "id": "upGE4",
     "program": "upGE",
-    "supervisor": "RNDr. Ivan Ružek, PhD.",
+    "supervisor": "Mgr. Juraj Procházka, PhD.",
     "aff": "",
-    "name": "Možnosti terénneho vyučovania s využitím náučných chodníkov",
-    "text": ""
+    "name": "Obraz historických povodní na Váhu (Hrone alebo Dunaji) v dobovej tlači",
+    "text": "Na základe analýzy dobovej tlače (najmä z druhej polovice 19. storočia a prvej polovice 20. storočia) študent rozšíri a sprehľadní poznanie historických povodní na vybranom toku (či jeho úseku), so zameraním sa aj na morfologické a iné efekty povodní, ktoré boli často motiváciami pre antropogénne zásahy do riečnej krajiny. Detailnejšie poznanie (nežiaducich) prírodných procesov v konkrétnom regióne môže byť ďalším podkladom pre strategické dokumenty a skvalitniť plánované manažmentové opatrenia v rámci implementácie rámcovej smernice o vode. Výhodou (nie nevyhnutnosťou) je znalosť maďarského, prípadne nemeckého jazyka."
   },
   {
     "id": "upGE5",
     "program": "upGE",
     "supervisor": "RNDr. Ivan Ružek, PhD.",
     "aff": "",
-    "name": "Geovedne zaujímavé lokality vybraného územia – návrh exkurzie",
+    "name": "Možnosti terénneho vyučovania s využitím náučných chodníkov",
     "text": ""
   },
   {
@@ -404,48 +268,56 @@
     "program": "upGE",
     "supervisor": "RNDr. Ivan Ružek, PhD.",
     "aff": "",
-    "name": "Zhodnotenie dištančnej formy výučby geografie na vybraných školách",
-    "text": "V práci budú hodnotené rôzne aspekty dištančnej výučby tém fyzickej geografie na vybraných základných/stredných školách. Súčasťou práce bude analýza organizačných foriem vzdelávania, učebných materiálov, softvérových systémov a postojov žiakov i učiteľov."
+    "name": "Geovedne zaujímavé lokality vybraného územia – návrh exkurzie",
+    "text": ""
   },
   {
     "id": "upGE7",
     "program": "upGE",
+    "supervisor": "RNDr. Ivan Ružek, PhD.",
+    "aff": "",
+    "name": "Zhodnotenie dištančnej formy výučby geografie na vybraných školách",
+    "text": "V práci budú hodnotené rôzne aspekty dištančnej výučby tém fyzickej geografie na vybraných základných/stredných školách. Súčasťou práce bude analýza organizačných foriem vzdelávania, učebných materiálov, softvérových systémov a postojov žiakov i učiteľov."
+  },
+  {
+    "id": "upGE8",
+    "program": "upGE",
     "supervisor": "doc. RNDr. Milan Trizna, PhD.",
     "aff": "",
-    "name": "Zmeny charakteru zím v Považskom podolí v rokoch 1931 – 2020 v dôsledku klimatických zmien",
-    "text": "Dopady klimatických zmien sú stále viac zreteľné aj na našom území. Vďaka dostatočne dlhým radom pozorovaní meteorologických prvkov sme schopní ich identifikovať a opísať. Téma je zameraná na opis zmien priemernej teploty, množstva a chodu zrážok v zimnom období v oblasti Považského podolia."
+    "name": "Zmeny charakteru zím v Považskom podolí v rokoch 1931 – 2020 v dôsledku klimatických zmien",
+    "text": "Dopady klimatických zmien sú stále viac zreteľné aj na našom území. Vďaka dostatočne dlhým radom pozorovaní meteorologických prvkov sme schopní ich identifikovať a opísať. Téma je zameraná na opis zmien priemernej teploty, množstva a chodu zrážok v zimnom období v oblasti Považského podolia."
   },
   {
     "id": "mZFI1",
     "program": "mZFI",
     "supervisor": "Mgr. Alexandra Benová, PhD.",
     "aff": "",
-    "name": "Dynamika zmien priestorovej štruktúry poľnohospodárskej krajiny na katastrálnom území Jablonka",
-    "text": "Identifikácia krajinných prvkov na vybraných starých mapách a voľne dostupných zdrojoch z rôznych časových období (od tretieho vojenského mapovania po súčasnosť). Použité by mali byť mapy tretieho vojenského mapovania, Vojenská topografická mapa v Gauss-Krügerovom zobrazení, Základná mapa SR, ZBGIS až najnovšia ortofotomozaika. Retrospektívna analýza vyhodnotenia stavu krajinných prvkov a kategórií využívania Zeme na katastrálnom území Jablonka. Priestorová štruktúra záujmových krajinných prvkov, ich diverzita a dynamika zmeny za zvolené časové obdobie. Porovnanie výsledkov analýzy s historickými štruktúrami poľnohospodárskej krajiny. Kartografické vyjadrenie zmien priestorovej štruktúry."
+    "name": "Tvorba tematického atlasu na vybranú tému",
+    "text": "Návrh konceptu a vytvorenie autorskej predlohy tematického atlasu. Tvorba vybraných tematických máp s podkladovou vrstvou pre vytváraný atlas. Návrh obálky atlasu, obsahu, kapitol atlasu, textovej časti a kompozície mapovej časti atlasu. Analýza a zhodnotenie dostupných atlasov a kartografických diel z oblasti podľa zamerania atlasu. Stručný popis a definície atlasu, atlasovej tvorby."
   },
   {
     "id": "mZFI2",
     "program": "mZFI",
     "supervisor": "Mgr. Alexandra Benová, PhD.",
     "aff": "",
-    "name": "Možnosti tvorby tematických máp so zameraním na tlačový výstup vo vybraných GIS softvéroch",
-    "text": "Práca sa zaoberá analýzou možnosti tvorby tlačového výstupu tematických máp vo vybraných GIS softvéroch a porovnanie výstupov voľne dostupných a komerčne dostupných GIS softvéroch z hľadiska presnosti a kvality tlačového výstupu, ponúkaných nástrojov, jednoduchosti tvorby, použitia pre publikovanie mapových diel v knižnej podobe."
+    "name": "Krajinné prvky vegetácie v krajine ako ekostabilizačné prvky – ich identifikácia a zmeny v čase",
+    "text": "Práca sa zaoberá identifikáciou vybraných krajinných prvkov, ktoré plnia ekostabilizačnú funkciu v krajine, ich priestorovou štruktúrou a dynamikou zmien na základe dostupných mapových a iných zdrojov. Prípadová štúdia bude uskutočnená na území po dohode so študentom. Krajinné prvky môžu mať podobu bodov, línií, resp. areálov so zameraním na vegetáciu (napr. solitéry, aleje, stromoradia, medze)."
   },
   {
     "id": "mZFI3",
     "program": "mZFI",
-    "supervisor": "Mgr. Michal Druga, PhD.",
+    "supervisor": "Mgr. Hana Bobáľová, PhD.",
     "aff": "",
-    "name": "Geografické faktory poľnohospodárskej intenzifikácie a extenzifikácie",
-    "text": "Využívanie poľnohospodárskej pôdy na Slovensku sa v čase transformuje – niekde sa polia menia na lúky, lúky či vinohrady zarastajú, a naopak, na iných plochách prebieha intenzifikácia. Tieto zmeny sú dôsledkom individuálnych ľudských rozhodnutí, na ktoré vplýva množstvo faktorov, vrátane geografických (napr. kvalita pôdy, sklon svahu, klimatické a hydrologické charakteristiky, dostupnosť, atď.). Cieľom témy je identifikovať vybrané zmeny poloautomatickou klasifikáciou satelitných snímok, vypracovať geografické faktory potenciálne vplývajúce na štruktúru týchto zmien a tento vplyv štatisticky kvantifikovať. Výsledok práce môže byť vkladom do diskusie o podpore poľnohospodárstva na Slovensku."
+    "name": "Automatizované mapovanie mestskej zelene vo veľmi vysokom rozlíšení",
+    "text": "Práca rieši projekt automatizovaného mapovania mesta s využitím údajov vo veľmi vysokom rozlíšení – ortofotomozaiky a lidarového bodového mračna ZBGIS. Mapovanie metódou objektovo orientovanej klasifikácie bude realizované na reprezentatívnych výrezoch v meste Bratislava, s možnosťou rozšírenia na väčšie územie. Klasifikačný systém bude zameraný na mapovanie mestskej zelene – stromy, kry a trávne porasty."
   },
   {
     "id": "mZFI4",
     "program": "mZFI",
     "supervisor": "Mgr. Michal Druga, PhD.",
     "aff": "",
-    "name": "Geografické faktory odlesňovania",
-    "text": "Odlesňovanie je najviditeľnejšou a pravdepodobne aj najdiskutovanejšou zmenou krajinnej pokrývky Slovenska za posledné dve dekády. Prvým cieľom tejto témy je klasifikovať odlesňovanie poloautomatickou klasifikáciou satelitných snímok. Druhým cieľom je identifikovať a získať čím viac geografických informácií - faktorov, ktoré mohli byť relevantné pri rozhodovaní o výrube, prípadne mohli vplývať na vznik polomu, a vplyv týchto faktorov následne štatisticky kvantifikovať. Výsledky môžu priniesť zaujímavý pohľad na časť zo širokého spektra príčin odlesňovania na Slovensku."
+    "name": "Geografické faktory poľnohospodárskej intenzifikácie a extenzifikácie",
+    "text": "Využívanie poľnohospodárskej pôdy na Slovensku sa v čase transformuje – niekde sa polia menia na lúky, lúky či vinohrady zarastajú, a naopak, na iných plochách prebieha intenzifikácia. Tieto zmeny sú dôsledkom individuálnych ľudských rozhodnutí, na ktoré vplýva množstvo faktorov, vrátane geografických (napr. kvalita pôdy, sklon svahu, klimatické a hydrologické charakteristiky, dostupnosť, atď.). Cieľom témy je identifikovať vybrané zmeny poloautomatickou klasifikáciou satelitných snímok, vypracovať geografické faktory potenciálne vplývajúce na štruktúru týchto zmien a tento vplyv štatisticky kvantifikovať. Výsledok práce môže byť vkladom do diskusie o podpore poľnohospodárstva na Slovensku."
   },
   {
     "id": "mZFI5",
@@ -453,230 +325,190 @@
     "supervisor": "Mgr. Michal Druga, PhD.",
     "aff": "",
     "name": "Geografické faktory urbanizácie",
-    "text": "Urbanizácia je najvýraznejšou zmenou krajinnej pokrývky, ktorú môže človek spôsobiť – v širšom ponímaní pod ňu spadá vznik nových rezidenčných zón, priemyselných parkov, dopravných plôch a podobne. Patrí tiež k najlepšie modelovateľným zmenám, preto je vhodná na testovanie sofistikovaných geografických faktorov zmien. Cieľom práce je identifikácia urbanizácie poloautomatickou klasifikáciou satelitných snímok, vypracovanie relevantných geografických faktorov (predovšetkým rôzne formy vyjadrenia dostupnosti a hustoty ľudskej činnosti) a štatistická analýza ich významnosti. Téma má význam pre diskusiu jednak o urbanizácii na Slovensku, jednak o metódach odvodenia použitých faktorov."
+    "text": "Urbanizácia je najvýraznejšou zmenou krajinnej pokrývky, ktorú môže človek spôsobiť – v širšom ponímaní pod ňu spadá vznik nových rezidenčných zón, priemyselných parkov, dopravných plôch a podobne. Patrí tiež k najlepšie modelovateľným zmenám, preto je vhodná na testovanie sofistikovaných geografických faktorov zmien. Cieľom práce je identifikácia urbanizácie poloautomatickou klasifikáciou satelitných snímok, vypracovanie relevantných geografických faktorov (predovšetkým rôzne formy vyjadrenia dostupnosti a hustoty ľudskej činnosti) a štatistická analýza ich významnosti. Téma má význam pre diskusiu jednak o urbanizácii na Slovensku, jednak o metódach odvodenia použitých faktorov."
   },
   {
     "id": "mZFI6",
     "program": "mZFI",
     "supervisor": "doc. RNDr. Vladimír Falťan, PhD.",
     "aff": "",
-    "name": "Veľkomierkový výskum krajinnej a vegetačnej pokrývky územia zasiahnutého víchricou",
-    "text": "Práca sa venuje detailnému výskumu zmien krajiny víchricou zasiahnutého vybraného lesného územia a ich mapovaniu v mierke 1 : 10 000. Použijú sa metodické postupy projektu CORINE Land Cover pre mapovanie krajinnej pokrývky na 5. úrovni legendy a geobotanické mapovanie v teréne s hodnotením typu vegetácie podľa Katalógu biotopov Slovenska. Porovnajú sa výsledky oboch prístupov a ich využitie."
+    "name": "Hodnotenie zmien a trendov vývoja  priestorovej štruktúry krajiny vo veľkej mierke",
+    "text": "Cieľom práce je zachytiť dynamiku priestorovej štruktúry krajiny a trendy vo vývoji krajinnej pokrývky vybraného reprezentatívneho územia minimálne za ostatných 30 rokov.  Výstupy práce vychádzajú z analýz dát DPZ, detailných mapových diel a terénneho výskumu. Pri hodnotení trendov krajinnej pokrývky bude použitá interpretácia a klasifikácia spojená s legendou pre 5. úroveň  CORINE Land Cover v mierke 1:10 000 a analýza vplyvu vybraných geografických faktorov."
   },
   {
     "id": "mZFI7",
     "program": "mZFI",
     "supervisor": "Mgr. Richard Feciskanin, Ph.D.",
     "aff": "",
-    "name": "Detekcia hrán na lidarových dátach pomocou decimácie trojuholníkovej siete",
-    "text": "Hlavným cieľom práce je testovanie možností detekcie hrán na lidarových dátach pomocou decimácie trojuholníkovej siete. V teoretickej časti podáva prehľad metód na detekciu objektov na lidarových záznamoch. V praktickej časti na rôznych testovacích lokalitách prezentuje detekciu pomocou decimácie trojuholníkovej siete. Postup zahŕňa vytvorenie nepravidelnej trojuholníkovej siete povrchu, generovanie zjednodušených modelov pokročilými metódami (napr. Quadric Edge Collapse Decimation) v rôznych úrovniach detailu, analýzu priebehu hrán modelu a možností pre detekciu hrán zaznamenaných objektov. Výstupom riešenia je podrobný popis postupu a výsledkov vykonanej analýzy."
+    "name": "Distribúcia vektorových dát optimalizovaných pre cloud",
+    "text": "Hlavným cieľom je predstaviť požiadavky a možnosti publikovania veľkoobjemových vektorových dát priamo do aplikácií. Táto forma je analógiou Cloud Optimized Geotiff pre vektory. Pri vektorových dátach je situácia zložitejšia, okrem vizualizácie je potrebné podporovať aj analýzy nad týmito dátami. Okrem prehľadu problematiky a najaktuálnejšieho vývoja má byť výstupom práce webová mapová aplikácia zobrazujúca optimalizované vektorové dáta publikované s podporou streamovania a náhodného prístupu."
   },
   {
     "id": "mZFI8",
     "program": "mZFI",
-    "supervisor": "Mgr. Richard Feciskanin, Ph.D.",
+    "supervisor": "RNDr. Marián Jenčo, PhD.",
     "aff": "",
-    "name": "Prehľad algoritmov pre generalizáciu podrobných digitálnych výškových modelov",
-    "text": "Cieľom práce je spracovanie prehľadu typov generalizačných algoritmov použiteľných, alebo priamo určených pre digitálne výškové modely. Teoretická časť prináša prehľad kategorizácií metód a algoritmov a tiež najpoužívanejších zástupcov jednotlivých kategórií. V praktickej časti na rôznych testovacích lokalitách prezentuje vybrané generalizačné algoritmy. Porovnáva a hodnotí výsledky, predstavuje silné a slabé stránky algoritmov. Výstupom riešenia je prehľad metód, postup a výsledky vykonanej porovnávacej analýzy."
+    "name": "Využitie údajov získaných pomocou laserového skenovania (lidar) pri mapovaní a rekonštrukcii krajiny",
+    "text": "Využitie výškopisných údajov získaných technológiou leteckého laserového skenovania pri mapovaní terénu a identifikácii objektov ležiacich na zemskom povrchu. Poznámka: Téma bude spresnená v zmysle výberu tried objektov a zamerania práce, napr. „Mapovanie a klasifikácia piesočných dún na Borskej nížine“."
   },
   {
     "id": "mZFI9",
     "program": "mZFI",
-    "supervisor": "Mgr. Šárka Horáčková, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Vývoj vegetácie na vybranom území Podunajskej nížiny s využitím historických zdrojov a sedimentologických analýz",
-    "text": "Možnosti skúmania vývoja vegetácie pomocou historických máp a zdrojov ako zo sedimentologických záznamov je pomerne známa. Dôležité je prepojenie týchto dátových zdrojov pomocou multi-proxy analýzy. Vypracovanie témy práce bude zahŕňať spracovanie dostupných historických zdrojov vybranej lokality rašeliniska pri Pustých Úľanoch a využitie sedimentologických analýz pri rekonštrukcii vývoja v starších obdobiach počas holocénu."
+    "supervisor": "RNDr. Marián Jenčo, PhD.",
+    "aff": "",
+    "name": "Pôsobenie vodnej a orbovej erózie v území pahorkatín",
+    "text": "Tvorba digitálneho terénneho modelu z údajov získaných pomocou laserového skenovania (lidar). Následné modelovanie vodnej a orbovej erózie. Verifikácia výsledkov použitých modelov erózie na základe porovnania priestorovej distribúcie miest s predpokladanou maximálnou intenzitou erózie a distribúciou svetlých fľakov na ornej pôde."
   },
   {
     "id": "mZFI10",
     "program": "mZFI",
     "supervisor": "RNDr. Marián Jenčo, PhD.",
     "aff": "",
-    "name": "Využitie údajov získaných pomocou laserového skenovania (lidar) pri mapovaní a rekonštrukcii krajiny",
-    "text": "Využitie výškopisných údajov získaných technológiou leteckého laserového skenovania pri mapovaní terénu a identifikácii objektov ležiacich na zemskom povrchu. Poznámka: Téma bude spresnená v zmysle výberu tried objektov a zamerania práce, napr. „Mapovanie a klasifikácia piesočných dún na Borskej nížine“."
+    "name": "Vplyv priameho slnečného žiarenia na zmeny mikroklímy v lesných priesekoch",
+    "text": "Modelovanie zatienenia lesných priesekov okolitým lesným porastom a výpočet množstva priameho slnečného žiarenia dopadajúceho na povrch lesných priesekov."
   },
   {
     "id": "mZFI11",
     "program": "mZFI",
     "supervisor": "RNDr. Marián Jenčo, PhD.",
     "aff": "",
-    "name": "Vplyv priameho slnečného žiarenia na zmeny mikroklímy v lesných priesekoch / pri vstupe do jaskyne / pod mostnou konštrukciou",
-    "text": "Modelovanie množstva priameho slnečného žiarenia dopadajúceho na povrch lesných priesekov alebo na vnútorné steny jaskyne pri jej vstupnom otvore alebo na povrch pod mostnou konštrukciou. Poznámka: Ide o tri rôzne voliteľné modifikácie jednej témy."
+    "name": "Využitie slnečného žiarenia ako potenciálneho zdroja energie pre monitorovacie systémy",
+    "text": "Optimalizácia nastavenia fotovoltaického panelu v rôznych zemepisných šírkach v rámci rôznych ročných období."
   },
   {
     "id": "mZFI12",
     "program": "mZFI",
-    "supervisor": "RNDr. Marián Jenčo, PhD.",
+    "supervisor": "Mgr. Miroslav Kožuch, PhD.",
     "aff": "",
-    "name": "Pôsobenie vodnej a orbovej erózie v území pahorkatín",
-    "text": "Tvorba digitálneho terénneho modelu z údajov získaných pomocou laserového skenovania (lidar). Následné modelovanie vodnej a orbovej erózie. Verifikácia výsledkov použitých modelov erózie na základe porovnania priestorovej distribúcie miest s predpokladanou maximálnou intenzitou erózie a distribúciou svetlých fľakov na ornej pôde."
+    "name": "Mapovanie snehovej pokrývky zvoleného pohoria zo snímačov SAR",
+    "text": "Cieľom práce bude mapovanie snehovej pokrývky vo zvolenom pohorí počas zimy. Spracujú sa záznamy zo snímača Sentinel-1 formátu SLC podľa navrhnutej metodiky Bippus (2016). Rozsah detekovanej snehovej pokrývky bude porovnaný s údajmi SHMÚ. Práca vyžaduje dobre hardvérové vybavenie (min. 16 GB RAM, optimálne 32 GB RAM)."
   },
   {
     "id": "mZFI13",
     "program": "mZFI",
-    "supervisor": "Ing. Anna Kidová, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Hodnotenie hydromorfologických vlastností vodných tokov",
-    "text": "Potreba hodnotenia hydromorfologických vlastností vodných tokov vychádza z implementácie Rámcovej smernice o vode a metodologicky sa opiera o európsku normu EN-14614:2004 upravenú pre podmienky Slovenska. Téma sa venuje hodnoteniu štrukturálnych vlastností vodného toku na úrovni koryta, brehov, ripariálnej zóny a priľahlej nivy, ako aj princípu riečneho kontinua. Cieľom práce bude vykonanie praktického hodnotenia vybraného vodného toku alebo riečneho úseku, stanovenia jeho referenčných podmienok a vyhodnotenie výsledného skóre v kontexte súčasných fluviálnych procesov súvisiacich s prispôsobovaním sa vodného toku vplyvom človeka, ako aj meniacim sa environmentálnym podmienkam."
+    "supervisor": "doc. RNDr. Eva Mičietová, PhD.",
+    "aff": "",
+    "name": "Mapovanie a interpretácia topografických anomálií povrchov z údajov DMR5",
+    "text": "Výber územia do 400 km2 z hľadiska interpretačného zamerania – inžinierske siete, archeologické objekty, geomorfologické procesy, biota a p. Príprava údajov DMR5. Špecifikácia metód identifikácie topografických anomálií povrchov – subjektívne a objektívne kvantitatívne metódy. Aplikácia metód a mapovanie výskytu anomálií. Interpretácia významu zmapovaných anomálií v krajine."
   },
   {
     "id": "mZFI14",
     "program": "mZFI",
-    "supervisor": "Ing. Anna Kidová, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Identifikácia kľúčových faktorov vplývajúcich na recentnú degradáciu vodných tokov",
-    "text": "Dlhodobý trend degradácie riečnych systémov sa odráža najmä v ich morfologických zmenách, zjednodušovaní pôdorysnej vzorky, zužovaním alebo napriamovaním koryta. Cieľom práce bude kvantifikácia morfologických zmien typologicky rozdielnych riečnych úsekov a zmapovanie ich vývoja na základe historických máp, leteckých snímok a aktuálnych priečnych profilov. Práca sa bude sústreďovať na odhalenie kľúčových faktorov vplývajúcich na ich hydromorfologický vývoj, čo si okrem analýzy hydrologických dát, bude vyžadovať aj zhodnotenie vplyvov ľudskej činnosti alebo zmien krajinnej pokrývky."
+    "supervisor": "Mgr. Vladimir Pelech, PhD.",
+    "aff": "",
+    "name": "Tvorba priečnych profilov riečneho koryta z lidarových dát",
+    "text": "Cieľom práce bude z voľne dostupných zdrojov lidarových dát vytvoriť pomocou voľne dostupných nástrojov priečne profily riečneho koryta na zvolenom úseku rieky. Lidarové dáta bude potrebné odfiltrovať o nežiadúce prvky ako je napr. vegetácia, následne vytvoriť povrch a z povrchu profily. Čiastkovým cieľom môže byť z profilov určenie rezervy objemu, ktorý je potrebný na vyliatie rieky z koryta. Diplomová práca výsledkov bude uskutočnená pomocou webovej mapovej aplikácie."
   },
   {
     "id": "mZFI15",
     "program": "mZFI",
-    "supervisor": "Ing. Anna Kidová, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Zmeny štruktúry vegetácie riečnych lavíc a ostrovov vo vzťahu k povodňovým prietokom",
-    "text": "Téma sa venuje zápoju pionierskych druhov vegetácie na riečnych laviciach, ktoré veľmi dobre znášajú pravidelné zaplavovanie, čím zvyšujú aj ich odolnosť voči eróznym procesom. Naopak, disturbancie lavíc a ostrovov počas povodní spôsobujú narušenie vegetačného krytu, čím zmladzujú staršie sukcesné spoločenstvá a znovu ich vracajú do pionierskych štádií. Cieľom práce je porovnanie štruktúry vegetácie v rôznych štádiách sukcesie pred a po povodňovej udalosti v rozdielnych korytových úsekoch vodného toku. Zaoberať sa budeme otázkami vplyvu vegetácie na morfologický vývoj vnútrokorytových foriem a ich spätnej väzby na rozdielne hydrologické podmienky."
+    "supervisor": "Mgr. Juraj Procházka, PhD.",
+    "aff": "",
+    "name": "Fluviálnogeomorfologická analýza rieky Slatiny (úsek  Zvolenská Slatina – Zvolen)",
+    "text": "Úsek Slatiny medzi Zvolenskou Slatinou a Zvolenom patrí medzi prírodovedne vzácne územia z dôvodu jeho minimálneho antropického ovplyvnenia a zachovalej riečnej krajiny. Cieľom práce je na základe zberu terénnych dát zhodnotiť priestorovú štruktúru vnútrokorytových foriem a foriem na alúviu, charakterizovať fluviálnogeomorfologické procesy, vplyv ripariálnej vegetácie a mŕtvych zvyškov dreva na formovanie koryta. Štúdium relatívne prirodzených úsekov riečnych korýt v podmienkach Slovenska môže byť motiváciou a príspevkom k renaturačným opatreniam na iných úsekoch vodných tokov, resp. k územnej ochrane tohto úseku ohrozeného vodohospodárskou výstavbou."
   },
   {
     "id": "mZFI16",
     "program": "mZFI",
-    "supervisor": "Ing. Anna Kidová, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Klasifikácia a geomorfologický efekt priestorovej distribúcie zvyškov dreva (LWD) v koryte",
-    "text": "Problematika riečneho dreva, označovaného ako LWD, je na Slovensku prakticky neprebádaná. Zvyšky dreva vytvárajú v korytách riek tzv. drevné akumulácie (zhluky a zátarasy), alebo sú v nepravidelných intervaloch rozptýlené ako individuálne kusy. Ich prítomnosť v koryte má významný geomorfologický efekt najmä pri pretváraní vnútrokorytovej morfológii (dnová erózia, transport sedimentov, avulzie), ako aj pri laterálnej migrácii koryta (brehová erózia). Svojou veľkosťou alebo polohou v koryte vytvárajú prekážku prúdeniu a/alebo iniciujú trapovanie jemnejších sedimentov akcelerujúcich proces vzniku vegetačného krytu. Riešenie témy si vyžaduje terénne mapovanie zvyškov dreva, ich klasifikáciu (morfometrické parametre, orientácia, pôvod, typ, poloha, stabilita), granulometrické analýzy, štatistické spracovanie dát, ako aj prácu v prostredí GIS."
+    "supervisor": "Mgr. Juraj Procházka, PhD.",
+    "aff": "",
+    "name": "Renaturačné opatrenia na dolnom/strednom toku Hrona (alebo Váhu) – príčiny, dopady, manažment",
+    "text": "Cieľom práce je na základe detailnej analýzy súčasného stavu koryta Hrona vo vybranom úseku (najmä so zameraním na zrealizované antropické zásahy v minulosti) zhodnotiť potenciál na realizáciu renaturačných opatrení. V druhej, aplikačnej časti práce sa študent na základe analýzy existujúcich podkladov a terénneho výskumu pokúsi vytvoriť materiál pre návrh realizácie jedného alebo viacerých renaturačných opatrení (odstránenie brehového opevnenia, sprietočnenie odstaveného meandra/avulzného koryta a pod.). Jeho súčasťou bude zhodnotenie prírodných rizík a odhad adaptácie riečneho koryta po prípadnej realizácii zásahu."
   },
   {
     "id": "mZFI17",
     "program": "mZFI",
-    "supervisor": "Ing. Anna Kidová, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Vymedzenie pririečnej zóny na základe open sourcových dát",
-    "text": "Vymedzenie pririečnych (ripariálnych) zón využíva v súčasnosti niektoré štruktúrne parametre, najmä krajinnú pokrývku a topografické charakteristiky. Na základe voľne dostupných dát výškového modelu SRTM a multispektrálnych satelitných snímok Landsat sa ju pokúsime vymedziť na princípe odvodenia riečnej siete v prostredí Grass GIS, extrakciou vegetačných a vodných plôch pomocou vhodných indexov (TCA, MNDWI)."
+    "supervisor": "Mgr. Juraj Procházka, PhD.",
+    "aff": "",
+    "name": "Morfoštruktúrna analýza Javoria",
+    "text": "Upresnenie morfotektonického vývoja geomorfologického celku Javorie na základe analýzy textúry riečnej siete, zarovnaných povrchov, niektorých morfometrických parametrov, geologickej stavby a i."
   },
   {
     "id": "mZFI18",
     "program": "mZFI",
-    "supervisor": "Mgr. Miroslav Kožuch, PhD.",
+    "supervisor": "Mgr. Juraj Procházka, PhD.",
     "aff": "",
-    "name": "Detekcia objektov potrubnej dopravy zo záznamov SAR-L",
-    "text": "Cieľom bude overenie metodiky detekcie líniových objektov (napr. tranzitný ropovod, tranzitný plynovod, produktovod), resp. plošných objektov (melioračné zariadenia) zo záznamov DPZ snímačov SAR pod zemským povrchom. Pásmo L totiž prechádza aj pod zemský povrch, pod ktorým sú umiestnené objekty. Využijú sa dostupné údaje z nosičoch ALOS1 a JERS, prípadne iné. Priebeh tranzitného ropovodu a plynovodu je možné čiastočne idnetifikovať z ortofot (zhybky, búdky, lesné prieseky), detekciou melioračných zariadení z LMS sa zaoberal v ČR projekt \"Využití digitálních technologií zpracování archivních leteckých měřických snímků pro skutečné zaměření staveb odvodnění v systému S-JTSK\"."
+    "name": "Transformácie koryta Hrona /Váhu v závere malej doby ľadovej (vybraný úsek na Podunajskej nížine)",
+    "text": "Cieľom práce je s využitím historických máp na základe analýzy morfologických parametrov v rôznych časových úrovniach identifikovať správanie sa riečneho koryta Hrona/Váhu v hydroklimatických podmienkach malej doby ľadovej."
   },
   {
     "id": "mZFI19",
     "program": "mZFI",
-    "supervisor": "doc. RNDr. Eva Mičietová, PhD.",
-    "aff": "",
-    "name": "Operačné možnosti informačných zdrojov NIPI pre geografický informačný systém environmentálneho zdravia SR",
-    "text": "Cieľom práce je vypracovanie systematického prehľadu, dostupnosti, implementácie a interaktívnej prezentácie geografických informačných zdrojov NIPI v prostredí geografického informačného systému environmentálneho zdravia."
-  },
-  {
-    "id": "mZFI20",
-    "program": "mZFI",
-    "supervisor": "doc. RNDr. Eva Mičietová, PhD.",
-    "aff": "",
-    "name": "Porovnanie operačných možností digitálnych výškových modelov z hľadiska kvality a využitia komplexného digitálneho modelu georeliéfu",
-    "text": "Cieľom práce je analýzy kvality vybraných modelov (DMR 3.5, DMR 5 a ....), výpočet a porovnanie štruktúrnych parametrov podľa koncepcie KDMR ako aj vyhodnotenie operačných možností pre interdisciplinárne priestorové rozhodovacie úlohy."
-  },
-  {
-    "id": "mZFI21",
-    "program": "mZFI",
-    "supervisor": "doc. RNDr. Eva Mičietová, PhD.",
-    "aff": "",
-    "name": "Vyhodnotenie zmien uhlíkovej bilancie z hľadiska zmeny lesných porastov v SR",
-    "text": "Cieľom práce je vypracovanie systematického prehľadu, dostupnosti, implementácie a interaktívnej prezentácie geografických informačných zdrojov o uhlíkovej bilancii z hľadiska zmeny lesných porastov v SR podľa IPCC a AFOLU v SR."
-  },
-  {
-    "id": "mZFI22",
-    "program": "mZFI",
-    "supervisor": "Mgr. Mgr. Katarína Mikulová, PhD.",
-    "aff": "Slovenský hydrometeorologický ústav, Bratislava",
-    "name": "Validácia modelovaných údajov pôdnej vlhkosti na základe nameraných údajov z rôznych zdrojov meraní",
-    "text": "Jednou z aktuálnych tém v klimatológii je aj monitoring pôdneho sucha, ktorý je často postavený na sledovaní vlhkosti pôdy v rôznych hĺbkach. Vplyvom rozvoja technických možností je v súčasnosti dostupných viacero zdrojov dát takýchto informácií – od klasických (ale zriedkavých) lyzimetrických staníc, cez automatické klimatologické stanice až po výstupy z pôdnych modelov. Otázka je, do akej miery sa jednotlivé zdroje zhodujú v poskytovaných informáciách, a teda do akej miery sú vhodné pre operatívny monitoring pôdneho sucha. Diplomová práca sa bude zaoberať porovnaním údajov pôdnej vlhkosti z rôznych zdrojov, čo prinesie cenné informácie pre operatívnu prax a ich ďalšie využitie v nej."
-  },
-  {
-    "id": "mZFI23",
-    "program": "mZFI",
-    "supervisor": "Mgr. Mgr. Katarína Mikulová, PhD.",
-    "aff": "Slovenský hydrometeorologický ústav, Bratislava",
-    "name": "Zmeny denných úhrnov atmosférických zrážok a ich skupenstva",
-    "text": "V kontexte klimatickej zmeny nepozorujeme až tak výrazne zmeny v ročnom úhrne zrážok. Zmeny sú však evidentné v ich rozložení počas roka, podiele jednotlivých skupenstiev zrážok v chladnom polroku, ale aj v počte dní s vysokými úhrnmi zrážok Cieľom práce je tieto zmeny v režime atmosférických zrážok kvantifikovať nielen podľa úhrnu, ale aj z hľadiska skupenstva. Výsledky práce sú dôležité pre prax, nakoľko režim zrážok a ich skupenstva je dôležitý pre rôzne odvetvia hospodárstva."
-  },
-  {
-    "id": "mZFI24",
-    "program": "mZFI",
-    "supervisor": "Mgr. Vladimir Pelech, PhD.",
-    "aff": "",
-    "name": "Odvodené informácie z polohy mobilu používateľa",
-    "text": "Mnoho používateľov v dnešnej dobe má Google konto a mobilný telefón s dostatočne kvalitným GPS na určenie polohy. Ak používateľ nemá vypnuté zdieľanie polohy, tak informácie o jeho polohe sú na pravidelnej báze párované s jeho kontom. Cieľom tejto práce je zhromaždiť od používateľa-autora práce dáta za isté časové obdobie (predpokladám 1-2 mesiace) a pokúsiť sa vytvoriť pomocou analýz a voľne dostupných zdrojov (rôzne mapové portály) jeho profil. Kde sa často zdržiava, či je možné určiť napr. jeho vierovyznanie, odhadnúť jeho vek podľa návštevy školy, alebo zamestnania, miesto bydliska atď. Vzhľadom na povahu práce, by som však požadoval, aby bola daná práca neverejná, keďže pôjde o osobné informácie o konkrétnom človeku. To znamená, že nebude dostupná cez CRZP."
-  },
-  {
-    "id": "mZFI25",
-    "program": "mZFI",
-    "supervisor": "Mgr. Juraj Procházka, PhD.",
-    "aff": "",
-    "name": "Transformácie koryta Hrona /Váhu v závere malej doby ľadovej (vybraný úsek na Podunajskej nížine)",
-    "text": "Cieľom práce je s využitím historických máp na základe analýzy morfologických parametrov v rôznych časových úrovniach identifikovať správanie sa riečneho koryta Hrona/Váhu v hydroklimatických podmienkach malej doby ľadovej."
-  },
-  {
-    "id": "mZFI26",
-    "program": "mZFI",
-    "supervisor": "Mgr. Juraj Procházka, PhD.",
-    "aff": "",
-    "name": "Antropizácia vybraného úseku riečneho koryta Hrona – príčiny, dopady, manažment",
-    "text": "Cieľom práce je detailná analýza antropizácie vybraného úseku Hrona (regulácie, opevňovanie brehov, výstavba protipovodňových hrádzí, výstavba odvodňovacích kanálov ap.) a zhodnotenie príčin a následkov týchto zásahov do fyzickogeografickej sféry. Súčasťou práce môže byť aj zhodnotenie potenciálu územia pre prípadné renaturalizačné opatrenia."
-  },
-  {
-    "id": "mZFI27",
-    "program": "mZFI",
-    "supervisor": "Mgr. Juraj Procházka, PhD.",
-    "aff": "",
-    "name": "Fluviálnogeomorfologická analýza rieky Slatiny (úsek  Zvolenská Slatina – Zvolen)",
-    "text": "Úsek Slatiny medzi Zvolenskou Slatinou a Zvolenom patrí medzi prírodovedne vzácne územia z dôvodu jeho minimálneho antropického ovplyvnenia a zachovalej riečnej krajiny. Cieľom práce je na základe zberu terénnych dát zhodnotiť priestorovú štruktúru vnútrokorytových foriem a foriem na alúviu, charakterizovať fluviálnogeomorfologické procesy, vplyv ripariálnej vegetácie a mŕtvych zvyškov dreva na formovanie koryta. Štúdium relatívne prirodzených úsekov riečnych korýt v podmienkach Slovenska môže byť motiváciou a príspevkom k renaturalizačným opatreniam na iných úsekoch vodných tokov, resp. k územnej ochrane tohto úseku ohrozeného vodohospodárskou výstavbou."
-  },
-  {
-    "id": "mZFI28",
-    "program": "mZFI",
-    "supervisor": "Mgr. Miloš Rusnák, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Granulometrická analýza vybraného úseku vodného toku a priľahlých brehov pomocou nízko letiacich dronov",
-    "text": "Cieľom práce je analýza výsledkov optickej granulometrie snímok získaných pomocou dronov (odfotená vzorka sedimentov spracovaná v PC obrazovou analýzou) a ich následná validácia s použitím viacerých granulometrických metód pri identifikovaní zrnitostného zloženia sedimentov štrkových lavíc v koryte. Práca je zameraná na spracovanie optických snímok z dronov pre ktoré budú využité softvéry SEDIMETRICS a BaseGrain ako aj samotnú analýzu vzoriek sedimentov a porovnanie výsledkov získaných pomocou osievania sústavou sít veľkosti od 0,063 do 31,5 mm suchou cestou. V práci sa počíta s odberom vzoriek, terénnymi prácami a historickou analýzou vývoja skúmaného koryta vodného toku."
-  },
-  {
-    "id": "mZFI29",
-    "program": "mZFI",
-    "supervisor": "Mgr. Miloš Rusnák, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Mapovanie dna koryta vodného toku využitím optických batymetrických metód",
-    "text": "Cieľom práce je identifikovanie jednotlivých morfologických foriem dna koryta ako základných morfologických foriem pre fungovanie riečneho ekosystému. Práca je založená na tvorbe batymetrického modelu dna koryta na základe optických dát získaných pomocou dronov. V práci sa porovnávajú 2 prístupy pre tvorbu batymetrie koryta: i) model dna koryta odvodený od spektrálnych charakteristík RGB snímok a ii) model dna koryta vytvorený úpravou refrakcie pri tvorbe mračna bodov algoritmom SfM. Výsledky budú validované terénnym prieskumom."
-  },
-  {
-    "id": "mZFI30",
-    "program": "mZFI",
-    "supervisor": "Mgr. Miloš Rusnák, PhD.",
-    "aff": "Geografický ústav SAV, Bratislava",
-    "name": "Použitie optických satelitných snímok pre dynamickú analýzu biogeomorfologických interakcií v riečnej krajine",
-    "text": "Cieľom práce je spracovanie a analýza satelitných snímok pre hodnotenie vzájomných väzieb medzi morfologickými zmenami v koryte a nastupujúcou vegetáciou. Vegetačné indexy spolu s fyziognomickými znakmi vegetácie sú relevantné aj pre identifikáciu a hodnotenie ripariálnej zóny a identifikáciu biogeomorfologických interakcii v koryte. Cieľom práce bude analyzovať, vyhodnotiť a testovať vhodnosť použitia vegetačných indexov uvádzaných v literatúre spolu s fyziognomickými znakmi vegetácie v procese identifikácie a hodnotenia vybraných ripariálnych zón na Slovensku aplikáciou satelitných údajov DPZ."
-  },
-  {
-    "id": "mZFI31",
-    "program": "mZFI",
     "supervisor": "RNDr. Ivan Ružek, PhD.",
     "aff": "",
     "name": "Dendrogeomorfologická rekonštrukcia výskytu snehových lavín",
-    "text": "Práca sa venuje rekonštrukcii výskytu snehových lavín vo vybranom pohorí na Slovensku s využitím dendrogeomorfologických metód výskumu. Súčasťou práce bude terénny výskum, spracovanie a vyhodnotenie vzoriek v dendrologickom laboratóriu."
+    "text": "Práca sa venuje rekonštrukcii výskytu snehových lavín vo vybranom pohorí na Slovensku s využitím dendrogeomorfologických metód výskumu. Súčasťou práce bude terénny výskum, spracovanie a vyhodnotenie vzoriek v dendrologickom laboratóriu."
   },
   {
-    "id": "mZFI32",
-    "program": "mZFI",
-    "supervisor": "Ingr. Jozef Vališ, PhD.",
+    "id": "dFGG1",
+    "program": "dFGG",
+    "supervisor": "doc. RNDr. Vladimír Falťan, PhD.",
     "aff": "",
-    "name": "Využitie mapových služieb pri sprístupňovaní a spracovaní priestorových (geografických) údajov",
-    "text": "Cieľom práce je popis štandardizovaných (OGC, INSPIRE) mapových služieb a ich parametrov, testy výkonu, kapacity, dostupnosti, presnosti a realizácia projektu s aplikovaním vybraných mapových služieb."
+    "name": "Hodnotenie dynamiky využitia krajiny a zmien krajinnej pokrývky",
+    "text": "Na základe aplikácie aktuálnych metodických postupov výskumu a mapovania krajinnej pokrývky (fyziognomických prejavov prebiehajúcich prírodných a socioekonomických procesov na zemskom povrchu) s využitím dostupných historických prameňov, máp, leteckých snímok, GIS analýz a vlastného terénneho výskumu bude doktorand charakterizovať detailne dlhodobý vývoj využitia krajiny vybraného územia, fyziognomické prejavy tokov zmien krajinnej pokrývky (land cover flows) a vplyv prírodných komponentov krajiny na ne."
   },
   {
-    "id": "mupGE1",
-    "program": "mupGE",
-    "supervisor": "RNDr. Ivan Ružek, PhD.",
+    "id": "dFGG2",
+    "program": "dFGG",
+    "supervisor": "doc. RNDr. Vladimír Falťan, PhD.",
     "aff": "",
-    "name": "Zhodnotenie dištančnej formy výučby geografie na vybraných školách",
-    "text": "V práci budú hodnotené rôzne aspekty dištančnej výučby tém fyzickej geografie na vybraných základných/stredných školách. Súčasťou práce bude analýza organizačných foriem vzdelávania, učebných materiálov, softvérových systémov a postojov žiakov i učiteľov."
+    "name": "Detailný výskum dynamiky krajinnej pokrývky v oblastiach s prejavmi opúšťania poľnohospodárskej pôdy",
+    "text": "Práca bude zameraná na hodnotenie zmien krajinnej pokrývky a ich zaznamenanie vo veľkých mierkach s využitím návrhu modifikácie metodológie CORINE land cover. Výskum bude realizovaný v oblastiach s prejavmi opúšťania poľnohospodárskej pôdy, výskytom historických krajinných štruktúr a obnovou lesa."
+  },
+  {
+    "id": "dFGG3",
+    "program": "dFGG",
+    "supervisor": "doc. RNDr. Igor Matečný, PhD.",
+    "aff": "",
+    "name": "Sledovanie mikroklimatických parametrov ako súčasť precízneho poľnohospodárstva",
+    "text": "Výskum  mikroklimatických parametrov na modelových územiach  je súčasťou  geoekologických prístupov  v rámci využitia metód precízneho poľnohospodárstva.  V porovnaní s tradičnými metódami hospodárenia na pôde predstavuje progresívny prístup, najmä s ohľadom na dopad klimatickej zmeny.  Prístup k dátam za automatických meracích staníc a loggerov na danom podniku v reálnom čase umožňuje optimalizovať pracovné postupy a pružne reagovať na zmeny počasia. Podrobná analýza dáta a predpovedné sofwarové modely pre nástup chorôb plodín  umožňujú  optimalizáciu ochranných postrekov s cieľom minimalizovania negatívnych dopadov na životné prostredie ako aj šetrenia prostriedkov. Podrobné sledovanie  klímy prispieva aj k optimalizáciu lokalizácie odrôd a spôsobu obhospodarovania."
+  },
+  {
+    "id": "dFGG4",
+    "program": "dFGG",
+    "supervisor": "prof. RNDr. Jozef Minár, CSc.",
+    "aff": "",
+    "name": "Význam výberu vstupných veličín pre elementárnu segmentáciu georeliéfu",
+    "text": "V elementarizácii georeliéfu sa používajú rôzne viac alebo menej teoreticky zdôvodnené vstupné geomorfometrické charakteristiky. V nadväznosti na teoretický koncept fyzikálne založenej segmentácie budú vo viacerých modelovených územiach testované varianty segmentácie s rôznym súborom vstupných veličín. Predpokladá sa použitie Geografickej objektovo-orientovanej analýzy obrazu (GEOBIA) ako základnej metódy segmentácie v prostredí e-Cognition a utvorenie originálneho autonómneho modulu pre hodnotenie kvality výslednej segmentácie. Schopnosť pracovať v prostredí e-Cognition a ovládanie aspoň základov programovania v GIS sú základným predpokladom pre spracovania témy."
+  },
+  {
+    "id": "dFGG5",
+    "program": "dFGG/x",
+    "supervisor": "prof. RNDr. Jozef Minár, CSc.",
+    "aff": "",
+    "name": "Význam výberu vstupných veličín pre elementárnu segmentáciu georeliéfu",
+    "text": "V elementarizácii georeliéfu sa používajú rôzne viac alebo menej teoreticky zdôvodnené vstupné geomorfometrické charakteristiky. V nadväznosti na teoretický koncept fyzikálne založenej segmentácie budú vo viacerých modelovených územiach testované varianty segmentácie s rôznym súborom vstupných veličín. Predpokladá sa použitie Geografickej objektovo-orientovanej analýzy obrazu (GEOBIA) ako základnej metódy segmentácie v prostredí e-Cognition a utvorenie originálneho autonómneho modulu pre hodnotenie kvality výslednej segmentácie. Schopnosť pracovať v prostredí e-Cognition a ovládanie aspoň základov programovania v GIS sú základným predpokladom pre spracovania témy."
+  },
+  {
+    "id": "dFGG6",
+    "program": "dFGG",
+    "supervisor": "doc. RNDr. Eva Pauditšová, PhD.",
+    "aff": "",
+    "name": "Modelovanie siete zelenej infraštruktúry na regionálnej úrovni",
+    "text": "Globálne zmeny životného prostredia vrátane fragmentácie krajiny ohrozujú integritu ekosystémov a znižujú ich schopnosť poskytovať ekosystémové služby. Priestorová konfigurácia siete ekostabilizačných prvkov vegetácie podporuje ekologické funkcie a služby, ktoré závisia od živých organizmov zložiek krajiny. Pre efektívne priestorové plánovanie v 21. storočí je dôležité skúmať siete prvkov zelenej infraštruktúry, ktorým sú v kontexte meniacej sa klímy pripisované mnohé funkcie. Výskumná práca bude zameraná na mapovanie a analýzu priestorovej konfigurácie prvkov zelenej infraštruktúry vo vybranom modelovom území. Identifikované budú kľúčové uzly a prepojenia, ktoré majú potenciál zachovať konektivitu v krajine a rozvíjať aj iné funkcie, ktoré sa od prvkov vegetácie v krajine očakávajú. Cieľom práce bude zostavenie viacerých scenárov vývoja krajiny, ktorých podstatou bude zlepšenie alebo zníženie konektivity krajiny pridaním alebo odstránením koridorov a biocentier. Metódy, ktoré budú pri plnení cieľa práce aplikované zahŕňajú morfologickú analýzu priestorových vzorov a metriku konektivity krajiny. Využitie modelovania scenárov je využiteľné v praxi, v rozhodovacích procesoch, pri návrhoch adaptačných stratégií, ktoré využívajú riešenia založené na prírode."
+  },
+  {
+    "id": "dFGG7",
+    "program": "dFGG",
+    "supervisor": "doc. Ing. Peter Pišút, PhD.",
+    "aff": "",
+    "name": "Paleoenvironmentálna rekonštrukcia aluviálnych pôd a pôdnych sedimentov Podunajskej nížiny",
+    "text": "Dizertačná práca je zameraná na výskum a analýzu aluviáknych pôd systému Dunaja a dolného Váhu. S využiťím metód DPZ (historickém mapy, ortofotosnímky), terénneho výskumu a paleopedologických aj paleoekologických metód budú analyzované pôdne sedimenty a pochované pôdy zaniknutých korýt a mokradí s cieľom rekonštrukcie prírodných pomerov vybraných území v minulosti."
+  },
+  {
+    "id": "dFGG8",
+    "program": "dFGG",
+    "supervisor": "doc. Ing. Peter Pišút, PhD.",
+    "aff": "",
+    "name": "Historické využívanie krajiny – syntetický prístup s kombináciou metód DPZ, historickej kartografie a paleoekológie",
+    "text": "Doktorand bude rekonštruovať historické využívanie krajiny vybraných modelových území, vrátane území zaniknutých sídiel s využitím metód DPZ, najmä údajov LIDAR, v kombinácii s údajmi dostupných historických máp a ortofotosnímkov, písomných prameňov, ale aj vlastného terénneho výskumu, využívajúceho aplikáciu  pedologických a paleoekologických metód."
+  },
+  {
+    "id": "dFGG9",
+    "program": "dFGG",
+    "supervisor": "doc. RNDr. Milan Trizna, PhD.",
+    "aff": "",
+    "name": "Variabilita zrážok v rámci synoptických situácii ako vstup do zrážkovo-odtokových vzťahov",
+    "text": "Práca je zameraná na zrážky ako dôležitý vstup do zrážkovo-odtokových procesov a ich modelovania pomocov hydrologických modelov. Zároveň bude snaha zachytiť variabilitu zrážkových úhrnov priestore a v čase v závislosti na prevládajúcich synoptických situáciách."
   }
 ]
