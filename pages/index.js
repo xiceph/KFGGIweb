@@ -93,7 +93,7 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
+              {/*<p className="text-gray-600 italic">žiadne udalosti</p>
               <div className="mb-1.5"><Datum date={ new Date("2022-04-20") } today={ new Date(props.today) }></Datum></div>
                <h5 className="font-bold mb-2">Prednáška</h5>
                <p className="font-bold mb-f2">Geopark Malé Karpaty</p>
@@ -102,11 +102,15 @@ function IndexPage( props ) {
                  <div className="mb-2">Prednášajúci: <i>Jiří Vitáloš</i>, <i>Tomáš Fuksi</i></div>
                  <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/bmv7" target="_blank">https://lnk.sk/euny</a></div>
                  <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2022/2022-04-20-geoklub.pdf" target="_blank">Plagát</a></div>
-               </div>
+               </div>*/}
               
-              {/*<div className="mb-1.5"><Datum date={ new Date("2021-08-24") } _today={ new Date(props.today) }></Datum></div>
+              <div className="mb-1.5"><Datum date={ new Date("2021-05-24") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div>Na katedre budú prebiehať <Link href="/studium/statne_skusky"><a>štátne skúšky na bakalárskom a magisterskom študijnom programe</a></Link>.</div>*/}
+              <div className="mb-6">Na katedre budú prebiehať v dňoch 24. a 25. 5. 2022 <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>
+              
+              <div className="mb-1.5"><Datum date={ new Date("2021-06-15") } _today={ new Date(props.today) }></Datum></div>
+              <h5 className="font-bold mb-1">Štátne skúšky</h5>
+              <div>Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>
             </div>
           </div>
         </div>
