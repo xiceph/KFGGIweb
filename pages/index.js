@@ -93,20 +93,21 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              {/*<p className="text-gray-600 italic">žiadne udalosti</p>
-              <div className="mb-1.5"><Datum date={ new Date("2022-04-20") } today={ new Date(props.today) }></Datum></div>
-               <h5 className="font-bold mb-2">Prednáška</h5>
-               <p className="font-bold mb-f2">Geopark Malé Karpaty</p>
+              {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
+              <div className="mb-1.5"><Datum date={ new Date("2022-05-18") } today={ new Date(props.today) }></Datum></div>
+               <h5 className="font-bold mb-2">Prednášky</h5>
+               <p className="font-bold mb-f2">Budúcnosť zemného plynu a zelená ekonomika</p>
+               <p className="font-bold mb-f2 mt-f0">Africké safari z pohľadu učiteľa</p>
                <div>
                  <div className="mb-2">Čas: 15:00 – 17:30 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
-                 <div className="mb-2">Prednášajúci: <i>Jiří Vitáloš</i>, <i>Tomáš Fuksi</i></div>
-                 <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/bmv7" target="_blank">https://lnk.sk/euny</a></div>
-                 <div className="mb-2"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2022/2022-04-20-geoklub.pdf" target="_blank">Plagát</a></div>
-               </div>*/}
+                 <div className="mb-2">Prednášajúci: <i>prof. RNDr. Otília Lintnerová, CSc.</i>, <i>RNDr. Alena Košiarová</i></div>
+                 <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/j589" target="_blank">https://lnk.sk/j589</a></div>
+                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2022/2022-05-18-geoklub.pdf" target="_blank">Plagát</a></div>
+               </div>
               
               <div className="mb-1.5"><Datum date={ new Date("2022-05-24") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div className="mb-6">Na katedre budú prebiehať v dňoch 24. a 25. 5. 2022 <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>
+              <div className="mb-8">Na katedre budú prebiehať v dňoch 24. a 25. 5. 2022 <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>
               
               <div className="mb-1.5"><Datum date={ new Date("2022-06-15") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
