@@ -28,7 +28,7 @@ export default function Statnice() {
         
         <h4>Termíny 2021/22</h4>
         <p>mZ-FI/FYZ:  24. a 25. 5. 2022</p>
-        <p>mZ-FI/GIS:  {/*3. 6. 2021 obhajoba diplomovej práce (<a href="docs/ObhajobyMgr2021.pdf">harmonogram [pdf]</a>), 10. 6. 2021 ústna skúška (<a href="docs/UstneSkuskyMgr2021.pdf">harmonogram [pdf]</a>), 24. 8. 2021 obhajoba diplomovej práce (<a href="docs/Obhajoby2021aug.pdf">harmonogram [pdf]</a>).*/}</p>
+        <p>mZ-FI/GIS:  8. 6. 2022{/*3. 6. 2021 obhajoba diplomovej práce (<a href="docs/ObhajobyMgr2021.pdf">harmonogram [pdf]</a>), 10. 6. 2021 ústna skúška (<a href="docs/UstneSkuskyMgr2021.pdf">harmonogram [pdf]</a>), 24. 8. 2021 obhajoba diplomovej práce (<a href="docs/Obhajoby2021aug.pdf">harmonogram [pdf]</a>).*/}</p>
 
         
         <h4>Povinné predmety</h4>
