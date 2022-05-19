@@ -94,7 +94,7 @@ function IndexPage( props ) {
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
               {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
-              <div className="mb-1.5"><Datum date={ new Date("2022-05-18") } today={ new Date(props.today) }></Datum></div>
+              {/*<div className="mb-1.5"><Datum date={ new Date("2022-05-18") } today={ new Date(props.today) }></Datum></div>
                <h5 className="font-bold mb-2">Prednášky</h5>
                <p className="font-bold mb-f2">Budúcnosť zemného plynu a zelená ekonomika</p>
                <p className="font-bold mb-f2 mt-f0">Africké safari z pohľadu učiteľa</p>
@@ -103,7 +103,7 @@ function IndexPage( props ) {
                  <div className="mb-2">Prednášajúci: <i>prof. RNDr. Otília Lintnerová, CSc.</i>, <i>RNDr. Alena Košiarová</i></div>
                  <div className="mb-2">Prihláste sa na: <a href="https://lnk.sk/j589" target="_blank">https://lnk.sk/j589</a></div>
                  <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2022/2022-05-18-geoklub.pdf" target="_blank">Plagát</a></div>
-               </div>
+               </div>*/}
               
               <div className="mb-1.5"><Datum date={ new Date("2022-05-24") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
