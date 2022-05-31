@@ -34,7 +34,7 @@ export default function GeoKarto( props ) {
     
       <h3>Termíny</h3>
       <p>
-        <b>Prihlásenie abstraktov: 31. 5. 2022</b><br/>
+        <b>Prihlásenie abstraktov: 15. 6. 2022</b><br/>
         Vyrozumenie o prijatí abstraktov: 30. 6. 2022<br/>
         Zaslanie článkov do Kartografických listov: 30. 4. 2022 / 30. 9. 2022<br/>
         Úhrada účastníckeho poplatku prevodom na účet: 31. 8. 2022<br/>
