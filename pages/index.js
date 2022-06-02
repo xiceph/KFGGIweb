@@ -105,10 +105,6 @@ function IndexPage( props ) {
                  <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2022/2022-05-18-geoklub.pdf" target="_blank">Plagát</a></div>
                </div>*/}
               
-              <div className="mb-1.5"><Datum date={ new Date("2022-05-24") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div className="mb-8">Na katedre budú prebiehať v dňoch 24. a 25. 5. 2022 <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>
-              
               <div className="mb-1.5"><Datum date={ new Date("2022-06-08") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
               <div className="mb-8">Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>
