@@ -10,7 +10,7 @@ export default function Statnice() {
         <h3 className="border-l-3 md:border-l-4 border-k-brown pl-3 md:pl-5 py-2 md:py-3">Bakalárske študijné programy</h3>
         
         <h4>Termíny 2021/22</h4>
-        <p>Obhajoba bakalárskej práce ZEP:  15. 6. 2022.</p>
+        <p>Obhajoba bakalárskej práce ZEP:  15. 6. 2022 (<a href="docs/HarmonogramFYZbc2022.pdf" target="_blank">harmonogram [pdf]</a>).</p>
         <p>Obhajoba bakalárskej práce ZKI:  16. 6. 2022.{/*22. 6. 2021 (<a href="docs/ObhajobyBc2021.pdf" target="_blank">harmonogram [pdf]</a>), 24. 8. 2021 (<a href="docs/Obhajoby2021aug.pdf" target="_blank">harmonogram [pdf]</a>).*/}</p>
         
         <h4>Povinné predmety</h4>
