@@ -93,7 +93,7 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
+              <p className="text-gray-600 italic">žiadne udalosti</p>
               {/*<div className="mb-1.5"><Datum date={ new Date("2022-05-18") } today={ new Date(props.today) }></Datum></div>
                <h5 className="font-bold mb-2">Prednášky</h5>
                <p className="font-bold mb-f2">Budúcnosť zemného plynu a zelená ekonomika</p>
@@ -105,7 +105,7 @@ function IndexPage( props ) {
                  <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2022/2022-05-18-geoklub.pdf" target="_blank">Plagát</a></div>
                </div>*/}
               
-              <div className="mb-1.5"><Datum date={ new Date("2022-06-08") } _today={ new Date(props.today) }></Datum></div>
+              {/*<div className="mb-1.5"><Datum date={ new Date("2022-06-08") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
               <div className="mb-8">Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>
               
@@ -115,7 +115,7 @@ function IndexPage( props ) {
               
               <div className="mb-1.5"><Datum date={ new Date("2022-06-16") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div>Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>
+              <div>Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>*/}
             </div>
           </div>
         </div>
