@@ -93,8 +93,8 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <p className="text-gray-600 italic">žiadne udalosti</p>
-              {/*<div className="mb-1.5"><Datum date={ new Date("2022-05-18") } today={ new Date(props.today) }></Datum></div>
+              {/*<p className="text-gray-600 italic">žiadne udalosti</p>
+              <div className="mb-1.5"><Datum date={ new Date("2022-05-18") } today={ new Date(props.today) }></Datum></div>
                <h5 className="font-bold mb-2">Prednášky</h5>
                <p className="font-bold mb-f2">Budúcnosť zemného plynu a zelená ekonomika</p>
                <p className="font-bold mb-f2 mt-f0">Africké safari z pohľadu učiteľa</p>
@@ -105,15 +105,17 @@ function IndexPage( props ) {
                  <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2022/2022-05-18-geoklub.pdf" target="_blank">Plagát</a></div>
                </div>*/}
               
-              {/*<div className="mb-1.5"><Datum date={ new Date("2022-06-08") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div className="mb-8">Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>
+              <div className="mb-1.5"><Datum date={ new Date("2022-09-08") } _today={ new Date(props.today) }></Datum></div>
+              <h5 className="font-bold mb-1">Konferencia GeoKARTO 2022</h5>
+              <div className="mb-8">Konferencia je organizovaná Kartografickou spoločnosťou SR, v roku 2022 v spolupráci s Katedrou fyzickej geografie a geoinformatiky, Prírodovedeckej fakulty UK v Bratislave. Viac na <Link href="/geokarto2022"><a target="_blank">stránke konferencie</a></Link>.</div>
               
-              <div className="mb-1.5"><Datum date={ new Date("2022-06-15") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div className="mb-8">Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>
+              <div className="mb-1.5"><Datum date={ new Date("2022-09-09") } _today={ new Date(props.today) }></Datum></div>
+              <h5 className="font-bold mb-1">Valné zhromaždenie SGS</h5>
+              <div className="mb-8">Valné zhromaždenie Slovenskej geografickej spoločnosti pri SAV bude v piatok 9. 9. 2022 od 12:00 v priestoroch Prírodovedeckej fakulty UK v Bratislave v aule (CH1-1). Súčasťou podujatia bude i pripomenutie si významných geografických výročí (tiež 70. výročie založenia katedry). <Link href="/docs/SGS2022Plagat.jpg"><a target="_blank">Plagát</a></Link></div>
               
-              <div className="mb-1.5"><Datum date={ new Date("2022-06-16") } _today={ new Date(props.today) }></Datum></div>
+              
+              
+              {/*<div className="mb-1.5"><Datum date={ new Date("2022-06-16") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
               <div>Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>*/}
             </div>
