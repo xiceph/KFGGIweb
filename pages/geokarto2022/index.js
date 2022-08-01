@@ -170,6 +170,15 @@ export default function GeoKarto( props ) {
         <h5>Možnosti prezentácie</h5>
         <p>prednáška alebo poster</p>
         
+        <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Partneri</h3>
+        
+        <div className="flex flex-row items-stretch justify-around space-x-3 md:space-x-4 py-4">
+          <a href="https://www.kedros.sk/" target="_blank" className="flex flex-col items-center justify-end">
+            <img className="h-10 md:h-24" src="images/geokarto2022/kedros.svg" alt="Kedros, a.s." />
+            <span className="text-xs md:text-base text-center">Kedros, a.s.</span>
+          </a>
+        </div>
+        
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Mediálny partneri</h3>
         
         <div className="flex flex-row items-stretch justify-around space-x-3 md:space-x-4 py-4">
