@@ -74,7 +74,7 @@ export default function GeoKarto( props ) {
       </ol>
 
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Predbežný program</h3>
-      
+      {/*
         <h5>8. 9. 2022 – štvrtok</h5>
         <table><tbody>
           <tr><td>8:30</td><td>prezentácia</td></tr>
@@ -97,7 +97,14 @@ export default function GeoKarto( props ) {
           <tr><td>12:00 – 13:30</td><td>obed</td></tr>
           <tr><td>13:30 – 15:30 </td><td>prednášky v pléne</td></tr>
           <tr><td>15:30 – 16:00</td><td>ukončenie konferencie</td></tr>
-        </tbody></table>
+        </tbody></table>*/}
+        <p>
+          <a href="docs/geokarto2022/PredProgGeoKARTO2022.pdf" target="_blank" className="-ml-1">
+            <button className="bg-k-gray px-5 py-2 rounded-info text-base text-white justify-self-end hover:shadow-md">
+              Predbežný program konferencie [.pdf]
+            </button>
+          </a>
+        </p>
         
         
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Organizačné pokyny</h3>
@@ -191,6 +198,11 @@ export default function GeoKarto( props ) {
           <a href="https://www.kedros.sk/" target="_blank" className="flex flex-col items-center justify-end mb-4">
             <img className="h-15 md:h-24" src="images/geokarto2022/kedros.svg" alt="Kedros, a.s." />
             <span className="text-xs md:text-base text-center">Kedros, a.s.</span>
+          </a>
+          
+          <a href="https://geotronics.sk/" target="_blank" className="flex flex-col items-center justify-end mb-4">
+            <img className="h-14 md:h-20" src="images/geokarto2022/Geotronics.png" alt="Geotronics Slovakia, s.r.o." />
+            <span className="text-xs md:text-base text-center">Geotronics Slovakia, s.r.o.</span>
           </a>
           
           
