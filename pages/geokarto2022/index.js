@@ -180,30 +180,38 @@ export default function GeoKarto( props ) {
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Partneri</h3>
         
         <div className="flex flex-row flex-wrap items-stretch justify-around space-x-3 md:space-x-4 py-4">
-          <a href="https://www.cbs.sk/" target="_blank" className="flex flex-col items-center justify-end mb-4">
-            <img className="h-16 md:h-28" src="images/geokarto2022/CBS.jpg" alt="CBS spol, s.r.o." />
-            <span className="text-xs md:text-base text-center">CBS spol, s.r.o.</span>
+        
+          <a href="https://www.zymestic.sk/" target="_blank" className="flex flex-col items-center justify-end mb-10">
+            <img className="h-14 md:h-20" src="images/geokarto2022/ZYMESTIC.png" alt="Zymestic Solutions, s.r.o." />
+            <span className="text-xs md:text-base text-center">Zymestic Solutions, s.r.o.</span>
           </a>
-          
-          <a href="https://www.vku-mapy.sk/" target="_blank" className="flex flex-col items-center justify-end mb-4">
-            <img className="h-16 md:h-28" src="images/geokarto2022/VKU.jpg" alt="VKÚ Harmanec, s.r.o." />
-            <span className="text-xs md:text-base text-center">VKÚ Harmanec, s.r.o.</span>
-          </a>
-          
-          <a href="https://www.muzeummap.sk/" target="_blank" className="flex flex-col items-center justify-end mb-4">
-            <img className="h-15 md:h-24" src="images/geokarto2022/SMM.png" alt="Slovenské múzeum máp" />
-            <span className="text-xs md:text-base text-center">Slovenské múzeum máp</span>
-          </a>
-          
-          <a href="https://www.kedros.sk/" target="_blank" className="flex flex-col items-center justify-end mb-4">
+        
+          <a href="https://www.kedros.sk/" target="_blank" className="flex flex-col items-center justify-end mb-10">
             <img className="h-15 md:h-24" src="images/geokarto2022/kedros.svg" alt="Kedros, a.s." />
             <span className="text-xs md:text-base text-center">Kedros, a.s.</span>
           </a>
           
-          <a href="https://geotronics.sk/" target="_blank" className="flex flex-col items-center justify-end mb-4">
+          <a href="https://geotronics.sk/" target="_blank" className="flex flex-col items-center justify-end mb-10">
             <img className="h-14 md:h-20" src="images/geokarto2022/Geotronics.png" alt="Geotronics Slovakia, s.r.o." />
             <span className="text-xs md:text-base text-center">Geotronics Slovakia, s.r.o.</span>
           </a>
+        
+          <a href="https://www.cbs.sk/" target="_blank" className="flex flex-col items-center justify-end mb-10">
+            <img className="h-16 md:h-28" src="images/geokarto2022/CBS.jpg" alt="CBS spol, s.r.o." />
+            <span className="text-xs md:text-base text-center">CBS spol, s.r.o.</span>
+          </a>
+          
+          <a href="https://www.vku-mapy.sk/" target="_blank" className="flex flex-col items-center justify-end mb-10">
+            <img className="h-16 md:h-28" src="images/geokarto2022/VKU.jpg" alt="VKÚ Harmanec, s.r.o." />
+            <span className="text-xs md:text-base text-center">VKÚ Harmanec, s.r.o.</span>
+          </a>
+          
+          <a href="https://www.muzeummap.sk/" target="_blank" className="flex flex-col items-center justify-end mb-10">
+            <img className="h-15 md:h-24" src="images/geokarto2022/SMM.png" alt="Slovenské múzeum máp" />
+            <span className="text-xs md:text-base text-center">Slovenské múzeum máp</span>
+          </a>
+          
+          
           
           
         </div>
