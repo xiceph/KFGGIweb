@@ -195,6 +195,11 @@ export default function GeoKarto( props ) {
             <img className="h-14 md:h-20" src="images/geokarto2022/Geotronics.png" alt="Geotronics Slovakia, s.r.o." />
             <span className="text-xs md:text-base text-center">Geotronics Slovakia, s.r.o.</span>
           </a>
+          
+          <a href="https://sk.3gon.eu/" target="_blank" className="flex flex-col items-center justify-end mb-10">
+            <img className="h-14 md:h-20" src="images/geokarto2022/3GON.jpg" alt="3gon Slovakia s.r.o." />
+            <span className="text-xs md:text-base text-center">3gon Slovakia s.r.o.</span>
+          </a>
         
           <a href="https://www.cbs.sk/" target="_blank" className="flex flex-col items-center justify-end mb-10">
             <img className="h-16 md:h-28" src="images/geokarto2022/CBS.jpg" alt="CBS spol, s.r.o." />
@@ -211,8 +216,7 @@ export default function GeoKarto( props ) {
             <span className="text-xs md:text-base text-center">Slovenské múzeum máp</span>
           </a>
           
-          
-          
+         
           
         </div>
         
