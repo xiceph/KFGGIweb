@@ -191,6 +191,11 @@ export default function GeoKarto( props ) {
             <span className="text-xs md:text-base text-center">Kedros, a.s.</span>
           </a>
           
+          <a href="https://www.x3d.sk/" target="_blank" className="flex flex-col items-center justify-end mb-10">
+            <img className="h-14 md:h-20" src="images/geokarto2022/3Dexpert.jpg" alt="Expert_for_3D_Landscape spol. s r.o." />
+            <span className="text-xs md:text-base text-center">Expert_for_3D_Landscape spol. s r.o.</span>
+          </a>
+          
           <a href="https://geotronics.sk/" target="_blank" className="flex flex-col items-center justify-end mb-10">
             <img className="h-14 md:h-20" src="images/geokarto2022/Geotronics.png" alt="Geotronics Slovakia, s.r.o." />
             <span className="text-xs md:text-base text-center">Geotronics Slovakia, s.r.o.</span>
@@ -199,6 +204,11 @@ export default function GeoKarto( props ) {
           <a href="https://sk.3gon.eu/" target="_blank" className="flex flex-col items-center justify-end mb-10">
             <img className="h-14 md:h-20" src="images/geokarto2022/3GON.jpg" alt="3gon Slovakia s.r.o." />
             <span className="text-xs md:text-base text-center">3gon Slovakia s.r.o.</span>
+          </a>
+          
+          <a href="https://www.gku.sk/gku/" target="_blank" className="flex flex-col items-center justify-end mb-10">
+            <img className="h-15 md:h-24" src="images/geokarto2022/GKU.png" alt="Geodetický a kartografický ústav" />
+            <span className="text-xs md:text-base text-center">Geodetický a kartografický ústav</span>
           </a>
         
           <a href="https://www.cbs.sk/" target="_blank" className="flex flex-col items-center justify-end mb-10">
