@@ -73,7 +73,7 @@ export default function GeoKarto( props ) {
         <li>Vzdelávanie a prax</li>
       </ol>
 
-        <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Predbežný program</h3>
+        <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Program konferencie</h3>
       {/*
         <h5>8. 9. 2022 – štvrtok</h5>
         <table><tbody>
