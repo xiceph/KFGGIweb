@@ -99,9 +99,9 @@ export default function GeoKarto( props ) {
           <tr><td>15:30 – 16:00</td><td>ukončenie konferencie</td></tr>
         </tbody></table>*/}
         <p>
-          <a href="docs/geokarto2022/PredProgGeoKARTO2022.pdf" target="_blank" className="-ml-1">
+          <a href="docs/geokarto2022/ProgGeoKARTO2022.pdf" target="_blank" className="-ml-1">
             <button className="bg-k-gray px-5 py-2 rounded-info text-base text-white justify-self-end hover:shadow-md">
-              Predbežný program konferencie [.pdf]
+              Program konferencie [.pdf]
             </button>
           </a>
         </p>
@@ -111,7 +111,12 @@ export default function GeoKarto( props ) {
         
         <p>Konferencia sa bude konať prezenčnou formou.</p>
         
-        <h4> Účastnícky poplatok</h4>
+        <h4>Miesto konania</h4>
+        <p className="align-middle">
+          <a href="https://zbgis.skgeodesy.sk/mkzbgis/c/PFXX4" target="_blank" className="-ml-1">Mapa miesta konferencie</a> <img src="images/geokarto2022/QRmapa.png" />
+        </p>
+        
+        <h4>Účastnícky poplatok</h4>
         
         <table className="center left1"><tbody>
           <tr><th></th><th>do 31. 8. 2022</th><th>na mieste</th></tr>
