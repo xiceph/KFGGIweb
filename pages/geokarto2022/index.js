@@ -235,7 +235,7 @@ export default function GeoKarto( props ) {
           
         </div>
         
-        <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Mediálny partneri</h3>
+        <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Mediálni partneri</h3>
         
         <div className="flex flex-row items-stretch justify-around space-x-3 md:space-x-4 py-4">
           <a href="https://amavet962.org/" target="_blank" className="flex flex-col items-center justify-end">
