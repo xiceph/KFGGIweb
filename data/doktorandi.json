@@ -1,5 +1,27 @@
 [
   {
+    "id": 9999004,
+    "name": "Mgr. Veronika Beranová",
+    "short": "V Beranová",
+    "email": ["veronika.orsulova"],
+    "tel": "+421 2 9014 9265",
+    "room": "B1-455",
+    "year": "",
+    "pubid": 1096402,
+    "info": "Vo výskume sa zameriava na využívanie geoekologických podkladov v precíznom poľnohospodárstve; primárne sa venuje meraniam a analýzam mikroklimatických pomerov, distribúcie hmyzích škodcov a pôdnych vlastností vo vinohradoch. V rámci pedagogickej činnosti sa podieľa na výuke predmetov Geoekológia, Fyzická geografia 3 a Metódy pedogeografického výskumu."
+  },
+  {
+    "id": 9999009,
+    "name": "Mgr. Samuel Ferencei",
+    "short": "S Ferencei",
+    "email": ["ferencei2"],
+    "tel": "+421 2 9014 9250",
+    "room": "B1-446",
+    "year": "",
+    "pubid": "",
+    "info": ""
+  },
+  {
     "id": 9999002,
     "name": "Mgr. Romana Kohilová",
     "short": "R Kohilová",
@@ -20,17 +42,6 @@
     "year": 2020,
     "pubid": 1163533,
     "info": "Venuje sa problematike mapovania a modelovania pôdneho organického uhlíka, taktiež zmenám krajinnej pokrývky a historickým štruktúram poľnohospodárskej krajiny. Podieľa sa na výučbe predmetov súvisiacich s geografickými informačnými systémami (GIS), databázami a počítačovou kartografiou."
-  },
-  {
-    "id": 9999004,
-    "name": "Mgr. Veronika Oršulová",
-    "short": "V Oršulová",
-    "email": ["veronika.orsulova"],
-    "tel": "+421 2 9014 9265",
-    "room": "B1-455",
-    "year": "",
-    "pubid": 1096402,
-    "info": "Vo výskume sa zameriava na využívanie geoekologických podkladov v precíznom poľnohospodárstve; primárne sa venuje meraniam a analýzam mikroklimatických pomerov, distribúcie hmyzích škodcov a pôdnych vlastností vo vinohradoch. V rámci pedagogickej činnosti sa podieľa na výuke predmetov Geoekológia, Fyzická geografia 3 a Metódy pedogeografického výskumu."
   },
   {
     "id": 9999005,
@@ -75,5 +86,16 @@
     "year": "",
     "pubid": 1187029,
     "info": "Špecializuje sa na precízne poľnohospodárstvo a vinohradníctvo, zo zameraním na analýzu leteckých snímok pre potreby identifikácie viniča v prostredí GIS, taktiež sa zaoberá tvorbou 3D modelov pre potreby precízneho vinohradníctva."
+  },
+  {
+    "id": 9999010,
+    "name": "Mgr. Peter Zaujec",
+    "short": "P Zaujec",
+    "email": ["zaujec8"],
+    "tel": "+421 2 9014 9250",
+    "room": "B1-446",
+    "year": "",
+    "pubid": "",
+    "info": ""
   }
 ]
