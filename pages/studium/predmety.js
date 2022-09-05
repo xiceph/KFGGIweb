@@ -4,7 +4,7 @@ import Separator from "@components/separator";
 import { SchemaPredmety, LegendaPredmety } from "@components/schemaPredmety";
 
 function Predmety() {
-  const [sums, setSums] = useState({all: [23,22,25,17,16,14], b: 0})
+  const [sums, setSums] = useState({all: [22,22,25,17,16,14], b: 0})
   
 //   useEffect(() => {
 //     calcSums();
