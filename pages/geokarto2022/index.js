@@ -101,7 +101,7 @@ export default function GeoKarto( props ) {
         <p>
           <a href="docs/geokarto2022/ProgGeoKARTO2022p.pdf" target="_blank" className="-ml-1">
             <button className="bg-k-gray px-5 py-2 rounded-info text-base text-white justify-self-end hover:shadow-md">
-              Program konferencie [.pdf]
+              Program konferencie a prezentácie [.pdf]
             </button>
           </a> 
         </p>
