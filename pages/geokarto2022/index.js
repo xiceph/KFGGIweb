@@ -99,12 +99,13 @@ export default function GeoKarto( props ) {
           <tr><td>15:30 – 16:00</td><td>ukončenie konferencie</td></tr>
         </tbody></table>*/}
         <p>
-          <a href="docs/geokarto2022/ProgGeoKARTO2022.pdf" target="_blank" className="-ml-1">
+          <a href="docs/geokarto2022/ProgGeoKARTO2022p.pdf" target="_blank" className="-ml-1">
             <button className="bg-k-gray px-5 py-2 rounded-info text-base text-white justify-self-end hover:shadow-md">
               Program konferencie [.pdf]
             </button>
-          </a> Dokument obsahuje odkazy na prezentácie autorov.
+          </a> 
         </p>
+        <p>Dokument obsahuje odkazy na prezentácie autorov.</p>
         
         
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Organizačné pokyny</h3>
