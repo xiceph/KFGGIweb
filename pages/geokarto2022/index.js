@@ -103,7 +103,7 @@ export default function GeoKarto( props ) {
             <button className="bg-k-gray px-5 py-2 rounded-info text-base text-white justify-self-end hover:shadow-md">
               Program konferencie [.pdf]
             </button>
-          </a>
+          </a> Dokument obsahuje odkazy na prezentácie autorov.
         </p>
         
         
