@@ -101,7 +101,7 @@ function IndexPage( props ) {
                  <div className="mb-2">Čas: 15:00 – 17:30 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
                  <div className="mb-2">Prednášajúci: <i>PaedDr. Ján Štubňa, PhD.</i></div>
                  <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/rar6" target="_blank">https://lnk.sk/rar6</a></div>
-                 <div className="mb-8"><a href="https://fns.uniba.sk/typo3temp/pics/2022-10-26-geovedy_adc028f25e.jpg" target="_blank">Plagát</a></div>
+                 <div className="mb-8"><a href="https://fns.uniba.sk/typo3temp/pics/2022-10-26-geovedy_bd4fd833fe.jpg" target="_blank">Plagát</a></div>
                </div>
                
              {/* <div className="mb-1.5"><Datum date={ new Date("2022-08-24") } _today={ new Date(props.today) }></Datum></div>
