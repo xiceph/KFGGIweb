@@ -173,7 +173,7 @@ export default function GeoKarto( props ) {
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 pt-2 md:pt-3 pb-1">Publikovanie príspevkov</h3>
         <p>Účastníci konferencie môžu prispieť do konferenčného zborníka abstraktom v rozsahu 1 normostrany. Odborní garanti konferencie odporučia vybrané príspevky na publikovanie vo vedeckom časopise Kartografické listy (Scopus).</p>
         <p>
-          <a href="docs/geokarto2022/ZbornikGeoKARTO2022.doc" target="_blank" className="-ml-1">
+          <a href="docs/geokarto2022/ZbornikGeoKARTO2022.pdf" target="_blank" className="-ml-1">
             <button className="bg-k-gray px-5 py-2 rounded-info text-base text-white justify-self-end hover:shadow-md">
               Zborník abstraktov [.pdf]
             </button>
