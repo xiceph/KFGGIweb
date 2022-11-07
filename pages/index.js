@@ -99,7 +99,7 @@ function IndexPage( props ) {
                <p className="font-bold mb-f2">Kritické a strategické nerastné suroviny</p>
                <div>
                  <div className="mb-2">Čas: 15:00 – 17:30 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
-                 <div className="mb-2">Prednášajúci: <i>PaedDr. Ján Štubňa, PhD.</i></div>
+                 <div className="mb-2">Prednášajúci: <i>prof. Mgr. Peter Koděra, PhD.</i></div>
                  <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/pzpw" target="_blank">https://lnk.sk/pzpw</a></div>
                  <div className="mb-8"><a href="https://fns.uniba.sk/uploads/pics/2022-11-23-geovedy_01.jpg" target="_blank">Plagát</a></div>
                </div>
