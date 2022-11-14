@@ -15,7 +15,7 @@ export default function Header( props ) {
   
   const logo = {
     sk: "images/bezLogoO.svg",
-    en: "images/navrhLogo2oEN.svg"
+    en: "images/bezLogoEN.svg"
   }
   const text = {
     sk: "Katedra fyzickej geografie a geoinformatiky",
@@ -24,7 +24,10 @@ export default function Header( props ) {
   const color = {
     katedra: 'brown',
     studium: 'green',
-    vyskum: 'blue'
+    vyskum: 'blue',
+    about: 'brown',
+    study: 'green',
+    research: 'blue'
   }
   
   return (

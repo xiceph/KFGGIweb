@@ -18,7 +18,10 @@ export default function Nav(props) {
   const color = {
     katedra: 'brown',
     studium: 'green',
-    vyskum: 'blue'
+    vyskum: 'blue',
+    about: 'brown',
+    study: 'green',
+    research: 'blue'
   }
   
   return (
