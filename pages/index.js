@@ -93,17 +93,17 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <p className="text-gray-600 italic">žiadne udalosti</p>
-              {/*<div className="mb-1.5"><Datum date={ new Date("2022-11-23") } today={ new Date(props.today) }></Datum></div>
+              {/*<p className="text-gray-600 italic">žiadne udalosti</p> */}
+              <div className="mb-1.5"><Datum date={ new Date("2022-12-14") } today={ new Date(props.today) }></Datum></div>
                <h5 className="font-bold mb-2">Prednáška</h5>
-               <p className="font-bold mb-f2">Kritické a strategické nerastné suroviny</p>
+               <p className="font-bold mb-f2">S geológom do Čiernej Hory cez Bosnu a Hercegovinu</p>
                <div>
                  <div className="mb-2">Čas: 15:00 – 17:30 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
-                 <div className="mb-2">Prednášajúci: <i>prof. Mgr. Peter Koděra, PhD.</i></div>
-                 <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/pzpw" target="_blank">https://lnk.sk/pzpw</a></div>
-                 <div className="mb-8"><a href="https://fns.uniba.sk/uploads/pics/2022-11-23-geovedy_01.jpg" target="_blank">Plagát</a></div>
+                 <div className="mb-2">Prednášajúci: <i>RNDr. Ján Madarás, PhD.</i></div>
+                 <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/jqak" target="_blank">https://lnk.sk/jqak</a></div>
+                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2022/2022-12-14-geovedy.jpg" target="_blank">Plagát</a></div>
                </div>
-               */}
+              
              {/* <div className="mb-1.5"><Datum date={ new Date("2022-08-24") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
               <div className="mb-8">Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>
