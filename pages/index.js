@@ -71,6 +71,12 @@ function IndexPage( props ) {
           <div className="divide-y divide-k-xl-gray">
           
             <div className="py-4 first:pt-0">
+              <h5 className="font-bold my-1">Geovedná exkurzia</h5>
+              <div className="mb-2">Katedra pripravuje geovednú exkurziu 2023 "Za geovednými fenoménmi Rakúska a SV Talianska" v čase 19. – 23. júna 2023 (5 dní)<br/>Viac informácií <a href="docs/geo2023.pdf" target="_blank">v pdf dokumente</a>.
+              </div>
+            </div>
+            
+            <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Smútočné oznámenie</h5>
               <div className="mb-2">Dňa 28.3.2022 nás navždy opustil <b>prof. RNDr. Jozef Krcho, DrSc.</b><br/>
                 Katedra fyzickej geografie a geoinformatiky vyjadruje hlbokú ľútosť nad odchodom vyznamnej osobnosti.<br/><a href="docs/Krcho_nekrolog_kratky.pdf" target="_blank">Krátky nekrológ</a>
@@ -83,10 +89,7 @@ function IndexPage( props ) {
                 Môžete si pozrieť <a href="https://youtu.be/aGd43lKvxzY" target="_blank">videozáznam <OpenExt /></a> alebo navštíviť našu <a href="https://hub.link/ycfVVzE" target="_blank">virtuálnu miestnosť <OpenExt /></a>.
               </div>
             </div>
-            <div className="py-4 first:pt-0">
-              <h5 className="font-bold my-1">Organizačná zmena</h5>
-              <div className="mb-2">Od 1.1.2021 sa zlúčila <a href="https://gis.fns.uniba.sk/" target="_blank">Katedra kartografie, geoinformatiky a diaľkového prieskumu Zeme</a> a <a href="https://fns.uniba.sk/kfg/" target="_blank">Katedra fyzickej geografie a geoekológie</a> pod jednu Katedru fyzickej geografie a geoinformatiky.</div>
-            </div>
+            
           </div>
         </div>
         <div>
@@ -94,14 +97,14 @@ function IndexPage( props ) {
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
               {/*<p className="text-gray-600 italic">žiadne udalosti</p> */}
-              <div className="mb-1.5"><Datum date={ new Date("2022-12-14") } today={ new Date(props.today) }></Datum></div>
+              <div className="mb-1.5"><Datum date={ new Date("2023-01-18") } today={ new Date(props.today) }></Datum></div>
                <h5 className="font-bold mb-2">Prednáška</h5>
-               <p className="font-bold mb-f2">S geológom do Čiernej Hory cez Bosnu a Hercegovinu</p>
+               <p className="font-bold mb-f2">Aktuálna ekovýchova v DAPHNE – inšpirácie, skúsenosti a výzvy</p>
                <div>
                  <div className="mb-2">Čas: 15:00 – 17:30 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
-                 <div className="mb-2">Prednášajúci: <i>RNDr. Ján Madarás, PhD.</i></div>
-                 <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/jqak" target="_blank">https://lnk.sk/jqak</a></div>
-                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2022/2022-12-14-geovedy.jpg" target="_blank">Plagát</a></div>
+                 <div className="mb-2">Prednášajúca: <i>Mgr. Jana Menkynová</i></div>
+                 <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/msys" target="_blank">https://lnk.sk/msys</a></div>
+                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2023/2023-01-18-geovedy.jpg" target="_blank">Plagát</a></div>
                </div>
               
              {/* <div className="mb-1.5"><Datum date={ new Date("2022-08-24") } _today={ new Date(props.today) }></Datum></div>
