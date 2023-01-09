@@ -72,7 +72,7 @@ function IndexPage( props ) {
           
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Geovedná exkurzia</h5>
-              <div className="mb-2">Katedra pripravuje geovednú exkurziu 2023 "Za geovednými fenoménmi Rakúska a SV Talianska" v čase 19. – 23. júna 2023 (5 dní)<br/>Viac informácií <a href="docs/geo2023.pdf" target="_blank">v pdf dokumente</a>.
+              <div className="mb-2">Katedra pripravuje geovednú exkurziu 2023 <b>Za geovednými fenoménmi Rakúska a SV Talianska</b> v čase 19. – 23. júna 2023 (5 dní)<br/>Viac informácií <a href="docs/geo2023.pdf" target="_blank">v pdf dokumente</a>.
               </div>
             </div>
             
