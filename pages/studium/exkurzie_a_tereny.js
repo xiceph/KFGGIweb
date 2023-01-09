@@ -9,8 +9,11 @@ function Exkurzie({ photos }) {
       
       <p>Podstatná časť nášho štúdia prebieha mimo prednáškových sál. Exkurzie umožňujú zažiť prednášané učivo na vlastnej koži - v rámci Slovenska aj za jeho hranicami. Terénne práce sú však už praktickým tréningom terénnych výskumných postupov.</p>
       
-      <h2>Geovedná exkurzia 2023</h2> 
+      <h3>Geovedná exkurzia 2023</h3> 
       <p><b>Za geovednými fenoménmi Rakúska a SV Talianska</b> 19. – 23. júna 2023 (5 dní)<br/>Viac informácií <a href="docs/geo2023.pdf" target="_blank">v pdf dokumente</a></p>
+      
+      <h3>Galéria</h3>
+      <p>Obrázky z predchádzajúcich exkurzií:</p>
       
       <Gallery photos={photos} />
     </article>
