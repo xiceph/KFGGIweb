@@ -33,26 +33,26 @@ export default function Statnice() {
         
         <h4>Povinné predmety</h4>
         <ol>
-          <li>Obhajoba diplomovej práce</li><li>Metódy fyzickogeografického výskumu  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/mgr/ss_metodyfgv.pdf" target="_blank">okruhy [pdf]</a> </li>
-          <li>Geoekológia  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/mgr/ss_geoekologia.pdf" target="_blank">okruhy [pdf]</a></li>
-          <li>Krajinné plánovanie  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/mgr/ss_krajplan.pdf" target="_blank">otázky [pdf]</a></li>
-          <li>Geodézia a kartografia  <a href="docs/ss_GK.pdf" target="_blank">otázky [pdf]</a></li>
-          <li>Geoinformatika a diaľkový prieskum Zeme  <a href="docs/ss_GIDPZ.pdf" target="_blank">otázky [pdf]</a></li>
+          <li>Obhajoba diplomovej práce</li>
+          <li>Digitálna analýza a modelovanie krajiny  <a href="docs/ss_DAMK.pdf" target="_blank">otázky [pdf]</a> </li>
+          <li>Fyzická geografia (<span className="text-k-brown italic">pre zameranie Fyzická geografia</span>)  <a href="docs/ss_FG.pdf" target="_blank">okruhy [pdf]</a> </li>
+          <li>Geoinformatika (<span className="text-k-brown italic">pre zameranie Geoinformatika</span>)  </li>
         </ol>
         
         <h4>Povinne voliteľné predmety</h4>
         <ol>
-          <li>Geomorfológia a litogeografia  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/mgr/ss_geom_a_lito.pdf" target="_blank">otázky [pdf]</a> </li>
-          <li>Hydrogeografia, meteorológia a klimatológia  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/mgr/ss_hydro_met_a_klim.pdf" target="_blank">otázky [pdf]</a></li>
-          <li>Pedogeografia a biogeografia  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/mgr/ss_pedo_a_bio.pdf" target="_blank">otázky [pdf]</a></li>
-          <li>Geografická báza údajov  <a href="docs/ss_GBU.pdf" target="_blank">otázky [pdf]</a></li>
-          <li>Fotogrametria  <a href="docs/ss_FG.pdf" target="_blank">otázky [pdf]</a></li>
-          <li>Komplexný digitálny model reliéfu  <a href="docs/ss_KDMR.pdf" target="_blank">otázky [pdf]</a></li>
+          <li>Analýzy, algoritmy a programovanie v GIS  <a href="docs/ss_AAP.pdf" target="_blank">otázky [pdf]</a></li>
+          <li>Fotogrametria  </li>
+          <li>Geografická báza údajov  </li>
+          <li>Geomorfológia a litogeografia  <a href="docs/ss_GL.pdf" target="_blank">otázky [pdf]</a></li>
+          <li>Hydrogeografia, meteorológia a klimatológia  <a href="docs/ss_HMK.pdf" target="_blank">otázky [pdf]</a></li>
+          <li>Mapový jazyk  </li>
+          <li>Pedogeografia a biogeografia  <a href="docs/ss_PB.pdf" target="_blank">otázky [pdf]</a></li>
         </ol>
         <Separator size="sm" position="left" />
         <div className="mb-10 md:mb-12">
           <div className="font-bold">Poznámky</div>
-          <p className="text-ext">(1) Povinné je <b>obhájenie diplomovej práce</b> a vykonanie <b>skúšok z troch predmetov</b>, pričom študent si vyberá <b>dva</b> zo skupiny povinných predmetov, a to buď z množiny predmetov 2., 3. a 4., alebo 5. a 6., a <b>jeden</b> zo skupiny povinne voliteľných predmetov, a to buď z množiny predmetov 1., 2. a 3. alebo 4., 5. a 6.</p>
+          <p className="text-ext">(1) Povinné je <b>obhájenie diplomovej práce</b> a vykonanie <b>skúšok z troch predmetov</b>, pričom študent si vyberá <b>dva</b> zo skupiny povinných predmetov a <b>jeden</b> zo skupiny povinne voliteľných predmetov.</p>
           <p className="text-ext">(2) Súčasťou obhajoby diplomovej práce je jej <b>prezentácia v trvaní 15 minút</b>.</p>
         </div>
         
