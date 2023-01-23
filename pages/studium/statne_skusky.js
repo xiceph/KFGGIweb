@@ -52,7 +52,7 @@ export default function Statnice() {
         <Separator size="sm" position="left" />
         <div className="mb-10 md:mb-12">
           <div className="font-bold">Poznámky</div>
-          <p className="text-ext">(1) Povinné je <b>obhájenie diplomovej práce</b> a vykonanie <b>skúšok z troch predmetov</b>, pričom študent si vyberá <b>dva</b> zo skupiny povinných predmetov a <b>jeden</b> zo skupiny povinne voliteľných predmetov.</p>
+          <p className="text-ext">(1) Povinné je <b>obhájenie diplomovej práce</b> a vykonanie <b>skúšok z troch predmetov</b>, pričom študent si vyberá v skupine povinných predmetov predmet 3 alebo 4 podľa absolvovaného zamerania a jeden ďalší zo skupiny povinne voliteľných predmetov.</p>
           <p className="text-ext">(2) Súčasťou obhajoby diplomovej práce je jej <b>prezentácia v trvaní 15 minút</b>.</p>
         </div>
         
