@@ -86,7 +86,7 @@ function ZaverecnePrace({ data }) {
         </dl>
         <p>Ďalšie témy tohto študijného programu s vedením na Geografickom ústav SAV prezentuje ich <a href="http://www.geography.sav.sk/o-nas/doktorandske-studium/" target="_blank">stránka k doktorandskému štúdiu <OpenExt /></a>.</p>
         <Separator />
-        <p><a href="https://fns.uniba.sk/studium/doktorandi/prijimacie-konanie/temy-dizertacnych-prac-pre-prijimacie-konanie/" target="_blank" >Základné informácie a témy dizertačných prác <OpenExt /></a> – vo všetkých programoch, o ktoré sa možno uchádzať v rámci prijímacieho konania na doktorandské štúdium pre akademický rok 2022/2023 na Prírodovedeckej fakulte UK.</p>
+        <p><a href="https://fns.uniba.sk/studium/doktorandi/prijimacie-konanie/" target="_blank" >Základné informácie a témy dizertačných prác <OpenExt /></a> – vo všetkých programoch, o ktoré sa možno uchádzať v rámci prijímacieho konania na doktorandské štúdium na Prírodovedeckej fakulte UK.</p>
       </Contents>
     </section>
   );
