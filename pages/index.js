@@ -75,6 +75,12 @@ function IndexPage( props ) {
               <div className="mb-2">Katedra pripravuje geovednú exkurziu 2023 – <b>Za geovednými fenoménmi Rakúska a SV Talianska</b> v čase 19. – 23. júna 2023 (5 dní)<br/>Viac informácií <a href="docs/geo2023.pdf" target="_blank">v pdf dokumente</a>.
               </div>
             </div>
+
+            <div className="py-4 first:pt-0">
+              <h5 className="font-bold my-1">Ponuka Univerzity Karlovy</h5>
+              <div className="mb-2">Ponuka PhD štúdia Přírodovědecké fakulty Univerzity Karlovy<br/>Viac informácií <a href="docs/KFGG-UK_PhD_temata_2023.pdf" target="_blank">v pdf dokumente</a>.
+              </div>
+            </div>
             
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Smútočné oznámenie</h5>
@@ -83,12 +89,12 @@ function IndexPage( props ) {
               </div>
             </div>
           
-            <div className="py-4 first:pt-0">
+          {/*<div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Deň otvorených dverí 2022</h5>
               <div className="mb-2">DOD PriF UK 2022 prebehol 11.2.2022 online formou.<br/>
                 Môžete si pozrieť <a href="https://youtu.be/aGd43lKvxzY" target="_blank">videozáznam <OpenExt /></a> alebo navštíviť našu <a href="https://hub.link/ycfVVzE" target="_blank">virtuálnu miestnosť <OpenExt /></a>.
               </div>
-            </div>
+            </div>*/}
             
           </div>
         </div>
