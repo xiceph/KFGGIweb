@@ -36,17 +36,17 @@ export default function Statnice() {
           <li>Obhajoba diplomovej práce</li>
           <li>Digitálna analýza a modelovanie krajiny  <a href="docs/ss_DAMK.pdf" target="_blank">otázky [pdf]</a> </li>
           <li>Fyzická geografia (<span className="text-k-brown italic">pre zameranie Fyzická geografia</span>)  <a href="docs/ss_FG.pdf" target="_blank">okruhy [pdf]</a> </li>
-          <li>Geoinformatika (<span className="text-k-brown italic">pre zameranie Geoinformatika</span>)  </li>
+          <li>Geoinformatika (<span className="text-k-brown italic">pre zameranie Geoinformatika</span>)  <a href="docs/ss_GIS.pdf" target="_blank">otázky [pdf]</a></li>
         </ol>
         
         <h4>Povinne voliteľné predmety</h4>
         <ol>
           <li>Analýzy, algoritmy a programovanie v GIS  <a href="docs/ss_AAP.pdf" target="_blank">otázky [pdf]</a></li>
-          <li>Fotogrametria  </li>
-          <li>Geografická báza údajov  </li>
+          <li>Fotogrametria  <a href="docs/ss_F.pdf" target="_blank">otázky [pdf]</a></li>
+          <li>Geografická báza údajov  <a href="docs/ss_GBU.pdf" target="_blank">otázky [pdf]</a></li>
           <li>Geomorfológia a litogeografia  <a href="docs/ss_GL.pdf" target="_blank">otázky [pdf]</a></li>
           <li>Hydrogeografia, meteorológia a klimatológia  <a href="docs/ss_HMK.pdf" target="_blank">otázky [pdf]</a></li>
-          <li>Mapový jazyk  </li>
+          <li>Mapový jazyk  <a href="docs/ss_MJ.pdf" target="_blank">otázky [pdf]</a></li>
           <li>Pedogeografia a biogeografia  <a href="docs/ss_PB.pdf" target="_blank">otázky [pdf]</a></li>
         </ol>
         <Separator size="sm" position="left" />
