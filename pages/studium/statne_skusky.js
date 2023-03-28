@@ -9,9 +9,10 @@ export default function Statnice() {
       <Contents levels={1} >
         <h3 className="border-l-3 md:border-l-4 border-k-brown pl-3 md:pl-5 py-2 md:py-3">Bakalárske študijné programy</h3>
         
-        <h4>Termíny 2021/22</h4>
-        <p>Obhajoba bakalárskej práce ZEP:  15. 6. 2022 (<a href="docs/HarmonogramFYZBc2022.pdf" target="_blank">harmonogram [pdf]</a>), 24. 8. 2022.</p>
-        <p>Obhajoba bakalárskej práce ZKI:  16. 6. 2022, 24. 8. 2022.{/*22. 6. 2021 (<a href="docs/ObhajobyBc2021.pdf" target="_blank">harmonogram [pdf]</a>), 24. 8. 2021 (<a href="docs/Obhajoby2021aug.pdf" target="_blank">harmonogram [pdf]</a>).*/}</p>
+        <h4>Termín 2022/23</h4>
+        <p>Obhajoba bakalárskej práce:  15. 6. 2023</p>
+        {/*<p>Obhajoba bakalárskej práce ZEP:  15. 6. 2022 (<a href="docs/HarmonogramFYZBc2022.pdf" target="_blank">harmonogram [pdf]</a>), 24. 8. 2022.</p>
+        <p>Obhajoba bakalárskej práce ZKI:  16. 6. 2022, 24. 8. 2022.*/}{/*22. 6. 2021 (<a href="docs/ObhajobyBc2021.pdf" target="_blank">harmonogram [pdf]</a>), 24. 8. 2021 (<a href="docs/Obhajoby2021aug.pdf" target="_blank">harmonogram [pdf]</a>).*/}
         
         <h4>Povinné predmety</h4>
         <ol>
@@ -21,14 +22,14 @@ export default function Statnice() {
         <div className="mb-10 md:mb-12">
           <div className="font-bold">Poznámky</div>
           <p className="text-ext">(1) Štátna skúška pozostáva z obhajoby bakalárskej práce. </p>
-          <p className="text-ext">(2) Súčasťou obhajoby bakalárskej práce je jej <b>prezentácia v trvaní 15 minút</b>.</p> 
+          <p className="text-ext">(2) Súčasťou obhajoby bakalárskej práce je jej <b>prezentácia v trvaní 10 – 15 minút</b>.</p>
         </div>
         
         <h3 className="border-l-3 md:border-l-4 border-k-green pl-3 md:pl-5 py-2 md:py-3">Magisterský študijný program</h3>
         
-        <h4>Termíny 2021/22</h4>
-        <p>mZ-FI/FYZ:  24. a 25. 5. 2022 (<a href="docs/HarmonogramFYZMgr2022.pdf" target="_blank" >harmonogram [pdf]</a>)</p>
-        <p>mZ-FI/GIS:  8. 6. 2022{/*3. 6. 2021 obhajoba diplomovej práce (<a href="docs/ObhajobyMgr2021.pdf" target="_blank">harmonogram [pdf]</a>), 10. 6. 2021 ústna skúška (<a href="docs/UstneSkuskyMgr2021.pdf" target="_blank">harmonogram [pdf]</a>), 24. 8. 2021 obhajoba diplomovej práce (<a href="docs/Obhajoby2021aug.pdf" target="_blank">harmonogram [pdf]</a>).*/}</p>
+        <h4>Termíny 2022/23</h4>
+        <p>mZ-FI/FYZ:  7. a 8. 6. 2023 {/*(<a href="docs/HarmonogramFYZMgr2022.pdf" target="_blank" >harmonogram [pdf]</a>)*/}</p>
+        <p>mZ-FI/GIS:  5. a 6. 6. 2023 {/*3. 6. 2021 obhajoba diplomovej práce (<a href="docs/ObhajobyMgr2021.pdf" target="_blank">harmonogram [pdf]</a>), 10. 6. 2021 ústna skúška (<a href="docs/UstneSkuskyMgr2021.pdf" target="_blank">harmonogram [pdf]</a>), 24. 8. 2021 obhajoba diplomovej práce (<a href="docs/Obhajoby2021aug.pdf" target="_blank">harmonogram [pdf]</a>).*/}</p>
 
         
         <h4>Povinné predmety</h4>
