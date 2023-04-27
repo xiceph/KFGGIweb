@@ -35,8 +35,8 @@ export default function Studovat() {
       
       <Separator />
       <p>Ak máte záujem o štúdium u nás, podaním prihlášky Vás prevedie stránka <a href="https://uniba.sk/prihlaska/" target="_blank">https://uniba.sk/prihlaska/</a></p>
-      <Separator />
-      <p>Kontaktnou osobou pre rigorózne štúdium (RNDr.) z katedry je <a href="katedra/zamestnanci/M Trizna">doc. RNDr. Milan Trizna, PhD.</a></p>
+      {/*<Separator />
+      <p>Kontaktnou osobou pre rigorózne štúdium (RNDr.) z katedry je <a href="katedra/zamestnanci/M Trizna">doc. RNDr. Milan Trizna, PhD.</a></p>*/}
       
       
     </section>
