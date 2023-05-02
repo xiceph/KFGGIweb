@@ -103,18 +103,18 @@ function IndexPage( props ) {
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
               {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
-              {/*}<div className="mb-1.5"><Datum date={ new Date("2023-04-19") } today={ new Date(props.today) }></Datum></div>
-               <h5 className="font-bold mb-2">Prednáška</h5>
-               <p className="font-bold mb-f1">Plesá ako svedkovia zmien tatranskej prírody</p>
-               {<p className="font-bold mb-f2 mt-f0">Putovanie Nepálom</p>}
-               <div>
-                 <div className="mb-2">Čas: 15:00 – 17:30 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-AMOS</i> </div>
-                 <div className="mb-2">Prednášajúci: <i>Dr. Radovan Kyška-Pipík, PhD.</i></div>
-                 <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/alde" target="_blank">https://lnk.sk/alde</a></div>
-                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2023/2023-04-19-geovedy.jpg" target="_blank">Plagát</a></div>
-               </div>*/}
+              <div className="mb-1.5"><Datum date={ new Date("2023-05-31") } today={ new Date(props.today) }></Datum></div>
+              <h5 className="font-bold mb-2">Prednášky</h5>
+              <p className="font-bold mb-f1">Záhada predĺžených lebiek</p>
+              <p className="font-bold mb-f2 mt-f0">Pripravované zmeny kurikula a podpora výučby geológie na ZŠ a SŠ</p>
+              <div>
+                <div className="mb-2">Čas: 15:00 – 17:30 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-AMOS</i> </div>
+                <div className="mb-2">Prednášajúci: <i>RNDr. Michaela Dörnhöferová, PhD.</i>, <i>prof. Mgr. Natália Hlavatá Hudáčková, PhD.</i></div>
+                <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/mx18" target="_blank">https://lnk.sk/mx18</a></div>
+                <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2023/2023-05-31-geovedy.jpg" target="_blank">Plagát</a></div>
+              </div>
               
-             <div className="mb-1.5"><Datum date={ new Date("2023-06-05") } _today={ new Date(props.today) }></Datum></div>
+              <div className="mb-1.5"><Datum date={ new Date("2023-06-05") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
               <div className="mb-8">Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>
               {/*
