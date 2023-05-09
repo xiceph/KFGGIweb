@@ -9,7 +9,7 @@ import { OpenExt } from "@components/icons";
 function ZaverecnePrace({ data }) {
   return (
     <section>
-      <h1>Záverečné práce – ponuka tém pre akad. rok 2022/23</h1>
+      <h1>Záverečné práce – ponuka tém pre akad. rok 2023/24</h1>
       <Contents levels={2} >
         <h3 className="border-l-3 md:border-l-4 border-k-brown pl-3 md:pl-5 py-2 md:py-3" >Pre bakalárske študijné programy</h3>
         <h4>Geografia, kartografia a geoinformatika</h4>

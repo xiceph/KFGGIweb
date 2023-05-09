@@ -15,6 +15,17 @@ export default function Projekty() {
       </div>
       <div className="divide-y divide-k-xl-gray">
         <div className="flex flex-col-reverse py-3">
+          <div>01.01.2023 – 31.12.2026  VEGA  1/0217/23 </div>
+          <div className="mt-1.5">doc. RNDr. Vladimír <b>Falťan</b>, PhD.</div>
+          <div className="text-k-d-brown"><a href="https://fns.uniba.sk/moderne" target="_blank" >Moderné metódy a aktuálne zdroje dát pri detailnom výskume priestorovej štruktúry krajiny <OpenExt /></a></div>
+        </div>
+        <div className="flex flex-col-reverse py-3">
+          <div>01.01.2023 – 31.12.2025  VEGA  1/0245/23 </div>
+          <div className="mt-1.5">doc. Ing. Peter <b>Pišút</b>, PhD.</div>
+          <div className="text-k-d-brown"><a href="https://fns.uniba.sk/holocenne" target="_blank" >Holocénne zmeny riečnych systémov v interakcii s vývojom osídlenia a aktivít človeka <OpenExt /></a></div>
+        </div>
+
+        <div className="flex flex-col-reverse py-3">
           <div>01.01.2021 – 31.12.2023  KEGA  065UK-4/2021</div>
           <div className="mt-1.5">RNDr. Ivan <b>Ružek</b>, PhD.</div>
           <div className="text-k-d-brown"><a href="https://fns.uniba.sk/geovzdelavanie" target="_blank" >Podpora geovedného vzdelávania prostredníctvom náučných chodníkov <OpenExt /></a></div>
