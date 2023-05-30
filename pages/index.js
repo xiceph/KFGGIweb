@@ -134,7 +134,7 @@ function IndexPage( props ) {
               
               
               
-              <div className="mb-1.5"><Datum date={ new Date("2023-06-15") } _today={ new Date(props.today) }></Datum></div>
+              <div className="mb-1.5"><Datum date={ new Date("2023-06-14") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
               <div>Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>
             </div>
