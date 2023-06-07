@@ -15,6 +15,11 @@ export default function Projekty() {
       </div>
       <div className="divide-y divide-k-xl-gray">
         <div className="flex flex-col-reverse py-3">
+          <div>01.07.2023 – 30.06.2027  APVV  APVV-22-0024</div>
+          <div className="mt-1.5">prof. RNDr. Jozef <b>Minár</b>, CSc.</div>
+          <div className="text-k-d-brown"><a href="https://fns.uniba.sk/fyzikalna" target="_blank" >Fyzikálna geomorfometria pre fyzickogeografický výskum <OpenExt /></a></div>
+        </div>
+        <div className="flex flex-col-reverse py-3">
           <div>01.01.2023 – 31.12.2026  VEGA  1/0217/23 </div>
           <div className="mt-1.5">doc. RNDr. Vladimír <b>Falťan</b>, PhD.</div>
           <div className="text-k-d-brown"><a href="https://fns.uniba.sk/moderne" target="_blank" >Moderné metódy a aktuálne zdroje dát pri detailnom výskume priestorovej štruktúry krajiny <OpenExt /></a></div>
