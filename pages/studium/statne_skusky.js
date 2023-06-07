@@ -11,7 +11,7 @@ export default function Statnice() {
         
         <h4>Termín 2022/23</h4>
         <p>Obhajoba bakalárskej práce ZKI/FYZ: 15. 6. 2023 8:00 – 14:30 (<a href="docs/HarmonogramFYZBc2023.pdf" target="_blank">harmonogram [pdf]</a>)</p>
-        <p>Obhajoba bakalárskej práce ZKI + upGe/GIS: 14. 6. 2023 od 8:30</p>
+        <p>Obhajoba bakalárskej práce ZKI + upGe/GIS: 14. 6. 2023 od 8:30 (<a href="docs/HarmonogramGISBc2023.pdf" target="_blank">harmonogram [pdf]</a>)</p>
         {/*<p>Obhajoba bakalárskej práce ZEP:  15. 6. 2022 , 24. 8. 2022.</p>
         <p>Obhajoba bakalárskej práce ZKI:  16. 6. 2022, 24. 8. 2022.*/}{/*22. 6. 2021 (<a href="docs/ObhajobyBc2021.pdf" target="_blank">harmonogram [pdf]</a>), 24. 8. 2021 (<a href="docs/Obhajoby2021aug.pdf" target="_blank">harmonogram [pdf]</a>).*/}
         
