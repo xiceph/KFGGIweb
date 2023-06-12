@@ -120,9 +120,9 @@ function IndexPage( props ) {
                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2023/2023-05-31-geovedy.jpg" target="_blank">Plagát</a></div>
               </div>*/}
               
-              <div className="mb-1.5"><Datum date={ new Date("2023-06-07") } _today={ new Date(props.today) }></Datum></div>
+              {/*<div className="mb-1.5"><Datum date={ new Date("2023-06-07") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div className="mb-8">Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>
+              <div className="mb-8">Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>*/}
               {/*
               <div className="mb-1.5"><Datum date={ new Date("2022-09-08") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Konferencia GeoKARTO 2022</h5>
