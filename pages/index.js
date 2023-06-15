@@ -102,7 +102,7 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
+              <p className="text-gray-600 italic">žiadne udalosti</p>
               {/*<div className="mb-1.5"><Datum date={ new Date("2023-05-31") } today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-2">Prednášky</h5>
               <p className="font-bold mb-f1">Záhada predĺžených lebiek</p>
@@ -124,13 +124,13 @@ function IndexPage( props ) {
               
               <div className="mb-1.5"><Datum date={ new Date("2022-09-09") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Valné zhromaždenie SGS</h5>
-              <div className="mb-8">Valné zhromaždenie Slovenskej geografickej spoločnosti pri SAV bude v piatok 9. 9. 2022 od 12:00 v priestoroch Prírodovedeckej fakulty UK v Bratislave v aule (CH1-1). Súčasťou podujatia bude i pripomenutie si významných geografických výročí (tiež 70. výročie založenia katedry). <Link href="/docs/SGS2022Plagat.jpg"><a target="_blank">Plagát</a></Link></div>*/}
+              <div className="mb-8">Valné zhromaždenie Slovenskej geografickej spoločnosti pri SAV bude v piatok 9. 9. 2022 od 12:00 v priestoroch Prírodovedeckej fakulty UK v Bratislave v aule (CH1-1). Súčasťou podujatia bude i pripomenutie si významných geografických výročí (tiež 70. výročie založenia katedry). <Link href="/docs/SGS2022Plagat.jpg"><a target="_blank">Plagát</a></Link></div>
               
               
               
               <div className="mb-1.5"><Datum date={ new Date("2023-06-14") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div>Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>
+              <div>Na katedre budú prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>*/}
             </div>
           </div>
         </div>
