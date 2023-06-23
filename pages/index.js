@@ -75,7 +75,7 @@ function IndexPage( props ) {
               <div className="mb-2">Na stránke <Link href="/studium/zaverecne_prace"><a>záverečné práce</a></Link> je zverejnená ponuka tém pre akad. rok 2023/24.
               </div>
             </div>
-
+{/*
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Geovedná exkurzia</h5>
               <div className="mb-2">Katedra pripravuje geovednú exkurziu 2023 – <b>Za geovednými fenoménmi Rakúska a SV Talianska</b> v čase 19. – 23. júna 2023 (5 dní)<br/>Viac informácií <a href="docs/geo2023.pdf" target="_blank">v pdf dokumente</a>.
@@ -89,7 +89,7 @@ function IndexPage( props ) {
               </div>
             </div>
           
-          {/*<div className="py-4 first:pt-0">
+          <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Deň otvorených dverí 2022</h5>
               <div className="mb-2">DOD PriF UK 2022 prebehol 11.2.2022 online formou.<br/>
                 Môžete si pozrieť <a href="https://youtu.be/aGd43lKvxzY" target="_blank">videozáznam <OpenExt /></a> alebo navštíviť našu <a href="https://hub.link/ycfVVzE" target="_blank">virtuálnu miestnosť <OpenExt /></a>.
