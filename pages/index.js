@@ -116,7 +116,7 @@ function IndexPage( props ) {
               
               <div className="mb-1.5"><Datum date={ new Date("2023-08-23") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div className="mb-8">Na katedre budú prebiehať <Link href="/studium/statne_skusky"><a>štátne skúšky na bakalárskom a magisterskom študijnom programe</a></Link>.</div>
+              <div className="mb-8">Na katedre budú prebiehať <Link href="/studium/statne_skusky"><a>štátne skúšky na bakalárskom a magisterskom študijnom programe</a></Link>.</div>
               {/*
               <div className="mb-1.5"><Datum date={ new Date("2022-09-08") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Konferencia GeoKARTO 2022</h5>
