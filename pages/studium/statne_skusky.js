@@ -10,7 +10,7 @@ export default function Statnice() {
         <h3 className="border-l-3 md:border-l-4 border-k-brown pl-3 md:pl-5 py-2 md:py-3">Bakalárske študijné programy</h3>
         
         <h4>Termín 2022/23</h4>
-        <p>Obhajoba bakalárskej práce ZKI/FYZ: 15. 6. 2023 8:00 – 14:30 (<a href="docs/HarmonogramFYZBc2023.pdf" target="_blank">harmonogram [pdf]</a>)</p>
+        <p>Obhajoba bakalárskej práce ZKI/FYZ: 15. 6. 2023 8:00 – 14:30 (<a href="docs/HarmonogramFYZBc2023.pdf" target="_blank">harmonogram [pdf]</a>), 23. 8. 2023 9:00 (<a href="docs/HarmonogramFYZGIS2023A.pdf" target="_blank">harmonogram [pdf]</a>)</p>
         <p>Obhajoba bakalárskej práce ZKI + upGe/GIS: 14. 6. 2023 od 8:30 (<a href="docs/HarmonogramGISBc2023.pdf" target="_blank">harmonogram [pdf]</a>)</p>
         {/*<p>Obhajoba bakalárskej práce ZEP:  15. 6. 2022 , 24. 8. 2022.</p>
         <p>Obhajoba bakalárskej práce ZKI:  16. 6. 2022, 24. 8. 2022.*/}{/*22. 6. 2021 (<a href="docs/ObhajobyBc2021.pdf" target="_blank">harmonogram [pdf]</a>), 24. 8. 2021 (<a href="docs/Obhajoby2021aug.pdf" target="_blank">harmonogram [pdf]</a>).*/}
@@ -30,7 +30,7 @@ export default function Statnice() {
         
         <h4>Termíny 2022/23</h4>
         <p>mZ-FI/FYZ:  7. 6. 2023 8:30 – 12:00 obhajoby diplomových prác (<a href="docs/HarmonogramFYZMgr2023.pdf" target="_blank" >harmonogram [pdf]</a>), 8. 6. 2023 od 8:00 skúšky z predmetov {/*(<a href="docs/HarmonogramFYZMgr2022.pdf" target="_blank" >harmonogram [pdf]</a>)*/}</p>
-        <p>mZ-FI/GIS:  5. 6. 2023 od 8:00 (<a href="docs/HarmonogramGISMgr2023.pdf" target="_blank" >harmonogram [pdf]</a>){/*3. 6. 2021 obhajoba diplomovej práce (<a href="docs/ObhajobyMgr2021.pdf" target="_blank">harmonogram [pdf]</a>), 10. 6. 2021 ústna skúška (<a href="docs/UstneSkuskyMgr2021.pdf" target="_blank">harmonogram [pdf]</a>), 24. 8. 2021 obhajoba diplomovej práce (<a href="docs/Obhajoby2021aug.pdf" target="_blank">harmonogram [pdf]</a>).*/}</p>
+        <p>mZ-FI/GIS:  5. 6. 2023 od 8:00 (<a href="docs/HarmonogramGISMgr2023.pdf" target="_blank" >harmonogram [pdf]</a>), 23. 8. 2023 od 10:00 (<a href="docs/HarmonogramFYZGIS2023A.pdf" target="_blank">harmonogram [pdf]</a>){/*3. 6. 2021 obhajoba diplomovej práce (<a href="docs/ObhajobyMgr2021.pdf" target="_blank">harmonogram [pdf]</a>), 10. 6. 2021 ústna skúška (<a href="docs/UstneSkuskyMgr2021.pdf" target="_blank">harmonogram [pdf]</a>), 24. 8. 2021 obhajoba diplomovej práce (<a href="docs/Obhajoby2021aug.pdf" target="_blank">harmonogram [pdf]</a>).*/}</p>
 
         
         <h4>Povinné predmety</h4>
