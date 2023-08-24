@@ -112,11 +112,11 @@ function IndexPage( props ) {
                 <div className="mb-2">Prednášajúci: <i>RNDr. Michaela Dörnhöferová, PhD.</i>, <i>prof. Mgr. Natália Hlavatá Hudáčková, PhD.</i></div>
                 <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/mx18" target="_blank">https://lnk.sk/mx18</a></div>
                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2023/2023-05-31-geovedy.jpg" target="_blank">Plagát</a></div>
-              </div>*/}
-              
-              <div className="mb-1.5"><Datum date={ new Date("2023-08-23") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div className="mb-8">Na katedre budú prebiehať <Link href="/studium/statne_skusky"><a>štátne skúšky na bakalárskom a magisterskom študijnom programe</a></Link>.</div>
+              </div>
+              */}
+              <div className="mb-1.5"><Datum date={ new Date("2023-08-30") } _today={ new Date(props.today) }></Datum></div>
+              <h5 className="font-bold mb-1">Obhajoba dizertačnej práce</h5>
+              <div className="mb-8">Od 10:00 sa uskutoční obhajoba Mgr. Veroniky Beranovej. <a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2023/2023-05-31-geovedy.jpg" target="_blank">Detailný oznam</a>.</div>
               {/*
               <div className="mb-1.5"><Datum date={ new Date("2022-09-08") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Konferencia GeoKARTO 2022</h5>
