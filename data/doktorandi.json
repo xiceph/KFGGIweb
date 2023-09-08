@@ -11,15 +11,15 @@
     "info": "V mojej odbornej činnosti sa primárne venujem výskumu historickej krajiny, konkrétne rekonštrukcii využívania zeme počas historických období. Pri mojom výskume aplikujem syntézu historických a prírodovedných metód, v rámci nich sa zameriavam na výskum starých máp, DPZ, pedogeografiu, a paleoekológiu. V praxi sa zaoberám využitím GIS v manažmente krajiny/samosprávy."
   },
   {
-    "id": 9999002,
-    "name": "Mgr. Romana Kohilová",
-    "short": "R Kohilová",
-    "email": ["romana.kohilova"],
-    "tel": "+421 2 9014 9265",
-    "room": "B1-455",
-    "year": "",
-    "pubid": 1145238,
-    "info": "Venuje sa paleoekologickej rekonštrukcii aluviálnych pôd a antropicky ovplyvnených pôdnych sedimentov; primárne sa zameriava na rozbor tanatocenóz mäkkýšov a genézu pôd, taktiež na rekonštrukciu ľudskej ekumény a paleohydrologických pomerov. Podieľa sa na výuke predmetov Metódy pedogeografického výskumu a Základy pedológie a pedogeografie."
+    "id": 9999011,
+    "name": "Mgr. Veronika Hajdúchová",
+    "short": "V Hajdúchová",
+    "email": ["hajduchova18"],
+    "tel": "+421 2 9014 9396",
+    "room": "G-23",
+    "year": 2023,
+    "pubid": 1163533,
+    "info": ""
   },
   {
     "id": 9999003,
@@ -53,17 +53,6 @@
     "year": "",
     "pubid": 1173549,
     "info": ""
-  },
-  {
-    "id": 9999008,
-    "name": "Mgr. Adam Šupčík",
-    "short": "A Šupčík",
-    "email": ["adam.supcik"],
-    "tel": "+421 2 9014 2125",
-    "room": "B1-455",
-    "year": "",
-    "pubid": 1187029,
-    "info": "Špecializuje sa na precízne poľnohospodárstvo a vinohradníctvo, zo zameraním na analýzu leteckých snímok pre potreby identifikácie viniča v prostredí GIS, taktiež sa zaoberá tvorbou 3D modelov pre potreby precízneho vinohradníctva."
   },
   {
     "id": 9999010,

@@ -44,7 +44,7 @@
   },
   {
     "id": 9999004,
-    "name": "Mgr. Veronika Beranová",
+    "name": "Mgr. Veronika Beranová, PhD.",
     "short": "V Beranová",
     "position": "lektor",
     "email": ["veronika.orsulova"],
@@ -91,7 +91,7 @@
     "id": "14893",
     "name": "Mgr. Richard Feciskanin, Ph.D.",
     "short": "R Feciskanin",
-    "position": "vedecký zamestnanec",
+    "position": "odborný asistent",
     "tel": "+421 2 9014 9393",
     "room": "G-20",
     "email": ["richard.feciskanin"],
@@ -147,7 +147,7 @@
     "id": "14223",
     "name": "doc. RNDr. Eva Mičietová, CSc.",
     "short": "E Mičietová",
-    "position": "docent",
+    "position": "odborný asistent",
     "tel": "+421 2 9014 9286",
     "email": ["eva.micietova"],
     "room": "G-437",
@@ -189,6 +189,17 @@
     "info": ""
   },
   {
+    "id": "11301",
+    "name": "RNDr. Norbert Polčák, PhD.",
+    "short": "N Polčák",
+    "position": "odborný asistent",
+    "tel": "+421 2 9014 9259",
+    "room": "B1-457",
+    "email": ["norbert.polcak"],
+    "pubid": 1094242,
+    "info": ""
+  },
+  {
     "id": "14254",
     "name": "Mgr. Juraj Procházka, PhD.",
     "short": "J Procházka",
@@ -209,6 +220,18 @@
     "email": ["ivan.ruzek"],
     "pubid": 322133,
     "info": ""
+  },
+  {
+    "id": 9999008,
+    "name": "Mgr. Adam Šupčík",
+    "short": "A Šupčík",
+    "position": "lektor",
+    "email": ["adam.supcik"],
+    "tel": "+421 2 9014 2125",
+    "room": "B1-455",
+    "year": "",
+    "pubid": 1187029,
+    "info": "Špecializuje sa na precízne poľnohospodárstvo a vinohradníctvo, zo zameraním na analýzu leteckých snímok pre potreby identifikácie viniča v prostredí GIS, taktiež sa zaoberá tvorbou 3D modelov pre potreby precízneho vinohradníctva."
   },
   {
     "id": "14990",
