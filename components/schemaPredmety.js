@@ -584,42 +584,42 @@ export const SchemaPredmety = (props) => (
       <rect x="12.1" y="1312.1" onClick={handleVyber} className="vyber" width="28" height="53"/>
       <rect x="40.1" y="1312.1" onClick={handleList} className="linia st12" width="137.9" height="53"/>
       <text transform="matrix(1 0 0 1 62.8573 1344.188)" className="c">Telesná výchova 1</text>
-      <text transform="matrix(1 0 0 1 23.1585 1350.7084)" className="c kredity">1</text>
+      <text transform="matrix(1 0 0 1 23.1585 1350.7084)" className="c kredity">2</text>
       <text transform="matrix(1 0 0 1 21.9884 1334.1665)" className="c povinnost">C</text>
     </g>
     <g id="v2" className="predmet">
       <rect x="190.1" y="1312.1" onClick={handleVyber} className="vyber" width="28" height="53"/>
       <rect x="218.1" y="1312.1" onClick={handleList} className="linia st12" width="137.9" height="53"/>
       <text transform="matrix(1 0 0 1 240.8824 1344.1881)" className="c">Telesná výchova 2</text>
-      <text transform="matrix(1 0 0 1 201.1835 1350.7085)" className="c kredity">1</text>
+      <text transform="matrix(1 0 0 1 201.1835 1350.7085)" className="c kredity">2</text>
       <text transform="matrix(1 0 0 1 200.0134 1334.1665)" className="c povinnost">C</text>
     </g>
     <g id="v3" className="predmet">
       <rect x="368.1" y="1312.1" onClick={handleVyber} className="vyber" width="28" height="53"/>
       <rect x="396.1" y="1312.1" onClick={handleList} className="linia st12" width="137.9" height="53"/>
       <text transform="matrix(1 0 0 1 418.9073 1344.188)" className="c">Telesná výchova 3</text>
-      <text transform="matrix(1 0 0 1 379.2086 1350.7084)" className="c kredity">1</text>
+      <text transform="matrix(1 0 0 1 379.2086 1350.7084)" className="c kredity">2</text>
       <text transform="matrix(1 0 0 1 378.0385 1334.1665)" className="c povinnost">C</text>
     </g>
     <g id="v4" className="predmet">
       <rect x="546.1" y="1312.1" onClick={handleVyber} className="vyber" width="28" height="53"/>
       <rect x="574.1" y="1312.1" onClick={handleList} className="linia st12" width="137.9" height="53"/>
       <text transform="matrix(1 0 0 1 596.9324 1344.1881)" className="c">Telesná výchova 4</text>
-      <text transform="matrix(1 0 0 1 557.2335 1350.7085)" className="c kredity">1</text>
+      <text transform="matrix(1 0 0 1 557.2335 1350.7085)" className="c kredity">2</text>
       <text transform="matrix(1 0 0 1 556.0634 1334.1665)" className="c povinnost">C</text>
     </g>
     <g id="v5" className="predmet">
       <rect x="724.2" y="1312.2" onClick={handleVyber} className="vyber" width="28" height="53"/>
       <rect x="752.2" y="1312.2" onClick={handleList} className="linia st12" width="137.9" height="53"/>
       <text transform="matrix(1 0 0 1 774.9573 1344.2504)" className="c">Telesná výchova 5</text>
-      <text transform="matrix(1 0 0 1 735.2584 1350.7708)" className="c kredity">1</text>
+      <text transform="matrix(1 0 0 1 735.2584 1350.7708)" className="c kredity">2</text>
       <text transform="matrix(1 0 0 1 734.0884 1334.2288)" className="c povinnost">C</text>
     </g>
     <g id="v6" className="predmet">
       <rect x="902.2" y="1312.2" onClick={handleVyber} className="vyber" width="28" height="53"/>
       <rect x="930.2" y="1312.2" onClick={handleList} className="linia st12" width="137.9" height="53"/>
       <text transform="matrix(1 0 0 1 952.9823 1344.2505)" className="c">Telesná výchova 6</text>
-      <text transform="matrix(1 0 0 1 913.2834 1350.7708)" className="c kredity">1</text>
+      <text transform="matrix(1 0 0 1 913.2834 1350.7708)" className="c kredity">2</text>
       <text transform="matrix(1 0 0 1 912.1134 1334.2289)" className="c povinnost">C</text>
     </g>
     <g id="w6" className="predmet on">
