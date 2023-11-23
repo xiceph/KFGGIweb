@@ -104,17 +104,17 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
-              <div className="mb-1.5"><Datum date={ new Date("2023-11-22") } today={ new Date(props.today) }></Datum></div>
+              <p className="text-gray-600 italic">žiadne udalosti</p>
+              {/*<div className="mb-1.5"><Datum date={ new Date("2023-11-22") } today={ new Date(props.today) }></Datum></div>
                 <h5 className="font-bold mb-2">Prednáška</h5>
                 <p className="font-bold mb-f1">Zemetrasenie na východnom Slovensku 9. októbra 2023. Môžeme sa cítiť bezpečne?</p>
-                {/*<p className="font-bold mb-f2 mt-f0">Pripravované zmeny kurikula a podpora výučby geológie na ZŠ a SŠ</p>*/}
+                {*<p className="font-bold mb-f2 mt-f0">Pripravované zmeny kurikula a podpora výučby geológie na ZŠ a SŠ</p>*}
               <div>
                 <div className="mb-2">Čas: 15:00 – 17:00 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
                 <div className="mb-2">Prednášajúci: <i>RNDr. Ján Madarás, PhD.</i></div>
                 <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/fqxu" target="_blank">https://lnk.sk/fqxu</a></div>
                 <div className="mb-8"><a href="/docs/KUG_112023.pdf" target="_blank">Plagát</a></div>
-              </div>
+              </div>*/}
 
               {/*}<div className="mb-1.5"><Datum date={ new Date("2023-08-30") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Obhajoba dizertačnej práce</h5>
