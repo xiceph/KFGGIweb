@@ -25,7 +25,7 @@
     "id": "20508",
     "name": "Viera Bartovicová",
     "short": "V Bartovicová",
-    "position": "technik",
+    "position": "sekretárka",
     "tel": "+421 2 9014 9380",
     "email": ["viera.bartovicova"],
     "room": "CH1-B1-1",
@@ -221,16 +221,6 @@
     "year": "",
     "pubid": 1187029,
     "info": "Špecializuje sa na precízne poľnohospodárstvo a vinohradníctvo, zo zameraním na analýzu leteckých snímok pre potreby identifikácie viniča v prostredí GIS, taktiež sa zaoberá tvorbou 3D modelov pre potreby precízneho vinohradníctva."
-  },
-  {
-    "id": "14990",
-    "name": "Jozef Zaťko",
-    "short": "J Zaťko",
-    "position": "technik", 
-    "tel": "+421 2 9014 9260",
-    "room": "B1-451",
-    "email": [ "jozef.zatko" ],
-    "info": ""
   }
 ]
 

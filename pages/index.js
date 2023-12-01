@@ -69,6 +69,13 @@ function IndexPage( props ) {
         <div>
           <h3 className="text-gray-800">Aktuality</h3>
           <div className="divide-y divide-k-xl-gray">
+
+            <div className="py-4 first:pt-0">
+              <h5 className="font-bold my-1">Záverečné práce</h5>
+              <div className="mb-2">Upozorňujeme na vydanie novej smernice rektora UK v Bratislave o záverečných prácach:{' '}<a href="https://uniba.sk/fileadmin/ruk/legislativa/2023/Vp_2023_32.pdf" target="_blank">smernica <OpenExt /></a>, <a href="https://fns.uniba.sk/studium/bakalarske-studium/statne-zaverecne-skusky/" target="_blank">informácie fakulty pre končiacich študentov <OpenExt /></a>
+              </div>
+            </div>
+
           
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Geovedná exkurzia</h5>
