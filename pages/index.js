@@ -69,10 +69,15 @@ function IndexPage( props ) {
         <div>
           <h3 className="text-gray-800">Aktuality</h3>
           <div className="divide-y divide-k-xl-gray">
+            <div className="py-4 first:pt-0">
+              <h5 className="font-bold my-1">Posterový deň</h5>
+              <div className="mb-2">Slovenská meteorologická spoločnosť (SMS) v spolupráci so Slovenským hydrometeorologickým ústavom pozývajú (aj študentov) zúčastniť sa 1. ročníka Posterového dňa SMS, ktorý sa bude konať 20. marca 2024 v priestoroch SHMÚ na Jeséniovej 17 v Bratislave. Jeho témou je POČASIE – PODNEBIE – VODA – PÔDA – OVZDUŠIE a ich interakcie v 3. tisícročí. Usporiadateľmi sú veľmi vítané najmä interdisciplinárne príspevky (nie čisto klimatologické alebo meteorologické).<br/>Viac informácií – <a href="http://slovakmeteo.sk/posterday/" target="_blank">http://slovakmeteo.sk/posterday/ <OpenExt /></a>.
+              </div>
+            </div>
 
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Záverečné práce</h5>
-              <div className="mb-2">Upozorňujeme na vydanie novej smernice rektora UK v Bratislave o záverečných prácach:{' '}<a href="https://uniba.sk/fileadmin/ruk/legislativa/2023/Vp_2023_32.pdf" target="_blank">smernica <OpenExt /></a>, <a href="https://fns.uniba.sk/studium/bakalarske-studium/statne-zaverecne-skusky/" target="_blank">informácie fakulty pre končiacich študentov <OpenExt /></a>
+              <div className="mb-2">Upozorňujeme na vydanie novej smernice rektora UK v Bratislave o záverečných prácach:{' '}, <a href="https://fns.uniba.sk/studium/bakalarske-studium/statne-zaverecne-skusky/" target="_blank">informácie fakulty pre končiacich študentov <OpenExt /></a>
               </div>
             </div>
 
