@@ -87,7 +87,7 @@ function IndexPage( props ) {
               <div className="mb-2">Katedra pripravuje geovednú exkurziu 2024 – <b>Za geovednými fenoménmi Karlovarska a priľahlého Bavorska</b> v čase 17. – 21. júna 2024 (5 dní)<br/>Viac informácií <a href="docs/geo2024.pdf" target="_blank">v pdf dokumente</a>.
               </div>
             </div>
-
+{/*
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Témy záverečných prác</h5>
               <div className="mb-2">Na stránke <Link href="/studium/zaverecne_prace"><a>záverečné práce</a></Link> je zverejnená ponuka tém pre akad. rok 2023/24.
@@ -95,7 +95,7 @@ function IndexPage( props ) {
             </div>
 
 
-{/*
+
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Smútočné oznámenie</h5>
               <div className="mb-2">Dňa 28.3.2022 nás navždy opustil <b>prof. RNDr. Jozef Krcho, DrSc.</b><br/>
