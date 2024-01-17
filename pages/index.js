@@ -70,7 +70,7 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Aktuality</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <h5 className="font-bold my-1">Posterový deň</h5>
+              <h5 className="font-bold my-1">Pozvánka na posterový deň</h5>
               <div className="mb-2">Slovenská meteorologická spoločnosť (SMS) v spolupráci so Slovenským hydrometeorologickým ústavom pozývajú (aj študentov) zúčastniť sa 1. ročníka Posterového dňa SMS, ktorý sa bude konať 20. marca 2024 v priestoroch SHMÚ na Jeséniovej 17 v Bratislave. Jeho témou je POČASIE – PODNEBIE – VODA – PÔDA – OVZDUŠIE a ich interakcie v 3. tisícročí. Usporiadateľmi sú veľmi vítané najmä interdisciplinárne príspevky (nie čisto klimatologické alebo meteorologické).<br/>Viac informácií – <a href="http://slovakmeteo.sk/posterday/" target="_blank">http://slovakmeteo.sk/posterday/ <OpenExt /></a>.
               </div>
             </div>
