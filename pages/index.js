@@ -119,14 +119,24 @@ function IndexPage( props ) {
               {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
               <div className="mb-1.5"><Datum date={ new Date("2024-01-24") } today={ new Date(props.today) }></Datum></div>
                 <h5 className="font-bold mb-2">Prednáška</h5>
-                <p className="font-bold mb-f1">Popularizácia prírodných vied – ako sa zabávať na dôchodku</p>
+                <p className="font-bold mb-f1">Digitálne technológie vo vzdelávaní</p>
                 {/*<p className="font-bold mb-f2 mt-f0">Pripravované zmeny kurikula a podpora výučby geológie na ZŠ a SŠ</p>*/}
+              <div>
+                <div className="mb-2">Čas: 15:00 – 17:00 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
+                <div className="mb-2">Prednášajúci: <i>RNDr. Henrieta Mázorová, PhD.</i></div>
+                <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/fij6" target="_blank">https://lnk.sk/fij6</a></div>
+                {/*<div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2024/2024-01-24-geovedy.jpg" target="_blank">Plagát</a></div>*/}
+              </div>
+
+              {/*<div className="mb-1.5"><Datum date={ new Date("2024-01-24") } today={ new Date(props.today) }></Datum></div>
+                <h5 className="font-bold mb-2">Prednáška</h5>
+                <p className="font-bold mb-f1">Popularizácia prírodných vied – ako sa zabávať na dôchodku</p>
               <div>
                 <div className="mb-2">Čas: 15:00 – 17:00 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
                 <div className="mb-2">Prednášajúci: <i>prof. Ing. Karol Jesenák, CSc. </i></div>
                 <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/fij6" target="_blank">https://lnk.sk/fij6</a></div>
                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2024/2024-01-24-geovedy.jpg" target="_blank">Plagát</a></div>
-              </div>
+              </div>*/}
 
               {/*}<div className="mb-1.5"><Datum date={ new Date("2023-08-30") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Obhajoba dizertačnej práce</h5>
