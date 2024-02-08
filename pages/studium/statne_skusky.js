@@ -61,7 +61,7 @@ export default function Statnice() {
         <h3 className="border-l-3 md:border-l-4 border-k-blue pl-3 md:pl-5 py-2 md:py-3">Doktorandský študijný program</h3>
         
         <h4>Publikačné minimum</h4>
-        <p>Študenti v dennej i externej forme štúdia sú k obhajobe dizertačnej práce povinní dokladovať svoju <b>publikačnú činnosť</b> minimálne rozsahu dva články v časopisoch kategórie „A“ v chápaní Akreditačnej komisie, z ktorých minimálne jeden v časopise s IF &gt; 0,25 a minimálne jeden priamo z problematiky obhajovanej dizertačnej práce.</p>
+        <p>Študenti v dennej i externej forme štúdia sú k obhajobe dizertačnej práce povinní dokladovať svoju <b>publikačnú činnosť</b> minimálne rozsahu dva články v časopisoch evidovaných v CCC, WOS, SCOPUS. Z nich jeden je z Q1 – Q3 (pre SCOPUS časopisy sa berie do úvahy kvartil SCIMAGO),  je priamo z problematiky obhajovanej dizertačnej práce a doktorand je v ňom prvý autor.</p>
         
         <h4>Povinný predmet</h4>
         <ol>
