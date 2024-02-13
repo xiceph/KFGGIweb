@@ -131,6 +131,18 @@ function IndexPage( props ) {
                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2024/2024-01-24-geovedy.jpg" target="_blank">Plagát</a></div>
               </div>*/}
 
+              <div className="mb-1.5"><Datum date={ new Date("2024-02-15") } _today={ new Date(props.today) }></Datum></div>
+              <h5 className="font-bold mb-1">Seminár New Trends in Erosion Research</h5>
+              <p className="font-bold mb-f1">Application of Geoinformation Technologies in Erosion Research</p>
+              <div className="mb-8">V čase o 9:30 v knižnici geografického ústavu SAV, prednášajú Valentina Nikolova, Veselina Gospodinova, Emil Dimitrov.</div>
+
+              <div className="mb-1.5"><Datum date={ new Date("2024-02-15") } _today={ new Date(props.today) }></Datum></div>
+              <h5 className="font-bold mb-1">Prednáškové popoludnie na SHMÚ na Kolibe</h5>
+              <p className="font-bold mb-f1">100 rokov od pádu najtragickejšej lavíny v histórii Slovenska</p>
+              <div className="mb-2">V čase od 17. h, s vysielaním naživo na <a href="https://www.facebook.com/shmu.sk" target="_blank">facebook.com/shmu.sk</a>, prednášajú RNDr. Norbert Polčák, PhD., meteorológ SHMÚ a Mgr. Filip Kyzek, riaditeľ Strediska lavínovej prevencie HZS</div>
+              <div className="mb-8"><a href="https://www.shmu.sk/File/prednaskove_feb2024_2023.pdf" target="_blank">Plagát</a></div>
+
+
               <div className="mb-1.5"><Datum date={ new Date("2024-02-16") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Inauguračná prednáška</h5>
               <div className="mb-8">Od 10:30 sa uskutoční v rámci verejného zasadnutia Vedeckej rady PriF UK Inauguračná prednáška doc. RNDr. Vladimíra Falťana, PhD. <Link href="/docs/inFaltan.pdf"><a target="_blank">Detailný oznam</a></Link>.</div>
