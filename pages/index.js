@@ -129,7 +129,7 @@ function IndexPage( props ) {
                 <div className="mb-2">Prednášajúci: <i>RNDr. Henrieta Mázorová, PhD.</i></div>
                 <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/fij6" target="_blank">https://lnk.sk/fij6</a></div>
                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2024/2024-01-24-geovedy.jpg" target="_blank">Plagát</a></div>
-              </div>*/}
+              </div>
 
               <div className="mb-1.5"><Datum date={ new Date("2024-02-15") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Seminár New Trends in Erosion Research</h5>
@@ -141,7 +141,7 @@ function IndexPage( props ) {
               <p className="font-bold mb-f1">100 rokov od pádu najtragickejšej lavíny v histórii Slovenska</p>
               <div className="mb-2">V čase od 17. h, s vysielaním naživo na <a href="https://www.facebook.com/shmu.sk" target="_blank">facebook.com/shmu.sk</a>, prednášajú RNDr. Norbert Polčák, PhD., meteorológ SHMÚ a Mgr. Filip Kyzek, riaditeľ Strediska lavínovej prevencie HZS</div>
               <div className="mb-8"><a href="https://www.shmu.sk/File/prednaskove_feb2024_2023.pdf" target="_blank">Plagát</a></div>
-
+*/}
 
               <div className="mb-1.5"><Datum date={ new Date("2024-02-16") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Inauguračná prednáška</h5>
