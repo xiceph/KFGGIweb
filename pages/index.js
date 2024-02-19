@@ -141,12 +141,12 @@ function IndexPage( props ) {
               <p className="font-bold mb-f1">100 rokov od pádu najtragickejšej lavíny v histórii Slovenska</p>
               <div className="mb-2">V čase od 17. h, s vysielaním naživo na <a href="https://www.facebook.com/shmu.sk" target="_blank">facebook.com/shmu.sk</a>, prednášajú RNDr. Norbert Polčák, PhD., meteorológ SHMÚ a Mgr. Filip Kyzek, riaditeľ Strediska lavínovej prevencie HZS</div>
               <div className="mb-8"><a href="https://www.shmu.sk/File/prednaskove_feb2024_2023.pdf" target="_blank">Plagát</a></div>
-*/}
+
 
               <div className="mb-1.5"><Datum date={ new Date("2024-02-16") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Inauguračná prednáška</h5>
               <div className="mb-8">Od 10:30 sa uskutoční v rámci verejného zasadnutia Vedeckej rady PriF UK Inauguračná prednáška doc. RNDr. Vladimíra Falťana, PhD. <Link href="/docs/inFaltan.pdf"><a target="_blank">Detailný oznam</a></Link>.</div>
-
+*/}
               <div className="mb-1.5"><Datum date={ new Date("2024-02-21") } today={ new Date(props.today) }></Datum></div>
                 <h5 className="font-bold mb-2">Prednáška</h5>
                 <p className="font-bold mb-f1">Popularizácia prírodných vied – ako sa zabávať na dôchodku</p>
