@@ -71,15 +71,15 @@ function IndexPage( props ) {
           <div className="divide-y divide-k-xl-gray">
 
             <div className="py-4 first:pt-0">
-              <h5 className="font-bold my-1">Smútočné oznámenie</h5>
-              <div className="mb-2">So zármutkom oznamujeme, že 24. januára 2024 nás opustil náš vzácny kolega geomorfológ <b>doc. RNDr. Miloš Stankoviansky, CSc.</b> <br/>
-              Katedra fyzickej geografie a geoinformatiky si ho vždy bude pamätať ako jedinečného priateľa a kolegu. {/*Táto <a href="images/fotomix_msW.jpg" target="_blank">fotokoláž</a> je oslavou jeho života a jeho prínosu pre katedru.*/}
+              <h5 className="font-bold my-1">Témy záverečných prác</h5>
+              <div className="mb-2">Na stránke <Link href="/studium/zaverecne_prace"><a>záverečné práce</a></Link> je zverejnená ponuka tém pre akad. rok 2024/25.
               </div>
             </div>
 
             <div className="py-4 first:pt-0">
-              <h5 className="font-bold my-1">Pozvánka na posterový deň</h5>
-              <div className="mb-2">Slovenská meteorologická spoločnosť (SMS) v spolupráci so Slovenským hydrometeorologickým ústavom pozývajú (aj študentov) zúčastniť sa 1. ročníka Posterového dňa SMS, ktorý sa bude konať 20. marca 2024 v priestoroch SHMÚ na Jeséniovej 17 v Bratislave. Jeho témou je POČASIE – PODNEBIE – VODA – PÔDA – OVZDUŠIE a ich interakcie v 3. tisícročí. Usporiadateľmi sú veľmi vítané najmä interdisciplinárne príspevky (nie čisto klimatologické alebo meteorologické).<br/>Viac informácií – <a href="http://slovakmeteo.sk/posterday/" target="_blank">http://slovakmeteo.sk/posterday/ <OpenExt /></a>.
+              <h5 className="font-bold my-1">Smútočné oznámenie</h5>
+              <div className="mb-2">So zármutkom oznamujeme, že 24. januára 2024 nás opustil náš vzácny kolega geomorfológ <b>doc. RNDr. Miloš Stankoviansky, CSc.</b> <br/>
+              Katedra fyzickej geografie a geoinformatiky si ho vždy bude pamätať ako jedinečného priateľa a kolegu. {/*Táto <a href="images/fotomix_msW.jpg" target="_blank">fotokoláž</a> je oslavou jeho života a jeho prínosu pre katedru.*/}
               </div>
             </div>
 
