@@ -119,17 +119,17 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <p className="text-gray-600 italic">žiadne udalosti</p>
-              {/*<div className="mb-1.5"><Datum date={ new Date("2024-03-20") } today={ new Date(props.today) }></Datum></div>
-                <h5 className="font-bold mb-2">Prednášky</h5>
-                <p className="font-bold mb-f1">Sanácia hradného brala Strečno</p>
-                <p className="font-bold mb-f2 mt-f0">GNSS - s navigáciou sa nestratím</p>
+              {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
+              <div className="mb-1.5"><Datum date={ new Date("2024-04-17") } today={ new Date(props.today) }></Datum></div>
+                <h5 className="font-bold mb-2">Prednáška</h5>
+                <p className="font-bold mb-f1">Čo je sucho a je na Slovensku reálnym problémom?</p>
+                {/*<p className="font-bold mb-f2 mt-f0">GNSS - s navigáciou sa nestratím</p>*/}
               <div>
                 <div className="mb-2">Čas: 15:00 – 17:30 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
-                <div className="mb-2">Prednášajúci: <i>RNDr. Branislav Prelovský</i>, <i>Bc. Erika Bugáňová & Bc. Adam Lovich</i></div>
-                <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/mxcs" target="_blank">https://lnk.sk/mxcs</a></div>
-                <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2024/2024-03-20-geovedy.jpg" target="_blank">Plagát</a></div>
-              </div>*/}
+                <div className="mb-2">Prednášajúci: <i>Mgr. Lívia Labudová, PhD. </i></div>
+                <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/fuef" target="_blank">https://lnk.sk/fuef</a></div>
+                <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2024/2024-04-17-geovedy.jpg" target="_blank">Plagát</a></div>
+              </div>
 {/*
               <div className="mb-1.5"><Datum date={ new Date("2024-02-15") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Seminár New Trends in Erosion Research</h5>
