@@ -15,6 +15,11 @@ export default function Projekty() {
       </div>
       <div className="divide-y divide-k-xl-gray">
         <div className="flex flex-col-reverse py-3">
+          <div>01.07.2024 – 30.06.2028  APVV  APVV-23-0087</div>
+          <div className="mt-1.5">doc. Igor <b>Matečný</b>, PhD.</div>
+          <div className="text-k-d-brown"><a href="https://fns.uniba.sk/monihmyz" target="_blank" >Monitoring hmyzích spoločenstiev metódami precízneho poľnohospodárstva <OpenExt /></a> [<a href="https://fns.uniba.sk/en/departments/geography/kfggi/kfg/about-the-department/project-insect-monitoring/" target="_blank" > <OpenExt />anglicky</a>]</div>
+        </div>
+        <div className="flex flex-col-reverse py-3">
           <div>01.07.2023 – 30.06.2027  APVV  APVV-22-0024</div>
           <div className="mt-1.5">prof. RNDr. Jozef <b>Minár</b>, CSc.</div>
           <div className="text-k-d-brown"><a href="https://fns.uniba.sk/fyzikalna" target="_blank" >Fyzikálna geomorfometria pre fyzickogeografický výskum <OpenExt /></a></div>
