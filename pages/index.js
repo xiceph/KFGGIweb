@@ -168,12 +168,12 @@ function IndexPage( props ) {
               <div className="mb-8">Valné zhromaždenie Slovenskej geografickej spoločnosti pri SAV bude v piatok 9. 9. 2022 od 12:00 v priestoroch Prírodovedeckej fakulty UK v Bratislave v aule (CH1-1). Súčasťou podujatia bude i pripomenutie si významných geografických výročí (tiež 70. výročie založenia katedry). <Link href="/docs/SGS2022Plagat.jpg"><a target="_blank">Plagát</a></Link></div>
               
               
-              */}
+
               <div className="mb-1.5"><Datum date={ new Date("2024-06-05") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
               <div>Na katedre budú 5. 6. – 7. 6. prebiehať <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>
             </div>
-            <div className="py-4 first:pt-0">
+            <div className="py-4 first:pt-0">*/}
               <div className="mb-1.5"><Datum date={ new Date("2024-06-12") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
               <div>Na katedre budú 12. 6. – 13. 6. prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>
