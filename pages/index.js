@@ -119,11 +119,11 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              {/*<p className="text-gray-600 italic">žiadne udalosti</p>
-              <div className="mb-1.5"><Datum date={ new Date("2024-05-22") } today={ new Date(props.today) }></Datum></div>
+              <p className="text-gray-600 italic">žiadne udalosti</p>
+              {/*<div className="mb-1.5"><Datum date={ new Date("2024-05-22") } today={ new Date(props.today) }></Datum></div>
                 <h5 className="font-bold mb-2">Prednáška</h5>
                 <p className="font-bold mb-f1">Travertíny – najvýznamnejšie dekoračné kamene na Slovensku</p>
-                {/*<p className="font-bold mb-f2 mt-f0">GNSS - s navigáciou sa nestratím</p>/}
+                <p className="font-bold mb-f2 mt-f0">GNSS - s navigáciou sa nestratím</p>/}
               <div>
                 <div className="mb-2">Čas: 15:00 – 17:30 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
                 <div className="mb-2">Prednášajúci: <i>doc. RNDr. Daniel Pivko, PhD.</i></div>
@@ -173,10 +173,10 @@ function IndexPage( props ) {
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
               <div>Na katedre budú 5. 6. – 7. 6. prebiehať <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>
             </div>
-            <div className="py-4 first:pt-0">*/}
+            <div className="py-4 first:pt-0">
               <div className="mb-1.5"><Datum date={ new Date("2024-06-12") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div>Na katedre budú 12. 6. – 13. 6. prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>
+              <div>Na katedre budú 12. 6. – 13. 6. prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>*/}
 
             </div>
           </div>
