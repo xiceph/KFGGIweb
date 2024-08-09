@@ -178,7 +178,7 @@ function IndexPage( props ) {
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
               <div>Na katedre budú 26. 8. 2024 od 10.00 prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>
 
-              <div className="mb-1.5"><Datum date={ new Date("2024-08-27") } _today={ new Date(props.today) }></Datum></div>
+              <div className="mb-1.5 mt-4"><Datum date={ new Date("2024-08-27") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Obhajoby dizertačných prác</h5>
               <div><Link href="/docs/diz_rusinko.pdf"><a target="_blank">Mgr. Adam Rusinko</a></Link> 27. 8. 2024 o 10.00 v  B1-444<br/>
                   Mgr. Vladimír Šagát 27. 8. 2024 o 13.00 v  B1-444<br/>
