@@ -182,8 +182,8 @@ function IndexPage( props ) {
               <h5 className="font-bold mb-1">Obhajoby dizertačných prác</h5>
               <div><Link href="/docs/diz_rusinko.pdf"><a target="_blank">Mgr. Adam Rusinko</a></Link> 27. 8. 2024 o 10.00 v  B1-444<br/>
                   Mgr. Vladimír Šagát 27. 8. 2024 o 13.00 v  B1-444<br/>
-                  <Link href="/docs/diz_supcik.pdf"><a target="_blank">Mgr. Adam Šupčík 28. 8. 2024 o 10.00 v  B1-444<br/>
-                  <Link href="/docs/diz_popov.pdf"><a target="_blank">Anton Popov 30. 8. 2024 o 10.00 v  B1-444.</div>
+                  <Link href="/docs/diz_supcik.pdf"><a target="_blank">Mgr. Adam Šupčík</a></Link> 28. 8. 2024 o 10.00 v  B1-444<br/>
+                  <Link href="/docs/diz_popov.pdf"><a target="_blank">Anton Popov</a></Link> 30. 8. 2024 o 10.00 v  B1-444.</div>
 
             </div>
           </div>
