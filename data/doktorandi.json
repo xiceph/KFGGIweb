@@ -22,25 +22,14 @@
     "info": ""
   },
   {
-    "id": 9999006,
-    "name": "Mgr. Adam Rusinko",
-    "short": "A Rusinko",
-    "email": ["adam.rusinko"],
-    "tel": "+421 2 9014 2093",
-    "room": "B1-445",
-    "year": "",
-    "pubid": 1173544 ,
-    "info": "Vo svojej dizertačnej práci sa venuje modelovaniu zmien krajinnej pokrývky. Špecializuje sa na výskum riadiacich síl súvisiacich s georeliéfom, jeho morfometrickými vlastnosťami a ich digitálnej reprezentácií v prostredí GIS."
-  },
-  {
-    "id": 9999007,
-    "name": "Mgr. Vladimír Šagát",
-    "short": "V Šagát",
-    "email": ["sagat13"],
-    "tel": "+421 2 9014 2093",
-    "room": "B1-445",
-    "year": "",
-    "pubid": 1173549,
+    "id": 9999012,
+    "name": "Mgr. Rafael Osvald",
+    "short": "R Osvald",
+    "email": ["osvald11"],
+    "tel": "+421 2 9014 1141",
+    "room": "G-14",
+    "year": 2024,
+    "pubid": "",
     "info": ""
   },
   {

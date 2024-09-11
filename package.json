@@ -23,7 +23,7 @@
     "autoprefixer": "^10.1.0",
     "classnames": "^2.2.6",
     "fast-glob": "^3.2.5",
-    "postcss": "^8.2.1",
+    "postcss": "^8.4.45",
     "postcss-100vh-fix": "^1.0.2",
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-hover-media-feature": "^1.0.0",

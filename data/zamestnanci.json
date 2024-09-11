@@ -46,7 +46,7 @@
     "id": 9999004,
     "name": "Mgr. Veronika Beranová, PhD.",
     "short": "V Beranová",
-    "position": "lektor",
+    "position": "odborný asistent",
     "email": ["veronika.orsulova"],
     "tel": "+421 2 9014 9265",
     "room": "B1-455",
@@ -144,17 +144,6 @@
     "info": ""
   },
   {
-    "id": "14223",
-    "name": "doc. RNDr. Eva Mičietová, CSc.",
-    "short": "E Mičietová",
-    "position": "odborný asistent",
-    "tel": "+421 2 9014 9286",
-    "email": ["eva.micietova"],
-    "room": "G-437",
-    "pubid": 342726,
-    "info": "Zameranie: geografické informačné systémy, geografická báza údajov, digitálne modely georeliéfu, priestorové informačné infraštruktúry. Najvýznamnejšie výsledky projektovej činnosti: Gis4EU, Geografický informačný systém environmentálneho zdravia, Národná infraštruktúra priestorových informácií."
-  },
-  {
     "id": "15107",
     "name": "prof. RNDr. Jozef Minár, CSc.",
     "short": "J Minár",
@@ -200,6 +189,17 @@
     "info": "Ťažiskom výskumu sú rekonštrukcie vývoja prírodného prostredia s využitím paleobotanických metód, s dôrazom na dlhodobé klimatické zmeny a interakcie človek-krajina v minulosti. Druhým výskumným pólom sú fluviálne geomorfologické procesy a vývoj georeliéfu riečnej krajiny v kvartéri vo vzťahu k rôznym faktorom, predovšetkým k tektonike, hydroklimatickým fluktuáciám a v mladších dobách k činnosti človeka."
   },
   {
+    "id": 9999006,
+    "name": "Mgr. Adam Rusinko, PhD.",
+    "short": "A Rusinko",
+    "position": "lektor",
+    "email": ["adam.rusinko"],
+    "tel": "+421 2 9014 2093",
+    "room": "B1-445",
+    "pubid": 1173544 ,
+    "info": "Vo svojej dizertačnej práci sa venuje modelovaniu zmien krajinnej pokrývky. Špecializuje sa na výskum riadiacich síl súvisiacich s georeliéfom, jeho morfometrickými vlastnosťami a ich digitálnej reprezentácií v prostredí GIS."
+  },
+  {
     "id": "14983",
     "name": "RNDr. Ivan Ružek, PhD.",
     "short": "I Ružek",
@@ -211,14 +211,24 @@
     "info": ""
   },
   {
+    "id": 9999007,
+    "name": "Mgr. Vladimír Šagát, PhD.",
+    "short": "V Šagát",
+    "position": "lektor",
+    "email": ["sagat13"],
+    "tel": "+421 2 9014 2093",
+    "room": "B1-445",
+    "pubid": 1173549,
+    "info": ""
+  },
+  {
     "id": 9999008,
-    "name": "Mgr. Adam Šupčík",
+    "name": "Mgr. Adam Šupčík, PhD.",
     "short": "A Šupčík",
     "position": "lektor",
     "email": ["adam.supcik"],
     "tel": "+421 2 9014 2125",
     "room": "B1-455",
-    "year": "",
     "pubid": 1187029,
     "info": "Špecializuje sa na precízne poľnohospodárstvo a vinohradníctvo, zo zameraním na analýzu leteckých snímok pre potreby identifikácie viniča v prostredí GIS, taktiež sa zaoberá tvorbou 3D modelov pre potreby precízneho vinohradníctva."
   }
