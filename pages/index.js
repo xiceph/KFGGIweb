@@ -155,11 +155,11 @@ function IndexPage( props ) {
                 <div className="mb-2">Prednášajúci: <i>doc. RNDr. Daniel Pivko, PhD. </i></div>
                 {/*<div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/pyk0" target="_blank">https://lnk.sk/pyk0</a></div>*/}
                 <div className="mb-8"><a https://fns.uniba.sk/fileadmin/prif/kalendar/2024/2024-09-25-geovedy.jpg" target="_blank">Plagát</a></div>
-              </div>
+              {/*</div>
 
 
 
-              {/*<div className="mb-1.5"><Datum date={ new Date("2022-09-08") } _today={ new Date(props.today) }></Datum></div>
+              <div className="mb-1.5"><Datum date={ new Date("2022-09-08") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Konferencia GeoKARTO 2022</h5>
               <div className="mb-8">Konferencia je organizovaná Kartografickou spoločnosťou SR, v roku 2022 v spolupráci s Katedrou fyzickej geografie a geoinformatiky, Prírodovedeckej fakulty UK v Bratislave. Viac na <Link href="/geokarto2022"><a target="_blank">stránke konferencie</a></Link>.</div>
               
