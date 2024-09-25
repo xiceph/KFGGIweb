@@ -9,6 +9,9 @@ function Exkurzie({ photos }) {
       
       <p>Podstatná časť nášho štúdia prebieha mimo prednáškových sál. Exkurzie umožňujú zažiť prednášané učivo na vlastnej koži - v rámci Slovenska aj za jeho hranicami. Terénne práce sú však už praktickým tréningom terénnych výskumných postupov.</p>
 
+      <h3>Geovedná exkurzia 2025</h3>
+      <p><b>K ustupujúcim horským ľadovcom Álp, do krasu a k Jadranskému moru</b> 16. – 20. júna 2024 (5 dní)<br/>Viac informácií <a href="docs/geo2025.pdf" target="_blank">v pdf dokumente</a></p>
+
       <h3>Geovedná exkurzia 2024</h3>
       <p><b>Za geovednými fenoménmi Karlovarska a priľahlého Bavorska</b> 17. – 21. júna 2024 (5 dní)<br/>Viac informácií <a href="docs/geo2024.pdf" target="_blank">v pdf dokumente</a></p>
 
