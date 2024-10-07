@@ -151,7 +151,7 @@ function IndexPage( props ) {
 */}
               <div className="mb-1.5"><Datum date={ new Date("2024-10-16") } today={ new Date(props.today) }></Datum></div>
                 <h5 className="font-bold mb-2">Prednáška</h5>
-                <p className="font-bold mb-f1">Vulkanizmus počas neogénu – odraz geologického vývoja na Slovensku </p>
+                <p className="font-bold mb-f1">Vulkanizmus počas neogénu – odraz geologického vývoja na Slovensku </p>
               <div>
                 <div className="mb-2">Čas: 15:00 – 17:00 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
                 <div className="mb-2">Prednášajúci: <i>doc. RNDr. Katarína Šarinová, PhD.</i></div>
