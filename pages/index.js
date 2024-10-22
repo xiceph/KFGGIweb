@@ -121,7 +121,7 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              {/* <p className="text-gray-600 italic">žiadne udalosti</p>*/}
+              <p className="text-gray-600 italic">žiadne udalosti</p>
               {/*<div className="mb-1.5"><Datum date={ new Date("2024-05-22") } today={ new Date(props.today) }></Datum></div>
                 <h5 className="font-bold mb-2">Prednáška</h5>
                 <p className="font-bold mb-f1">Travertíny – najvýznamnejšie dekoračné kamene na Slovensku</p>
@@ -148,7 +148,7 @@ function IndexPage( props ) {
               <div className="mb-1.5"><Datum date={ new Date("2024-02-16") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Inauguračná prednáška</h5>
               <div className="mb-8">Od 10:30 sa uskutoční v rámci verejného zasadnutia Vedeckej rady PriF UK Inauguračná prednáška doc. RNDr. Vladimíra Falťana, PhD. <Link href="/docs/inFaltan.pdf"><a target="_blank">Detailný oznam</a></Link>.</div>
-*/}
+
               <div className="mb-1.5"><Datum date={ new Date("2024-10-16") } today={ new Date(props.today) }></Datum></div>
                 <h5 className="font-bold mb-2">Prednáška</h5>
                 <p className="font-bold mb-f1">Vulkanizmus počas neogénu – odraz geologického vývoja na Slovensku </p>
@@ -158,7 +158,7 @@ function IndexPage( props ) {
                 <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/cdsp" target="_blank">https://lnk.sk/cdsp</a></div>
                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2024/2024-10-16-geovedy.jpg" target="_blank">Plagát</a></div>
               </div>
-
+*/}
 
 
               {/*<div className="mb-1.5"><Datum date={ new Date("2022-09-08") } _today={ new Date(props.today) }></Datum></div>
