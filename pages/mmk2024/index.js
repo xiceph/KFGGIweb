@@ -11,19 +11,20 @@ export default function MMK( props ) {
       <Head>
         <title>Memoriál Mladena Kolényho 2024</title>
       </Head>
-      <img className="float-right" src="images/mmk2024/foto.png" />
-      <h1 className="pt-2">Memoriál Mladena Kolényho 2024</h1>
-      <h5 className="pb-6">24. ročník tradičného futbalového turnaja geografov</h5>
+      <div className="pl-3" style={{background: "#55ff8820 url(images/mmk2024/foto.png) no-repeat right / contain"}}>
+        <h1 className="pt-6">Memoriál Mladena Kolényho 2024</h1>
+        <h5 className="pb-6">24. ročník tradičného futbalového turnaja geografov</h5>
+      </div>
       <div className="divide-y divide-k-xl-gray">
-        <div>
+        <div className="pl-3">
           <h5>Čas</h5>
           <p>V piatok 6. decembra 2024 od 13:00, otvorenie turnaja o 12:45.</p>
         </div>
-        <div>
+        <div className="pl-3">
           <h5>Miesto</h5>
           <p>V telocvični internátu Ľ. Štúra v Mlynskej doline v Bratislave.</p>
         </div>
-        <div>
+        <div className="pl-3">
           <h5>Štartovné</h5>
           <p>
             Štartovné je 120 EUR za družstvo.<br/>
@@ -31,7 +32,7 @@ export default function MMK( props ) {
             Kontaktná osoba: Adam Rusinko – <Email parts={["adam.rusinko"]} />.
           </p>
         </div>
-        <div>
+        <div className="pl-3">
           <h5>Turnaj</h5>
           <p>
             Hrací čas je 2 x 10 min.<br/>
@@ -39,7 +40,7 @@ export default function MMK( props ) {
             Poradie tímov určuje: body, vzájomné zápasy, rozdiel skóre, počet strelených gólov, najstarší aktívny hráč.
           </p>
         </div>
-        <div>
+        <div className="pl-3">
           <h5>Zápasy</h5>
           <p>
             <b>Čas: 13:00 – 13:30</b><br/>
@@ -81,7 +82,7 @@ export default function MMK( props ) {
             Ihrisko 1: FYZGIS vs. SAV
           </p>
         </div>
-        <div>
+        <div className="pl-3">
           <h5>Tlačová konferencia</h5>
           <p>
             Prírodovedecká fakulta UK v Bratislave, pred B1-301.<br/>
