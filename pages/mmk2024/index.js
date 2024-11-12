@@ -11,9 +11,9 @@ export default function MMK( props ) {
       <Head>
         <title>Memoriál Mladena Kolényho 2024</title>
       </Head>
-      <div className="pl-3" style={{background: "#55ff8820 url(images/mmk2024/foto.png) no-repeat right / contain", textShadow: "1px 1px 5px #fff, 0 0 3px #fff"}}>
+      <div className="pl-3 pr-6" style={{background: "#55ff8820 url(images/mmk2024/foto.png) no-repeat right / contain", textShadow: "1px 1px 5px #fff, 0 0 3px #fff"}}>
         <h1 className="pt-6">Memoriál Mladena Kolényho 2024</h1>
-        <h5 className="pb-6">24. ročník tradičného futbalového turnaja geografov</h5>
+        <h5 className="pb-6" style={{lineHeight: "1.25"}}>24. ročník tradičného futbalového turnaja geografov</h5>
       </div>
       <div className="divide-y divide-k-xl-gray">
         <div className="pl-3">
