@@ -11,9 +11,10 @@ export default function MMK( props ) {
       <Head>
         <title>Memoriál Mladena Kolényho 2024</title>
       </Head>
-      <h1>Memoriál Mladena Kolényho 2024</h1>
+      <img className="float-right" src="images/mmk2024/foto.png" />
+      <h1 className="pt-2">Memoriál Mladena Kolényho 2024</h1>
       <h5 className="pb-6">24. ročník tradičného futbalového turnaja geografov</h5>
-      <div class="divide-y divide-k-xl-gray">
+      <div className="divide-y divide-k-xl-gray">
         <div>
           <h5>Čas</h5>
           <p>V piatok 6. decembra 2024 od 13:00, otvorenie turnaja o 12:45.</p>
@@ -27,7 +28,7 @@ export default function MMK( props ) {
           <p>
             Štartovné je 120 EUR za družstvo.<br/>
             Platba na účet: SK03 8330 0000 0027 0272 9663<br/>
-            Kontaktná osoba Adam Rusinko – <Email parts={["adam.rusinko"]} />.
+            Kontaktná osoba: Adam Rusinko – <Email parts={["adam.rusinko"]} />.
           </p>
         </div>
         <div>
