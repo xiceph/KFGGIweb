@@ -27,7 +27,7 @@ export default function MMK( props ) {
         <div className="pl-3">
           <h5>Štartovné</h5>
           <p>
-            Štartovné je 120 EUR za družstvo.<br/>
+            Štartovné je <del>120</del> EUR za družstvo.<br/>
             Platba na účet: SK03 8330 0000 0027 0272 9663<br/>
             Kontaktná osoba: Adam Rusinko – <Email parts={["adam.rusinko"]} />.
           </p>
@@ -85,8 +85,8 @@ export default function MMK( props ) {
         <div className="pl-3">
           <h5>Tlačová konferencia</h5>
           <p>
-            Prírodovedecká fakulta UK v Bratislave, pred B1-301.<br/>
-            V čase od 18:30.
+            <del>Prírodovedecká fakulta UK v Bratislave, pred B1-301.</del><br/>
+            <del>V čase od 18:30.</del>
           </p>
         </div>
       </div>
