@@ -41,47 +41,59 @@ export default function MMK( props ) {
           </p>
         </div>
         <div className="pl-3">
-          <h5>Zápasy</h5>
+          <h5>Zápasy a výsledky</h5>
           <p>
             <b>Čas: 13:00 – 13:30</b><br/>
-            Ihrisko 1: FYZGIS vs. HUM+REG<br/>
-            Ihrisko 2: Brno vs. Praha
+            Ihrisko 1: FYZGIS vs. HUM+REG &emsp; 1:0<br/>
+            Ihrisko 2: Brno vs. Praha &emsp; 1:1
           </p>
           <p>
             <b>Čas: 13:30 – 14:00</b><br/>
-            Ihrisko 1: Olomouc vs. SAV<br/>
-            Ihrisko 2: FYZGIS vs. Brno
+            Ihrisko 1: Olomouc vs. SAV &emsp; 2:1<br/>
+            Ihrisko 2: FYZGIS vs. Brno &emsp; 0:0
           </p>
           <p>
             <b>Čas: 14:00 – 14:30</b><br/>
-            Ihrisko 1: HUM+REG vs. Olomouc<br/>
-            Ihrisko 2: Praha vs. SAV
+            Ihrisko 1: HUM+REG vs. Olomouc &emsp; 0:4<br/>
+            Ihrisko 2: Praha vs. SAV &emsp; 0:0
           </p>
           <p>
             <b>Čas: 14:30 – 15:00</b><br/>
-            Ihrisko 1: FYZGIS vs. Praha<br/>
-            Ihrisko 2: HUM+REG vs. Brno
+            Ihrisko 1: FYZGIS vs. Praha &emsp; 3:1<br/>
+            Ihrisko 2: HUM+REG vs. Brno &emsp; 0:3
           </p>
           <p>
             <b>Čas: 15:00 – 15:30</b><br/>
-            Ihrisko 1: Olomouc vs. Praha<br/>
-            Ihrisko 2: Brno vs. SAV
+            Ihrisko 1: Olomouc vs. Praha &emsp; 5:0<br/>
+            Ihrisko 2: Brno vs. SAV &emsp; 1:0
           </p>
           <p>
             <b>Čas: 15:30 – 16:00</b><br/>
-            Ihrisko 1: FYZGIS vs. Olomouc<br/>
-            Ihrisko 2: HUM+REG vs. SAV
+            Ihrisko 1: FYZGIS vs. Olomouc &emsp; 0:0<br/>
+            Ihrisko 2: HUM+REG vs. SAV &emsp; 2:5
           </p>
           <p>
             <b>Čas: 16:00 – 16:30</b><br/>
-            Ihrisko 1: Brno vs. Olomouc<br/>
-            Ihrisko 2: Praha vs. HUM+REG
+            Ihrisko 1: Brno vs. Olomouc &emsp; 0:5<br/>
+            Ihrisko 2: Praha vs. HUM+REG &emsp; 2:2
           </p>
           <p>
             <b>Čas: 16:30 – 17:00</b><br/>
-            Ihrisko 1: FYZGIS vs. SAV
+            Ihrisko 1: FYZGIS vs. SAV &emsp; 2:0
           </p>
         </div>
+        <div className="pl-3">
+          <h5>Tabuľka</h5>
+          <table>
+            <tr><td>1.</td><td>Olomouc</td><td>5 4 1 0</td><td>16:1</td><td>13</td></tr>
+            <tr><td>2.</td><td>FYZGIS</td><td>5 3 2 0</td><td>6:1</td><td>11</td></tr>
+            <tr><td>3.</td><td>Brno</td><td>5 2 2 1</td><td>5:6</td><td>8</td></tr>
+            <tr><td>4.</td><td>SAV</td><td>5 1 1 3</td><td>6:7</td><td>4</td></tr>
+            <tr><td>5.</td><td>Praha</td><td>5 0 3 2</td><td>4:11</td><td>3</td></tr>
+            <tr><td>6.</td><td>HUM+REG</td><td>5 0 1 4</td><td>4:15</td><td>1</td></tr>
+          </table>
+        </div>
+
         <div className="pl-3">
           <h5>Tlačová konferencia</h5>
           <p>
