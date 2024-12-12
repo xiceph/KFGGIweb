@@ -85,12 +85,12 @@ export default function MMK( props ) {
         <div className="pl-3">
           <h5>Tabuľka</h5>
           <table>
-            <tr><td>1.</td><td>Olomouc</td><td>5 4 1 0</td><td>16:1</td><td>13</td></tr>
-            <tr><td>2.</td><td>FYZGIS</td><td>5 3 2 0</td><td>6:1</td><td>11</td></tr>
-            <tr><td>3.</td><td>Brno</td><td>5 2 2 1</td><td>5:6</td><td>8</td></tr>
-            <tr><td>4.</td><td>SAV</td><td>5 1 1 3</td><td>6:7</td><td>4</td></tr>
-            <tr><td>5.</td><td>Praha</td><td>5 0 3 2</td><td>4:11</td><td>3</td></tr>
-            <tr><td>6.</td><td>HUM+REG</td><td>5 0 1 4</td><td>4:15</td><td>1</td></tr>
+            <tr><td>1.</td><td>Olomouc</td><td>5  4 1 0</td><td>16:1</td><td>13</td></tr>
+            <tr><td>2.</td><td>FYZGIS</td><td>5  3 2 0</td><td>6:1</td><td>11</td></tr>
+            <tr><td>3.</td><td>Brno</td><td>5  2 2 1</td><td>5:6</td><td>8</td></tr>
+            <tr><td>4.</td><td>SAV</td><td>5  1 1 3</td><td>6:7</td><td>4</td></tr>
+            <tr><td>5.</td><td>Praha</td><td>5  0 3 2</td><td>4:11</td><td>3</td></tr>
+            <tr><td>6.</td><td>HUM+REG</td><td>5  0 1 4</td><td>4:15</td><td>1</td></tr>
           </table>
         </div>
 
