@@ -105,19 +105,19 @@ export default function MMK( props ) {
         <div className="pl-3">
           <img
               alt="Foto z turnaja"
-              src="images/mmk24/turnaj1.jpg"
+              src="images/mmk2024/turnaj1.jpg"
             />
           <img
               alt="Foto z turnaja"
-              src="images/mmk24/turnaj2.jpg"
+              src="images/mmk2024/turnaj2.jpg"
             />
           <img
               alt="Foto z turnaja"
-              src="images/mmk24/turnaj3.jpg"
+              src="images/mmk2024/turnaj3.jpg"
             />
           <img
               alt="Foto z turnaja"
-              src="images/mmk24/turnaj4.jpg"
+              src="images/mmk2024/turnaj4.jpg"
             />
         </div>
 
