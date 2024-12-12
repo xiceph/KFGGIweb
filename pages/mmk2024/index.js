@@ -101,6 +101,26 @@ export default function MMK( props ) {
             <del>V čase od 18:30.</del>
           </p>
         </div>
+
+        <div className="pl-3">
+          <img
+              alt="Foto z turnaja"
+              src="images/mmk24/turnaj1.jpg"
+            />
+          <img
+              alt="Foto z turnaja"
+              src="images/mmk24/turnaj2.jpg"
+            />
+          <img
+              alt="Foto z turnaja"
+              src="images/mmk24/turnaj3.jpg"
+            />
+          <img
+              alt="Foto z turnaja"
+              src="images/mmk24/turnaj4.jpg"
+            />
+        </div>
+
       </div>
     </div>
   )
