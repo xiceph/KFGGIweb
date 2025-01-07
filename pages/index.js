@@ -124,14 +124,14 @@ function IndexPage( props ) {
               {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
 
 
-              <div className="mb-1.5"><Datum date={ new Date("2024-12-18") } today={ new Date(props.today) }></Datum></div>
+              <div className="mb-1.5"><Datum date={ new Date("2025-01-15") } today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-2">Prednáška</h5>
-              <p className="font-bold mb-f1">Fosílie dinosaurov ako predmet obchodu</p>
+              <p className="font-bold mb-f1">Krasové územia Západných Karpát</p>
               <div>
                 <div className="mb-2">Čas: 15:00 – 17:00 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
-                <div className="mb-2">Prednášajúci: <i>Doc. Mgr. Matúš Hyžný, PhD. </i></div>
-                <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/fwe5" target="_blank">https://lnk.sk/fwe5</a></div>
-                <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2024/2024-12-18-geovedy.jpg" target="_blank">Plagát</a></div>
+                <div className="mb-2">Prednášajúci: <i>doc. RNDr. Alexander Lačný, PhD. </i></div>
+                <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/jxl8" target="_blank">https://lnk.sk/jxl8</a></div>
+                <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2025/2025-01-15-geovedy.jpg" target="_blank">Plagát</a></div>
               </div>
 
               {/*<div className="mb-1.5"><Datum date={ new Date("2024-05-22") } today={ new Date(props.today) }></Datum></div>
