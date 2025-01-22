@@ -70,7 +70,7 @@ export default function Nav(props) {
         >
           { menuOpened.children.map((item) => (
             <li key={item.id}>
-              <Link href={`/${menuOpened.id}/${item.id}`}>
+              <Link href={`${locale == "sk" ? "": "/en"}/${menuOpened.id}/${item.id}`}>
                 <a>
                   <div className={`py-2.5 px-5 md:px5 my-px cursor-pointer rounded-full hover-${color[menuOpened.id]} border-t border-b border-transparent md:border-b-gray-200`}>{item.title}</div>
                 </a>

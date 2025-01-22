@@ -20,7 +20,7 @@ export default function Breadcrumbs( props ) {
 
   const path = router.asPath.slice(1).split('#')[0].split('?')[0].split("/");
   const first = path[0] == "en" 
-    ? { title: "Home", id: "en" }
+    ? { title: "Home", id: "/en" }
     : { title: "Domov", id: "" }
   path[0] == "en" &&  path.shift();
   
@@ -28,10 +28,10 @@ export default function Breadcrumbs( props ) {
   flatten( pages, flatPages );
   
   let link = first.id;
-  
+
   return (
     <div>
-      <Link href={link || "/"}><a className="inline-block text-gray-600 hover:text-gray-700 hover:underline">{first.title}</a></Link>  
+      <Link href={link || "/"}><a className="inline-block text-gray-600 hover:text-gray-700 hover:underline">{first.title}</a></Link>
       {
         path.map( item => {
           item = decodeURIComponent(item)

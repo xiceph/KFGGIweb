@@ -27,7 +27,9 @@
   "en": [
     { "title": "About us", "id": "about", "children": []},
     { "title": "Study", "id": "study", "children": [] },
-    { "title": "Research", "id": "research", "children": [] }
+    { "title": "Research", "id": "research", "children": [
+      { "title": "Projects", "id": "projects" }
+    ] }
   ],
   "special": [
     { "title": "GeoKARTO 2022", "id": "geokarto2022" },
