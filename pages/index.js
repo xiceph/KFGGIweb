@@ -72,7 +72,7 @@ function IndexPage( props ) {
 
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Geovedná exkurzia</h5>
-              <div className="mb-2">Katedra pripravuje geovednú exkurziu Rakúsko – Slovinsko 2025 – <b>K ustupujúcim horským ľadovcom Álp, do krasu a k Jadranskému moru</b> v čase 16. – 20. júna 2025 (5 dní)<br/>Viac informácií <a href="docs/geo2025.pdf" target="_blank">v pdf dokumente</a> a <a href="https://storymaps.arcgis.com/stories/1ff59abc71304001a8766bfa112e0ced?play=true&speed=slow" target="_blank">v storymap od Tomáša Lalíka</a>.
+              <div className="mb-2">Katedra pripravuje geovednú exkurziu Rakúsko – Slovinsko 2025 – <b>K ustupujúcim horským ľadovcom Álp, do krasu a k Jadranskému moru</b> v čase 16. – 20. júna 2025 (5 dní)<br/>Viac informácií v <a href="docs/geo2025.pdf" target="_blank">pdf dokumente</a> a v <a href="https://storymaps.arcgis.com/stories/1ff59abc71304001a8766bfa112e0ced?play=true&speed=slow" target="_blank">storymap od Tomáša Lalíka</a>.
               </div>
             </div>
 
