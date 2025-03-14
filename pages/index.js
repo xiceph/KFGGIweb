@@ -71,23 +71,25 @@ function IndexPage( props ) {
           <div className="divide-y divide-k-xl-gray">
 
             <div className="py-4 first:pt-0">
+              <h5 className="font-bold my-1">Témy záverečných prác</h5>
+              <div className="mb-2">Na stránke <Link href="/studium/zaverecne_prace"><a>záverečné práce</a></Link> je zverejnená ponuka tém pre akad. rok 2025/26.
+              </div>
+            </div>
+
+            <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Geovedná exkurzia</h5>
               <div className="mb-2">Katedra pripravuje geovednú exkurziu Rakúsko – Slovinsko 2025 – <b>K ustupujúcim horským ľadovcom Álp, do krasu a k Jadranskému moru</b> v čase 16. – 20. júna 2025 (5 dní)<br/>Viac informácií v <a href="docs/geo2025.pdf" target="_blank">pdf dokumente</a> a v <a href="https://storymaps.arcgis.com/stories/1ff59abc71304001a8766bfa112e0ced?play=true&speed=slow" target="_blank">storymap od Tomáša Lalíka</a>.
               </div>
             </div>
 
-            <div className="py-4 first:pt-0">
-              <h5 className="font-bold my-1">Témy záverečných prác</h5>
-              <div className="mb-2">Na stránke <Link href="/studium/zaverecne_prace"><a>záverečné práce</a></Link> je zverejnená ponuka tém pre akad. rok 2024/25.
-              </div>
-            </div>
 
+{/*
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Smútočné oznámenie</h5>
               <div className="mb-2">So zármutkom oznamujeme, že 24. januára 2024 nás opustil náš vzácny kolega geomorfológ <b>doc. RNDr. Miloš Stankoviansky, CSc.</b> <br/>
-              Katedra fyzickej geografie a geoinformatiky si ho vždy bude pamätať ako jedinečného priateľa a kolegu. {/*Táto <a href="images/fotomix_msW.jpg" target="_blank">fotokoláž</a> je oslavou jeho života a jeho prínosu pre katedru.*/}
+              Katedra fyzickej geografie a geoinformatiky si ho vždy bude pamätať ako jedinečného priateľa a kolegu.
               </div>
-            </div>
+            </div>*/}
 
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Záverečné práce</h5>
