@@ -226,7 +226,7 @@
   {
     "id": "ZKI29",
     "program": "ZKI",
-    "supervisor": "Mgr. Marcel Hudčovič",
+    "supervisor": "Mgr. Marcel Hudcovič",
     "aff": "Geografický ústav SAV, konzultant: Mgr. Robert Pazúr, PhD.",
     "name": "Identifikácia objektov manažmentu trávnatých porastov pomocou umelej inteligencie",
     "text": "Cieľom práce je tvorba trénovacích údajov a ich aplikovanie v rámci existujúceho deep learning modelu YOLO na detekciu objektov reprezentujúcich manažment trávnych porastov na ortofotosnímkach zo stredného Slovenska z roku 2024. V rámci bakalárskej práce bude študent pracovať s modelom natrénovaným na vzorkách zo západného Slovenska, bude vyhodnocovať ich schopnosť aplikovania na snímky zo stredného Slovenska, doplní trénovacie vzorky o nové prvky a model s nimi pretrénuje. Študent získa skúsenosti s prácou s umelou inteligenciou, zapojí sa do problematiky riešenej v rámci medzinárodného projektu, a rozšíri alebo nadobudne znalosti v GIS a programovaní."
@@ -235,7 +235,7 @@
     "id": "ZKI30",
     "program": "ZKI",
     "supervisor": "Mgr. Robert Pazúr, PhD.",
-    "aff": "Geografický ústav SAV, konzultant: Mgr. Marcel Hudčovič",
+    "aff": "Geografický ústav SAV, konzultant: Mgr. Marcel Hudcovič",
     "name": "Spracovanie historických snímok z vybraných území Slovenska",
     "text": "Krajina sa neustále mení. Informáciu ako vyzerala kedysi je možné získať pomocou leteckých snímok, ktoré ležia nespracované v rôznych archívoch. Cieľom práce je georeferencovať získané snímky z rôznych historických období v rámci štyroch území na Slovensku, na ktorých prebieha botanicky, geografický a etnologický výskum. Pri spracovaní sa využije softvér Agisoft Metashape, alebo Erdas Imagine. Práca ponúka možné pokračovanie na diplomovej práci kde po spracovaní budú snímky klasifikované a vyhodnocované pomocou modelov umelej inteligencie. Téma prináša jedinečnú možnosť zapojenia sa do širšieho výskumu."
   },
@@ -397,7 +397,7 @@
     "supervisor": "doc. RNDr. Igor Matečný, PhD.",
     "aff": "",
     "name": "Využitie geoekologických metód v rámci precízneho poľnohospodárstva",
-    "text": ""
+    "text": "Precízne poľnohospodárstvo chápe pôdu ako objekt s nerovnakou zásobou živín"
   },
   {
     "id": "mZFI14",
@@ -525,7 +525,7 @@
     "supervisor": "Mgr. Robert Pazúr, PhD.",
     "aff": "Geografický ústav SAV, konzultant: Mgr. Marcel Hudcovič",
     "name": "Identifikácia objektov manažmentu trávnatých porastov pomocou umelej inteligencie",
-    "text": "Diplomová práca sa venuje rekonštrukcii geomorfologických procesov vo vybranom zosuvnom území na Slovensku s využitím dendrogeomorfologických metód výskumu. Súčasťou práce bude terénny výskum, spracovanie a vyhodnotenie vzoriek v dendrologickom laboratóriu."
+    "text": "Cieľom práce je tvorba trénovacích údajov a ich aplikovanie v rámci existujúceho deep learning modelu YOLO na detekciu objektov reprezentujúcich manažment trávnych porastov na ortofotosnímkach zo stredného Slovenska z roku 2024. V rámci bakalárskej práce bude študent pracovať s modelom natrénovaným na vzorkách zo západného Slovenska, bude vyhodnocovať ich schopnosť aplikovania na snímky zo stredného Slovenska, doplní trénovacie vzorky o nové prvky a model s nimi pretrénuje. Študent získa skúsenosti s prácou s umelou inteligenciou, zapojí sa do problematiky riešenej v rámci medzinárodného projektu, a rozšíri alebo nadobudne znalosti v GIS a programovaní."
   },
   {
     "id": "mZFI30",
