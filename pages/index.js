@@ -123,18 +123,18 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <p className="text-gray-600 italic">žiadne udalosti</p>
+              {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
 
 
-              {/*<div className="mb-1.5"><Datum date={ new Date("2025-03-19") } today={ new Date(props.today) }></Datum></div>
+              <div className="mb-1.5"><Datum date={ new Date("2025-04-23") } today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-2">Prednáška</h5>
-              <p className="font-bold mb-f1">Problémy spojené s prieskumom a sanáciou havarijnych zosuvov na Slovensku</p>
+              <p className="font-bold mb-f1">Predkenozoické podložie Viedenskej a podunajskej panvy </p>
               <div>
                 <div className="mb-2">Čas: 15:00 – 17:00 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
-                <div className="mb-2">Prednášajúci: <i>RNDr. Vlasta Jánová, PhD. </i></div>
-                <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/fogq" target="_blank">https://lnk.sk/fogq</a></div>
-                <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2025/2025-03-19-geovedy.jpg" target="_blank">Plagát</a></div>
-              </div>*/}
+                <div className="mb-2">Prednášajúci: <i>doc. RNDr. Jozef Hók, CSc.</i></div>
+                <div className="mb-2">Pripojte sa na: <a href="https://sdu.sk/x07T" target="_blank">https://sdu.sk/x07T</a></div>
+                <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2025/2025-04-23-geovedy.jpg" target="_blank">Plagát</a></div>
+              </div>
 
               {/*<div className="mb-1.5"><Datum date={ new Date("2024-05-22") } today={ new Date(props.today) }></Datum></div>
                 <h5 className="font-bold mb-2">Prednáška</h5>
