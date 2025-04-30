@@ -123,7 +123,7 @@ function IndexPage( props ) {
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
             <div className="py-4 first:pt-0">
-              <p className="text-gray-600 italic">žiadne udalosti</p>
+              {/*<p className="text-gray-600 italic">žiadne udalosti</p>*/}
 
 
               {/*<div className="mb-1.5"><Datum date={ new Date("2025-04-23") } today={ new Date(props.today) }></Datum></div>
@@ -136,16 +136,16 @@ function IndexPage( props ) {
                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2025/2025-04-23-geovedy.jpg" target="_blank">Plagát</a></div>
               </div>*/}
 
-              {/*<div className="mb-1.5"><Datum date={ new Date("2024-05-22") } today={ new Date(props.today) }></Datum></div>
-                <h5 className="font-bold mb-2">Prednáška</h5>
-                <p className="font-bold mb-f1">Travertíny – najvýznamnejšie dekoračné kamene na Slovensku</p>
-                <p className="font-bold mb-f2 mt-f0">GNSS - s navigáciou sa nestratím</p>/}
+              <div className="mb-1.5"><Datum date={ new Date("2025-05-21") } today={ new Date(props.today) }></Datum></div>
+                <h5 className="font-bold mb-2">Prednášky</h5>
+                <p className="font-bold mb-f1">Archeometrický výskum drahých kameňov a šperkov</p>
+                <p className="font-bold mb-f2 mt-f0">Fosílny mikrosvet známy a neznámy</p>
               <div>
                 <div className="mb-2">Čas: 15:00 – 17:30 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
-                <div className="mb-2">Prednášajúci: <i>doc. RNDr. Daniel Pivko, PhD.</i></div>
-                <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/bsdl" target="_blank">https://lnk.sk/bsdl</a></div>
-                <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2024/2024-05-22-geovedy.jpg" target="_blank">Plagát</a></div>
-              </div>*/}
+                <div className="mb-2">Prednášajúci: <i>doc. PaedDr. Ján Štubňa, PhD.</i>, <i>prof. Mgr. Natália Hlavatá Hudáčková, PhD.</i></div>
+                <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/kdkl1" target="_blank">https://lnk.sk/kdkl1</a></div>
+                <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2025/2025-05-21-geovedy.jpg" target="_blank">Plagát</a></div>
+              </div>
 {/*
               <div className="mb-1.5"><Datum date={ new Date("2024-02-15") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Seminár New Trends in Erosion Research</h5>
