@@ -29,7 +29,7 @@ export default function Statnice() {
         <h3 className="border-l-3 md:border-l-4 border-k-green pl-3 md:pl-5 py-2 md:py-3">Magisterský študijný program</h3>
         
         <h4>Termíny 2024/25</h4>
-        <p>Obhajoby diplomových prác a skúšky z predmetov: 26. 5. 2025 – 29. 5. 2025</p>
+        <p>Obhajoby diplomových prác a skúšky z predmetov: 26. 5. 2025 – 29. 5. 2025 (<a href="docs/mgr_ss_2025.pdf" target="_blank" >harmonogram [pdf]</a>)</p>
         {/*<p>mZ-FI/FYZ:  5. 6. 2024 od 8:00 obhajoby diplomových prác, po nich skúšky z predmetov<br/>(<a href="docs/ss_mgr_FYZ_harmonogram.jpg" target="_blank" >harmonogram [jpg]</a>)</p>
         <p>mZ-FI/FYZ:  7. 6. 2023 8:30 – 12:00 obhajoby diplomových prác , 8. 6. 2023 od 8:00 skúšky z predmetov (<a href="docs/HarmonogramFYZMgr2022.pdf" target="_blank" >harmonogram [pdf]</a>)</p>*/}
         {/*<p>mZ-FI/GIS:  6. 6. 2024 od 9:00 obhajoby diplomových prác, 7. 6. 2024 od 9:00 skúšky z predmetov<br/>(<a href="docs/HarmonogramGISMgr2024.pdf" target="_blank" >harmonogram [pdf]</a>)</p>, 23. 8. 2023 od 10:00 (<a href="docs/HarmonogramFYZGIS2023A.pdf" target="_blank">harmonogram [pdf]</a>) 3. 6. 2021 obhajoba diplomovej práce (<a href="docs/ObhajobyMgr2021.pdf" target="_blank">harmonogram [pdf]</a>), 10. 6. 2021 ústna skúška (<a href="docs/UstneSkuskyMgr2021.pdf" target="_blank">harmonogram [pdf]</a>), 24. 8. 2021 obhajoba diplomovej práce (<a href="docs/Obhajoby2021aug.pdf" target="_blank">harmonogram [pdf]</a>).</p>*/}
