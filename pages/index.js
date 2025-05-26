@@ -136,7 +136,7 @@ function IndexPage( props ) {
                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2025/2025-04-23-geovedy.jpg" target="_blank">Plagát</a></div>
               </div>*/}
 
-              <div className="mb-1.5"><Datum date={ new Date("2025-05-21") } today={ new Date(props.today) }></Datum></div>
+              {/*<div className="mb-1.5"><Datum date={ new Date("2025-05-21") } today={ new Date(props.today) }></Datum></div>
                 <h5 className="font-bold mb-2">Prednášky</h5>
                 <p className="font-bold mb-f1">Archeometrický výskum drahých kameňov a šperkov</p>
                 <p className="font-bold mb-f2 mt-f0">Fosílny mikrosvet známy a neznámy</p>
@@ -145,7 +145,7 @@ function IndexPage( props ) {
                 <div className="mb-2">Prednášajúci: <i>doc. PaedDr. Ján Štubňa, PhD.</i>, <i>prof. Mgr. Natália Hlavatá Hudáčková, PhD.</i></div>
                 <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/kdkl1" target="_blank">https://lnk.sk/kdkl1</a></div>
                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2025/2025-05-21-geovedy.jpg" target="_blank">Plagát</a></div>
-              </div>
+              </div>*/}
 
               <div className="mb-1.5"><Datum date={ new Date("2025-05-26") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
