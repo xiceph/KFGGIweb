@@ -10,7 +10,7 @@ export default function Statnice() {
         <h3 className="border-l-3 md:border-l-4 border-k-brown pl-3 md:pl-5 py-2 md:py-3">Bakalárske študijné programy</h3>
         
         <h4>Termín 2024/25</h4>
-        <p>Obhajoba bakalárskej práce: 18. 6. 2025 a 19. 6. 2025</p> (<a href="docs/bc_ss_2025.jpg" target="_blank">harmonogram [jpg]</a>).</p>{/*
+        <p>Obhajoba bakalárskej práce: 18. 6. 2025 a 19. 6. 2025 (<a href="docs/bc_ss_2025.jpg" target="_blank">harmonogram [jpg]</a>).</p>{/*
         <p>Obhajoba bakalárskej práce ZKI + upGe/GIS: 14. 6. 2023 od 8:30 (<a href="docs/HarmonogramGISBc2023.pdf" target="_blank">harmonogram [pdf]</a>)</p>
         <p>Obhajoba bakalárskej práce ZEP:  15. 6. 2022 , 24. 8. 2022.</p>
         <p>Obhajoba bakalárskej práce ZKI:  16. 6. 2022, 24. 8. 2022.*/}{/*22. 6. 2021 (<a href="docs/ObhajobyBc2021.pdf" target="_blank">harmonogram [pdf]</a>), 24. 8. 2021 (<a href="docs/Obhajoby2021aug.pdf" target="_blank">harmonogram [pdf]</a>).*/}
