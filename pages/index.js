@@ -147,9 +147,9 @@ function IndexPage( props ) {
                 <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2025/2025-05-21-geovedy.jpg" target="_blank">Plagát</a></div>
               </div>*/}
 
-              <div className="mb-1.5"><Datum date={ new Date("2025-05-26") } _today={ new Date(props.today) }></Datum></div>
+              <div className="mb-1.5"><Datum date={ new Date("2025-06-18") } _today={ new Date(props.today) }></Datum></div>
               <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div>Na katedre budú od 26. 5. 2025 do 29. 5. 2025 prebiehať <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>
+              <div>Na katedre budú 18. 6. 2025 a 19. 6. 2025 prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>
 
 {/*
               <div className="mb-1.5"><Datum date={ new Date("2024-02-15") } _today={ new Date(props.today) }></Datum></div>
