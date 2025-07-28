@@ -78,7 +78,7 @@ export default function ProjektFG() {
           <h4>Publikačné výstupy</h4>
           <h5 className="text-k-grey">2025</h5>
           <p>
-            POPOV, Anton B. &amp;MINÁR, Jozef: Application of Physical Geomorphometry 
+            POPOV, Anton B. &amp; MINÁR, Jozef: Application of Physical Geomorphometry
             in Digital Geomorphological Mapping. In: {" "}<em>Geomorphometry 2025, 
             Proceedings (Perugia, Italy, June 9-13, 2025)</em>. DOI:{" "}
             <a
@@ -90,7 +90,7 @@ export default function ProjektFG() {
             </a>
           </p>
           <p>
-            FECISKANIN, Richard &amp;HAJDÚCHOVÁ, Veronika: New Tool for Calculating 
+            FECISKANIN, Richard &amp; HAJDÚCHOVÁ, Veronika: New Tool for Calculating
             Land Surface Parameters. In: {" "}<em>Geomorphometry 2025, 
             Proceedings (Perugia, Italy, June 9-13, 2025)</em>. DOI:{" "}
             <a
@@ -102,7 +102,7 @@ export default function ProjektFG() {
             </a>
           </p>
           <p>
-            MINÁR, Jozef, FECISKANIN, Richard, GALLAY, Michal &amp;ŠUPINSKÝ, Jozef: 
+            MINÁR, Jozef, FECISKANIN, Richard, GALLAY, Michal &amp; ŠUPINSKÝ, Jozef:
             Advances in theory of physical geomorphometry. In: {" "}<em>Geomorphometry 2025, 
             Proceedings (Perugia, Italy, June 9-13, 2025)</em>. DOI:{" "}
             <a
@@ -114,7 +114,7 @@ export default function ProjektFG() {
             </a>
           </p>
           <p>
-            GALLAY, Michal, ŠUPINSKÝ, Jozef, NOVÁKOVÁ, Michaela &amp;MINÁR, Jozef: 
+            GALLAY, Michal, ŠUPINSKÝ, Jozef, NOVÁKOVÁ, Michaela &amp; MINÁR, Jozef:
             Extending Physical Geomorphometry into 3D: A Case Study on Domica Cave, 
             Slovakia. In: {" "}<em>Geomorphometry 2025, 
             Proceedings (Perugia, Italy, June 9-13, 2025)</em>. DOI:{" "}
@@ -127,7 +127,7 @@ export default function ProjektFG() {
             </a>
           </p>
           <p>
-            HAJDÚCHOVÁ, Veronika, BOBÁĽOVÁ, Hana, BENOVÁ, Alexandra &amp;MINÁR, Jozef: 
+            HAJDÚCHOVÁ, Veronika, BOBÁĽOVÁ, Hana, BENOVÁ, Alexandra &amp; MINÁR, Jozef:
             Towards implementation of segmentation into Physical geomorphometry tools: 
             Case of generalization. In: {" "}<em>Geomorphometry 2025, 
             Proceedings (Perugia, Italy, June 9-13, 2025)</em>. DOI:{" "}
@@ -140,7 +140,7 @@ export default function ProjektFG() {
             </a>
           </p>
           <p>
-            FECISKANIN, Richard &amp;MINÁR, Jozef: DEM Generalization Tool Using 
+            FECISKANIN, Richard &amp; MINÁR, Jozef: DEM Generalization Tool Using
             Grid-Based Quadric Error Metric. In: {" "}<em>Geomorphometry 2025, 
             Proceedings (Perugia, Italy, June 9-13, 2025)</em>. DOI:{" "}
             <a
@@ -166,7 +166,7 @@ export default function ProjektFG() {
             (s. 39).
           </p>
           <p>
-            GALLAY, Michal, ŠUPINSKÝ, Jozef, NOVÁKOVÁ, Michaela &amp;MINÁR, Jozef: 
+            GALLAY, Michal, ŠUPINSKÝ, Jozef, NOVÁKOVÁ, Michaela &amp; MINÁR, Jozef:
             Physical geomorphometry in cave systems: a case study of Domica Cave, Slovakia.
             In: {" "}<em>International Conference State of Geomorphological Research 
             in 2025. Abstracts (Bratislava, Slovak Republic, 9 – 11 April 2025) </em>. 
