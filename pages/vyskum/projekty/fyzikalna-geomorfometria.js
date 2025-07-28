@@ -78,6 +78,109 @@ export default function ProjektFG() {
           <h4>Publikačné výstupy</h4>
           <h5 className="text-k-grey">2025</h5>
           <p>
+            POPOV, Anton B. &amp;MINÁR, Jozef: Application of Physical Geomorphometry 
+            in Digital Geomorphological Mapping. In: {" "}<em>Geomorphometry 2025, 
+            Proceedings (Perugia, Italy, June 9-13, 2025)</em>. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.5281/zenodo.15022784"
+            >
+              https://doi.org/10.5281/zenodo.15022784
+            </a>
+          </p>
+          <p>
+            FECISKANIN, Richard &amp;HAJDÚCHOVÁ, Veronika: New Tool for Calculating 
+            Land Surface Parameters. In: {" "}<em>Geomorphometry 2025, 
+            Proceedings (Perugia, Italy, June 9-13, 2025)</em>. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.5281/zenodo.15005370"
+            >
+              https://doi.org/10.5281/zenodo.15005370
+            </a>
+          </p>
+          <p>
+            MINÁR, Jozef, FECISKANIN, Richard, GALLAY, Michal &amp;ŠUPINSKÝ, Jozef: 
+            Advances in theory of physical geomorphometry. In: {" "}<em>Geomorphometry 2025, 
+            Proceedings (Perugia, Italy, June 9-13, 2025)</em>. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.5281/zenodo.15282903"
+            >
+              https://doi.org/10.5281/zenodo.15282903
+            </a>
+          </p>
+          <p>
+            GALLAY, Michal, ŠUPINSKÝ, Jozef, NOVÁKOVÁ, Michaela &amp;MINÁR, Jozef: 
+            Extending Physical Geomorphometry into 3D: A Case Study on Domica Cave, 
+            Slovakia. In: {" "}<em>Geomorphometry 2025, 
+            Proceedings (Perugia, Italy, June 9-13, 2025)</em>. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.5281/zenodo.15306377"
+            >
+              https://doi.org/10.5281/zenodo.15306377
+            </a>
+          </p>
+          <p>
+            HAJDÚCHOVÁ, Veronika, BOBÁĽOVÁ, Hana, BENOVÁ, Alexandra &amp;MINÁR, Jozef: 
+            Towards implementation of segmentation into Physical geomorphometry tools: 
+            Case of generalization. In: {" "}<em>Geomorphometry 2025, 
+            Proceedings (Perugia, Italy, June 9-13, 2025)</em>. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.5281/zenodo.15275419"
+            >
+              https://doi.org/10.5281/zenodo.15275419
+            </a>
+          </p>
+          <p>
+            FECISKANIN, Richard &amp;MINÁR, Jozef: DEM Generalization Tool Using 
+            Grid-Based Quadric Error Metric. In: {" "}<em>Geomorphometry 2025, 
+            Proceedings (Perugia, Italy, June 9-13, 2025)</em>. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.5281/zenodo.15024141"
+            >
+              https://doi.org/10.5281/zenodo.15024141
+            </a>
+          </p>
+          <p>
+            MINÁR, Jozef: Physical geomorphometry in digital geomorphological mapping. 
+            In: {" "}<em>International Conference State of Geomorphological Research 
+            in 2025. Abstracts (Bratislava, Slovak Republic, 9 – 11 April 2025) </em>. 
+            [online]. [cit. 2025-04-20]. Dostupné z:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://geography.sav.sk/web-data/science-research/conferences/SGR2025/book_of_abstract_SGR_2025.pdf"
+            >
+              https://geography.sav.sk/web-data/science-research/conferences/SGR2025/book_of_abstract_SGR_2025.pdf
+            </a>
+            (s. 39).
+          </p>
+          <p>
+            GALLAY, Michal, ŠUPINSKÝ, Jozef, NOVÁKOVÁ, Michaela &amp;MINÁR, Jozef: 
+            Physical geomorphometry in cave systems: a case study of Domica Cave, Slovakia.
+            In: {" "}<em>International Conference State of Geomorphological Research 
+            in 2025. Abstracts (Bratislava, Slovak Republic, 9 – 11 April 2025) </em>. 
+            [online]. [cit. 2025-04-20]. Dostupné z:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://geography.sav.sk/web-data/science-research/conferences/SGR2025/book_of_abstract_SGR_2025.pdf"
+            >
+              https://geography.sav.sk/web-data/science-research/conferences/SGR2025/book_of_abstract_SGR_2025.pdf
+            </a>
+            (s. 21).
+          </p>
+          <p>
             POPOV, Anton B., MINÁR, Jozef &amp;&nbsp;DRĂGUŢ, Lucian: Physically
             based digital geomorphological mapping: Case study of glacial and
             karst topography. In: <em>Geomorphology</em>. 2025, Vol. 470, Art.
