@@ -152,6 +152,16 @@ export default function ProjektFG() {
             </a>
           </p>
           <p>
+            FECISKANIN, Richard &amp; MINÁR, Jozef: Advancing raster DEM generalization with a quadric error metric approach, In: {" "}<em>Computers & Geosciences</em>. 2025, Vol. 202, Art. No. 105963. ISSN 0098-3004. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.1016/j.cageo.2025.105963"
+            >
+              https://doi.org/10.1016/j.cageo.2025.105963
+            </a>
+          </p>
+          <p>
             MINÁR, Jozef: Physical geomorphometry in digital geomorphological mapping. 
             In: {" "}<em>International Conference State of Geomorphological Research 
             in 2025. Abstracts (Bratislava, Slovak Republic, 9 – 11 April 2025) </em>. 
