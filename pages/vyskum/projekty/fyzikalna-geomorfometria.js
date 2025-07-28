@@ -173,7 +173,7 @@ export default function ProjektFG() {
             >
               https://geography.sav.sk/web-data/science-research/conferences/SGR2025/book_of_abstract_SGR_2025.pdf
             </a>
-            (s. 39).
+            {" "}(s. 39).
           </p>
           <p>
             GALLAY, Michal, ŠUPINSKÝ, Jozef, NOVÁKOVÁ, Michaela &amp; MINÁR, Jozef:
@@ -188,7 +188,7 @@ export default function ProjektFG() {
             >
               https://geography.sav.sk/web-data/science-research/conferences/SGR2025/book_of_abstract_SGR_2025.pdf
             </a>
-            (s. 21).
+            {" "}(s. 21).
           </p>
           <p>
             POPOV, Anton B., MINÁR, Jozef &amp;&nbsp;DRĂGUŢ, Lucian: Physically
