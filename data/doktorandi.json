@@ -8,7 +8,8 @@
     "room": "B1-446",
     "year": "",
     "pubid": "",
-    "info": "V mojej odbornej činnosti sa primárne venujem výskumu historickej krajiny, konkrétne rekonštrukcii využívania zeme počas historických období. Pri mojom výskume aplikujem syntézu historických a prírodovedných metód, v rámci nich sa zameriavam na výskum starých máp, DPZ, pedogeografiu, a paleoekológiu. V praxi sa zaoberám využitím GIS v manažmente krajiny/samosprávy."
+    "info": "V mojej odbornej činnosti sa primárne venujem výskumu historickej krajiny, konkrétne rekonštrukcii využívania zeme počas historických období. Pri mojom výskume aplikujem syntézu historických a prírodovedných metód, v rámci nich sa zameriavam na výskum starých máp, DPZ, pedogeografiu, a paleoekológiu. V praxi sa zaoberám využitím GIS v manažmente krajiny/samosprávy.",
+    "infoEn": "My research focuses on the historical landscape, specifically the reconstruction of the land use in diffenet historical periods. Through the synthesis of natural and historical sciences, I focus on the analysis of historical maps, remote sensing, pedogeography, and paleoecology. Also, I apply the usage of GIS in the landscape management and in the leadership of municipalities."
   },
   {
     "id": 9999011,
@@ -19,7 +20,8 @@
     "room": "G-23",
     "year": 2023,
     "pubid": "",
-    "info": ""
+    "info": "",
+    "infoEn": ""
   },
   {
     "id": 9999012,
@@ -30,7 +32,8 @@
     "room": "G-14",
     "year": 2024,
     "pubid": "",
-    "info": ""
+    "info": "",
+    "infoEn": ""
   },
   {
     "id": 9999010,
@@ -41,6 +44,7 @@
     "room": "B1-446",
     "year": "",
     "pubid": "",
-    "info": "Zaujíma sa predovšetkým o meteorológiu, klimatológiu a hydrológiu. V dizertačnej práci sa venuje variabilite zrážok v rámci synoptických situácií. Konkrétne skúma všetky typy cyklonálnych situácií, ktorých podrobné spracovanie by mohlo byť pomocou vhodného hydrologického softvéru využité na vstup do zrážkovo-odtokových vzťahov."
+    "info": "Zaujíma sa predovšetkým o meteorológiu, klimatológiu a hydrológiu. V dizertačnej práci sa venuje variabilite zrážok v rámci synoptických situácií. Konkrétne skúma všetky typy cyklonálnych situácií, ktorých podrobné spracovanie by mohlo byť pomocou vhodného hydrologického softvéru využité na vstup do zrážkovo-odtokových vzťahov.",
+    "infoEn": "My expertise is meteorology, climatology, and hydrology. In my dissertation thesis, I study the variability of precipitation in various synoptic situations. More specifically, I inspect all the types of cyclonic situations, which can be applicable as an input in the precipitation-runoff models."
   }
 ]

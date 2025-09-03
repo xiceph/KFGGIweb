@@ -4,7 +4,7 @@ export default function Absolventi() {
   return (
     <article>
       <h1>Významní absolventi</h1>
-      <Preparing />
+      <Preparing locale="sk" />
     </article>
   );
 } 

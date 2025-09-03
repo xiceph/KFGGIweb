@@ -26,7 +26,7 @@ export default function Header( props ) {
     studium: 'green',
     vyskum: 'blue',
     about: 'brown',
-    study: 'green',
+    studies: 'green',
     research: 'blue'
   }
   
@@ -58,10 +58,10 @@ export default function Header( props ) {
           )
           : (
             <>
-            <div className="hidden md:block">
+            <div className="flex max-md:hidden items-center">
               { pages.map((item) => (
                 <span 
-                  className={`inline-block cursor-pointer px-5 ml-5 mt-3 text-blue-grey-800 rounded-full hover-${color[item.id]} focus:outline-none focus:bg-k-${color[item.id]} focus:border-k-${color[item.id]} overflow-hidden`}
+                  className={`inline-block cursor-pointer px-5 ml-5 mt-3 mb-2 text-blue-grey-800 rounded-full hover-${color[item.id]} focus:outline-none focus:bg-k-${color[item.id]} focus:border-k-${color[item.id]} overflow-hidden`}
                   key={item.id} 
                   onClick={() => setMenuOpened(menuOpened == item ? false : item)}
                 >
@@ -70,12 +70,12 @@ export default function Header( props ) {
                   </button>
                 </span>
               ))}
-              {/*<span 
-                className="px-3 ml-8 lg:ml-10" 
+              <span
+                className="px-3 mt-3 mb-2 ml-8 lg:ml-10"
                 onClick={() => setMenuOpened(false)}
               >
                 <LangSwitch locale={ locale } />
-              </span>*/}
+              </span>
             </div>
             
             <button

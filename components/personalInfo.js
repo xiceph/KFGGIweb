@@ -4,9 +4,13 @@ import Email from "@components/email";
 import { Door, Tel, At, Pointer, OpenExt } from "@components/icons";
 
 export default function PersonalInfo( props ) {
-  const { id, room, tel, email, web, info, pubid, photo } = props.person;
+  const { id, room, tel, email, web, info, infoEn, pubid, photo } = props.person;
+  const { locale } = props;
   
-  //console.log(props.person)
+  const text = {
+    sk: "Zoznam publikácií",
+    en: "List of publications"
+  }
 
   return (
     <>
@@ -41,14 +45,14 @@ export default function PersonalInfo( props ) {
         </div>
       </div>
       {
-        info && (
-          <div className="mt-8 md:text-justify">{ info }</div>
+        (info || infoEn) && (
+          <div className="mt-8 md:text-justify">{ locale === 'en' && infoEn ? infoEn : info }</div>
         )
       }
       {
         pubid && (
           <div className="mt-6">
-            <a href={`http://alis.uniba.sk:9909/search/query?match_1=PHRASE&field_1=authid&term_1=${pubid}&sort=dateNewest&locale=sk&theme=EPC`} target="_blank">Zoznam publikácií <OpenExt /></a>
+            <a href={`http://alis.uniba.sk:9909/search/query?match_1=PHRASE&field_1=authid&term_1=${pubid}&sort=dateNewest&locale=${locale}&theme=EPC`} target="_blank">{text[locale]} <OpenExt /></a>
           </div>
         )
       }

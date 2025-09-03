@@ -2,12 +2,12 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import Info from "@components/personalInfo";
 
-function Zamestnanec({ person }) {
+function Zamestnanec({ person, locale }) {
   return (
     <article>
       <h1>{person.name}</h1>
       <div className="-mt-3 mb-6 font-bold">{person.position}</div>
-      <Info person={person} />
+      <Info person={person} locale={locale} />
     </article>
   );
 } 
@@ -46,7 +46,7 @@ export async function getStaticProps(context) {
   }
   
   return {
-    props: { person }, 
+    props: { person, locale: "sk" }, 
   }
 }
 

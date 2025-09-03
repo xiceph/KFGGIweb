@@ -25,10 +25,28 @@
     ]}
   ],
   "en": [
-    { "title": "About us", "id": "about", "children": []},
-    { "title": "Study", "id": "study", "children": [] },
-    { "title": "Research", "id": "research", "children": [
-      { "title": "Projects", "id": "projects" }
+    { "title": "About Us", "id": "about", "children": [
+      { "title": "History", "id": "history" },
+      { "title": "Employees", "id": "employees" },
+      { "title": "PhD students", "id": "phd_students" },
+      { "title": "Absolvents", "id": "absolvents" },
+      { "title": "Archives and library", "id": "archives_library" },
+      { "title": "Media", "id": "media" }
+    ]},
+    { "title": "Studies", "id": "studies", "children": [
+      { "title": "For applicants", "id": "for_applicants" },
+      { "title": "Study programmes", "id": "study_programmes" },
+      { "title": "Subjects", "id": "subjects" },
+      { "title": "Theses", "id": "theses" },
+      { "title": "State exams", "id": "state_exams" },
+      { "title": "Excursions and fieldwork", "id": "excursions_and_fieldwork" }
+    ] },
+        { "title": "Research", "id": "research", "children": [
+      { "title": "Scientific focus", "id": "scientific_focus" },
+      { "title": "Applied research", "id": "applied_research" },
+      { "title": "Projects", "id": "projects" },
+      { "title": "Publications", "id": "publications" },
+      { "title": "Fieldwork", "id": "fieldwork" }
     ] }
   ],
   "special": [

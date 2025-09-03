@@ -2,7 +2,7 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import Info from "@components/personalInfo";
 
-function Doktorand({ person, locale }) {
+function PhdStudent({ person, locale }) {
   return (
     <article>
       <h1>{person.name}</h1>
@@ -45,9 +45,9 @@ export async function getStaticProps(context) {
   }
   
   return {
-    props: { person, locale: "sk" }, 
+    props: { person, locale: "en" }, 
   }
 }
 
-export default Doktorand
+export default PhdStudent
  

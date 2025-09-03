@@ -20,7 +20,7 @@ export default function Nav(props) {
     studium: 'green',
     vyskum: 'blue',
     about: 'brown',
-    study: 'green',
+    studies: 'green',
     research: 'blue'
   }
   

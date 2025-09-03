@@ -4,223 +4,260 @@
     "name": "doc. RNDr. Igor Matečný, PhD.",
     "short": "I Matečný",
     "position": "vedúci katedry",
+    "positionEn": "Department director",
     "tel": "+421 2 9014 9264",
     "room": "B1-453",
     "email": ["igor.matecny"],
     "pubid": 1196594,
-    "info": ""
+    "info": "",
+    "infoEn": ""
   },
   {
     "id": "15126V",
     "name": "RNDr. Marián Jenčo, PhD.",
     "short": "M Jenčo",
     "position": "zástupca vedúceho katedry",
+    "positionEn": "Deputy",
     "tel": "+421 2 9014 9266",
     "room": "B1-454",
     "email": ["marian.jenco"],
     "pubid": 608015,
-    "info": "Venuje sa predovšetkým rozvíjaniu teórie morfometrickej analýzy georeliéfu, interpretácii a aplikácii jednotlivých morfometrických parametrov a geoekologickému modelovaniu, najmä modelovaniu erózie pôdy."
+    "info": "Venuje sa predovšetkým rozvíjaniu teórie morfometrickej analýzy georeliéfu, interpretácii a aplikácii jednotlivých morfometrických parametrov a geoekologickému modelovaniu, najmä modelovaniu erózie pôdy.",
+    "infoEn": "My expertise is the developmemt of theories regarding morphometric terrain analysis, including the interpretation and application of various morphometric variables. Moreover, I am interested in geoecological modeling, especially with a focus on soil erosion."
   },
   {
     "id": "20508",
     "name": "Viera Bartovicová",
     "short": "V Bartovicová",
     "position": "sekretárka",
+    "positionEn": "secretary",
     "tel": "+421 2 9014 1136",
     "email": ["viera.bartovicova"],
     "room": "B1-456",
-    "info": ""
+    "info": "",
+    "infoEn": ""
   },
   {
     "id": "14553",
     "name": "Mgr. Alexandra Benová, PhD.",
     "short": "A Benová",
     "position": "odborný asistent",
+    "positionEn": "research assistant professor",
     "tel": "+421 2 9014 2097",
     "email": ["alexandra.benova"],
     "room": "G-21",
     "pubid": 1196881,
-    "info": "Venuje sa geomorfometrii a kvantitatívnej geomorfológii; tematickej kartografii a mapovému jazyku, kartografickej vizualizácii a tvorbe tematických máp a atlasov; analýze starých máp a atlasov z hľadiska kartografie a zmien krajiny."
+    "info": "Venuje sa geomorfometrii a kvantitatívnej geomorfológii; tematickej kartografii a mapovému jazyku, kartografickej vizualizácii a tvorbe tematických máp a atlasov; analýze starých máp a atlasov z hľadiska kartografie a zmien krajiny.",
+    "infoEn": "My expertise is in geomorphometry, quantitative geomorphology, thematical cartography, map language, cartographic visualization, computing thematical maps and atlases, and the archive map analysis in terms of cartography and land cover changes."
   },
   {
     "id": 9999004,
     "name": "Mgr. Veronika Beranová, PhD.",
     "short": "V Beranová",
     "position": "odborný asistent",
+    "positionEn": "research assistant professor",
     "email": ["veronika.orsulova"],
     "tel": "+421 2 9014 9265",
     "room": "B1-455",
     "pubid": 1096402,
-    "info": "Vo výskume sa zameriava na využívanie geoekologických podkladov v precíznom poľnohospodárstve; primárne sa venuje meraniam a analýzam mikroklimatických pomerov, distribúcie hmyzích škodcov a pôdnych vlastností vo vinohradoch. V rámci pedagogickej činnosti sa podieľa na výuke predmetov Geoekológia, Fyzická geografia 3 a Metódy pedogeografického výskumu."
+    "info": "Vo výskume sa zameriava na využívanie geoekologických podkladov v precíznom poľnohospodárstve; primárne sa venuje meraniam a analýzam mikroklimatických pomerov, distribúcie hmyzích škodcov a pôdnych vlastností vo vinohradoch. V rámci pedagogickej činnosti sa podieľa na výuke predmetov Geoekológia, Fyzická geografia 3 a Metódy pedogeografického výskumu.",
+    "infoEn": "In my research, I focus on the application of the geoecological information in precise agriculture. Most importantly, I study the microclimatic variables, distribution of the insect pests, and soil attributes in the viticulture. My teaching activity is connected to the subjects concerning geoecology, physical geography, and methods of pedogeographical research."
   },
   {
     "id": "1XXXX",
     "name": "Mgr. Hana Bobáľová, PhD.",
     "short": "H Bobáľová",
     "position": "odborný asistent",
+    "positionEn": "research assistant professor",
     "tel": "+421 2 9014 2167",
     "room": "G-19",
     "email": ["hana.bobalova"],
     "pubid": 1196880,
-    "info": ""
+    "info": "",
+    "infoEn": ""
   },
   {
     "id": "14212",
     "name": "Mgr. Michal Druga, PhD.",
     "short": "M Druga",
     "position": "odborný asistent",
+    "positionEn": "research assistant professor",
     "tel": "+421 2 9014 9259",
     "room": "B1-457",
     "email": ["michal.druga"],
     "pubid": 863572,
-    "info": "Jeho výskum je zameraný na modelovanie zmien krajinnej pokrývky, v rámci ktorého sa špecializuje na rozvoj a testovanie alternatívnych geografických indikátorov používaných v týchto modeloch. Vyučuje predmety zamerané na ovládanie ArcGIS a Office a praktickú časť metód geoekologického výskumu."
+    "info": "Jeho výskum je zameraný na modelovanie zmien krajinnej pokrývky, v rámci ktorého sa špecializuje na rozvoj a testovanie alternatívnych geografických indikátorov používaných v týchto modeloch. Vyučuje predmety zamerané na ovládanie ArcGIS a Office a praktickú časť metód geoekologického výskumu.",
+    "infoEn": "My research is focused on land cover changes modeling, specifically on testing alternative geographic predictors used in these models. My educational activities are focused on the subjects concerning the usage of software ArcGIS and Office, as well as practical methods of geoecological research."
   },
   {
     "id": "14141",
     "name": "doc. RNDr. Vladimír Falťan, PhD.",
     "short": "V Falťan",
     "position": "docent",
+    "positionEn": "research associate professor",
     "tel": "+421 2 9014 9431",
     "room": "B1-458",
     "email": ["vladimir.faltan"],
     "pubid": 1196587,
     "web": "https://fns.uniba.sk/en/faltan",
-    "info": "Venuje sa detailnému výskumu priestorovej štruktúry a dynamiky krajinnej pokrývky a využitia zeme. Zaoberá sa štúdiom území zasiahnutých prírodnými disturbanciami a kalamitnými udalosťami. Má skúsenosti s vedením vedeckých i aplikačne zameraných projektov využívajúcich terénny geoekologický výskum, diaľkový prieskum Zeme, interpretáciu štatistických modelov a GIS."
+    "info": "Venuje sa detailnému výskumu priestorovej štruktúry a dynamiky krajinnej pokrývky a využitia zeme. Zaoberá sa štúdiom území zasiahnutých prírodnými disturbanciami a kalamitnými udalosťami. Má skúsenosti s vedením vedeckých i aplikačne zameraných projektov využívajúcich terénny geoekologický výskum, diaľkový prieskum Zeme, interpretáciu štatistických modelov a GIS.",
+    "infoEn": "My focus is on the detailed research of the spatial structures and the land use/ land cover dynamics. Also, I study natural disturbances, mainly windstorms, and their ecological driving forces. I have several experiences leading scientific and applicable projects focused on the field geoecological research, remote sensing, statistical model interpretation, and GIS."
   },
   {
     "id": "14893",
     "name": "Mgr. Richard Feciskanin, Ph.D.",
     "short": "R Feciskanin",
     "position": "odborný asistent",
+    "positionEn": "research assistant professor",
     "tel": "+421 2 9014 9393",
     "room": "G-20",
     "email": ["richard.feciskanin"],
     "pubid": 1202092,
     "info": "Venuje sa digitálnym modelom georeliéfu, najmä modelom založeným na trojuholníkovej sieti a ich optimalizácii; mapovým informačným službám a ich štandardom; webovému programovaniu a tvorbe webových mapových aplikácií; digitálnej kartografii a kartografickému modelovaniu.",
-    "web": "https://gis.fns.uniba.sk/feciskanin/"
+    "infoEn": "My research focuses mainly on the digital elevation models, specifically those based on the triangular network, and their optimization. My expertise is also in the map information services and their standards, web programming, building of web applications, digital cartography, and cartographic modeling."
   },
   {
     "id": "15126",
     "name": "RNDr. Marián Jenčo, PhD.",
     "short": "M Jenčo",
     "position": "odborný asistent",
+    "positionEn": "research assistant professor",
     "tel": "+421 2 9014 9266",
     "room": "B1-454",
     "email": ["marian.jenco"],
     "pubid": 608015,
-    "info": "Venuje sa predovšetkým rozvíjaniu teórie morfometrickej analýzy georeliéfu, interpretácii a aplikácii jednotlivých morfometrických parametrov a geoekologickému modelovaniu, najmä modelovaniu erózie pôdy."
+    "info": "Venuje sa predovšetkým rozvíjaniu teórie morfometrickej analýzy georeliéfu, interpretácii a aplikácii jednotlivých morfometrických parametrov a geoekologickému modelovaniu, najmä modelovaniu erózie pôdy.",
+    "infoEn": "My expertise is the developmemt of theories regarding morphometric terrain analysis, including the interpretation and application of various morphometric variables. Moreover, I am interested in geoecological modeling, especially with a focus on soil erosion."
   },
   {
     "id": "15102",
     "name": "Mgr. Miroslav Kožuch, PhD.",
     "short": "M Kožuch",
     "position": "odborný asistent",
+    "positionEn": "research assistant professor",
     "tel": "+421 2 9014 9283",
     "room": "G-18",
     "email": ["miroslav.kozuch"],
     "pubid": 1196882,
-    "info": "Venuje sa spracovaniu archívnych a aktuálnych leteckých meračských snímok metódami digitálnej fotogrametrie, resp. záznamov diaľkového prieskumu Zeme a hodnoteniu dosiahnutých výsledkov; zberu priestorových údajov využitím geodetických metód a globálnych navigačných satelitných systémov; 3D modelovaniu objektov."
+    "info": "Venuje sa spracovaniu archívnych a aktuálnych leteckých meračských snímok metódami digitálnej fotogrametrie, resp. záznamov diaľkového prieskumu Zeme a hodnoteniu dosiahnutých výsledkov; zberu priestorových údajov využitím geodetických metód a globálnych navigačných satelitných systémov; 3D modelovaniu objektov.",
+    "infoEn": "My area of expertise is processing of archived and up-to-date aerial photograms (using the methods of digital photogrammetry) and remote sensing data. In addition, I focus on the evaluation of the corresponding results, the collection of spatial data using geodetic methods and global navigation satellite systems, as well as 3D modeling of various objects."
   },
   {
     "id": "14290",
     "name": "doc. RNDr. Igor Matečný, PhD.",
     "short": "I Matečný",
     "position": "docent",
+    "positionEn": "research associate professor",
     "tel": "+421 2 9014 9264",
     "room": "B1-453",
     "email": ["igor.matecny"],
     "pubid": 1196594,
-    "info": ""
+    "info": "",
+    "infoEn": ""
   },
   {
     "id": "15107",
     "name": "prof. RNDr. Jozef Minár, CSc.",
     "short": "J Minár",
     "position": "profesor",
+    "positionEn": "professor",
     "tel": "+421 2 9014 9518",
     "room": "B1-450",
     "email": ["jozef.minar"],
     "pubid": 1196597,
     "web": "https://fns.uniba.sk/en/minar",
-    "info": "Jeho vedecký výskum sa dlhodobo zameriava predovšetkým na oblasť geomorfometrie a teoretickej geomorfológie, morfotektoniky, geomorfologického a geoekologického mapovania a výskumu Západných Karpát. Vedie geomorfologické predmety, výuku prírodných rizík a hrozieb a dokto­randské semináre."
+    "info": "Jeho vedecký výskum sa dlhodobo zameriava predovšetkým na oblasť geomorfometrie a teoretickej geomorfológie, morfotektoniky, geomorfologického a geoekologického mapovania a výskumu Západných Karpát. Vedie geomorfologické predmety, výuku prírodných rizík a hrozieb a dokto­randské semináre.",
+    "infoEn": "My long-term scientific research is focused on the fields of geomorphometry and theoretical geomorphology, morphotectonics, and geomorphological and geoecological mapping, mainly in the West Carpathians. My educational activities are connected to geomorphology, natural risks and hazards, and lectures for PhD students."
   },
   {
     "id": "15099",
     "name": "doc. Ing. Peter Pišút, PhD.",
     "short": "P Pišút",
     "position": "docent",
+    "positionEn": "research associate professor",
     "tel": "+421 2 9014 9263",
     "room": "B1-452",
     "email": ["peter.pisut"],
     "pubid": 1196391,
-    "info": ""
+    "info": "",
+    "infoEn": ""
   },
   {
     "id": "11301",
     "name": "RNDr. Norbert Polčák, PhD.",
     "short": "N Polčák",
     "position": "odborný asistent",
+    "positionEn": "research assistant professor",
     "tel": "+421 2 9014 9259",
     "room": "B1-457",
     "email": ["norbert.polcak"],
     "pubid": 1094242,
-    "info": ""
+    "info": "",
+    "infoEn": ""
   },
   {
     "id": "14254",
     "name": "Mgr. Juraj Procházka, PhD.",
     "short": "J Procházka",
     "position": "odborný asistent",
+    "positionEn": "research assistant professor",
     "tel": "+421 2 9014 9262",
     "room": "B1-447",
     "email": ["juraj.prochazka"],
     "pubid": 1196390,
-    "info": "Ťažiskom výskumu sú rekonštrukcie vývoja prírodného prostredia s využitím paleobotanických metód, s dôrazom na dlhodobé klimatické zmeny a interakcie človek-krajina v minulosti. Druhým výskumným pólom sú fluviálne geomorfologické procesy a vývoj georeliéfu riečnej krajiny v kvartéri vo vzťahu k rôznym faktorom, predovšetkým k tektonike, hydroklimatickým fluktuáciám a v mladších dobách k činnosti človeka."
+    "info": "Ťažiskom výskumu sú rekonštrukcie vývoja prírodného prostredia s využitím paleobotanických metód, s dôrazom na dlhodobé klimatické zmeny a interakcie človek-krajina v minulosti. Druhým výskumným pólom sú fluviálne geomorfologické procesy a vývoj georeliéfu riečnej krajiny v kvartéri vo vzťahu k rôznym faktorom, predovšetkým k tektonike, hydroklimatickým fluktuáciám a v mladších dobách k činnosti človeka.",
+    "infoEn": "My area of expertise is the reconstruction of natural environment evolution using the paleobotanic methods, with a special focus on the long-term climate changes and the interaction between the humans and nature in the past. Besides, my interest lies in the fluvial geomorphological processes and the evolution of quarternary riverlands related to various factors, e. g. tectonics, hydroclimatic fluctuations, and the primary anthropogenetic activities."
   },
   {
     "id": 9999006,
     "name": "Mgr. Adam Rusinko, PhD.",
     "short": "A Rusinko",
     "position": "odborný asistent",
+    "positionEn": "research assistant professor",
     "email": ["adam.rusinko"],
     "tel": "+421 2 9014 2093",
     "room": "B1-445",
     "pubid": 1173544 ,
-    "info": "Vo svojej dizertačnej práci sa venuje modelovaniu zmien krajinnej pokrývky. Špecializuje sa na výskum riadiacich síl súvisiacich s georeliéfom, jeho morfometrickými vlastnosťami a ich digitálnej reprezentácií v prostredí GIS."
+    "info": "Vo svojej dizertačnej práci sa venuje modelovaniu zmien krajinnej pokrývky. Špecializuje sa na výskum riadiacich síl súvisiacich s georeliéfom, jeho morfometrickými vlastnosťami a ich digitálnej reprezentácií v prostredí GIS.",
+    "infoEn": "My research focuses on the land cover modeling, specifically on the driving forces connected to the terrain, its morphometric characteristics, and their digital representation in the GIS environment."
   },
   {
     "id": "14983",
     "name": "RNDr. Ivan Ružek, PhD.",
     "short": "I Ružek",
     "position": "odborný asistent",
+    "positionEn": "research assistant professor",
     "tel": "+421 2 9014 9620",
     "room": "B1-448",
     "email": ["ivan.ruzek"],
     "pubid": 322133,
-    "info": ""
+    "info": "",
+    "infoEn": ""
   },
   {
     "id": 9999007,
     "name": "Mgr. Vladimír Šagát, PhD.",
     "short": "V Šagát",
     "position": "odborný asistent",
+    "positionEn": "research assistant professor",
     "email": ["sagat13"],
     "tel": "+421 2 9014 2093",
     "room": "B1-445",
     "pubid": 1173549,
-    "info": "Vo svojom výskume sa zameriavam na biogeografiu a geoekológiu. Venujem sa identifikácii, hodnoteniu a modelovaniu zmien krajinnej pokrývky, dendrochronologickému a dendroklimatologickému výskumu, ale aj inventarizácii drevín a biotopov. Najintenzívnejšie sa zaujímam o dynamiku vývojových cyklov v horských smrekových lesoch, s dôrazom na prírodné disturbancie (veterné a lykožrútové kalamity), ktoré v nich prebiehajú. Vyučujem predmety Interpretácia údajov DPZ 1 a 2, Cvičenia z geoekológie a Základy štatistiky pre geografov."
+    "info": "Vo svojom výskume sa zameriavam na biogeografiu a geoekológiu. Venujem sa identifikácii, hodnoteniu a modelovaniu zmien krajinnej pokrývky, dendrochronologickému a dendroklimatologickému výskumu, ale aj inventarizácii drevín a biotopov. Najintenzívnejšie sa zaujímam o dynamiku vývojových cyklov v horských smrekových lesoch, s dôrazom na prírodné disturbancie (veterné a lykožrútové kalamity), ktoré v nich prebiehajú. Vyučujem predmety Interpretácia údajov DPZ 1 a 2, Cvičenia z geoekológie a Základy štatistiky pre geografov.",
+    "infoEn": "My research focuses on biogeography and geoecology. I am dedicated to the identification, evaluation, and modeling of land cover changes, dendrochronological and dendroclimatological research, as well as the inventory of woody plants and habitats. I am most intensely interested in the dynamics of developmental cycles in mountain spruce forests, with an emphasis on natural disturbances (wind and bark beetle calamities) that occur in them. I teach subjects such as Remote Sensing Data Interpretation 1 and 2, Geoecology Exercises, and Fundamentals of Statistics for Geographers."
   },
   {
     "id": 9999008,
     "name": "Mgr. Adam Šupčík, PhD.",
     "short": "A Šupčík",
     "position": "odborný asistent",
+    "positionEn": "research assistant professor",
     "email": ["adam.supcik"],
     "tel": "+421 2 9014 2125",
     "room": "B1-455",
     "pubid": 1187029,
-    "info": "Špecializuje sa na precízne poľnohospodárstvo a vinohradníctvo, zo zameraním na analýzu leteckých snímok pre potreby identifikácie viniča v prostredí GIS, taktiež sa zaoberá tvorbou 3D modelov pre potreby precízneho vinohradníctva."
+    "info": "Špecializuje sa na precízne poľnohospodárstvo a vinohradníctvo, zo zameraním na analýzu leteckých snímok pre potreby identifikácie viniča v prostredí GIS, taktiež sa zaoberá tvorbou 3D modelov pre potreby precízneho vinohradníctva.",
+    "infoEn": "My area of expertise is precise agriculture and viticulture. Specifically, I focus on the aerial imagery analysis for the needs of identification of the vine in GIS. Moreover, I specialize in building 3D models applicable in precise viticulture."
   }
 ]
-
-

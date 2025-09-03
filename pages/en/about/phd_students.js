@@ -1,0 +1,55 @@
+import { promises as fs } from 'fs';
+import path from 'path';
+import React from 'react';
+import Link from "next/link";
+import Email from "@components/email";
+import { Door, Tel, At } from "@components/icons";
+
+function PhdStudents({ data }) {
+  return (
+    <article>
+      <h1>List of PhD students</h1>
+      <dl>
+        {data.map( item => (
+          <React.Fragment key={item.id}>
+            <dt>
+              <Link href={`/en/about/phd_students/${encodeURIComponent(item.short)}`}>
+                {item.name}
+              </Link>
+            </dt>
+            <dd className="mb-8">
+              <div>
+                <span className="inline-block mr-4">
+                  <Door className="text-gray-400" />
+                  {item.room || ''}
+                </span>
+                <span className="inline-block mr-4"> 
+                  <Tel className="text-gray-400" />
+                  {item.tel || ''}
+                </span>
+                <span className="inline-block">
+                  <At className="text-gray-400" />
+                  <Email parts={item.email} />
+                </span>
+              </div>
+            </dd>
+          </React.Fragment>
+        ))}
+      </dl>
+      
+    </article>
+  );
+} 
+
+export async function getStaticProps(context) {
+
+  const dataDirectory = path.join(process.cwd(), 'data');
+  const fileContents = await fs.readFile(`${dataDirectory}/doktorandi.json`, 'utf8');
+  const data = JSON.parse(fileContents);
+
+  return {
+    props: { data }, 
+  }
+}
+
+export default PhdStudents

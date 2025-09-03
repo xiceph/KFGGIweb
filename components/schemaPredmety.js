@@ -17,9 +17,14 @@ const handleList = e => {
   
 }
 
-export const LegendaPredmety = () => {
+export const LegendaPredmety = ({ locale }) => {
   const colors = ['#cfb1ec','#a2c2f4','#8fdce5','#9dd5a4','#cde299','#f3d798','#E2E2E2'];
-  const desc = ['Matematicko-štatistický základ', 'Geoinformatika a kartografia', 'Diaľkový prieskum Zeme a zber dát', 'Fyzická geografia a jej aplikácie', 'Environmentalistika', 'Všeobecná, humánna a regionálna geografia', 'Ostatné predmety'];
+  const translations = {
+    sk: ['Matematicko-štatistický základ', 'Geoinformatika a kartografia', 'Diaľkový prieskum Zeme a zber dát', 'Fyzická geografia a jej aplikácie', 'Environmentalistika', 'Všeobecná, humánna a regionálna geografia', 'Ostatné predmety'],
+    en: ['Mathematical-statistical basis', 'Geoinformatics and cartography', 'Remote sensing and data collection', 'Physical geography and its applications', 'Environmentalism', 'General, human and regional geography', 'Other subjects']
+  };
+  const l = locale || 'sk';
+  const desc = translations[l];
   
   return (
     <div className="flex flex-col text-sm">

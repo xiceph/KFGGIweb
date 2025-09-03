@@ -2,10 +2,11 @@ import { promises as fs } from 'fs';
 import path from 'path';
 import Info from "@components/personalInfo";
 
-function Doktorand({ person, locale }) {
+function Employee({ person, locale }) {
   return (
     <article>
       <h1>{person.name}</h1>
+      <div className="-mt-3 mb-6 font-bold">{person.positionEn}</div>
       <Info person={person} locale={locale} />
     </article>
   );
@@ -14,7 +15,7 @@ function Doktorand({ person, locale }) {
 export async function getStaticPaths() {
  
   const dataDirectory = path.join(process.cwd(), 'data');
-  const fileContents = await fs.readFile(`${dataDirectory}/doktorandi.json`, 'utf8');
+  const fileContents = await fs.readFile(`${dataDirectory}/zamestnanci.json`, 'utf8');
   const data = JSON.parse(fileContents);
 
   const paths = data.map( item => (
@@ -30,7 +31,7 @@ export async function getStaticPaths() {
 export async function getStaticProps(context) {
 
   const dataDirectory = path.join(process.cwd(), 'data');
-  const fileContents = await fs.readFile(`${dataDirectory}/doktorandi.json`, 'utf8');
+  const fileContents = await fs.readFile(`${dataDirectory}/zamestnanci.json`, 'utf8');
   const data = JSON.parse(fileContents);
   
   const person = data.find(item => item.short == context.params.short);
@@ -39,15 +40,15 @@ export async function getStaticProps(context) {
   const photoAccess = await fs.access(`${photoDirectory}/${person.id}.jpg`)
     .then(() => true)
     .catch(() => false)
-    
+  
   if( photoAccess) {
     person.photo = `${person.id}.jpg`;
   }
   
   return {
-    props: { person, locale: "sk" }, 
+    props: { person, locale: "en" }, 
   }
 }
 
-export default Doktorand
+export default Employee
  

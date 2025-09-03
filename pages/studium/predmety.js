@@ -50,7 +50,7 @@ function Predmety() {
         </div>
         <SchemaPredmety className="predm" onClick={calcSums} />
       </div>
-      <LegendaPredmety />
+      <LegendaPredmety locale="sk" />
       <Separator size="sm" position="left" />
       <p className="text-ext">Odporúčame rozložiť kreditovú záťaž na celú dobu štúdia. Priemer je 30 kreditov za semester, no časť záťaže z posledného semestra je lepšie preložiť na skoršie semestre. Je dobré mať naplánovanú malú rezervu kreditov. Tiež treba rátať s tým, že niektoré výberové predmety sa môžu v rozvrhu kryť s inými predmetmi tak, že ich nebudete môcť absolvovať. Ako výberové si však máte možnosť zapísať aj predmety z ponuky iných študijných programov.</p>
       
