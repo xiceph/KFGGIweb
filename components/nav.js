@@ -46,12 +46,12 @@ export default function Nav(props) {
                   </li>
                 ))}
               </ul>
-              {/*<div 
+              <div
                 className="px-2 mb-4"
                 onClick={() => setMenuOpened(false)}
               >
                 <LangSwitch full={true} locale={locale} />
-              </div>*/}
+              </div>
             </div>
           )
           : (

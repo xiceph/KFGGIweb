@@ -58,11 +58,11 @@ export default function Header( props ) {
           )
           : (
             <>
-            <div className="flex max-md:hidden items-center">
+            <div className="hidden md:flex items-center">
               { pages.map((item) => (
-                <span 
+                <span
                   className={`inline-block cursor-pointer px-5 ml-5 mt-3 mb-2 text-blue-grey-800 rounded-full hover-${color[item.id]} focus:outline-none focus:bg-k-${color[item.id]} focus:border-k-${color[item.id]} overflow-hidden`}
-                  key={item.id} 
+                  key={item.id}
                   onClick={() => setMenuOpened(menuOpened == item ? false : item)}
                 >
                   <button className={`pt-2.5 px-1.5 pb-0.5 mb-2 border-b-3 border-k-${color[item.id]} focus:outline-none`}>
@@ -71,7 +71,7 @@ export default function Header( props ) {
                 </span>
               ))}
               <span
-                className="px-3 mt-3 mb-2 ml-8 lg:ml-10"
+                className="px-3 mt-3 mb-2 ml-6"
                 onClick={() => setMenuOpened(false)}
               >
                 <LangSwitch locale={ locale } />
