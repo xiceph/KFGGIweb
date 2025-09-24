@@ -62,10 +62,10 @@ function Subjects() {
       <p className="text-ext">We strongly recommend distributing credits equally through the whole span of the study. Recommended is 30 credits per one semester; however, the last semester is demanding in terms of finishing the bachelor's thesis, and therefore a lower amount of planned subjects is adviced. To prevent the potential troubles in the final semester, it is wise to plan for slightly more credits than 180. Please note that some optional ("C") subjects can collide in your schedule, and so you won't have the chance to attend them. However, you can also sign on the subjects from different study programmes.</p>
       
       <h2>Subjects of the Master's study programme</h2>
-      <p><a href="https://sluzby.fmph.uniba.sk/infolist-prif/sk/sp_mZ-FI.html" target="_blank">List of the subjects</a> on the study programme "Physical Geography and Geoinformatics"</p>
+      <p><a href="https://sluzby.fmph.uniba.sk/infolist-prif/en/sp_mZ-FI.html" target="_blank">List of the subjects</a> on the study programme "Physical Geography and Geoinformatics"</p>
       
       <h2>Subjects of the Doctoral study programme</h2>
-      <p><a href="https://sluzby.fmph.uniba.sk/infolist-prif/sk/sp_dFGG.html" target="_blank">List of the subjects</a> on the study programme "Physical Geography, Geoecology, and Geoinformatics"</p>
+      <p><a href="https://sluzby.fmph.uniba.sk/infolist-prif/en/sp_dFGG.html" target="_blank">List of the subjects</a> on the study programme "Physical Geography, Geoecology, and Geoinformatics"</p>
     </div>
   )
 }
