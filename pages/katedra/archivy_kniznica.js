@@ -11,15 +11,13 @@ export default function Archivy() {
         <p>Knižnica katedry má dve časti.</p>
         <p><b>Knižnica FYZ</b> obsahuje prevažne literatúru z fyzickej geografie a geoekológie pre štúdium zamestnancov a študentov katedry.</p> 
         <p><a href="https://liveuniba.sharepoint.com/:x:/s/Katedrafyzickejgeografieageoekolgie/EfC-TjTSDhpHkZQZNORKE0IBj19BI43et_DIHs3HjHggSQ?e=CmWaP2&isSPOFile=1" target="_blank">Katalóg <OpenExt /></a></p>
-        <p className="mb-f8">Kontakt pre časť knižnice FYZ: Hana Bobáľová, pracovňa G-19, <Email parts={["hana.bobalova"]} /></p>
         
         <p><b>Knižnica GIS</b> slúži zamestnancom a študentom tejto katedry, ako aj zamestnancom ostatných katedier Prírodovedeckej fakulty UK. Fond knižnice obsahuje tituly odbornej domácej a zahraničnej literatúry z oblasti kartografie, geoinformatiky a informatiky, diaľkového prieskumu Zeme a fotogrametrie, matematiky a fyziky a odborných periodík.</p>
         <p>Členom knižnice GIS sa môžete stať po vyplnení prihlášky u správcu knižnice GIS. Pri prihlasovaní je potrebné predložiť platnú ISIC alebo ITIC kartu a občiansky preukaz.</p>
         <p><a href="https://gis.fns.uniba.sk/?knkatalog" target="_blank">Katalóg <OpenExt /></a></p>
-        <p>Kontakt pre časť knižnice GIS: Vladimír Pelech, pracovňa G-23, <Email parts={["pelech2"]} /></p>
         
         <h5>Požičiavanie literatúry</h5>
-        <p>Pre požičiavanie literatúry z danej časti knižnice kontaktujte príslušného správcu knižnice.</p>
+        <p>Pre požičiavanie literatúry z knižnice kontaktujte správcu knižnice: Hana Bobáľová, pracovňa G-19, <Email parts={["hana.bobalova"]} />.</p>
         
         
         <h3>Archív záverečných a kvalifikačných prác a správ</h3>
