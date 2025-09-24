@@ -4,11 +4,11 @@
     "name": "Mgr. Erika Bugáňová",
     "short": "E Bugáňová",
     "email": ["erika.buganova"],
-    "tel": "",
-    "room": "",
+    "tel": "+421 2 9014 2199",
+    "room": "G-437",
     "year": 2025,
     "pubid": "",
-    "info": "",
+    "info": "Vo výskume ma predovšetkým baví prepájať moderné geoinformačné metódy s poznatkami fyzickej geografie. V dizertačnej práci sa venujem fyzikálnej geomorfometrii, konkrétne drsnosti georeliéfu, ktorú skúmam v kontexte regionálnej geomorfickej energie. Svoje predchádzajúce štúdium som zamerala na analýzu zmien krajinnej pokrývky s využitím platformy Google Earth Engine. ",
     "infoEn": ""
   },{
     "id": 9999009,
@@ -43,8 +43,8 @@
     "room": "G-14",
     "year": 2024,
     "pubid": "",
-    "info": "",
-    "infoEn": ""
+    "info": "V odbornej činnosti sa venujem veľkomierkovému mapovaniu a klasifikácii mestskej zelene s využitím diaľkového prieskumu Zeme a objektovo orientovanej analýzy obrazu (OBIA). V dizertačnej práci sa zameriavam na klasifikáciu druhov stromov v mestskom prostredí na príklade Bratislavy. Poznanie druhového zloženia vegetácie prepájam na teplotné pomery v mestských štruktúrach a skúmam ich závislosti. ",
+    "infoEn": "In my scientific work, I focus on large-scale mapping and classification of urban greenery using remote sensing and object-based image analysis (OBIA). My dissertation focuses on the classification of tree species in urban environments, focusing on Bratislava as case study. Understanding the species composition of vegetation, my research connects vegetation to temperature conditions in urban structures and examines their relations. "
   },
   {
     "id": 9999010,

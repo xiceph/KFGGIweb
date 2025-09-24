@@ -73,8 +73,8 @@
     "room": "G-19",
     "email": ["hana.bobalova"],
     "pubid": 1196880,
-    "info": "",
-    "infoEn": ""
+    "info": "Venuje sa automatizovanej interpretácii údajov diaľkového prieskumu Zeme so zameraním na mestské prostredie, najmä obrazovým analýzam založeným na objektoch (OBIA), 2D a 3D mapovaniu a hodnoteniu mestskej zelene, odvodenie povrchových teplôt zo satelitných snímok Landsat, mikroklimatické modelovanie. ",
+    "infoEn": "My research is focused on the automatic interpretation of remote sensing data for the environmental assessment of urban areas, including object-based image analysis (OBIA), 2D and 3D urban greenery mapping and evaluation, land surface temperature estimation from Landsat satellite data, outdoor thermal comfort modelling."
   },
   {
     "id": "14212",
@@ -179,7 +179,7 @@
     "room": "B1-452",
     "email": ["peter.pisut"],
     "pubid": 1196391,
-    "info": "",
+    "info": "Venuje sa environmentálnym rekonštrukciám vývoja prírodného prostredia riečnych nív s dôrazom na analýzu údajov historických máp v prostredí GIS, v kombinácii s využitím postupov pedologického prieskumu, paleoekologických proxy dát aj analýz archívnych materiálov. Ťažiskom výskumu sú prírodné archívy odstavených riečnych ramien, zaniknutých rybníkov a zmeny riečnych systémov v časovom merítku najmä posledného milénia, často v oblastiach s rôznym stupňom ochrany. ",
     "infoEn": ""
   },
   {
@@ -192,7 +192,7 @@
     "room": "B1-457",
     "email": ["norbert.polcak"],
     "pubid": 1094242,
-    "info": "",
+    "info": "Venuje sa fyzickej geografii so zameraním na meteorológiu, klimatológiu a hydrológiu. Spolupracuje s kolegami na Katedre na výskume a terénnych meraniach mikroklímy a miestnej klímy v rôznych typoch krajiny. V prednáškach a terénnych meraniach využíva praktické skúsenosti zo Slovenského hydrometeorologického ústavu. ",
     "infoEn": ""
   },
   {
@@ -231,7 +231,7 @@
     "room": "B1-448",
     "email": ["ivan.ruzek"],
     "pubid": 322133,
-    "info": "",
+    "info": "Vo svojom výskume sa zameriava na biogeografiu a geoekológiu. Venuje sa identifikácii, a hodnoteniu zmien krajinnej pokrývky, dendrochronologickému a dendroklimatologickému výskumu.",
     "infoEn": ""
   },
   {
