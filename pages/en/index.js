@@ -47,7 +47,7 @@ function IndexPageEn( props ) {
           <h3 className="text-gray-800 border-l-3 md:border-l-4 border-k-green pl-3 py-1">High science</h3>
           <p className="mt-2 text-left-f">The research we perform is able to establish on a global level. A wide range of scientific disciplines enables us to learn and study scientific issues with complexity and interdisciplinarity.</p>
           <p className="text-right-f pr-3">
-            <Link href="/en/research/subjects-of-scientific-interest">
+            <Link href="/en/research/scientific_focus">
               <button className="bg-k-green px-5 py-2 rounded-full -ml-1 text-base text-white justify-self-end hover:shadow-md">
                 learn more
               </button>
