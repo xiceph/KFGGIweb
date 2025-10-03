@@ -128,7 +128,7 @@ export default function ProjektFG() {
             MINÁR, Jozef: Physical geomorphometry in digital geomorphological mapping.
             In: {" "}<em>International Conference State of Geomorphological Research
             in 2025. Abstracts (Bratislava, Slovak Republic, 9 – 11 April 2025) </em>.
-            [online]. [cit. 2025-04-20]. Dostupné z:{" "}
+            [online]. [cit. 2025-04-20]. Available at:{" "}
             <a
               rel="noopener noreferrer"
               target="_blank"
@@ -143,7 +143,7 @@ export default function ProjektFG() {
             Physical geomorphometry in cave systems: a case study of Domica Cave, Slovakia.
             In: {" "}<em>International Conference State of Geomorphological Research
             in 2025. Abstracts (Bratislava, Slovak Republic, 9 – 11 April 2025) </em>.
-            [online]. [cit. 2025-04-20]. Dostupné z:{" "}
+            [online]. [cit. 2025-04-20]. Available at:{" "}
             <a
               rel="noopener noreferrer"
               target="_blank"
@@ -231,7 +231,7 @@ export default function ProjektFG() {
               príspevkov (Bratislava 25. 4. 2024)
             </em>
             . Bratislava: Univerzita Komenského v Bratislave, 2024. S. 909-914.
-            ISBN 978-80-223-5822-4 (online). Dostupné z:{" "}
+            ISBN 978-80-223-5822-4 (online). Available at:{" "}
             <a
               class="Hyperlink SCXW244068212 BCX0"
               href="/fileadmin/prif/svk/zborniky/Zbornik_SVK_PriF_UK_2024.pdf"
@@ -265,7 +265,7 @@ export default function ProjektFG() {
               International Conference State of Geomorphological Research in
               2024. Abstracts (Křtiny, Czech Republic, 24 - 26 April 2024)
             </em>{" "}
-            [online]. [cit. 2024-04-17]. Dostupné z:{" "}
+            [online]. [cit. 2024-04-17]. Available at:{" "}
             <a
               href="https://www.ugn.cas.cz/event/2024/cag/files/CAG-2024-abstracts.pdf"
               target="_blank"
@@ -328,7 +328,7 @@ export default function ProjektFG() {
               príspevkov (Bratislava 25. 4. 2024)
             </em>
             . Bratislava: Univerzita Komenského v Bratislave, 2024. S. 937-942.
-            ISBN 978-80-223-5822-4 (online). Dostupné z:{" "}
+            ISBN 978-80-223-5822-4 (online). Available at:{" "}
             <a
               href="/fileadmin/prif/svk/zborniky/Zbornik_SVK_PriF_UK_2024.pdf"
               target="_blank"
@@ -367,7 +367,7 @@ export default function ProjektFG() {
             >
               https://www.geo.uaic.ro/geomorphometry2023/programme/
             </a>
-            , resp. DOI:&nbsp;
+            , or DOI:&nbsp;
             <a href="https://doi.org/10.5281/zenodo.7802187" target="_top">
               https://doi.org/10.5281/zenodo.7802187
             </a>
