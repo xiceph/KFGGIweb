@@ -2,6 +2,9 @@ import Link from 'next/link'
 import Datum from "@components/datum"
 import Collapse from "@components/collapse"
 import { OpenExt } from "@components/icons";
+import fs from 'fs'
+import path from 'path'
+import ReactHtmlParser from 'react-html-parser';
 
 
 
@@ -78,7 +81,7 @@ function IndexPage( props ) {
 {/*
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Geovedná exkurzia</h5>
-              <div className="mb-2">Katedra pripravuje geovednú exkurziu Rakúsko – Slovinsko 2025 – <b>K ustupujúcim horským ľadovcom Álp, do krasu a k Jadranskému moru</b> v čase 16. – 20. júna 2025 (5 dní)<br/>Viac informácií v <a href="docs/geo2025.pdf" target="_blank">pdf dokumente</a> a v <a href="https://storymaps.arcgis.com/stories/1ff59abc71304001a8766bfa112e0ced?play=true&speed=slow" target="_blank">storymap od Tomáša Lalíka</a>.
+              <div className="mb-2">Katedra pripravuje geovednú exkurziu BALATON 2026 – <b>Spoznajte, že Maďarsko nie je len nekonečná rovina</b> v čase 15. – 19. júna 2026 (5 dní)<br/>Viac informácií v <a href="docs/geo2026.pdf" target="_blank">pdf dokumente</a>.
               </div>
             </div>
 
@@ -122,82 +125,19 @@ function IndexPage( props ) {
         <div>
           <h3 className="text-gray-800">Najbližšie udalosti</h3>
           <div className="divide-y divide-k-xl-gray">
-            <div className="py-4 first:pt-0">
-              <p className="text-gray-600 italic">žiadne udalosti</p>
-
-
-              {/*<div className="mb-1.5"><Datum date={ new Date("2025-04-23") } today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-2">Prednáška</h5>
-              <p className="font-bold mb-f1">Predkenozoické podložie Viedenskej a podunajskej panvy </p>
-              <div>
-                <div className="mb-2">Čas: 15:00 – 17:00 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
-                <div className="mb-2">Prednášajúci: <i>doc. RNDr. Jozef Hók, CSc.</i></div>
-                <div className="mb-2">Pripojte sa na: <a href="https://sdu.sk/x07T" target="_blank">https://sdu.sk/x07T</a></div>
-                <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2025/2025-04-23-geovedy.jpg" target="_blank">Plagát</a></div>
-              </div>*/}
-
-              {/*<div className="mb-1.5"><Datum date={ new Date("2025-05-21") } today={ new Date(props.today) }></Datum></div>
-                <h5 className="font-bold mb-2">Prednášky</h5>
-                <p className="font-bold mb-f1">Archeometrický výskum drahých kameňov a šperkov</p>
-                <p className="font-bold mb-f2 mt-f0">Fosílny mikrosvet známy a neznámy</p>
-              <div>
-                <div className="mb-2">Čas: 15:00 – 17:30 <br/><i>online cez MS Teams</i>, <i>prezenčne na PriF UK, B1-PLUS</i> </div>
-                <div className="mb-2">Prednášajúci: <i>doc. PaedDr. Ján Štubňa, PhD.</i>, <i>prof. Mgr. Natália Hlavatá Hudáčková, PhD.</i></div>
-                <div className="mb-2">Pripojte sa na: <a href="https://lnk.sk/kdkl1" target="_blank">https://lnk.sk/kdkl1</a></div>
-                <div className="mb-8"><a href="https://fns.uniba.sk/fileadmin/prif/kalendar/2025/2025-05-21-geovedy.jpg" target="_blank">Plagát</a></div>
+            {props.events.length > 0 ? (
+              props.events.map((event, i) => (
+                <div className="py-4 first:pt-0" key={i}>
+                  <div className="mb-1.5"><Datum date={ new Date(event.date) } today={ new Date(props.today) }></Datum></div>
+                  <h5 className="mb-2">{event.title}</h5>
+                  <div>{ReactHtmlParser(event.description)}</div>
+                </div>
+              ))
+            ) : (
+              <div className="py-4 first:pt-0">
+                <p className="text-gray-600 italic">žiadne udalosti</p>
               </div>
-
-              <div className="mb-1.5"><Datum date={ new Date("2025-08-22") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div>Na katedre budú prebiehať <Link href="/studium/statne_skusky"><a>štátne skúšky na bakalárskom aj magisterskom študijnom programe</a></Link>.</div>
-*/}
-{/*
-              <div className="mb-1.5"><Datum date={ new Date("2024-02-15") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Seminár New Trends in Erosion Research</h5>
-              <p className="font-bold mb-f1">Application of Geoinformation Technologies in Erosion Research</p>
-              <div className="mb-8">V čase o 9:30 v knižnici geografického ústavu SAV, prednášajú Valentina Nikolova, Veselina Gospodinova, Emil Dimitrov.</div>
-
-              <div className="mb-1.5"><Datum date={ new Date("2024-02-15") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Prednáškové popoludnie na SHMÚ na Kolibe</h5>
-              <p className="font-bold mb-f1">100 rokov od pádu najtragickejšej lavíny v histórii Slovenska</p>
-              <div className="mb-2">V čase od 17. h, s vysielaním naživo na <a href="https://www.facebook.com/shmu.sk" target="_blank">facebook.com/shmu.sk</a>, prednášajú RNDr. Norbert Polčák, PhD., meteorológ SHMÚ a Mgr. Filip Kyzek, riaditeľ Strediska lavínovej prevencie HZS</div>
-              <div className="mb-8"><a href="https://www.shmu.sk/File/prednaskove_feb2024_2023.pdf" target="_blank">Plagát</a></div>
-
-
-              <div className="mb-1.5"><Datum date={ new Date("2024-02-16") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Inauguračná prednáška</h5>
-              <div className="mb-8">Od 10:30 sa uskutoční v rámci verejného zasadnutia Vedeckej rady PriF UK Inauguračná prednáška doc. RNDr. Vladimíra Falťana, PhD. <Link href="/docs/inFaltan.pdf"><a target="_blank">Detailný oznam</a></Link>.</div>
-*/}
-
-
-
-              {/*<div className="mb-1.5"><Datum date={ new Date("2022-09-08") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Konferencia GeoKARTO 2022</h5>
-              <div className="mb-8">Konferencia je organizovaná Kartografickou spoločnosťou SR, v roku 2022 v spolupráci s Katedrou fyzickej geografie a geoinformatiky, Prírodovedeckej fakulty UK v Bratislave. Viac na <Link href="/geokarto2022"><a target="_blank">stránke konferencie</a></Link>.</div>
-              
-              <div className="mb-1.5"><Datum date={ new Date("2022-09-09") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Valné zhromaždenie SGS</h5>
-              <div className="mb-8">Valné zhromaždenie Slovenskej geografickej spoločnosti pri SAV bude v piatok 9. 9. 2022 od 12:00 v priestoroch Prírodovedeckej fakulty UK v Bratislave v aule (CH1-1). Súčasťou podujatia bude i pripomenutie si významných geografických výročí (tiež 70. výročie založenia katedry). <Link href="/docs/SGS2022Plagat.jpg"><a target="_blank">Plagát</a></Link></div>
-              
-              
-
-              <div className="mb-1.5"><Datum date={ new Date("2024-06-05") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div>Na katedre budú 5. 6. – 7. 6. prebiehať <Link href="/studium/statne_skusky#sect_2"><a>štátne skúšky na magisterskom študijnom programe</a></Link>.</div>
-            </div>
-            <div className="py-4 first:pt-0">
-              <div className="mb-1.5"><Datum date={ new Date("2024-08-26") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Štátne skúšky</h5>
-              <div>Na katedre budú 26. 8. 2024 od 10.00 prebiehať <Link href="/studium/statne_skusky#sect_1"><a>štátne skúšky na bakalárskom študijnom programe</a></Link>.</div>
-
-              <div className="mb-1.5 mt-6"><Datum date={ new Date("2024-08-27") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">Obhajoby dizertačných prác</h5>
-              <div><Link href="/docs/diz_rusinko.pdf"><a target="_blank">Mgr. Adam Rusinko</a></Link> 27. 8. 2024 o 10.00 v  B1-444<br/>
-                  <Link href="/docs/diz_sagat.pdf"><a target="_blank">Mgr. Vladimír Šagát</a></Link> 27. 8. 2024 o 13.00 v  B1-444<br/>
-                  <Link href="/docs/diz_supcik.pdf"><a target="_blank">Mgr. Adam Šupčík</a></Link> 28. 8. 2024 o 10.00 v  B1-444<br/>
-                  <Link href="/docs/diz_popov.pdf"><a target="_blank">Anton Popov</a></Link> 30. 8. 2024 o 10.00 v  B1-444.</div>
-*/}
-            </div>
+            )}
           </div>
         </div>
       </section>
@@ -207,9 +147,20 @@ function IndexPage( props ) {
 }
 
 export const getServerSideProps = async() => {
-  const today = new Date().toJSON();
-  
-  return { props: { today } };
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const eventsFilePath = path.join(process.cwd(), 'data/events.json');
+  const eventsFileContent = fs.readFileSync(eventsFilePath, 'utf8');
+  const allEvents = JSON.parse(eventsFileContent);
+
+  const upcomingEvents = allEvents.filter(event => new Date(event.date) >= today);
+
+  return { 
+    props: { 
+      today: today.toJSON(),
+      events: upcomingEvents
+    } 
+  };
 }
 
 export default IndexPage;

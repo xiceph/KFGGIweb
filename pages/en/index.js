@@ -2,6 +2,9 @@ import Link from 'next/link'
 import Datum from "@components/datum"
 import Collapse from "@components/collapse"
 import { OpenExt } from "@components/icons";
+import fs from 'fs'
+import path from 'path'
+import ReactHtmlParser from 'react-html-parser';
 
 
 
@@ -87,17 +90,19 @@ function IndexPageEn( props ) {
         <div>
           <h3 className="text-gray-800">Upcoming events</h3>
           <div className="divide-y divide-k-xl-gray">
-            <div className="py-4 first:pt-0">
-              <p className="text-gray-600 italic">no upcoming events</p>
-            </div>
-
-          {/*<div className="py-4 first:pt-0">
-
-              <div className="mb-1.5"><Datum date={ new Date("2025-08-22") } _today={ new Date(props.today) }></Datum></div>
-              <h5 className="font-bold mb-1">State exams</h5>
-              <div>State exams for both bachelor's and master's degree programs will be held at the department.</div>
-
-            </div> */}
+            {props.events.length > 0 ? (
+              props.events.map((event, i) => (
+                <div className="py-4 first:pt-0" key={i}>
+                  <div className="mb-1.5"><Datum date={ new Date(event.date) } today={ new Date(props.today) }></Datum></div>
+                  <h5 className="mb-2">{event.title_en}</h5>
+                  <div>{ReactHtmlParser(event.description_en)}</div>
+                </div>
+              ))
+            ) : (
+              <div className="py-4 first:pt-0">
+                <p className="text-gray-600 italic">no upcoming events</p>
+              </div>
+            )}
           </div>
         </div>
       </section>
@@ -107,9 +112,20 @@ function IndexPageEn( props ) {
 }
 
 export const getServerSideProps = async() => {
-  const today = new Date().toJSON();
-  
-  return { props: { today } };
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const eventsFilePath = path.join(process.cwd(), 'data/events.json');
+  const eventsFileContent = fs.readFileSync(eventsFilePath, 'utf8');
+  const allEvents = JSON.parse(eventsFileContent);
+
+  const upcomingEvents = allEvents.filter(event => new Date(event.date) >= today);
+
+  return { 
+    props: { 
+      today: today.toJSON(),
+      events: upcomingEvents
+    } 
+  };
 }
 
 export default IndexPageEn;
