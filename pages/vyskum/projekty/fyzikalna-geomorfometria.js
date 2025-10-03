@@ -88,7 +88,6 @@ export default function ProjektFG() {
               https://doi.org/10.1177/03091333251360426
             </a>
           </p>
-
           <p>
             POPOV, Anton B. &amp; MINÁR, Jozef: Application of Physical Geomorphometry
             in Digital Geomorphological Mapping. In: {" "}<em>Geomorphometry 2025, 
