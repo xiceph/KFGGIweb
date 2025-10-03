@@ -124,7 +124,7 @@ export const getServerSideProps = async() => {
   const eventsFileContent = fs.readFileSync(eventsFilePath, 'utf8');
   const allEvents = JSON.parse(eventsFileContent);
 
-  const upcomingEvents = allEvents.filter(event => new Date(event.date) >= today);
+  const upcomingEvents = allEvents.filter(event => new Date(event.date) >= today).sort((a, b) => new Date(a.date) - new Date(b.date));
 
   return { 
     props: { 
