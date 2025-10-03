@@ -74,14 +74,14 @@ function IndexPageEn( props ) {
           <div className="divide-y divide-k-xl-gray">
 
             <div className="py-4 first:pt-0">
-              <h5 className="font-bold my-1">Theses topics</h5>
-              <div className="mb-2">On the <Link href="/en/studies/theses"><a>Theses</a></Link> page, the offer of topics for the academic year 2025/26 is published.
+              <h5 className="font-bold my-1">Geological excursion</h5>
+              <div className="mb-2">The department is preparing a geological excursion BALATON 2026 – <b>Discover that Hungary is not just an endless plain</b> from 15 to 19 June 2026 (5 days)<br/>More information in the <a href="docs/geo2026.pdf" target="_blank">pdf document</a>.
               </div>
             </div>
 
             <div className="py-4 first:pt-0">
-              <h5 className="font-bold my-1">Geological excursion</h5>
-              <div className="mb-2">The department is preparing a geological excursion BALATON 2026 – <b>Discover that Hungary is not just an endless plain</b> from 15 to 19 June 2026 (5 days)<br/>More information in the <a href="docs/geo2026.pdf" target="_blank">pdf document</a>.
+              <h5 className="font-bold my-1">Theses topics</h5>
+              <div className="mb-2">On the <Link href="/en/studies/theses"><a>Theses</a></Link> page, the offer of topics for the academic year 2025/26 is published.
               </div>
             </div>
 
