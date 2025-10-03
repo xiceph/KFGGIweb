@@ -78,6 +78,18 @@ export default function ProjektFG() {
           <h4>Publikačné výstupy</h4>
           <h5 className="text-k-grey">2025</h5>
           <p>
+            RUSINKO, Adam, DRUGA, M. &amp;MINÁR, Jozef: The role of geomorphometric predictors in LUCC modelling: A case study of Slovakia from 1990 to 2018. In: {" "}<em>Progress in Physical Geography, 2025,
+            Volume 49, Issue 5, 564-589.</em>. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.1177/03091333251360426"
+            >
+              https://doi.org/10.1177/03091333251360426
+            </a>
+          </p>
+
+          <p>
             POPOV, Anton B. &amp; MINÁR, Jozef: Application of Physical Geomorphometry
             in Digital Geomorphological Mapping. In: {" "}<em>Geomorphometry 2025, 
             Proceedings (Perugia, Italy, June 9-13, 2025)</em>. DOI:{" "}
