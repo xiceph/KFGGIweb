@@ -41,7 +41,12 @@ export default function LangSwitch( props ) {
       const translatedParent = pathMap[parentPath];
 
       if (translatedParent) {
-        otherLink = `${translatedParent}/${slug}`;
+        const projectPagesMap = {
+          "fyzikalna-geomorfometria": "physical-geomorphometry",
+          "physical-geomorphometry": "fyzikalna-geomorfometria"
+        };
+        const translatedSlug = projectPagesMap[slug] || slug;
+        otherLink = `${translatedParent}/${translatedSlug}`;
       }
     }
   }
