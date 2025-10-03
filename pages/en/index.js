@@ -80,6 +80,12 @@ function IndexPageEn( props ) {
             </div>
 
             <div className="py-4 first:pt-0">
+              <h5 className="font-bold my-1">Geological excursion</h5>
+              <div className="mb-2">The department is preparing a geological excursion BALATON 2026 – <b>Discover that Hungary is not just an endless plain</b> from 15 to 19 June 2026 (5 days)<br/>More information in the <a href="docs/geo2026.pdf" target="_blank">pdf document</a>.
+              </div>
+            </div>
+
+            <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Theses</h5>
               <div className="mb-2">We would like to draw your attention to the new Rector's directive on final theses:{' '}<a href="https://uniba.sk/fileadmin/ruk/legislativa/2023/Vp_2023_32.pdf" target="_blank">directive <OpenExt /></a>, <a href="https://fns.uniba.sk/studium/bakalarske-studium/statne-zaverecne-skusky/" target="_blank">faculty information for graduating students <OpenExt /></a>
               </div>

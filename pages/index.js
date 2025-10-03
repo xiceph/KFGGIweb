@@ -78,14 +78,14 @@ function IndexPage( props ) {
               <div className="mb-2">Na stránke <Link href="/studium/zaverecne_prace"><a>záverečné práce</a></Link> je zverejnená ponuka tém pre akad. rok 2025/26.
               </div>
             </div>
-{/*
+
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Geovedná exkurzia</h5>
               <div className="mb-2">Katedra pripravuje geovednú exkurziu BALATON 2026 – <b>Spoznajte, že Maďarsko nie je len nekonečná rovina</b> v čase 15. – 19. júna 2026 (5 dní)<br/>Viac informácií v <a href="docs/geo2026.pdf" target="_blank">pdf dokumente</a>.
               </div>
             </div>
 
-
+{/*
 
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Smútočné oznámenie</h5>

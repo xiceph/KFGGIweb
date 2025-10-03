@@ -9,6 +9,10 @@ function Exkurzie({ photos }) {
       
       <p>Podstatná časť nášho štúdia prebieha mimo prednáškových sál. Exkurzie umožňujú zažiť prednášané učivo na vlastnej koži - v rámci Slovenska aj za jeho hranicami. Terénne práce sú však už praktickým tréningom terénnych výskumných postupov.</p>
 
+      <h3>Geovedná exkurzia 2026</h3>
+      <p><b>Spoznajte, že Maďarsko nie je len nekonečná rovina</b> 15. – 19. júna 2026 (5 dní)<br/>Viac informácií v <a href="docs/geo2026.pdf" target="_blank">pdf dokumente</a></p>
+
+
       <h3>Geovedná exkurzia 2025</h3>
       <p><b>K ustupujúcim horským ľadovcom Álp, do krasu a k Jadranskému moru</b> 16. – 20. júna 2024 (5 dní)<br/>Viac informácií v <a href="docs/geo2025.pdf" target="_blank">pdf dokumente</a> a v <a href="https://storymaps.arcgis.com/stories/1ff59abc71304001a8766bfa112e0ced?play=true&speed=slow" target="_blank">storymap od Tomáša Lalíka</a></p>
 

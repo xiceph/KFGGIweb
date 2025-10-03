@@ -9,6 +9,9 @@ function ExcursionsAndFieldwork({ photos }) {
       
       <p>It is outside the building of the faculty, where a significant part of our studies takes place. Excursions across Slovakia or even abroad enable our students to explore landscape in all its complexity, which cannot be sufficiently described in any textbook. Participation in fieldwork not only evolves the practical skills of our students but also is often a part of real ongoing research.</p>
 
+      <h3>Geological excursion 2026</h3>
+      <p><b>Discover that Hungary is not just an endless plain</b> June 15 – 19, 2026 (5 days)<br/>More information in the <a href="/docs/geo2026.pdf" target="_blank">pdf document</a></p>
+
       <h3>Geographic excursion 2025</h3>
       <p><b>Glaciers in the Alps, Adriatic Sea, Slovenian Karst</b> June 16. – 20., 2024 (5 days)<br/>More information in this <a href="/docs/geo2025.pdf" target="_blank">document</a> and in the <a href="https://storymaps.arcgis.com/stories/1ff59abc71304001a8766bfa112e0ced?play=true&speed=slow" target="_blank">storymap by Tomáš Lalík</a></p>
 
