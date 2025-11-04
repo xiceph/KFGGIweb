@@ -78,7 +78,29 @@ export default function ProjektFG() {
           <h4>Publikačné výstupy</h4>
           <h5 className="text-k-grey">2025</h5>
           <p>
-            RUSINKO, Adam, DRUGA, M. &amp;MINÁR, Jozef: The role of geomorphometric predictors in LUCC modelling: A case study of Slovakia from 1990 to 2018. In: {" "}<em>Progress in Physical Geography, 2025,
+            ZAUJEC, Peter &amp;&nbsp;HALAJ, Martin: Changes in precipitation conditions in Slovakia during northern and southern cyclonic situations in the 1991–2020 period. In: <em>IDŐJÁRÁS - angol nyelvű folyóirat, Journal of the HungaroMet Hungarian Meteorological Service</em>. 2025, Vol. 129,
+            No. 2, pp. 107-240. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="DOI:10.28974/idojaras.2025.2.7"
+            >
+              DOI:10.28974/idojaras.2025.2.7
+            </a>
+          </p>
+          <p>
+            ZAUJEC, Peter, FEDOR, Tomáš, HALAJ, Martin &amp;&nbsp;ONDERKA, Milan: Exploiting the windward and leeward precipitation effect of northern and northwestern cyclonic types to correct WRF numerical model predicted precipitation totals. In: <em>Theoretical and Applied Climatology</em>. 2025, Vol. 156, Art.
+            No. 429. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.1007/s00704-025-05642-5"
+            >
+              https://doi.org/10.1007/s00704-025-05642-5
+            </a>
+          </p>
+          <p>
+            RUSINKO, Adam, DRUGA, Michal &amp;&nbsp;MINÁR, Jozef: The role of geomorphometric predictors in LUCC modelling: A case study of Slovakia from 1990 to 2018. In: {" "}<em>Progress in Physical Geography, 2025,
             Volume 49, Issue 5, 564-589.</em>. DOI:{" "}
             <a
               rel="noopener noreferrer"
