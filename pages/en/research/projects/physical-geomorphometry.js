@@ -29,6 +29,28 @@ export default function ProjektFG() {
           <h4>Publications (project outputs)</h4>
           <h5 className="text-k-grey">2025</h5>
           <p>
+            GALLAY, Michal, BARTOŠ, Karol &amp;&nbsp;PUKANSKÁ, Katarína: <em>Digital Cave Mapping: Methods, Accuracy and Applications</em>. 1. vyd. Brno: Tribun EU, 2025, 199 s. ISBN 978-80-263-1856-9.
+            DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href=" "
+            >
+               DOI:
+            </a>
+          </p>
+          <p>
+            ZAMANI, Nina, SATOLLI, Sara, MURPHY, Michael, DEMORY, Francois, PACE, Bruno, GATTACCECA, Jérôme, KAŇUK, Ján, NOVÁKOVÁ, Michaela, GOTTARDI, Raphael &amp;&nbsp;FERRÉ, Eric C.: Record of seismic slip in carbonates: Insights from the Venere Fault during the 1915 Avezzano earthquake (Mw 7.0), Central Italy. In: <em>Journal of Structural Geology</em>. 2025, Vol. 197,
+            Art. No. 105421. ISSN: 0191-8141. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.1016/j.jsg.2025.105421"
+            >
+               DOI:https://doi.org/10.1016/j.jsg.2025.105421
+            </a>
+          </p>
+          <p>
             ZAUJEC, Peter &amp;&nbsp;HALAJ, Martin: Changes in precipitation conditions in Slovakia during northern and southern cyclonic situations in the 1991–2020 period. In: <em>IDŐJÁRÁS - angol nyelvű folyóirat, Journal of the HungaroMet Hungarian Meteorological Service</em>. 2025, Vol. 129,
             No. 2, pp. 107-240. DOI:{" "}
             <a
