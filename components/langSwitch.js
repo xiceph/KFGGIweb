@@ -30,14 +30,22 @@ export default function LangSwitch( props ) {
   };
 
   const pathMap = createPathMap();
-  const currentPath = router.asPath;
-  let otherLink = pathMap[currentPath];
+  const asPath = router.asPath;
+  const hashIndex = asPath.indexOf('#');
+  const pathWithQuery = hashIndex !== -1 ? asPath.substring(0, hashIndex) : asPath;
+  const hashPart = hashIndex !== -1 ? asPath.substring(hashIndex) : '';
+
+  const queryIndex = pathWithQuery.indexOf('?');
+  const purePath = queryIndex !== -1 ? pathWithQuery.substring(0, queryIndex) : pathWithQuery;
+  const queryPart = queryIndex !== -1 ? pathWithQuery.substring(queryIndex) : '';
+
+  let otherLink = pathMap[purePath];
 
   if (!otherLink) {
-    const lastSlashIndex = currentPath.lastIndexOf('/');
+    const lastSlashIndex = purePath.lastIndexOf('/');
     if (lastSlashIndex > 1) { // It's a nested route
-      const parentPath = currentPath.substring(0, lastSlashIndex);
-      const slug = currentPath.substring(lastSlashIndex + 1);
+      const parentPath = purePath.substring(0, lastSlashIndex);
+      const slug = purePath.substring(lastSlashIndex + 1);
       const translatedParent = pathMap[parentPath];
 
       if (translatedParent) {
@@ -54,6 +62,8 @@ export default function LangSwitch( props ) {
   // Fallback to homepage
   if (!otherLink) {
     otherLink = props.locale === 'sk' ? '/en' : '/';
+  } else {
+    otherLink += queryPart + hashPart;
   }
 
   const other = {
