@@ -80,7 +80,7 @@ export default function Statnice() {
           <li>*Prif.KFGG/Prif-DZFG-312/12 <b>Geografická kartografia</b>  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd1_povinne_volit_zakladne/PhD_syl_geogkartografia.pdf" target="_blank" target="_blank">sylabus [pdf]</a></li>
           <li>*Prif.KFGG/Prif-DZFG-315/12 <b>Geografické informačné systémy</b>  <a href="docs/PhD_GIS_SK.pdf" target="_blank" target="_blank">sylabus [pdf]</a></li><li>*Prif.KFGG/Prif-DZFG-316/12 <b>Diaľkový prieskum Zeme</b>  <a href="docs/PhD_DPZ_SK.pdf" target="_blank" target="_blank">sylabus [pdf]</a></li>
           <li>*Prif.KFGG/Prif-DZFG-317/15 <b>Pedogeografia</b>  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd1_povinne_volit_zakladne/PhD_syl_pedo.pdf" target="_blank" target="_blank">sylabus [pdf]</a></li><li>**Prif.KFGG/Prif-DZFG-305/12 <b>Špeciálne problémy disciplín fyzickej geografie a geoekológie</b>
-            <ul className="text-sm">
+            <ul>
               <li>Geomorfometria  <a href="docs/PhD_Gmm_SK.pdf" target="_blank">sylabus [pdf]</a></li>
               <li>Integrovaný výskum využitia krajiny  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd21_spec_problemy/PhD_syl_integr_vysk_vyuz_kraj.pdf" target="_blank">sylabus [pdf]</a></li>
               <li>Karsológia a speleológia  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd21_spec_problemy/PhD_syl_karsologia_a_speleologia.pdf" target="_blank">sylabus [pdf]</a></li>
@@ -89,7 +89,7 @@ export default function Statnice() {
             </ul>
           </li>
           <li>**Prif.KFGG/Prif-DZFG-313/12 <b>Vybrané partie z príbuzných geovedných disciplín</b>
-            <ul className="text-sm">
+            <ul>
               <li>Krajinné plánovanie  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd22_vybrane_partie/PhD_syl_krajinne_planovanie.pdf" target="_blank">sylabus [pdf]</a></li>
               <li>Kvartér a metódy jeho výskumu  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd22_vybrane_partie/PhD_syl_kvarter_a_met_jeho_vysk.pdf" target="_blank">sylabus [pdf]</a></li>
               <li>Neotektonika  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd22_vybrane_partie/PhD_syl_neotektonika.pdf" target="_blank">sylabus [pdf]</a></li>
@@ -97,7 +97,7 @@ export default function Statnice() {
             </ul>
           </li>
           <li>**Prif.KFGG/Prif-DZFG-314/15 <b>Vybrané metodologické nástroje vo fyzickej geografii a geoinformatike</b>
-            <ul className="text-sm">
+            <ul>
               <li>Internet GIS a Geoweb  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd23_vybrane_metodol/PhD_syl_internet_GIS_a_Geoweb.pdf" target="_blank">sylabus [pdf]</a></li>
               <li>Jazyk mapy, Semiotika mapy  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd23_vybrane_metodol/PhD_syl_jazyk_mapy_Semiotika_mapy.pdf" target="_blank">sylabus [pdf]</a></li>
             </ul>
