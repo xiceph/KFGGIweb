@@ -74,7 +74,7 @@ export default function StateExams() {
           <li>*Prif.KFGG/Prif-DZFG-312/12 <b>Geographical Cartography</b>  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd1_povinne_volit_zakladne/PhD_syl_geogkartografia.pdf" target="_blank">syllabus [pdf]</a></li>
           <li>*Prif.KFGG/Prif-DZFG-315/12 <b>Geographical Information Systems</b>  <a href="docs/PhD_GIS_EN.pdf" target="_blank">syllabus [pdf]</a></li><li>*Prif.KFGG/Prif-DZFG-316/12 <b>Remote Sensing</b>  <a href="docs/PhD_DPZ_EN.pdf" target="_blank">syllabus [pdf]</a></li>
           <li>*Prif.KFGG/Prif-DZFG-317/15 <b>Pedogeography</b>  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd1_povinne_volit_zakladne/PhD_syl_pedo.pdf" target="_blank">syllabus [pdf]</a></li><li>**Prif.KFGG/Prif-DZFG-305/12 <b>Selected Issues in Physical Geography and Geoecology</b>
-            <ul className="text-sm">
+            <ul>
               <li>Geomorphometry  <a href="docs/PhD_Gmm_EN.pdf" target="_blank">syllabus [pdf]</a></li>
               <li>Integrated Land Use Research  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd21_spec_problemy/PhD_syl_integr_vysk_vyuz_kraj.pdf" target="_blank">syllabus [pdf]</a></li>
               <li>Karstology and Speleology  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd21_spec_problemy/PhD_syl_karsologia_a_speleologia.pdf" target="_blank">syllabus [pdf]</a></li>
@@ -83,7 +83,7 @@ export default function StateExams() {
             </ul>
           </li>
           <li>**Prif.KFGG/Prif-DZFG-313/12 <b>Selected parts from related geoscientific disciplines</b>
-            <ul className="text-sm">
+            <ul>
               <li>Landscape Planning  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd22_vybrane_partie/PhD_syl_krajinne_planovanie.pdf" target="_blank">syllabus [pdf]</a></li>
               <li>Quaternary and its Research Methods  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd22_vybrane_partie/PhD_syl_kvarter_a_met_jeho_vysk.pdf" target="_blank">syllabus [pdf]</a></li>
               <li>Neotectonics  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd22_vybrane_partie/PhD_syl_neotektonika.pdf" target="_blank">syllabus [pdf]</a></li>
@@ -91,7 +91,7 @@ export default function StateExams() {
             </ul>
           </li>
           <li>**Prif.KFGG/Prif-DZFG-314/15 <b>Selected methodological tools in physical geography and geoinformatics</b>
-            <ul className="text-sm">
+            <ul>
               <li>Internet GIS and Geoweb  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd23_vybrane_metodol/PhD_syl_internet_GIS_a_Geoweb.pdf" target="_blank">syllabus [pdf]</a></li>
               <li>Map Language, Map Semiotics  <a href="https://fns.uniba.sk/fileadmin/prif/geog/kfg/Studium/statne_skusky/phd23_vybrane_metodol/PhD_syl_jazyk_mapy_Semiotika_mapy.pdf" target="_blank">syllabus [pdf]</a></li>
             </ul>
