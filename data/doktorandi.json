@@ -1,16 +1,5 @@
 [
   {
-    "id": 9999013,
-    "name": "Mgr. Erika Bugáňová",
-    "short": "E Bugáňová",
-    "email": ["erika.buganova"],
-    "tel": "+421 2 9014 2199",
-    "room": "G-437",
-    "year": 2025,
-    "pubid": "",
-    "info": "Vo výskume ma predovšetkým baví prepájať moderné geoinformačné metódy s poznatkami fyzickej geografie. V dizertačnej práci sa venujem fyzikálnej geomorfometrii, konkrétne drsnosti georeliéfu, ktorú skúmam v kontexte regionálnej geomorfickej energie. Svoje predchádzajúce štúdium som zamerala na analýzu zmien krajinnej pokrývky s využitím platformy Google Earth Engine. ",
-    "infoEn": ""
-  },{
     "id": 9999009,
     "name": "Mgr. Samuel Ferencei",
     "short": "S Ferencei",
