@@ -84,7 +84,7 @@
    "program": "ZKI",
    "supervisor": "Mgr. Veronika Hajdúchová",
    "aff": "",
-   "name": "",
+   "name": "Porovnanie metód extrakcie terénu z neklasifikovaného mračna bodov v komplikovanom teréne",
    "text": "Práca sa zameriava na extrakciu terénu z neklasifikovaného LiDAR mračna bodov v oblastiach s komplikovanou morfológiou a hustým vegetačným pokryvom, kde je presná identifikácia ground bodov nevyhnutná pre ďalšie analýzy. Budú porovnané rôzne filtračné metódy dostupné v softvéri CloudCompare a ich vplyv na presnosť odvodeného digitálneho modelu reliéfu. Dôraz bude kladený na zachovanie morfológie povrchu pri minimalizácii chýb spôsobených vegetáciou, objektmi a šumom v dátach. Výsledky budú kvantitatívne vyhodnotené a porovnané z hľadiska presnosti a vhodnosti pre praktické aplikácie.",
    "FIELD8": ""
  },
