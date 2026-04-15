@@ -81,7 +81,7 @@ function IndexPage( props ) {
 
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Témy záverečných prác</h5>
-              <div className="mb-2">Na stránke <Link href="/studium/zaverecne_prace"><a>záverečné práce</a></Link> je zverejnená ponuka tém pre akad. rok 2025/26.
+              <div className="mb-2">Na stránke <Link href="/studium/zaverecne_prace"><a>záverečné práce</a></Link> je zverejnená ponuka tém pre akad. rok 2026/27.
               </div>
             </div>
 
