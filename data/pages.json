@@ -19,7 +19,9 @@
     { "title": "Výskum", "id": "vyskum", "children": [
       { "title": "Vedecké zameranie", "id": "vedecke_zameranie" },
       { "title": "Aplikácia v praxi", "id": "aplikacia_v_praxi" },
-      { "title": "Projekty", "id": "projekty" },
+      { "title": "Projekty", "id": "projekty", "children": [
+        { "title": "Fyzikálna geomorfometria", "id": "fyzikalna-geomorfometria" }
+        ]  },
       { "title": "Publikácie", "id": "publikacie" },
       { "title": "Práca v teréne", "id": "praca_v_terene" }
     ]}
@@ -41,10 +43,12 @@
       { "title": "State exams", "id": "state_exams" },
       { "title": "Excursions and fieldwork", "id": "excursions_and_fieldwork" }
     ] },
-        { "title": "Research", "id": "research", "children": [
+    { "title": "Research", "id": "research", "children": [
       { "title": "Scientific focus", "id": "scientific_focus" },
       { "title": "Applied research", "id": "applied_research" },
-      { "title": "Projects", "id": "projects" },
+      { "title": "Projects", "id": "projects", "children": [
+        { "title": "Physical geomorphometry", "id": "physical-geomorphometry" }
+        ] },
       { "title": "Publications", "id": "publications" },
       { "title": "Fieldwork", "id": "fieldwork" }
     ] }

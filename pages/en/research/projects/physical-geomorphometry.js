@@ -27,6 +27,32 @@ export default function ProjektFG() {
         </div>
         <div>
           <h4>Publications (project outputs)</h4>
+          <h5 className="text-k-grey">2026</h5>
+          <p>
+            FECISKANIN, Richard: A modular toolkit for block-based spatially explicit spectral analysis of digital elevation models.
+            In: {" "}<em>Computers &amp;Geosciences</em>. 2026,
+            Volume 215, Art. No. 106216. ISSN 0098-3004. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.1016/j.cageo.2026.106216"
+            >
+              https://doi.org/10.1016/j.cageo.2026.106216
+            </a>
+          </p>
+          <p>
+            RUŽEK, Ivan &amp;ŠILHÁN, Karel: Activity of slope processes in a geomorphic hot-spot of Pleistocene aeolian dunes:
+            Tree-ring based analysis in the Borská lowland (Slovakia). In: <em>Geomorphology</em>. 2026, Vol. 504, Art.
+            No. 110314. ISSN 0169-555X. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.1016/j.geomorph.2026.110314"
+            >
+              https://doi.org/10.1016/j.geomorph.2026.110314
+            </a>
+          </p>
+
           <h5 className="text-k-grey">2025</h5>
           <p>
             GALLAY, Michal, BARTOŠ, Karol &amp;&nbsp;PUKANSKÁ, Katarína: <em>Digital Cave Mapping: Methods, Accuracy and Applications</em>. 1. vyd. Brno: Tribun EU, 2025, 199 s. ISBN 978-80-263-1856-9.
