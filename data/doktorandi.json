@@ -1,17 +1,5 @@
 [
   {
-    "id": 9999009,
-    "name": "Mgr. Samuel Ferencei",
-    "short": "S Ferencei",
-    "email": ["ferencei2"],
-    "tel": "+421 2 9014 9250",
-    "room": "B1-446",
-    "year": "",
-    "pubid": "",
-    "info": "V mojej odbornej činnosti sa primárne venujem výskumu historickej krajiny, konkrétne rekonštrukcii využívania zeme počas historických období. Pri mojom výskume aplikujem syntézu historických a prírodovedných metód, v rámci nich sa zameriavam na výskum starých máp, DPZ, pedogeografiu, a paleoekológiu. V praxi sa zaoberám využitím GIS v manažmente krajiny/samosprávy.",
-    "infoEn": "My research focuses on the historical landscape, specifically the reconstruction of the land use in diffenet historical periods. Through the synthesis of natural and historical sciences, I focus on the analysis of historical maps, remote sensing, pedogeography, and paleoecology. Also, I apply the usage of GIS in the landscape management and in the leadership of municipalities."
-  },
-  {
     "id": 9999011,
     "name": "Mgr. Veronika Hajdúchová",
     "short": "V Hajdúchová",
@@ -19,6 +7,18 @@
     "tel": "+421 2 9014 2099",
     "room": "G-23",
     "year": 2023,
+    "pubid": "",
+    "info": "",
+    "infoEn": ""
+  },
+  {
+    "id": 9999013,
+    "name": "Mgr. Peter Major",
+    "short": "P Major",
+    "email": ["major7"],
+    "tel": "+421 2 9014 2076",
+    "room": "B1-446",
+    "year": "",
     "pubid": "",
     "info": "",
     "infoEn": ""
@@ -36,15 +36,15 @@
     "infoEn": "In my scientific work, I focus on large-scale mapping and classification of urban greenery using remote sensing and object-based image analysis (OBIA). My dissertation focuses on the classification of tree species in urban environments, focusing on Bratislava as case study. Understanding the species composition of vegetation, my research connects vegetation to temperature conditions in urban structures and examines their relations. "
   },
   {
-    "id": 9999010,
-    "name": "Mgr. Peter Zaujec",
-    "short": "P Zaujec",
-    "email": ["zaujec8"],
+    "id": 9999014,
+    "name": "Mgr. Dominik Skokan",
+    "short": "D Skokan",
+    "email": ["skokan9"],
     "tel": "+421 2 9014 9250",
     "room": "B1-446",
     "year": "",
     "pubid": "",
-    "info": "Zaujíma sa predovšetkým o meteorológiu, klimatológiu a hydrológiu. V dizertačnej práci sa venuje variabilite zrážok v rámci synoptických situácií. Konkrétne skúma všetky typy cyklonálnych situácií, ktorých podrobné spracovanie by mohlo byť pomocou vhodného hydrologického softvéru využité na vstup do zrážkovo-odtokových vzťahov.",
-    "infoEn": "My expertise is meteorology, climatology, and hydrology. In my dissertation thesis, I study the variability of precipitation in various synoptic situations. More specifically, I inspect all the types of cyclonic situations, which can be applicable as an input in the precipitation-runoff models."
-  }
+    "info": "",
+    "infoEn": ""
+  },
 ]
