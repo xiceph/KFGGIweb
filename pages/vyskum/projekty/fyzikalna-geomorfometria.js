@@ -80,14 +80,7 @@ export default function ProjektFG() {
           <p>
             KOŽUCH, Miroslav &amp;ZAJACOVÁ, Veronika: Automatická klasifikácia mračna bodov z terestrického laserového skenera.
             In: {" "}<em>GeoKARTO 2026, zborník abstraktov z medzinárodnej konferencie. (Nitra, 17 – 18 September 2026)</em>. 2026,
-            28–29. ISBN 978-80-89060-31-3. DOI:{" "}
-            <a
-              rel="noopener noreferrer"
-              target="_blank"
-              href="
-            >
-
-            </a>
+            28–29. ISBN 978-80-89060-31-3.
           </p>
           <p>
             TOMAGA, Matúš, RUSINKO, Adam &amp;KRAJČÍ, Pavel: Exploring the use of the open-source AvaFrame platform for avalanche simulation: case studies from Slovakia.
