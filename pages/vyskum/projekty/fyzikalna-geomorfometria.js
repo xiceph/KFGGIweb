@@ -132,7 +132,7 @@ export default function ProjektFG() {
           </p>
           <p>
             FECISKANIN, Richard: A modular toolkit for block-based spatially explicit spectral analysis of digital elevation models.
-            In: {" "}<em>Computers &amp;Geosciences</em>. 2026,
+            In: {" "}<em>Computers &amp; Geosciences</em>. 2026,
             Volume 215, Art. No. 106216. ISSN 0098-3004. DOI:{" "}
             <a
               rel="noopener noreferrer"
