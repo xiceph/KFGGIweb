@@ -78,6 +78,66 @@ export default function ProjektFG() {
           <h4>Publikačné výstupy</h4>
           <h5 className="text-k-grey">2026</h5>
           <p>
+            KOŽUCH, Miroslav &amp;ZAJACOVÁ, Veronika: Automatická klasifikácia mračna bodov z terestrického laserového skenera.
+            In: {" "}<em>GeoKARTO 2026, zborník abstraktov z medzinárodnej konferencie. (Nitra, 17 – 18 September 2026)</em>. 2026,
+            28–29. ISBN 978-80-89060-31-3. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="
+            >
+
+            </a>
+          </p>
+          <p>
+            TOMAGA, Matúš, RUSINKO, Adam &amp;KRAJČÍ, Pavel: Exploring the use of the open-source AvaFrame platform for avalanche simulation: case studies from Slovakia.
+            In: {" "}<em>Geography in the Changing World. The 4th Joint Congress of the Czech and Slovak Geographical Societies - Book of Abstracts. (Košice, 7 – 10 September 2026)</em>. 2026,
+            170. ISBN 978-80-574-0546-7. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.33542/GChW-0547-4"
+            >
+              https://doi.org/10.33542/GChW-0547-4
+            </a>
+          </p>
+          <p>
+            MINÁR, Jozef: Regional aspect of physical geomorphometry – a new interpretation of land surface roughness.
+            In: {" "}<em>Geography in the Changing World. The 4th Joint Congress of the Czech and Slovak Geographical Societies - Book of Abstracts. (Košice, 7 – 10 September 2026)</em>. 2026,
+            123. ISBN 978-80-574-0546-7. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.33542/GChW-0547-4"
+            >
+              https://doi.org/10.33542/GChW-0547-4
+            </a>
+          </p>
+          <p>
+            PIŠÚT, Peter, SMOLSKA, Ewa, SZWARCZEWSKI, Piotr, PROCHÁZKA, Juraj &amp;MINDOVÁ, Šárka: Record of Depositional and Palaeoenvironmental Conditions of the Vrakúň Palaeomeander (SW Slovakia, Danube Plain).
+            In: {" "}<em>Prace i Studia Geograficzne</em>. 2026,
+            t. 71.3, 105–122. ISSN 0208–4589. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.48128/pisg-2026-71.3-07"
+            >
+              https://doi.org/10.48128/pisg-2026-71.3-07
+            </a>
+          </p>
+          <p>
+            GESSERT, Alena &amp;HOCHMUTH, Zdenko: Lithological and climatic controls on denudation rates: Insights from standard and local limestone tablets in the Slovak karst.
+            In: {" "}<em>Catena</em>. 2026,
+            Volume 273, Art. No. 110401. ISSN 0341-8162. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.1016/j.catena.2026.110401"
+            >
+              https://doi.org/10.1016/j.catena.2026.110401
+            </a>
+          </p>
+          <p>
             FECISKANIN, Richard: A modular toolkit for block-based spatially explicit spectral analysis of digital elevation models.
             In: {" "}<em>Computers &amp;Geosciences</em>. 2026,
             Volume 215, Art. No. 106216. ISSN 0098-3004. DOI:{" "}
@@ -103,6 +163,17 @@ export default function ProjektFG() {
           </p>
 
           <h5 className="text-k-grey">2025</h5>
+          <p>
+            ŠILHÁN, Karel &amp;RUŽEK, Ivan: First dendrogeomorphological dating of DSGSD: specificity of the reconstruction. In: {" "}<em>Landslides, 2025,
+            Volume 22, 2573–2584.</em>. DOI:{" "}
+            <a
+              rel="noopener noreferrer"
+              target="_blank"
+              href="https://doi.org/10.1007/s10346-025-02538-3"
+            >
+              https://doi.org/10.1007/s10346-025-02538-3
+            </a>
+          </p>
           <p>
             GALLAY, Michal, BARTOŠ, Karol &amp;&nbsp;PUKANSKÁ, Katarína: <em>Digital Cave Mapping: Methods, Accuracy and Applications</em>. 1. vyd. Brno: Tribun EU, 2025, 199 s. ISBN 978-80-263-1856-9.
           </p>
