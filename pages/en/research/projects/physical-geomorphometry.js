@@ -29,12 +29,12 @@ export default function ProjektFG() {
           <h4>Publications (project outputs)</h4>
           <h5 className="text-k-grey">2026</h5>
           <p>
-            KOŽUCH, Miroslav &amp;ZAJACOVÁ, Veronika: Automatická klasifikácia mračna bodov z terestrického laserového skenera.
+            KOŽUCH, Miroslav &amp; ZAJACOVÁ, Veronika: Automatická klasifikácia mračna bodov z terestrického laserového skenera.
             In: {" "}<em>GeoKARTO 2026, zborník abstraktov z medzinárodnej konferencie. (Nitra, 17 – 18 September 2026)</em>. 2026,
             28–29. ISBN 978-80-89060-31-3.
           </p>
           <p>
-            TOMAGA, Matúš, RUSINKO, Adam &amp;KRAJČÍ, Pavel: Exploring the use of the open-source AvaFrame platform for avalanche simulation: case studies from Slovakia.
+            TOMAGA, Matúš, RUSINKO, Adam &amp; KRAJČÍ, Pavel: Exploring the use of the open-source AvaFrame platform for avalanche simulation: case studies from Slovakia.
             In: {" "}<em>Geography in the Changing World. The 4th Joint Congress of the Czech and Slovak Geographical Societies - Book of Abstracts. (Košice, 7 – 10 September 2026)</em>. 2026,
             170. ISBN 978-80-574-0546-7. DOI:{" "}
             <a
@@ -58,7 +58,7 @@ export default function ProjektFG() {
             </a>
           </p>
           <p>
-            PIŠÚT, Peter, SMOLSKA, Ewa, SZWARCZEWSKI, Piotr, PROCHÁZKA, Juraj &amp;MINDOVÁ, Šárka: Record of Depositional and Palaeoenvironmental Conditions of the Vrakúň Palaeomeander (SW Slovakia, Danube Plain).
+            PIŠÚT, Peter, SMOLSKA, Ewa, SZWARCZEWSKI, Piotr, PROCHÁZKA, Juraj &amp; MINDOVÁ, Šárka: Record of Depositional and Palaeoenvironmental Conditions of the Vrakúň Palaeomeander (SW Slovakia, Danube Plain).
             In: {" "}<em>Prace i Studia Geograficzne</em>. 2026,
             t. 71.3, 105–122. ISSN 0208–4589. DOI:{" "}
             <a
@@ -70,7 +70,7 @@ export default function ProjektFG() {
             </a>
           </p>
           <p>
-            GESSERT, Alena &amp;HOCHMUTH, Zdenko: Lithological and climatic controls on denudation rates: Insights from standard and local limestone tablets in the Slovak karst.
+            GESSERT, Alena &amp; HOCHMUTH, Zdenko: Lithological and climatic controls on denudation rates: Insights from standard and local limestone tablets in the Slovak karst.
             In: {" "}<em>Catena</em>. 2026,
             Volume 273, Art. No. 110401. ISSN 0341-8162. DOI:{" "}
             <a
@@ -94,7 +94,7 @@ export default function ProjektFG() {
             </a>
           </p>
           <p>
-            RUŽEK, Ivan &amp;ŠILHÁN, Karel: Activity of slope processes in a geomorphic hot-spot of Pleistocene aeolian dunes:
+            RUŽEK, Ivan &amp; ŠILHÁN, Karel: Activity of slope processes in a geomorphic hot-spot of Pleistocene aeolian dunes:
             Tree-ring based analysis in the Borská lowland (Slovakia). In: <em>Geomorphology</em>. 2026, Vol. 504, Art.
             No. 110314. ISSN 0169-555X. DOI:{" "}
             <a
@@ -108,7 +108,7 @@ export default function ProjektFG() {
 
           <h5 className="text-k-grey">2025</h5>
           <p>
-            ŠILHÁN, Karel &amp;RUŽEK, Ivan: First dendrogeomorphological dating of DSGSD: specificity of the reconstruction. In: {" "}<em>Landslides, 2025,
+            ŠILHÁN, Karel &amp; RUŽEK, Ivan: First dendrogeomorphological dating of DSGSD: specificity of the reconstruction. In: {" "}<em>Landslides, 2025,
             Volume 22, 2573–2584.</em>. DOI:{" "}
             <a
               rel="noopener noreferrer"
