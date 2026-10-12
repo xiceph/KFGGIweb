@@ -75,7 +75,7 @@ function IndexPage( props ) {
 
             <div className="py-4 first:pt-0">
               <h5 className="font-bold my-1">Geovedná exkurzia</h5>
-              <div className="mb-2">Katedra pripravuje geovednú exkurziu TRANSYLVANIA 2027 v čase 14. – 19. júna 2027 (6 dní)<br/>Viac informácií v <a href="docs/geo2027.pdf" target="_blank">pdf dokumente</a>.
+              <div className="mb-2">Katedra pripravuje geovednú exkurziu TRANSYLVANIA 2027 v čase 14. – 19. júna 2027 (6 dní)<br/>Viac informácií v <a href="docs/geo2027.pdf" target="_blank">pdf dokumente</a>.
               </div>
             </div>
 
